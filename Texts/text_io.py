@@ -44,6 +44,8 @@ parser.add_argument('--paraz', type=str, help='@paraz')
 parser.add_argument('--out', type=str, help='@new')
 
 args = parser.parse_args()
+print("="*80)
+print(args)
 
 
 def export_mode():

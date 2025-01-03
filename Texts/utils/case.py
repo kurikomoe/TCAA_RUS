@@ -1,3 +1,4 @@
+# mypy: disable-error-code="name-defined, attr-defined"
 import json
 import shlex
 from pathlib import Path
@@ -5,87 +6,27 @@ from typing import Dict, List
 
 from . import GetParazAcc, Paratranz, kquote
 from . import yarn_spinner_pb2 as pb
+from .case_utils import Key, ParseProtoFromCase, commands, extractor, importer
 
-
-def Key(*args) -> str:
-    case_name = args[0]
-    node_name = args[1]
-    inst_idx = args[2]
-    idx = args[3]
-    return f"{case_name}-{node_name}-{inst_idx}-{idx}"
 
 def File(*args) -> Path:
     case_name = args[0]
     return Path(case_name).with_suffix(".json")
 
-def extractor(op: List[str], pos: List[int]):
-    ret = []
-    for idx in pos:
-        ret.append(op[idx])
-    return ret
-
-def importer(op: List[str], pos: List[int], texts: List[str]):
-    for idx_text, idx_op in enumerate(pos):
-        op[idx_op] = texts[idx_text]
-    return
-
-commands = {
-    # "Heh… I usually only sell this stuff for 5sp a flask."
-    "InterpretPrompt": [1, ],
-
-    # "Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks."
-    "LoadArgueProfile": [1, ],
-
-    # [
-    #   "Assets/Visuals/Resources/Tutorials/Argument Tutorial.png",
-    #   "Arguments",
-    #   "You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT."
-    # ],
-    "Tutorial": [2, 3],
-
-    # "How did the bottle shatter?"
-    "Deduction": [1, ],
-
-    # "You lost the argument..."
-    "Confirmation": [1, ],
-
-    # "Episode End"
-    "TitleCard": [1, ],
-
-    # "It was selfish of me to learn magic."
-    "Typewriter": [1, ],
-
-    # "How did the bottle shatter?"
-    "DeduceTypewriter": [1, ],
-
-    # [0, "Celeste,The killer,Flinhart"]
-    "SetDeductionField": [2, ],
-
-    # StartArgument "Merchant" 2
-    "StartArgument": [1, ],
-}
 
 def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
     proto_bin_path = in_root / "case"
 
     ret = {}
     for proto_json in proto_bin_path.glob("Case *.json"):
-
         case_name = proto_json.name
 
-        with open(proto_json, "r", encoding="utf8") as f:
-            data = json.load(f)
-            proto_bin_json_data = data["compiledYarnProgram"]["Array"]
-            proto_bin = bytearray(proto_bin_json_data)
+        program = ParseProtoFromCase(proto_json)
 
         tmp: List[Paratranz] = []
-
-        program = pb.Program() #type: ignore[attr-defined]
-        program.ParseFromString(proto_bin)
-
         for node_name, node in program.nodes.items():
             for inst_idx, inst in enumerate(node.instructions):
-                if inst.opcode != pb.Instruction.RUN_COMMAND:  #type: ignore[attr-defined]
+                if inst.opcode != pb.Instruction.RUN_COMMAND:
                     continue
 
                 for op in inst.operands:
@@ -94,6 +35,10 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                         if cmd[0] not in commands:
                             continue
 
+                        keywords = []
+                        if cmd[0] == "SetDeductionField":
+                            keywords.append(f"Deduction组句单词 - {cmd[1]}")
+
                         strings = extractor(cmd, commands[cmd[0]])
 
                         for idx, ss in enumerate(strings):
@@ -101,12 +46,10 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                                 key=Key(case_name, node_name, inst_idx, idx),
                                 original=ss,
                                 context=json.dumps({
-                                    "case": case_name,
                                     "node_name": node_name,
-                                    "inst": str(inst),
-                                    "op": str(op),
                                     "cmd": cmd,
-                                }, ensure_ascii=False),
+                                    "keywords": keywords,
+                                }, ensure_ascii=False, indent=2),
                             ))
 
         file = File(case_name)

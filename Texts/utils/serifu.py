@@ -1,8 +1,11 @@
 import json
 from pathlib import Path
-from typing import Dict, List
+from typing import Any, Dict, List
 
 from . import GetParazAcc, Paratranz
+from . import yarn_spinner_pb2 as pb
+from .case_utils import (DeductionGroup, GetSpecialCase, ParseProtoFromCase,
+                         SpecialCase)
 
 
 def Key(*args) -> str:
@@ -14,8 +17,25 @@ def File(*args) -> Path:
     serifu_file_name = args[0]
     return Path(serifu_file_name)
 
+case_mapping = {
+    "Default (en-US)-sharedassets0.assets-144.json": "Case 1-sharedassets0.assets-154.json",
+    "Default (en-US)-sharedassets0.assets-145.json": "Case 2-sharedassets0.assets-155.json",
+    "Default (en-US)-sharedassets0.assets-146.json": "Case 3-sharedassets0.assets-156.json",
+    "Default (en-US)-sharedassets0.assets-148.json": "Case 4-sharedassets0.assets-158.json",
+    "Default (en-US)-sharedassets0.assets-143.json": "Case 5-sharedassets0.assets-153.json",
+}
+
+def SearchInDeduction(line_id: str, sp_case: SpecialCase) -> None|DeductionGroup:
+    for node_name, value in sp_case.deduction.items():
+        if line_id in value.finals:
+            return value
+    return None
+
 
 def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
+    proto_bin_path = in_root / "case"
+    # ==================================================================
+
     ret = {}
 
     serifu_path = in_root / "serifu"
@@ -24,17 +44,43 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
         with open(serifu_file, "r", encoding="utf-8") as f:
             data = json.load(f)
 
+        line_ids = data['_stringTable']['keys']['Array']
         lines = data['_stringTable']['values']['Array']
+        assert len(line_ids) == len(lines)
 
-        name = Path(serifu_file).stem
+        stem = Path(serifu_file).stem
+
+        case_file = case_mapping[Path(serifu_file).name]
+        assert case_file
+
+        program = ParseProtoFromCase(proto_bin_path / case_file)
+        sp_case: SpecialCase = GetSpecialCase(case_file, program)
 
         tmp = []
-        for idx, line in enumerate(lines):
+        for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
+            keywords: List[Any] = []
+            if line_id in sp_case.options:
+                keywords.append("选项文本")
+
+            if line_id in sp_case.present_prompt:
+                keywords.append("证据选择对象文本")
+                print(f"Ignore 证据选择文本: {line}")
+                continue  # directly ignores
+
+            if (deduction := SearchInDeduction(line_id, sp_case)):
+                keywords.append({
+                    "类型": "Deduction组句目标文本",
+                    "来源": deduction.words,
+                })
+
             tmp.append(Paratranz(
-                key=f"{name}-{idx}",
+                key=f"{stem}-{idx}",
                 original=line,
                 translation=None,
-                context="遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序",
+                context=json.dumps({
+                    "id": line_id,
+                    "keywords": keywords,
+                }, ensure_ascii=False, indent=2),
             ))
 
         file = File(serifu_file.name)
