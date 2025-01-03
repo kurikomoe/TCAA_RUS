@@ -60,6 +60,9 @@ commands = {
 
     # [0, "Celeste,The killer,Flinhart"]
     "SetDeductionField": [2, ],
+
+    # StartArgument "Merchant" 2
+    "StartArgument": [1, ],
 }
 
 def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
@@ -72,7 +75,8 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
         with open(proto_json, "r", encoding="utf8") as f:
             data = json.load(f)
-            proto_bin = data["compiledYarnProgram"]["Array"]
+            proto_bin_json_data = data["compiledYarnProgram"]["Array"]
+            proto_bin = bytearray(proto_bin_json_data)
 
         tmp: List[Paratranz] = []
 

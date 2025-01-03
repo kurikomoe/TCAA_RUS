@@ -354,6 +354,12 @@
     "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Mosourika Tudor?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
   },
   {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-26-0",
+    "original": "Mosourika Tudor",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Mosourika Tudor\\\\\\\" 4\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Mosourika Tudor\\\\\\\" 4\\\"\\n\", \"cmd\": [\"StartArgument\", \"Mosourika Tudor\", \"4\"]}"
+  },
+  {
     "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-33-0",
     "original": "Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.",
     "translation": null,

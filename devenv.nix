@@ -12,6 +12,9 @@
   packages = with pkgs; [
     hello
 
+    git
+    git-filter-repo
+
     # protobuf editor
     protoscope
 

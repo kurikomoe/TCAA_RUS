@@ -246,6 +246,12 @@
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
   },
   {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-27-0",
+    "original": "Laefe Frega",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Laefe Frega\\\\\\\" 4\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Laefe Frega\\\\\\\" 4\\\"\\n\", \"cmd\": [\"StartArgument\", \"Laefe Frega\", \"4\"]}"
+  },
+  {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-34-0",
     "original": "You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.",
     "translation": null,

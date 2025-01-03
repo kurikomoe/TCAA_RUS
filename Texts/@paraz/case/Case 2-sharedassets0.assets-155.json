@@ -30,6 +30,12 @@
     "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Valentina Ianus?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
   },
   {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-26-0",
+    "original": "Valentina Ianus",
+    "translation": null,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Valentina Ianus\\\\\\\" 3\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Valentina Ianus\\\\\\\" 3\\\"\\n\", \"cmd\": [\"StartArgument\", \"Valentina Ianus\", \"3\"]}"
+  },
+  {
     "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-33-0",
     "original": "Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. ",
     "translation": null,
@@ -466,6 +472,12 @@
     "original": "Start an ARGUMENT with Aria Steelwind?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
     "translation": null,
     "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Aria Steelwind?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-25-0",
+    "original": "Aria Steelwind",
+    "translation": null,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Aria Steelwind\\\\\\\" 4\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Aria Steelwind\\\\\\\" 4\\\"\\n\", \"cmd\": [\"StartArgument\", \"Aria Steelwind\", \"4\"]}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-32-0",

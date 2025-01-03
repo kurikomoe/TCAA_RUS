@@ -24,6 +24,12 @@
     "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Celeste_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Celeste McCoy?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Celeste McCoy?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Celeste McCoy?\"]}"
   },
   {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-19-0",
+    "original": "Celeste McCoy",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Celeste_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Celeste McCoy\\\\\\\" 3\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Celeste McCoy\\\\\\\" 3\\\"\\n\", \"cmd\": [\"StartArgument\", \"Celeste McCoy\", \"3\"]}"
+  },
+  {
     "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-25-0",
     "original": "He’s always hated magic. There’s no reason behind it.",
     "translation": null,
@@ -70,6 +76,12 @@
     "original": "You lost the argument...",
     "translation": null,
     "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"OrymArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-0-0",
+    "original": "Merchant",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Merchant\\\\\\\" 2\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Merchant\\\\\\\" 2\\\"\\n\", \"cmd\": [\"StartArgument\", \"Merchant\", \"2\"]}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-4-0",
@@ -328,6 +340,12 @@
     "original": "Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
     "translation": null,
     "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Orym White?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Orym White?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-26-0",
+    "original": "Orym White",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Orym White\\\\\\\" 3\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Orym White\\\\\\\" 3\\\"\\n\", \"cmd\": [\"StartArgument\", \"Orym White\", \"3\"]}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-33-0",

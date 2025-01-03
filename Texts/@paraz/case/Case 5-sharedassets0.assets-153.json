@@ -78,6 +78,12 @@
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Aria Steelwind?\"]}"
   },
   {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-19-0",
+    "original": "Aria Steelwind",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"StartArgument \\\\\\\"Aria Steelwind\\\\\\\" 4\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"StartArgument \\\\\\\"Aria Steelwind\\\\\\\" 4\\\"\\n\", \"cmd\": [\"StartArgument\", \"Aria Steelwind\", \"4\"]}"
+  },
+  {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-23-0",
     "original": "Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.",
     "translation": null,
