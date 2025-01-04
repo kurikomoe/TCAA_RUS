@@ -25,6 +25,16 @@ case_mapping = {
     "Default (en-US)-sharedassets0.assets-143.json": "Case 5-sharedassets0.assets-153.json",
 }
 
+non_translation_prefix = [
+    "Player: ",
+]
+
+def SearchPrefix(line: str) -> bool:
+    for pat in non_translation_prefix:
+        if line.startswith(pat):
+            return True
+    return False
+
 def SearchInDeduction(line_id: str, sp_case: SpecialCase) -> None|DeductionGroup:
     for node_name, value in sp_case.deduction.items():
         if line_id in value.finals:
@@ -58,6 +68,10 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
         tmp = []
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
+            if SearchPrefix(line):
+                print(f"Ignore prefix match: {line}")
+                continue
+
             keywords: List[Any] = []
             if line_id in sp_case.options:
                 keywords.append("选项文本")
@@ -120,6 +134,10 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         paraz_acc = GetParazAcc(paraz_file)
 
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
+            if SearchPrefix(line):
+                print(f"Ignore prefix match: {line}")
+                continue
+
             if line_id in sp_case.any_prompt:
                 print(f"Ignore 证据选择文本: {line}")
                 continue  # directly ignores
