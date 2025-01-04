@@ -68,10 +68,6 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
         tmp = []
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
-            if SearchPrefix(line):
-                print(f"Ignore prefix match: {line}")
-                continue
-
             keywords: List[Any] = []
             if line_id in sp_case.options:
                 keywords.append("选项文本")
@@ -86,6 +82,9 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                     "类型": "Deduction组句目标文本",
                     "来源": deduction.words,
                 })
+
+            if SearchPrefix(line):
+                keywords.append("Player指令")
 
             tmp.append(Paratranz(
                 key=f"{stem}-{idx}",
