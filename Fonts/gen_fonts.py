@@ -266,7 +266,7 @@ def process_atlas(old_root: Path, old_atlas, new_root: Path, new_atlas, output: 
     return
 
 
-output = Path(args.out_dir)
+output = Path(args.out_dir) / "resources"
 
 for font_def in mapping:
     print(font_def)
