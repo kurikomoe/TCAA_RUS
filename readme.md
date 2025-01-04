@@ -1,3 +1,5 @@
+[![SyncParatranz](https://github.com/kurikomoe/TCAA_CHS/actions/workflows/sync_paratranz.yml/badge.svg)](https://github.com/kurikomoe/TCAA_CHS/actions/workflows/sync_paratranz.yml)
+
 ## 运行图
 
 <center><bold>让我们说中文！</bold></center>
