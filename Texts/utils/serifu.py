@@ -84,7 +84,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                 })
 
             if SearchPrefix(line):
-                keywords.append("Player指令")
+                keywords.append("特殊前缀指令")
 
             tmp.append(Paratranz(
                 key=f"{stem}-{idx}",
@@ -133,10 +133,6 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         paraz_acc = GetParazAcc(paraz_file)
 
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
-            if SearchPrefix(line):
-                print(f"Ignore prefix match: {line}")
-                continue
-
             if line_id in sp_case.any_prompt:
                 print(f"Ignore 证据选择文本: {line}")
                 continue  # directly ignores

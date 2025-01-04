@@ -4,20 +4,20 @@
     "original": "Judge",
     "translation": "法官",
     "stage": 1,
-    "context": "{\"Name\": \"Judge\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Judge\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Judge-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Judge\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Judge\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Judge-occupation",
     "original": "Judge",
     "translation": "法官",
     "stage": 1,
-    "context": "{\"Name\": \"Judge\", \"Attr\": \"occupation\"}"
+    "context": "{\n  \"Name\": \"Judge\",\n  \"Attr\": \"occupation\"\n}"
   }
 ]

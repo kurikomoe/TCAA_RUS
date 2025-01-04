@@ -4,27 +4,27 @@
     "original": "Rathallion the Scaled Lord",
     "translation": "鳞甲领主拉萨利昂",
     "stage": 1,
-    "context": "{\"Name\": \"RathIntro\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "RathIntro-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"RathIntro\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "RathIntro-occupation",
     "original": "Scaled Lord",
     "translation": "鳞甲领主",
     "stage": 1,
-    "context": "{\"Name\": \"RathIntro\", \"Attr\": \"occupation\"}"
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"occupation\"\n}"
   },
   {
     "key": "RathIntro-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"RathIntro\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

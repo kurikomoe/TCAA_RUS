@@ -4,20 +4,20 @@
     "original": "Prisoners",
     "translation": "囚犯",
     "stage": 1,
-    "context": "{\"Name\": \"Prisoners\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Prisoners\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Prisoners-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Prisoners\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Prisoners\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Prisoners-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"Prisoners\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Prisoners\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

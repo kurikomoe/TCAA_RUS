@@ -4,20 +4,20 @@
     "original": "Knight",
     "translation": "骑士",
     "stage": 1,
-    "context": "{\"Name\": \"Knight\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Knight-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Knight\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Knight-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"Knight\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

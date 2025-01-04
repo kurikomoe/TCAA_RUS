@@ -4,27 +4,27 @@
     "original": "Celeste McCoy",
     "translation": "塞莱斯特·麦考伊",
     "stage": 1,
-    "context": "{\"Name\": \"CDress\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "CDress-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"CDress\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "CDress-occupation",
     "original": "Bodyguard",
     "translation": "贴身护卫",
     "stage": 1,
-    "context": "{\"Name\": \"CDress\", \"Attr\": \"occupation\"}"
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"occupation\"\n}"
   },
   {
     "key": "CDress-arcaneArt",
     "original": "Transmutation",
     "translation": "形变",
     "stage": 1,
-    "context": "{\"Name\": \"CDress\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

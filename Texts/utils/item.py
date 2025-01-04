@@ -46,7 +46,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                         "Name": name,
                         "Idx": idx,
                         "Attr": tag,
-                    }, ensure_ascii=False),
+                    }, ensure_ascii=False, indent=2),
                 ))
 
             display_name = item["displayName"]

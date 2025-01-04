@@ -4,20 +4,20 @@
     "original": "Nobleman",
     "translation": "贵族",
     "stage": 1,
-    "context": "{\"Name\": \"Nobleman\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Nobleman\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Nobleman-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Nobleman\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Nobleman\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Nobleman-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"Nobleman\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Nobleman\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

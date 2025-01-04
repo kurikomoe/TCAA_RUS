@@ -1,0 +1,819 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2244
+  },
+  "m_Name": "",
+  "courtroom": {
+    "name": "Courtroom",
+    "displayName": "法庭",
+    "backgroundPath": "Assets/Visuals/Resources/Courtroom.png",
+    "examinationMap": "",
+    "particle": "",
+    "occupant": "",
+    "occupantEmotion": ""
+  },
+  "debugLocations": {
+    "Array": [
+      {
+        "name": "Test1",
+        "displayName": "Court of Azathoth",
+        "backgroundPath": "Assets/Visuals/Resources/Empty.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      }
+    ]
+  },
+  "caseOneLocations": {
+    "Array": [
+      {
+        "name": "Intro Scene",
+        "displayName": "麦考伊酒馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn Night Conjure Light.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Town Intro",
+        "displayName": "科尔哈文街道",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Village.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "Ruby Tymora",
+        "occupantEmotion": "Concerned"
+      },
+      {
+        "name": "Inside the Tavern",
+        "displayName": "麦考伊酒馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn (Day).png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Looking for Celeste",
+        "displayName": "科尔哈文街道",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Village Night.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Celeste Barracks",
+        "displayName": "收容处",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "Knight",
+        "occupantEmotion": "Neutral"
+      },
+      {
+        "name": "Lobby",
+        "displayName": "法庭：大厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Tavern",
+        "displayName": "麦考伊酒馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn (Crime Scene).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/McCoy Tavern.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Barracks",
+        "displayName": "裁判所收容处",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Dungeon.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Upstairs",
+        "displayName": "麦考伊酒馆：二层",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn Upperfloor.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Upstairs.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Lobby1",
+        "displayName": "瑞思霍姆法院",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Lobby.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Bedroom",
+        "displayName": "麦考伊酒馆：塞莱斯特的卧室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Celeste Bedroom.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Bedroom.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      }
+    ]
+  },
+  "caseTwoLocations": {
+    "Array": [
+      {
+        "name": "Hallway",
+        "displayName": "帝国学院：走廊",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Academy Hallway.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Hallway.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Library",
+        "displayName": "帝国学院：图书馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Academy Library.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Library.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Foyer",
+        "displayName": "帝国学院：前厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/School Foyer.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Foyer.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Foyer1",
+        "displayName": "帝国学院：前厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/School Foyer.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Foyer.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Foyer2",
+        "displayName": "帝国学院：前厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/School Foyer.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Foyer.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Classroom",
+        "displayName": "2-B教室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Academy Classroom.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Classroom.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Office",
+        "displayName": "校长的办公室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Academy Office.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Office.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Kitchen",
+        "displayName": "帝国学院：厨房",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Academy Kitchen.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Kitchen.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Barracks",
+        "displayName": "裁判所收容处",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Dungeon.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Lobby",
+        "displayName": "法庭：大厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Cemetery",
+        "displayName": "墓园",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Cemetery.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Cemetery.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Library2",
+        "displayName": "帝国学院：图书馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Academy Library.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Library.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Lockers",
+        "displayName": "帝国学院：储物柜室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Locker Room.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Dorm",
+        "displayName": "107号宿舍",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 2/Ballroom Bedroom.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 2/Dorm.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      }
+    ]
+  },
+  "caseThreeLocations": {
+    "Array": [
+      {
+        "name": "Lobby",
+        "displayName": "法庭：大厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "AurinaxIntro",
+        "displayName": "欧奥耐克斯：市政广场",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "AurinaxIntroRain",
+        "displayName": "欧奥耐克斯：市政广场",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square (Rain).png",
+        "examinationMap": "",
+        "particle": "Rain",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "CafeIntro",
+        "displayName": "莫苏里卡的咖啡馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Cafe.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Cafe.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Tavern Intro",
+        "displayName": "艾格文酒馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Tavern.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Tavern Intro Room",
+        "displayName": "艾格文酒馆房间",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Tavern Room.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Tavern Intro Room (Night)",
+        "displayName": "艾格文酒馆房间",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Celeste Bedroom Night.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Factory",
+        "displayName": "欧奥耐克斯奥术炼油厂",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Factory.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Walkway",
+        "displayName": "欧奥耐克斯奥术炼油厂：步道",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory 2.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Walkway.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "TownSquare",
+        "displayName": "欧奥耐克斯：市政广场",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square (Rain).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Town Square Variant.prefab",
+        "particle": "Rain",
+        "occupant": "Celeste McCoy",
+        "occupantEmotion": "Neutral"
+      },
+      {
+        "name": "Harbour",
+        "displayName": "欧奥耐克斯港",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Port Rain.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Harbour Variant.prefab",
+        "particle": "Rain",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Cafe",
+        "displayName": "莫苏里卡的咖啡馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Cafe.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Cafe.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Cafe2",
+        "displayName": "莫苏里卡的咖啡馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Cafe.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Cafe.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Tavern",
+        "displayName": "艾格文酒馆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn Upperfloor.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Upstairs.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "House",
+        "displayName": "废弃的房子",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Tyrion's Home (Rain).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/House Variant.prefab",
+        "particle": "Rain",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "TownSquare2",
+        "displayName": "欧奥耐克斯：市政广场",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Town Square Variant.prefab",
+        "particle": "",
+        "occupant": "Celeste McCoy",
+        "occupantEmotion": "Neutral"
+      },
+      {
+        "name": "Factory2",
+        "displayName": "欧奥耐克斯奥术炼油厂",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Factory.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Walkway2",
+        "displayName": "欧奥耐克斯奥术炼油厂：步道",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory 2.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Walkway.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Manor",
+        "displayName": "冯·桑克图斯庄园",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Von Sanctus Manor.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Manor.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      }
+    ]
+  },
+  "caseFourLocations": {
+    "Array": [
+      {
+        "name": "Lobby",
+        "displayName": "法庭：大厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "BallroomIntro",
+        "displayName": "舞厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Ballroom.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "HallwayIntro",
+        "displayName": "走廊",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Hallway.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Hallway.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "GalleryIntro",
+        "displayName": "画廊",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Gallery.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Gallery.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "TableIntro",
+        "displayName": "舞厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/TableFood.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Ballroom1",
+        "displayName": "舞厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom (Day).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Ballroom.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Study1",
+        "displayName": "威廉·弗雷加的书房",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Office Study.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Study.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Storage",
+        "displayName": "储藏室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Storage Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Storage.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "BeatriceRoom1",
+        "displayName": "比亚特丽丝的卧室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Beatrice Bedroom.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Beatrice Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "WaitingRoom1",
+        "displayName": "会客室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Waiting Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Waiting Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Gallery1",
+        "displayName": "画廊",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Gallery After.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Gallery 1.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Barracks",
+        "displayName": "裁判所地牢",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Dungeon.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Ballroom2",
+        "displayName": "舞厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom (Day).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Ballroom.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Study2",
+        "displayName": "威廉·弗雷加的书房",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Office Study.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Study.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "WaitingRoom2",
+        "displayName": "会客室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom Waiting Room Alt.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Waiting Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "BeatriceRoom2",
+        "displayName": "比亚特丽丝的卧室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Beatrice Bedroom.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Beatrice Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Hallway2",
+        "displayName": "走廊",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Hallway Side.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Hallway 2.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Mafia",
+        "displayName": "老巢",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Mafia Room.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      }
+    ]
+  },
+  "caseFiveLocations": {
+    "Array": [
+      {
+        "name": "TyrionRoomIntro",
+        "displayName": "提利昂的卧室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Tyrion Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Tyrion's Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "CathedralOut",
+        "displayName": "大教堂",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/UniversityCity-flat.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "CathedralIntro",
+        "displayName": "中殿",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Church.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Church Main.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "CommonRoomIntro",
+        "displayName": "公共休息室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Common Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Common Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "GardenIntro",
+        "displayName": "花园",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Garden.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Garden.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "PrayerRoomIntro",
+        "displayName": "祷告室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Prayer Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Prayer Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "PrayerRoom1",
+        "displayName": "祷告室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Prayer Room (Crime Scene).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Prayer Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Cathedral1",
+        "displayName": "中殿",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Church.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Church Main.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "CommonRoom1",
+        "displayName": "公共休息室",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Common Room (Crime Scene).png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Common Room 1.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Garden1",
+        "displayName": "花园",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Garden.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Garden.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Balcony1",
+        "displayName": "西侧阳台",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Bishop Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Bishop Room.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Dungeon1",
+        "displayName": "裁判所地牢",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Dungeon.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Ladon",
+        "displayName": "古城雷登",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Ladon.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "TownSquare2",
+        "displayName": "瑞思霍姆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Ratholme.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Ratholme.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Cathedral2",
+        "displayName": "鳞甲领主的大教堂",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Church.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Church Main.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "FregaManor2",
+        "displayName": "弗雷加庄园",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Liafal's Study.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Study.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Alley2",
+        "displayName": "瑞思霍姆：后巷",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Alley.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Mafia2",
+        "displayName": "废弃的老巢",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Mafia Room.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Mafia.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "TymoraOffice2",
+        "displayName": "泰摩拉法律事务所",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Tymora Office.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Tymora Office.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Court of Azathoth",
+        "displayName": "阿萨索斯法庭",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Court of Azathoth.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "Final Eris",
+        "displayName": "阿萨索斯法庭",
+        "backgroundPath": "Assets/Visuals/Resources/Empty.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "CathedralEpilogue",
+        "displayName": "法庭：大厅",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
+        "examinationMap": "",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      },
+      {
+        "name": "TownEpilogue",
+        "displayName": "瑞思霍姆",
+        "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 5/Ratholme.png",
+        "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 5/Ratholme.prefab",
+        "particle": "",
+        "occupant": "",
+        "occupantEmotion": ""
+      }
+    ]
+  }
+}

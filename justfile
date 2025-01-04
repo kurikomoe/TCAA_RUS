@@ -35,6 +35,7 @@ export:
     python text_io.py --export --raw @old --paraz {{ paraz }} --type item
     python text_io.py --export --raw @old --paraz {{ paraz }} --type case
     python text_io.py --export --raw @old --paraz {{ paraz }} --type tooltips
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type location
 
 paraz-out := "@paraz-out"
 new := "@dist"
@@ -50,6 +51,7 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type item
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type tooltips
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
+    python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type location
 
 
 sync:

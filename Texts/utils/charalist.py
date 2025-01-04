@@ -41,7 +41,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                 context=json.dumps({
                     "Name": name,
                     "Attr": tag,
-                }, ensure_ascii=False),
+                }, ensure_ascii=False, indent=2),
             ))
 
         displayName = chara["displayName"]
@@ -58,7 +58,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                     "Name": name,
                     "Attr": "altDescriptions",
                     "idx": idx,
-                }, ensure_ascii=False),
+                }, ensure_ascii=False, indent=2),
             ))
 
         occupation = chara["occupation"]

@@ -4,20 +4,20 @@
     "original": "Merchant",
     "translation": "商人",
     "stage": 1,
-    "context": "{\"Name\": \"Merchant\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Merchant-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Merchant\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Merchant-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"Merchant\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

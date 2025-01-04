@@ -35,6 +35,7 @@ parser.add_argument('--type', type=str, choices=[
     "spell",
     "item",
     "tooltips",
+    "location",
 ], help='Input Folder')
 
 parser.add_argument('--raw', type=str, help='@old')
@@ -78,6 +79,9 @@ def export_mode():
     elif args.type == "tooltips":  # protobuf dumps
         from utils.tooltips import ToParaTranz
         ret = ToParaTranz(in_root)
+    elif args.type == "location":  # protobuf dumps
+        from utils.location import ToParaTranz
+        ret = ToParaTranz(in_root)
 
     assert ret is not None
 
@@ -114,6 +118,9 @@ def import_mode():
         ret = ToRaw(raw_root, paraz_root)
     elif args.type == "tooltips":  # protobuf dumps
         from utils.tooltips import ToRaw
+        ret = ToRaw(raw_root, paraz_root)
+    elif args.type == "location":  # protobuf dumps
+        from utils.location import ToRaw
         ret = ToRaw(raw_root, paraz_root)
 
     assert ret is not None

@@ -4,20 +4,20 @@
     "original": "Gallery",
     "translation": "旁听席",
     "stage": 1,
-    "context": "{\"Name\": \"Gallery\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Gallery-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Gallery\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Gallery-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"Gallery\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

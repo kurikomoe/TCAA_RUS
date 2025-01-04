@@ -4,20 +4,20 @@
     "original": "Townsfolk",
     "translation": "镇民",
     "stage": 1,
-    "context": "{\"Name\": \"Townsfolk\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Townsfolk-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Townsfolk\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Townsfolk-arcaneArt",
     "original": "???",
     "translation": "???",
     "stage": 1,
-    "context": "{\"Name\": \"Townsfolk\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]

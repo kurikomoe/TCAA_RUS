@@ -4,27 +4,27 @@
     "original": "Tracker",
     "translation": "追迹者",
     "stage": 1,
-    "context": "{\"Name\": \"Tracker\", \"Attr\": \"displayName\"}"
+    "context": "{\n  \"Name\": \"Tracker\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "Tracker-description",
     "original": "",
     "translation": "",
     "stage": -1,
-    "context": "{\"Name\": \"Tracker\", \"Attr\": \"description\"}"
+    "context": "{\n  \"Name\": \"Tracker\",\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "Tracker-occupation",
     "original": "Dog",
     "translation": "狗",
     "stage": 1,
-    "context": "{\"Name\": \"Tracker\", \"Attr\": \"occupation\"}"
+    "context": "{\n  \"Name\": \"Tracker\",\n  \"Attr\": \"occupation\"\n}"
   },
   {
     "key": "Tracker-arcaneArt",
     "original": "Conjuration",
     "translation": "召唤",
     "stage": 1,
-    "context": "{\"Name\": \"Tracker\", \"Attr\": \"arcaneArt\"}"
+    "context": "{\n  \"Name\": \"Tracker\",\n  \"Attr\": \"arcaneArt\"\n}"
   }
 ]
