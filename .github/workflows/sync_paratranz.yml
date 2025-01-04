@@ -1,0 +1,64 @@
+name: SyncParatranz
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'info'
+jobs:
+  SyncParatranz:
+    name: "Downlaod Paratranz Artifacts"
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PARAZ_PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
+      PARAZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTION_GITHUB_TOKEN }}
+
+      - uses: extractions/setup-just@v2
+
+      - uses: actions/setup-python@v5.3.0
+        with:
+          python-version: '3.12'
+
+      - uses: openapi-generators/openapitools-generator-action@v1.5.0
+        with:
+          generator: python
+          openapi-file: .github/workflows/paratranz-openapi.json
+          command-args: "-o third/openapi-python"
+
+      - uses: snok/install-poetry@v1.4.1
+
+      - name: "Instal Python Deps"
+        run: |
+          poetry config virtualenvs.create false
+          poetry install
+
+      - run: |
+          just sync import
+
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9.1.4
+        with:
+          committer_name: GitHub Actions
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: 'sync paratranz by github action'
+
+      - name: Debugging with ssh
+        uses: lhotari/action-upterm@v1
+        if: ${{ failure() }}
+        with:
+          ## If no one connects after 5 minutes, shut down server.
+          wait-timeout-minutes: 5
+
+
+  # paratranz2release:
+  #   name: "Release Based on paratranz"
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: action/checkout@v4
