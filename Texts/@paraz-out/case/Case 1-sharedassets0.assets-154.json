@@ -16,7 +16,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument2-3-0",
     "original": "It was selfish of me to learn magic.",
-    "translation": "我偷学魔法太自私了",
+    "translation": "我偷学魔法太自私了。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Celeste_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"It was selfish of me to learn magic.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -37,7 +37,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-14-0",
     "original": "How did the bottle shatter?",
-    "translation": "这瓶子是怎么碎的？",
+    "translation": "这瓶子 是 怎么 碎的？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the bottle shatter?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -128,14 +128,14 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument3-3-0",
     "original": "I have no reason to trust you.",
-    "translation": "我没理由相信你",
+    "translation": "我没理由相信你。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I have no reason to trust you.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-18-0",
     "original": "What can we infer about the state of the crime scene?",
-    "translation": "据此能推断出犯罪现场是种什么状态？",
+    "translation": "据此 能推断出 犯罪现场 是种什么 状态？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we infer about the state of the crime scene?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -247,7 +247,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-86-0",
     "original": "What can we tell about how Flinhart died?",
-    "translation": "弗林哈特是怎么死的？",
+    "translation": "弗林哈特 的 死法 暗示了 什么？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we tell about how Flinhart died?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -282,7 +282,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-94-0",
     "original": "What can we tell about how Flinhart died?",
-    "translation": "弗林哈特是怎么死的？",
+    "translation": "弗林哈特的死法暗示了什么？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What can we tell about how Flinhart died?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -310,7 +310,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument3-9-0",
     "original": "In his final moments, he could only think of how I betrayed him.",
-    "translation": "即便是在他生命的最后时刻，他也因为我的背叛而黯然神伤",
+    "translation": "即便是在他生命的最后时刻，他也因为我的背叛而黯然神伤。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Celeste_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"In his final moments, he could only think of how I betrayed him.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -366,7 +366,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument2-2-0",
     "original": "You’re just another crook.",
-    "translation": "你和她一样，也是个烂到骨子里的律师",
+    "translation": "你和她一样， 也是个烂到骨子里的律师。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"You’re just another crook.\"\n  ],\n  \"keywords\": []\n}"
   },

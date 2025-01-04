@@ -2,7 +2,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-0-0",
     "original": "How did Aria suffocate von Sanctus?",
-    "translation": "阿莉亚怎么让冯·桑克图斯窒息的？",
+    "translation": "阿莉亚 怎么 让冯·桑克图斯 窒息的？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did Aria suffocate von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -44,7 +44,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-5-0",
     "original": "Who is Eris Illmater?",
-    "translation": "谁是厄莉斯·伊尔马特？",
+    "translation": "谁 是 厄莉斯·伊尔马特？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who is Eris Illmater?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -135,7 +135,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-9-0",
     "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
-    "translation": "希比尔为什么对自己用了[b]岩石护甲[/b]？",
+    "translation": "希比尔 为什么 对自己 用了 [b]岩石护甲[/b]？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -198,7 +198,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-11-0",
     "original": "Why would Celeste hand Aria a Blood Contract?",
-    "translation": "为什么塞莱斯特会给阿莉亚一份血契？",
+    "translation": "为什么 塞莱斯特 会给 阿莉亚 一份血契？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why would Celeste hand Aria a Blood Contract?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -310,7 +310,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-17-0",
     "original": "What part of the plan required Aster's physical involvement?",
-    "translation": "计划的哪一部分需要阿斯特物理介入？",
+    "translation": "计划 的 哪一部分 需要 阿斯特 物理介入？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"CelFinObj8\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What part of the plan required Aster's physical involvement?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -359,7 +359,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj5-13-0",
     "original": "Who killed Garrick Pierce?",
-    "translation": "谁杀了加里克·皮尔斯？",
+    "translation": "谁 杀了 加里克·皮尔斯？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who killed Garrick Pierce?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -380,7 +380,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-11-0",
     "original": "What did Aria think she was signing?",
-    "translation": "阿莉亚以为自己签了什么？",
+    "translation": "阿莉亚 以为 自己 签了 什么？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"CelFinObj10\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What did Aria think she was signing?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -422,127 +422,127 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered11-6-0",
     "original": "Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特·麦考伊确实看到提利昂·卡斯伯特已经死了。",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered11\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered11-20-0",
     "original": "Beings of my power are able to resurrect people from the dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我有让人死而复生的力量。",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered11\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Beings of my power are able to resurrect people from the dead.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered_Fail-5-0",
     "original": "Your soul has been claimed by the Abyss...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你的灵魂已经归属深渊……",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisCornered_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Your soul has been claimed by the Abyss...\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj13b-11-0",
     "original": "Who did Eris make a Blood Contract with on the day of the murder?",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯在谋杀当天和谁签了血契？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj13b\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Who did Eris make a Blood Contract with on the day of the murder?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-7-0",
     "original": "How did Sibyl suffocate?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔 怎么 窒息的？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj12\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did Sibyl suffocate?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-11-0",
     "original": "Sibyl,Aria,the Patron,Archeus",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔,阿莉亚,签约人,阿契厄斯",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Sibyl,Aria,the Patron,Archeus\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-12-0",
     "original": "drowned,wasn't aware of,was choked by,was attacked by",
-    "translation": "",
-    "stage": 0,
+    "translation": "在迦拉克隆湖里,没有意识到,被法术,被阿莉亚",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"drowned,wasn't aware of,was choked by,was attacked by\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-13-0",
     "original": "in Lake Galakrond,the massacre,a magic spell,Aria",
-    "translation": "",
-    "stage": 0,
+    "translation": "淹死,屠杀,攻击,掐死",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"in Lake Galakrond,the massacre,a magic spell,Aria\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-14-0",
     "original": "How did Sibyl suffocate?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔怎么窒息的？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj12\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did Sibyl suffocate?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered3-3-0",
     "original": "Celeste McCoy remembered the attack occurring much earlier than it actually did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特·麦考伊记忆里的谋杀发生时间比实际早很多。",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Celeste McCoy remembered the attack occurring much earlier than it actually did.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered3-15-0",
     "original": "An event occurred that required Eris to change Celeste's memories.",
-    "translation": "",
-    "stage": 0,
+    "translation": "有什么事导致厄莉斯要修改塞莱斯特的记忆。",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"An event occurred that required Eris to change Celeste's memories.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-17-0",
     "original": "What do we already know about the Patron through the first two murders?",
-    "translation": "",
-    "stage": 0,
+    "translation": "前两起谋杀 告诉 我们 什么 关于签约人 的事？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj8\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What do we already know about the Patron through the first two murders?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-21-0",
     "original": "The Patron,Eris,Aria,Beatrice",
-    "translation": "",
-    "stage": 0,
+    "translation": "签约人,厄莉斯,阿莉亚,比亚特丽丝",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj8\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The Patron,Eris,Aria,Beatrice\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-22-0",
     "original": "is,is not,is,is not",
-    "translation": "",
-    "stage": 0,
+    "translation": "有,没有,有,没有",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj8\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is,is not,is,is not\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-23-0",
     "original": "experienced in,guilty of,innocent of,ignorant of",
-    "translation": "",
-    "stage": 0,
+    "translation": "使用致命法术的,治理国家的,和恶魔交易的,体育活动的",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj8\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"experienced in,guilty of,innocent of,ignorant of\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-24-0",
     "original": "using lethal magic,national politics,making deals with demons,physical activity",
-    "translation": "",
-    "stage": 0,
+    "translation": "丰富经验,罪行,喜好,畏惧",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj8\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"using lethal magic,national politics,making deals with demons,physical activity\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-25-0",
     "original": "What do we already know about the Patron through the first two murders?",
-    "translation": "",
-    "stage": 0,
+    "translation": "前两起谋杀告诉我们什么关于签约人的事？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj8\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What do we already know about the Patron through the first two murders?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-2-0",
     "original": "What's strange about the order of the murders?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀 的 顺序 哪里 奇怪？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymDeduce5a\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What's strange about the order of the murders?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -583,7 +583,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-12-0",
     "original": "Why did Eris change Celeste's memories?",
-    "translation": "为什么厄莉斯要修改塞莱斯特的记忆？",
+    "translation": "为什么 厄莉斯 要 修改 塞莱斯特的 记忆？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did Eris change Celeste's memories?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -632,7 +632,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-6-0",
     "original": "How could something demonic control Beatrice?",
-    "translation": "恶魔是怎么控制比亚特丽丝的？",
+    "translation": "恶魔 是怎么 控制 比亚特丽丝的？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj7\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How could something demonic control Beatrice?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -681,7 +681,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-30-0",
     "original": "What event was Beatrice referring to?",
-    "translation": "比亚特丽丝指的什么事件？",
+    "translation": "比亚特丽丝 指的 什么 事件？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What event was Beatrice referring to?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -730,7 +730,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-3-0",
     "original": "What does this tell us about Aria?",
-    "translation": "这能说明什么关于阿莉亚的事？",
+    "translation": "这能说明 什么 关于 阿莉亚的 事？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj9\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What does this tell us about Aria?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -821,7 +821,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-17-0",
     "original": "Why didn't the Patron target Lucio Steelwind?",
-    "translation": "为什么签约人没有攻击卢西奥·斯蒂尔文德？",
+    "translation": "为什么 签约人 没有 攻击 卢西奥·斯蒂尔文德？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj16\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why didn't the Patron target Lucio Steelwind?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -863,7 +863,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-2-0",
     "original": "Why are Ruby's memories different from yours?",
-    "translation": "鲁比的记忆为什么和你不同？",
+    "translation": "鲁比 的 记忆 为什么 和你 不同？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why are Ruby's memories different from yours?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -898,7 +898,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelObj4-12-0",
     "original": "What explains Celeste's contradicting memories of what happened?",
-    "translation": "什么能解释塞莱斯特的记忆与实际冲突？",
+    "translation": "什么 能解释 塞莱斯特的 记忆 与实际 冲突？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"CelObj4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What explains Celeste's contradicting memories of what happened?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -940,8 +940,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj20-2-0",
     "original": "Who did Pierce originally send that letter to?",
-    "translation": "",
-    "stage": 0,
+    "translation": "皮尔斯 本来 把信 寄给了 谁？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj20\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who did Pierce originally send that letter to?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -954,8 +954,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj20-5-0",
     "original": "Who did Pierce originally send that letter to?",
-    "translation": "",
-    "stage": 0,
+    "translation": "皮尔斯本来把信寄给了谁？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj20\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Who did Pierce originally send that letter to?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -968,8 +968,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-18-0",
     "original": "What's similar about some of the targets?",
-    "translation": "",
-    "stage": 0,
+    "translation": "目标 有 什么 共同点？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj14a\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What's similar about some of the targets?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -1003,15 +1003,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-26-0",
     "original": "What's similar about some of the targets?",
-    "translation": "",
-    "stage": 0,
+    "translation": "目标有什么共同点？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj14a\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What's similar about some of the targets?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-10-0",
     "original": "Why was Sibyl motionless despite being conscious?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么 希比尔 还有意识 却 纹丝不动？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj8\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why was Sibyl motionless despite being conscious?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -1038,15 +1038,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-16-0",
     "original": "Why was Sibyl motionless despite being conscious?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么希比尔还有意识却纹丝不动？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj8\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why was Sibyl motionless despite being conscious?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-21-0",
     "original": "Why did the Patron target Garrick Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么 签约人 要 杀害 加里克·皮尔斯？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj18\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did the Patron target Garrick Pierce?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -1080,8 +1080,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-28-0",
     "original": "Why did the Patron target Garrick Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么签约人要杀害加里克·皮尔斯？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj18\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why did the Patron target Garrick Pierce?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-10-0",
     "original": "How did Sibyl's body end up in the lake?",
-    "translation": "希比尔的尸体怎么到湖里的？",
+    "translation": "希比尔 的 尸体 怎么 到湖里的？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"OrymDeduce1\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did Sibyl's body end up in the lake?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1143,7 +1143,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-5-0",
     "original": "Why did the Divine Edict harm you?",
-    "translation": "神谕为什么会伤害你？",
+    "translation": "神谕 为什么 会 伤害你？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EdictAttempt5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did the Divine Edict harm you?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1192,7 +1192,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-20-0",
     "original": "Why didn't Eris use Beatrice to kill Pierce?",
-    "translation": "厄莉斯为什么不利用比亚特丽丝杀害皮尔斯？",
+    "translation": "厄莉斯 为什么 不利用 比亚特丽丝 杀害 皮尔斯？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"ErisObj9\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why didn't Eris use Beatrice to kill Pierce?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1248,7 +1248,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-2-0",
     "original": "Why would Marrunath interfere?",
-    "translation": "马鲁纳斯为什么要干涉？",
+    "translation": "马鲁纳斯 为什么 要 干涉？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why would Marrunath interfere?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1290,7 +1290,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj11-13-0",
     "original": "Which demon did Aria make a Blood Contract with?",
-    "translation": "阿莉亚和哪个恶魔签订了血契？",
+    "translation": "阿莉亚 和 哪个 恶魔 签订了 血契？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj11\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Which demon did Aria make a Blood Contract with?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1311,7 +1311,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj17a-29-0",
     "original": "Who else was responsible for Aria's actions?",
-    "translation": "还有谁要对阿莉亚的行为负责？",
+    "translation": "还有 谁 要对 阿莉亚的 行为 负责？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj17a\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who else was responsible for Aria's actions?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1346,7 +1346,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-21-0",
     "original": "Why would Aria sign this contract?",
-    "translation": "阿莉亚为什么会签约？",
+    "translation": "阿莉亚 为什么 会 签约？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatObj15\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why would Aria sign this contract?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -1388,8 +1388,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-19-0",
     "original": "Aria Steelwind",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"AriaArgue\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Aria Steelwind\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
   }
 ]
