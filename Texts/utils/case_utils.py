@@ -105,8 +105,10 @@ def CheckCmd(inst: pb.Instruction, cmd: str) -> bool:
 def IsSetDeductionField(inst: pb.Instruction) -> bool:
     return CheckCmd(inst, "SetDeductionField")
 
-def IsPresentPrompt(inst: pb.Instruction) -> bool:
-    return CheckCmd(inst, "PresentPrompt")
+def IsAnyPrompt(inst: pb.Instruction) -> bool:
+    return CheckCmd(inst, "PresentPrompt") \
+        or CheckCmd(inst, "InterpretPrompt")
+
 
 def IsShowOptions(inst: pb.Instruction) -> bool:
     return inst.opcode == pb.Instruction.SHOW_OPTIONS
@@ -144,7 +146,7 @@ class DeductionGroup:
 @dataclass
 class SpecialCase:
     options: List[str] = field(default_factory=list)
-    present_prompt: List[str] = field(default_factory=list)  # These translations should not be included
+    any_prompt: List[str] = field(default_factory=list)  # These translations should not be included
 
     deduction: Dict[str, DeductionGroup] = field(default_factory=dict)
 
@@ -184,15 +186,15 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
 
     # Process present_prompt
     for node_name, node in program.nodes.items():
-        FLAG_PresentPrompt = False
+        FLAG_AnyPrompt = False
         for inst_idx, inst in enumerate(node.instructions):
-            if IsPresentPrompt(inst):
-                FLAG_PresentPrompt = True
+            if IsAnyPrompt(inst):
+                FLAG_AnyPrompt = True
             elif (text_id := ExtractAddOption(inst)):
-                if FLAG_PresentPrompt:
-                    sp_case.present_prompt.append(text_id)
+                if FLAG_AnyPrompt:
+                    sp_case.any_prompt.append(text_id)
             elif IsShowOptions(inst):
-                FLAG_PresentPrompt = False
+                FLAG_AnyPrompt = False
 
     # process deduction
     ## Phase 1: Check Deduction Target Nodes
@@ -233,6 +235,6 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
                     sp_case.deduction[node_name].finals.append(text_id)
 
             elif IsShowOptions(inst):
-                FLAG_PresentPrompt = False
+                FLAG_AnyPrompt = False
 
     return sp_case

@@ -25,6 +25,7 @@ fonts:
 paraz := "@paraz"
 export:
     #!/usr/bin/env bash
+    set -ex
     cd Texts
     rm -rf @paraz
     python text_io.py --export --raw @old --paraz {{ paraz }} --type serifu
@@ -39,6 +40,7 @@ paraz-out := "@paraz-out"
 new := "@dist"
 import:
     #!/usr/bin/env bash
+    set -ex
     cd Texts
     rm -rf {{ new }}
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type serifu

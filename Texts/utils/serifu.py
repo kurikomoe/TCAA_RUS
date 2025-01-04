@@ -62,7 +62,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
             if line_id in sp_case.options:
                 keywords.append("选项文本")
 
-            if line_id in sp_case.present_prompt:
+            if line_id in sp_case.any_prompt:
                 keywords.append("证据选择对象文本")
                 print(f"Ignore 证据选择文本: {line}")
                 continue  # directly ignores
@@ -91,6 +91,9 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
 
 def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
+    proto_bin_path = raw_root / "case"
+    # ==================================================================
+
     serifu_path = raw_root / "serifu"
 
     ret = {}
@@ -101,15 +104,29 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
         lines = data['_stringTable']['values']['Array']
 
-        name = Path(serifu_file).stem
+        line_ids = data['_stringTable']['keys']['Array']
+        lines = data['_stringTable']['values']['Array']
+        assert len(line_ids) == len(lines)
+
+        stem = Path(serifu_file).stem
+
+        case_file = case_mapping[Path(serifu_file).name]
+        assert case_file
+
+        program = ParseProtoFromCase(proto_bin_path / case_file)
+        sp_case: SpecialCase = GetSpecialCase(case_file, program)
 
         paraz_file = paraz_root / File(serifu_file.name)
         paraz_acc = GetParazAcc(paraz_file)
 
-        for idx, _ in enumerate(lines):
-            def getter(tag, key=None, data=lines, name=name, idx=idx):
+        for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
+            if line_id in sp_case.any_prompt:
+                print(f"Ignore 证据选择文本: {line}")
+                continue  # directly ignores
+
+            def getter(tag, key=None, data=lines, name=stem, idx=idx):
                 key = key if key else Key(name, idx)
-                assert key in paraz_acc
+                assert key in paraz_acc, key
                 paraz_data = paraz_acc[key]
                 assert data[tag] == paraz_data.original, \
                     f"Mismatch:\n{data[tag]}\n{paraz_data.original}\nFile: {serifu_file}\nTranz: {paraz_file}"
@@ -118,7 +135,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
             lines[idx] = getter(idx)
 
-        file = Path("resources") / File(serifu_file.name)
+        file = Path("sharedassets0") / File(serifu_file.name)
         assert file not in ret
         ret[file] = data
 

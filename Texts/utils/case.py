@@ -65,6 +65,8 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
     ret = {}
 
     for proto_json in proto_bin_path.glob("Case *.json"):
+        print(f"="*80)
+        print(f"Case: {proto_json}")
 
         case_name = proto_json.name
 
@@ -111,7 +113,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
                         importer(cmd, commands[cmd[0]], texts=texts_to_import)
                         new_cmd = " ".join([kquote(s, idx) for idx, s in enumerate(cmd)])
 
-                        print("="*80)
+                        print("-"*40)
                         print(op.string_value)
                         print(new_cmd)
 
@@ -120,7 +122,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         new_proto_bin = program.SerializeToString()
         data["compiledYarnProgram"]["Array"] = list(new_proto_bin)
 
-        file = Path("level0") / case_name
+        file = Path("sharedassets0") / case_name
         ret[file] = data
 
     return ret
