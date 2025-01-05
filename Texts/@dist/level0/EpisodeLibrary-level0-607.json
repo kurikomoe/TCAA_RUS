@@ -1,0 +1,765 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2337
+  },
+  "m_Name": "",
+  "episodes": {
+    "Array": [
+      {
+        "episodeName": "Debugger",
+        "characterThumbnail": "",
+        "episodeBack": "",
+        "project": {
+          "m_FileID": 3,
+          "m_PathID": 157
+        },
+        "initState": {
+          "currentNode": "Debug",
+          "currentProgram": 1,
+          "episodeNum": 0,
+          "detectMagicUnlocked": 1,
+          "protagonist": "",
+          "location": "Test1",
+          "saveDate": "",
+          "courtroom": -1,
+          "courtState": {
+            "defenseEmotion": "",
+            "prosecutionEmotion": "",
+            "view": 0,
+            "wideShot": 0,
+            "wideShotEnding": 0
+          },
+          "testimony": 0,
+          "deduction": "",
+          "deductionFields": {
+            "Array": []
+          },
+          "testimonyIndex": 0,
+          "currentMusic": "",
+          "pushes": 0,
+          "loadedChar": "",
+          "charEmotion": "",
+          "blackScreen": 0,
+          "flashback": 0,
+          "anger": 0,
+          "loadedCG": "",
+          "psychLocation": "",
+          "typewriter": "",
+          "typewriterHovered": 0,
+          "assistantOnTheStand": 0,
+          "prosAssistOnTheStand": 0,
+          "axiomsActive": 0,
+          "celesteSad": 0,
+          "psychValue": 0,
+          "psychMax": 0,
+          "insight": 0,
+          "insightMax": 0,
+          "autoExamineIndex": 0,
+          "autoOptionIndex": 0,
+          "autoTestimonyIndex": 0,
+          "autoTalkIndex": 0,
+          "autoNPCIndex": 0,
+          "autoLocIndex": 0,
+          "creditIndex": 0,
+          "creditDone": 0,
+          "autoExamineInit": 0,
+          "autoOptionInit": 0,
+          "autoPresentInit": 0,
+          "autoLocInit": 0,
+          "autoNPCActDone": 0,
+          "autoNPCTalkDone": 0,
+          "autoTestimony": 0,
+          "autoPressDone": 0,
+          "dontShowJudge": 0,
+          "inCredits": 0,
+          "occupantOverrides": {
+            "Array": []
+          },
+          "unlockedClues": {
+            "Array": []
+          },
+          "unlockedSpells": {
+            "Array": [
+              "Mage Blade"
+            ]
+          },
+          "unlockedProfiles": {
+            "Array": []
+          },
+          "unlockedAxioms": {
+            "Array": []
+          },
+          "creditInstances": {
+            "Array": []
+          },
+          "locationDialogues": {
+            "Array": []
+          },
+          "locationExaminations": {
+            "Array": []
+          },
+          "stringVars": {
+            "Array": []
+          },
+          "floatVars": {
+            "Array": [
+              {
+                "key": "$epSection",
+                "value": 1.0
+              }
+            ]
+          },
+          "boolVars": {
+            "Array": []
+          },
+          "occupationOverrides": {
+            "Array": [
+              {
+                "key": "Celeste McCoy",
+                "value": "Mercenary"
+              }
+            ]
+          },
+          "locationBackOverrides": {
+            "Array": []
+          },
+          "altCloseUps": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "episodeName": "The Coldhearted Aristocrat",
+        "characterThumbnail": "Assets/Visuals/Resources/Episode Chars/Celeste.png",
+        "episodeBack": "Assets/Visuals/Resources/Courtroom.png",
+        "project": {
+          "m_FileID": 3,
+          "m_PathID": 154
+        },
+        "initState": {
+          "currentNode": "TeaserScene",
+          "currentProgram": 1,
+          "episodeNum": 1,
+          "detectMagicUnlocked": 0,
+          "protagonist": "",
+          "location": "",
+          "saveDate": "",
+          "courtroom": -1,
+          "courtState": {
+            "defenseEmotion": "",
+            "prosecutionEmotion": "",
+            "view": 0,
+            "wideShot": 0,
+            "wideShotEnding": 0
+          },
+          "testimony": 0,
+          "deduction": "",
+          "deductionFields": {
+            "Array": []
+          },
+          "testimonyIndex": 0,
+          "currentMusic": "",
+          "pushes": 0,
+          "loadedChar": "",
+          "charEmotion": "",
+          "blackScreen": 1,
+          "flashback": 0,
+          "anger": 0,
+          "loadedCG": "",
+          "psychLocation": "",
+          "typewriter": "",
+          "typewriterHovered": 0,
+          "assistantOnTheStand": 0,
+          "prosAssistOnTheStand": 0,
+          "axiomsActive": 0,
+          "celesteSad": 0,
+          "psychValue": 0,
+          "psychMax": 0,
+          "insight": 0,
+          "insightMax": 0,
+          "autoExamineIndex": 0,
+          "autoOptionIndex": 0,
+          "autoTestimonyIndex": 0,
+          "autoTalkIndex": 0,
+          "autoNPCIndex": 0,
+          "autoLocIndex": 0,
+          "creditIndex": 0,
+          "creditDone": 0,
+          "autoExamineInit": 0,
+          "autoOptionInit": 0,
+          "autoPresentInit": 0,
+          "autoLocInit": 0,
+          "autoNPCActDone": 0,
+          "autoNPCTalkDone": 0,
+          "autoTestimony": 0,
+          "autoPressDone": 0,
+          "dontShowJudge": 0,
+          "inCredits": 0,
+          "occupantOverrides": {
+            "Array": []
+          },
+          "unlockedClues": {
+            "Array": []
+          },
+          "unlockedSpells": {
+            "Array": []
+          },
+          "unlockedProfiles": {
+            "Array": [
+              "Tyrion Cuthbert"
+            ]
+          },
+          "unlockedAxioms": {
+            "Array": []
+          },
+          "creditInstances": {
+            "Array": []
+          },
+          "locationDialogues": {
+            "Array": []
+          },
+          "locationExaminations": {
+            "Array": []
+          },
+          "stringVars": {
+            "Array": []
+          },
+          "floatVars": {
+            "Array": [
+              {
+                "key": "$epSection",
+                "value": 1.0
+              }
+            ]
+          },
+          "boolVars": {
+            "Array": []
+          },
+          "occupationOverrides": {
+            "Array": [
+              {
+                "key": "Celeste McCoy",
+                "value": "Mercenary"
+              }
+            ]
+          },
+          "locationBackOverrides": {
+            "Array": []
+          },
+          "altCloseUps": {
+            "Array": []
+          }
+        },
+        "displayName": "The Coldhearted Aristocrat"
+      },
+      {
+        "episodeName": "The Walking Dead",
+        "characterThumbnail": "Assets/Visuals/Resources/Episode Chars/Wallace.png",
+        "episodeBack": "Assets/Visuals/Resources/Backgrounds/Case 2/School Foyer.png",
+        "project": {
+          "m_FileID": 3,
+          "m_PathID": 155
+        },
+        "initState": {
+          "currentNode": "Start",
+          "currentProgram": 1,
+          "episodeNum": 2,
+          "detectMagicUnlocked": 0,
+          "protagonist": "",
+          "location": "Hallway",
+          "saveDate": "",
+          "courtroom": -1,
+          "courtState": {
+            "defenseEmotion": "",
+            "prosecutionEmotion": "",
+            "view": 0,
+            "wideShot": 0,
+            "wideShotEnding": 0
+          },
+          "testimony": 0,
+          "deduction": "",
+          "deductionFields": {
+            "Array": []
+          },
+          "testimonyIndex": 0,
+          "currentMusic": "",
+          "pushes": 0,
+          "loadedChar": "",
+          "charEmotion": "",
+          "blackScreen": 1,
+          "flashback": 0,
+          "anger": 0,
+          "loadedCG": "",
+          "psychLocation": "",
+          "typewriter": "",
+          "typewriterHovered": 0,
+          "assistantOnTheStand": 0,
+          "prosAssistOnTheStand": 0,
+          "axiomsActive": 0,
+          "celesteSad": 0,
+          "psychValue": 0,
+          "psychMax": 0,
+          "insight": 0,
+          "insightMax": 0,
+          "autoExamineIndex": 0,
+          "autoOptionIndex": 0,
+          "autoTestimonyIndex": 0,
+          "autoTalkIndex": 0,
+          "autoNPCIndex": 0,
+          "autoLocIndex": 0,
+          "creditIndex": 0,
+          "creditDone": 0,
+          "autoExamineInit": 0,
+          "autoOptionInit": 0,
+          "autoPresentInit": 0,
+          "autoLocInit": 0,
+          "autoNPCActDone": 0,
+          "autoNPCTalkDone": 0,
+          "autoTestimony": 0,
+          "autoPressDone": 0,
+          "dontShowJudge": 0,
+          "inCredits": 0,
+          "occupantOverrides": {
+            "Array": []
+          },
+          "unlockedClues": {
+            "Array": [
+              "Attorney's Runestone"
+            ]
+          },
+          "unlockedSpells": {
+            "Array": []
+          },
+          "unlockedProfiles": {
+            "Array": [
+              "Tyrion Cuthbert",
+              "Celeste McCoy",
+              "Ruby Tymora",
+              "Aria Steelwind",
+              "Orym White"
+            ]
+          },
+          "unlockedAxioms": {
+            "Array": []
+          },
+          "creditInstances": {
+            "Array": []
+          },
+          "locationDialogues": {
+            "Array": []
+          },
+          "locationExaminations": {
+            "Array": []
+          },
+          "stringVars": {
+            "Array": []
+          },
+          "floatVars": {
+            "Array": [
+              {
+                "key": "$epSection",
+                "value": 1.0
+              }
+            ]
+          },
+          "boolVars": {
+            "Array": []
+          },
+          "occupationOverrides": {
+            "Array": []
+          },
+          "locationBackOverrides": {
+            "Array": []
+          },
+          "altCloseUps": {
+            "Array": []
+          }
+        },
+        "displayName": "The Walking Dead"
+      },
+      {
+        "episodeName": "The Origins of Horus",
+        "characterThumbnail": "Assets/Visuals/Resources/Episode Chars/Stefanic.png",
+        "episodeBack": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory.png",
+        "project": {
+          "m_FileID": 3,
+          "m_PathID": 156
+        },
+        "initState": {
+          "currentNode": "Start",
+          "currentProgram": 1,
+          "episodeNum": 3,
+          "detectMagicUnlocked": 0,
+          "protagonist": "",
+          "location": "AurinaxIntro",
+          "saveDate": "",
+          "courtroom": -1,
+          "courtState": {
+            "defenseEmotion": "",
+            "prosecutionEmotion": "",
+            "view": 0,
+            "wideShot": 0,
+            "wideShotEnding": 0
+          },
+          "testimony": 0,
+          "deduction": "",
+          "deductionFields": {
+            "Array": []
+          },
+          "testimonyIndex": 0,
+          "currentMusic": "",
+          "pushes": 0,
+          "loadedChar": "",
+          "charEmotion": "",
+          "blackScreen": 1,
+          "flashback": 0,
+          "anger": 0,
+          "loadedCG": "",
+          "psychLocation": "",
+          "typewriter": "",
+          "typewriterHovered": 0,
+          "assistantOnTheStand": 0,
+          "prosAssistOnTheStand": 0,
+          "axiomsActive": 0,
+          "celesteSad": 0,
+          "psychValue": 0,
+          "psychMax": 0,
+          "insight": 0,
+          "insightMax": 0,
+          "autoExamineIndex": 0,
+          "autoOptionIndex": 0,
+          "autoTestimonyIndex": 0,
+          "autoTalkIndex": 0,
+          "autoNPCIndex": 0,
+          "autoLocIndex": 0,
+          "creditIndex": 0,
+          "creditDone": 0,
+          "autoExamineInit": 0,
+          "autoOptionInit": 0,
+          "autoPresentInit": 0,
+          "autoLocInit": 0,
+          "autoNPCActDone": 0,
+          "autoNPCTalkDone": 0,
+          "autoTestimony": 0,
+          "autoPressDone": 0,
+          "dontShowJudge": 0,
+          "inCredits": 0,
+          "occupantOverrides": {
+            "Array": []
+          },
+          "unlockedClues": {
+            "Array": [
+              "Attorney's Runestone"
+            ]
+          },
+          "unlockedSpells": {
+            "Array": []
+          },
+          "unlockedProfiles": {
+            "Array": [
+              "Tyrion Cuthbert",
+              "Celeste McCoy",
+              "Ruby Tymora",
+              "Aria Steelwind",
+              "Orym White"
+            ]
+          },
+          "unlockedAxioms": {
+            "Array": []
+          },
+          "creditInstances": {
+            "Array": []
+          },
+          "locationDialogues": {
+            "Array": []
+          },
+          "locationExaminations": {
+            "Array": []
+          },
+          "stringVars": {
+            "Array": []
+          },
+          "floatVars": {
+            "Array": [
+              {
+                "key": "$epSection",
+                "value": 1.0
+              }
+            ]
+          },
+          "boolVars": {
+            "Array": []
+          },
+          "occupationOverrides": {
+            "Array": []
+          },
+          "locationBackOverrides": {
+            "Array": []
+          },
+          "altCloseUps": {
+            "Array": []
+          }
+        },
+        "displayName": "The Origins of Horus"
+      },
+      {
+        "episodeName": "Severed Ties",
+        "characterThumbnail": "Assets/Visuals/Resources/Episode Chars/Beatrice.png",
+        "episodeBack": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom.png",
+        "project": {
+          "m_FileID": 3,
+          "m_PathID": 158
+        },
+        "initState": {
+          "currentNode": "Start4",
+          "currentProgram": 1,
+          "episodeNum": 4,
+          "detectMagicUnlocked": 0,
+          "protagonist": "",
+          "location": "Lobby",
+          "saveDate": "",
+          "courtroom": -1,
+          "courtState": {
+            "defenseEmotion": "",
+            "prosecutionEmotion": "",
+            "view": 0,
+            "wideShot": 0,
+            "wideShotEnding": 0
+          },
+          "testimony": 0,
+          "deduction": "",
+          "deductionFields": {
+            "Array": []
+          },
+          "testimonyIndex": 0,
+          "currentMusic": "",
+          "pushes": 0,
+          "loadedChar": "",
+          "charEmotion": "",
+          "blackScreen": 1,
+          "flashback": 0,
+          "anger": 0,
+          "loadedCG": "",
+          "psychLocation": "",
+          "typewriter": "",
+          "typewriterHovered": 0,
+          "assistantOnTheStand": 0,
+          "prosAssistOnTheStand": 0,
+          "axiomsActive": 0,
+          "celesteSad": 0,
+          "psychValue": 0,
+          "psychMax": 0,
+          "insight": 0,
+          "insightMax": 0,
+          "autoExamineIndex": 0,
+          "autoOptionIndex": 0,
+          "autoTestimonyIndex": 0,
+          "autoTalkIndex": 0,
+          "autoNPCIndex": 0,
+          "autoLocIndex": 0,
+          "creditIndex": 0,
+          "creditDone": 0,
+          "autoExamineInit": 0,
+          "autoOptionInit": 0,
+          "autoPresentInit": 0,
+          "autoLocInit": 0,
+          "autoNPCActDone": 0,
+          "autoNPCTalkDone": 0,
+          "autoTestimony": 0,
+          "autoPressDone": 0,
+          "dontShowJudge": 0,
+          "inCredits": 0,
+          "occupantOverrides": {
+            "Array": []
+          },
+          "unlockedClues": {
+            "Array": [
+              "Attorney's Runestone"
+            ]
+          },
+          "unlockedSpells": {
+            "Array": []
+          },
+          "unlockedProfiles": {
+            "Array": [
+              "Tyrion Cuthbert",
+              "Celeste McCoy",
+              "Ruby Tymora",
+              "Aria Steelwind",
+              "Orym White",
+              "Eris Illmater"
+            ]
+          },
+          "unlockedAxioms": {
+            "Array": []
+          },
+          "creditInstances": {
+            "Array": []
+          },
+          "locationDialogues": {
+            "Array": []
+          },
+          "locationExaminations": {
+            "Array": []
+          },
+          "stringVars": {
+            "Array": []
+          },
+          "floatVars": {
+            "Array": [
+              {
+                "key": "$epSection",
+                "value": 1.0
+              }
+            ]
+          },
+          "boolVars": {
+            "Array": []
+          },
+          "occupationOverrides": {
+            "Array": []
+          },
+          "locationBackOverrides": {
+            "Array": []
+          },
+          "altCloseUps": {
+            "Array": []
+          }
+        },
+        "displayName": "Severed Ties"
+      },
+      {
+        "episodeName": "Attorney of the Arcane",
+        "characterThumbnail": "Assets/Visuals/Resources/Episode Chars/Eris.png",
+        "episodeBack": "Assets/Visuals/Resources/Dragon Temple.png",
+        "project": {
+          "m_FileID": 3,
+          "m_PathID": 153
+        },
+        "initState": {
+          "currentNode": "Start",
+          "currentProgram": 1,
+          "episodeNum": 5,
+          "detectMagicUnlocked": 1,
+          "protagonist": "",
+          "location": "TyrionRoomIntro",
+          "saveDate": "",
+          "courtroom": -1,
+          "courtState": {
+            "defenseEmotion": "",
+            "prosecutionEmotion": "",
+            "view": 0,
+            "wideShot": 0,
+            "wideShotEnding": 0
+          },
+          "testimony": 0,
+          "deduction": "",
+          "deductionFields": {
+            "Array": []
+          },
+          "testimonyIndex": 0,
+          "currentMusic": "",
+          "pushes": 0,
+          "loadedChar": "",
+          "charEmotion": "",
+          "blackScreen": 1,
+          "flashback": 0,
+          "anger": 0,
+          "loadedCG": "",
+          "psychLocation": "",
+          "typewriter": "",
+          "typewriterHovered": 0,
+          "assistantOnTheStand": 0,
+          "prosAssistOnTheStand": 0,
+          "axiomsActive": 0,
+          "celesteSad": 0,
+          "psychValue": 0,
+          "psychMax": 0,
+          "insight": 0,
+          "insightMax": 0,
+          "autoExamineIndex": 0,
+          "autoOptionIndex": 0,
+          "autoTestimonyIndex": 0,
+          "autoTalkIndex": 0,
+          "autoNPCIndex": 0,
+          "autoLocIndex": 0,
+          "creditIndex": 0,
+          "creditDone": 0,
+          "autoExamineInit": 0,
+          "autoOptionInit": 0,
+          "autoPresentInit": 0,
+          "autoLocInit": 0,
+          "autoNPCActDone": 0,
+          "autoNPCTalkDone": 0,
+          "autoTestimony": 0,
+          "autoPressDone": 0,
+          "dontShowJudge": 0,
+          "inCredits": 0,
+          "occupantOverrides": {
+            "Array": []
+          },
+          "unlockedClues": {
+            "Array": [
+              "Attorney's Runestone"
+            ]
+          },
+          "unlockedSpells": {
+            "Array": []
+          },
+          "unlockedProfiles": {
+            "Array": [
+              "Tyrion Cuthbert",
+              "Celeste McCoy",
+              "Ruby Tymora",
+              "Aria Steelwind",
+              "Orym White",
+              "Eris Illmater"
+            ]
+          },
+          "unlockedAxioms": {
+            "Array": []
+          },
+          "creditInstances": {
+            "Array": []
+          },
+          "locationDialogues": {
+            "Array": []
+          },
+          "locationExaminations": {
+            "Array": []
+          },
+          "stringVars": {
+            "Array": []
+          },
+          "floatVars": {
+            "Array": [
+              {
+                "key": "$epSection",
+                "value": 1.0
+              }
+            ]
+          },
+          "boolVars": {
+            "Array": []
+          },
+          "occupationOverrides": {
+            "Array": []
+          },
+          "locationBackOverrides": {
+            "Array": []
+          },
+          "altCloseUps": {
+            "Array": []
+          }
+        },
+        "displayName": "Attorney of the Arcane"
+      }
+    ]
+  }
+}
