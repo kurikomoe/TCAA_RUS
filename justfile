@@ -1,5 +1,8 @@
 
 init:
+    python3 third/il2cpp-stringliteral-patcher/extract.py \
+        -i Texts/@old/metadata/global-metadata.dat \
+        -o Texts/@old/metadata/global-metadata.json
     cd Texts/@old/case && protoc --python_out=.  ./yarn_spinner.proto
     cp Texts/@old/case/yarn_spinner_pb2.py Texts/@old/case/yarn_spinner.proto Texts/utils/
     openapi-generator-cli generate -i .github/workflows/paratranz-openapi.json -g python -o third/openapi-python
@@ -36,6 +39,7 @@ export:
     python text_io.py --export --raw @old --paraz {{ paraz }} --type case
     python text_io.py --export --raw @old --paraz {{ paraz }} --type tooltips
     python text_io.py --export --raw @old --paraz {{ paraz }} --type location
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type metadata
 
 paraz-out := "@paraz-out"
 new := "@dist"
@@ -52,7 +56,21 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type tooltips
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type location
+    python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type metadata
 
+    echo Rebuild global-metadata.dat
+    python3 ../third/il2cpp-stringliteral-patcher/patch.py \
+        -i @old/metadata/global-metadata.dat \
+        -p @dist/global-metadata.patch.json \
+        -o @dist/global-metadata.dat
 
 sync:
     python3 ./scripts/downParatranz.py
+
+sync_native:
+    ./scripts/sync_native.sh
+
+[windows]
+build:
+    cd ./launcher
+    xmake build

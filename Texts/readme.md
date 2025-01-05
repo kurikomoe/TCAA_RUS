@@ -49,6 +49,10 @@
 
 ```
 
+## 文本特殊说明
+
+游戏的一部分文本在 `global-metadata.dat` 中，可以通过 [ il2cpp-stringliteral-patcher ](https://github.com/jozsefsallai/il2cpp-stringliteral-patcher/tree/master) 修补 `global-metadata.dat`。
+
 ## Case 特别说明
 
 在 @Work 里面执行如下命令生成 instruction dump

@@ -1297,7 +1297,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-241",
     "original": "Tyrion: Your Highness.[p/] We heard the prosecutor cast a spell on you when you saw the fire in the Common Room.",
-    "translation": "Tyrion: 殿下。[p/]我们听说在您看见公共休息室着火的时候，检察官对您施了法。",
+    "translation": "Tyrion: 王子殿下。[p/]我们听说在您看见公共休息室着火的时候，检察官对您施了法。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-241\",\n  \"keywords\": []\n}"
   },
@@ -1927,7 +1927,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-342",
     "original": "Tyrion: What can you tell me about this, Your Highness?",
-    "translation": "Tyrion: 陛下，你怎么看？",
+    "translation": "Tyrion: 王子殿下，你怎么看？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Present_Cathedral1-342\",\n  \"keywords\": []\n}"
   },
@@ -2004,7 +2004,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-353",
     "original": "Tyrion: Your Highness...",
-    "translation": "Tyrion: 殿下……",
+    "translation": "Tyrion: 王子殿下……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-353\",\n  \"keywords\": []\n}"
   },
@@ -8094,7 +8094,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1296",
     "original": "Lucio: Of course, Your Grace.",
-    "translation": "Lucio: 遵命，殿下。",
+    "translation": "Lucio: 遵命，巨龙殿下。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Courtroom1_6a-1296\",\n  \"keywords\": []\n}"
   },
@@ -14611,267 +14611,267 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2262",
     "original": "Theon: ...Is something wrong?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theon: ……有什么事吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2262\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2263",
     "original": "Tyrion: There [i]is[/i],[p/] but...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 确实[i]有[/i]，但是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2263\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2264",
     "original": "Tyrion: I'm not really sure what it means.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我不太明白这意味着什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2264\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2265",
     "original": "Lucio: Stop stammering and [i]say what you want to say[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 别含糊了，[i]好好解释你的意思[/i]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2265\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2266",
     "original": "Tyrion: High Speaker.[p/] You said that you saw Aria dumping [i]something[/i] over the ledge of the balcony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 议长。[p/]您说看到阿莉亚把[i]什么东西[/i]从阳台扔下去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2266\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2267",
     "original": "Lucio: There's no need to be vague, Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 不要打马虎眼，卡斯伯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2267\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2268",
     "original": "Lucio: It's clear from the evidence that he saw my daughter dumping Lady Sibyl's body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 证据表明他看到的是希比尔小姐的尸体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2268\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2269",
     "original": "Tyrion: That's the thing, Lord Steelwind.[p/] It [i]couldn't[/i] have been Sibyl's [i]body[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就是这个问题，斯蒂尔文德爵。[p/]那[i]不可能[/i]是希比尔小姐的[i]尸体[/i]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2270",
     "original": "Lucio: ...What are you talking about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……你在说什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2271",
     "original": "Lucio: The location from that balcony to where we found Lady Sibyl's body lines up perfectly!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 阳台正好就在希比尔小姐尸体的发现位置正上方！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2271\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2272",
     "original": "Tyrion: That may be.[p/] But the witness just said he saw Aria dumping the body [i]before[/i] 2:15 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这点没错。[p/]但证人看见阿莉亚弃尸是在下午 2:15 [i]之前[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2273",
     "original": "Lucio: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2273\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2274",
     "original": "Lucio: ...Wait.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……等等",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2274\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2275",
     "original": "Tyrion: You see it too, don't you Lucio?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你也懂了吧，卢西奥？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2275\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2276",
     "original": "Tyrion: How did Aria dump Coraline Sibyl's body into Lake Galakrond [i]before[/i] 2:15 PM...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果希比尔小姐的死于下午 2:18……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2276\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2277",
     "original": "Tyrion: ...if her time of death was 2:[i]18[/i] PM?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……阿莉亚怎么可能在下午 2:15 之前弃尸湖中？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj-2277\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2278",
     "original": "Rath: I see...[p/] That [i]does[/i] seem peculiar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 我明白了……[p/]的确很奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2278\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2279",
     "original": "Lucio: But we [i]know[/i] the defendant threw Sibyl's body from that balcony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 但被告从阳台弃尸是[i]已知[/i]事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2279\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2280",
     "original": "Lucio: There would be no other explanation for how it ended up there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 不然没法解释尸体怎么去了湖里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2280\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2281",
     "original": "Tyrion: Yes...[p/] That's also true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 确实……[p/]你说得也对。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2281\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2282",
     "original": "Rath: Perhaps she was still alive when Aria threw her off of that balcony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 也许阿莉亚把她从阳台扔下去的时候，希比尔还活着。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2282\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2283",
     "original": "Rath: She could have been knocked unconscious with a [b]Sleep[/b] spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 她可能被[b]睡眠术[/b]影响而失去了意识。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2283\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2284",
     "original": "Lucio: Your Grace.[p/] There were no traces of [b]conjuration[/b] magic on her body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 巨龙殿下。[p/]她的尸体上没有[b]召唤[/b]魔法的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2284\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2285",
     "original": "Lucio: And even if she [i]was[/i] asleep,[p/] she wouldn't have survived a fall from that height.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 即使她[i]确实[/i]睡着了，[p/]从那么高的地方摔下来也不可能生还。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2285\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2286",
     "original": "Lucio: The distance from that balcony to the lake is more than thirty stories.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 阳台离湖面差着 30 层楼的高度。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2287",
     "original": "Lucio: And the autopsy report says that the cause of death was suffocation,[p/] not blunt force.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 尸检报告也说了死因是窒息，[p/]不是从高处坠落。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2287\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2288",
     "original": "Tyrion: Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没错……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj2-2288\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2289",
     "original": "So when [i]did[/i] she die?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那她什么时候死的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2291",
     "original": ":The High Speaker testified that he saw Aria dumping the body before 2:15 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "议长说他看见阿莉亚弃尸是在下午 2:15 [i]之前[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2292",
     "original": "Was he mistaken?[p/] Perhaps the time was later than he'd thought.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他记错了吗？[p/]也许时间其实更晚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2292\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2293",
     "original": ":No...[p/] Celeste began fighting Aria at 2:20 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]塞莱斯特和阿莉亚开始对战是在下午 2:20。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2294",
     "original": ":If the High Speaker saw her dumping Sibyl at 2:18 PM,[p/] he would have been close enough to hear the fight break out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果议长目击弃尸是在下午 2:18，[p/]肯定也能听到争斗的声音。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2294\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2295",
     "original": "She could have only died after Aria dumped her off the ledge.",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔一定是在被从阳台丢下后死亡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2295\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2297",
     "original": "Did she die [i]while[/i] she was falling?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那她是在坠落[i]途中[/i]死亡的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2297\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2298",
     "original": "No...[p/] The cause of death was suffocation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]死因是窒息。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2298\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2299",
     "original": "Aria couldn't have possibly suffocated her while she was falling toward Lake Galakrond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚不可能在她落入迦拉克隆湖途中使其窒息。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2299\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2300",
     "original": "There were no wounds on the body.[p/] This means Aria couldn't have obstructed her airway [i]after[/i] she was thrown off of the balcony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸体上也没有伤口。[p/]希比尔被扔下阳台[i]以后[/i]，阿莉亚就没法影响她了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2300\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2302",
     "original": "Tyrion: She must have died [i]after[/i] she hit the water.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她只能是落入水中[i]之后[/i]才死亡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj4-2302\",\n  \"keywords\": []\n}"
   },
   {

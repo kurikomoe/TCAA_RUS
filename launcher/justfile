@@ -1,0 +1,6 @@
+build:
+  xmake
+
+run: build
+  cp build/windows/x86/release/version.dll ../Game/version.dll
+  "../Game/Attorney of the Arcane.exe"
