@@ -64,7 +64,7 @@
       excludes = [
         ".*yarn_spinner_pb2.py$"
         "yarn_spinner_pb2.py"
-        "third/*"
+        "third/.*"
       ];
       args = [
         "--disable-error-code=attr-defined"

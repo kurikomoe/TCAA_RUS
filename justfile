@@ -59,10 +59,11 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type metadata
 
     echo Rebuild global-metadata.dat
+    mkdir -p @dist/il2cpp_data/Metadata
     python3 ../third/il2cpp-stringliteral-patcher/patch.py \
         -i @old/metadata/global-metadata.dat \
         -p @dist/global-metadata.patch.json \
-        -o @dist/global-metadata.dat
+        -o @dist/il2cpp_data/Metadata/global-metadata.dat
 
 sync:
     python3 ./scripts/downParatranz.py
