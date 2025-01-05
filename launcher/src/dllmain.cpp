@@ -1,12 +1,15 @@
 #include <windows.h>
 #include <iostream>
-
-#include "version.h"
+#include <cstdlib>
+#include <cstdio>
 #include <atomic>
 
-// import Payload;
+#include "version.h"
+#include "payload.h"
+
 
 std::atomic_flag Initialized;
+constexpr bool IsDebug = true;
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved) {
 	switch (ul_reason_for_call) {
@@ -15,10 +18,14 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 			version.dll = LoadLibraryW(LR"(C:\Windows\SysWOW64\version.dll)");
 			setupFunctions();
 
-			AllocConsole();
-			freopen_s((FILE**)stdout, "CONOUT$", "w", stdout); // Redirect stdout
-			freopen_s((FILE**)stdin, "CONIN$", "r", stdin);   // Redirect stdin
-			freopen_s((FILE**)stderr, "CONOUT$", "w", stderr); // Redirect stderr
+			payload_main();
+
+			if (IsDebug) {
+				AllocConsole();
+				freopen_s((FILE**)stdout, "CONOUT$", "w", stdout); // Redirect stdout
+				freopen_s((FILE**)stdin, "CONIN$", "r", stdin);   // Redirect stdin
+				freopen_s((FILE**)stderr, "CONOUT$", "w", stderr); // Redirect stderr
+			}
 		}
 		break;
 	case DLL_PROCESS_DETACH:
