@@ -11,6 +11,7 @@
   # https://devenv.sh/packages/
   packages = with pkgs; [
     hello
+    rsync
 
     git
     git-filter-repo
