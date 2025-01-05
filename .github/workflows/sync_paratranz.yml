@@ -4,7 +4,7 @@ on:
     branches:
       - 'main'
   schedule:
-    - cron: "0 22 * * *"   # UTC, aka 6am UTC+8
+    - cron: "0 */2 * * *"   # Every 2h
   workflow_dispatch:
     inputs:
       logLevel:
@@ -47,13 +47,17 @@ jobs:
       - run: |
           just sync import
 
+      - name: Generate timestamp
+        id: timestamp
+        run: echo "timestamp=$(date +'%y%m%d.%H%M')" >> $GITHUB_ENV
+
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9.1.4
         with:
           committer_name: GitHub Actions
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "[skip ci][${{ env.timestamp }}] sync paratranz"
           # commit: -S
-          message: '[skip ci] sync paratranz by github action'
 
       - name: Debugging with ssh
         uses: lhotari/action-upterm@v1
