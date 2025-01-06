@@ -9,7 +9,7 @@
 
 
 std::atomic_flag Initialized;
-constexpr bool IsDebug = true;
+constexpr bool IsDebug = false;
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved) {
 	switch (ul_reason_for_call) {
