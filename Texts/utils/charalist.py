@@ -4,8 +4,8 @@ from typing import Dict, List
 
 from . import GetParazAcc, Paratranz
 
-IGNORED_OCCUPATION = [ "???", ]
-IGNORED_ARCANE_ART = [ "None", ]
+IGNORED_OCCUPATION: List[str] = [ ]
+IGNORED_ARCANE_ART: List[str] = [ ]
 
 def Key(*args) -> str:
     name = args[0]
