@@ -80,7 +80,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
             # TODO(kuriko): add checker here
             return paraz_data.translation
 
-        episode["displayName"] = getter("episodeName")
+        episode["episodeName"] = getter("episodeName")
 
     file = "level0" / base_file
     ret[file] = data
