@@ -29,7 +29,8 @@ def check_marks(a: str, b: str) -> bool:
     flag = True
 
     # stage 1
-    ignored_controls = [ 'p', ]
+    #  ignored_controls = [ 'p', ]
+    ignored_controls: List[str] = [ ]
     gp1 = pat1.findall(a)
     gp2 = pat1.findall(b)
     for ch in ignored_controls:
@@ -41,7 +42,8 @@ def check_marks(a: str, b: str) -> bool:
 
     # stage 2
     #! TODO(kuriko): modify this
-    ignored_controls = [ 'i', 'b', ]
+    ignored_controls = [ 'i', ]
+    #  ignored_controls = [ ]
 
     gp1 = pat2.findall(a)
     gp2 = pat2.findall(b)
@@ -55,7 +57,28 @@ def check_marks(a: str, b: str) -> bool:
 
     return flag
 
-def GenParazAcc(data: List) -> Dict[str, Paratranz]:
+pat_speaker = re.compile(r"^[^:]+: ")
+def check_speaker(a: str, b: str) -> bool:
+    flag = True
+
+    gp1 = pat_speaker.findall(a)
+    gp2 = pat_speaker.findall(b)
+
+    #  if len(gp1):
+    #      print(gp1)
+    #      print(gp2)
+    #      input("")
+    flag = flag and (gp1 == gp2)
+
+    return flag
+
+def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz]:
+    if not checks:
+        checks = {
+            "marks": False,
+            "speaker": False,
+        }
+
     paraz_data = TypeAdapter(List[Paratranz]).validate_python(data)
     mm = {}
     for item in paraz_data:
@@ -68,11 +91,21 @@ def GenParazAcc(data: List) -> Dict[str, Paratranz]:
         else:
             item.translation = item.original
 
-        if not check_marks(item.original, item.translation):
+        if checks["marks"] \
+                and not check_marks(item.original, item.translation):
             logger.error("Mismatch marks")
             logger.error(item.original)
             logger.error(item.translation)
-            input("cnt?")
+            logger.error("")
+            #  input("cnt?")
+
+        if checks["speaker"] \
+                and not check_speaker(item.original, item.translation):
+            logger.error("Mismatch Speaker")
+            logger.error(item.original)
+            logger.error(item.translation)
+            logger.error("")
+            #  input("cnt?")
 
 
         if item.context:
