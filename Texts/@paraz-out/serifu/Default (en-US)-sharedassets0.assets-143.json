@@ -19133,7 +19133,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2930",
     "original": "Eris: I didn't really have a reason to kill [i]them[/i] specifically.[p/] I just needed Aria to kill my victims as quickly and efficiently as possible.",
-    "translation": "Eris: 我没有特定要杀[i]他们[/i]的理由。[p/]我只需要阿莉亚高效快速地杀掉被害者。",
+    "translation": "Eris: 我要杀[i]他们[/i]没有特定的理由。[p/]我只需要阿莉亚尽可能高效快速地杀掉我要杀的人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2930\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
@@ -19469,7 +19469,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2983",
     "original": "Tyrion: Eris...[p/] You said that you \"needed Aria to kill them as quickly and efficiently as possible\".",
-    "translation": "Tyrion: 厄莉斯……[p/]你说你“需要阿莉亚高效快速地杀掉被害者”。",
+    "translation": "Tyrion: 厄莉斯……[p/]你说你“需要阿莉亚尽可能高效快速地杀掉”这些人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj-2983\",\n  \"keywords\": []\n}"
   },
@@ -19511,7 +19511,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2989",
     "original": "Tyrion: You said that you needed Aria to kill \"them\" as efficiently as possible.",
-    "translation": "Tyrion: 你说自己需要阿莉雅高效快速地杀掉“被害者”。",
+    "translation": "Tyrion: 你说自己需要阿莉雅尽可能高效快速地杀掉“要杀的人”。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj-2989\",\n  \"keywords\": []\n}"
   },
@@ -19630,7 +19630,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3006",
     "original": "Eris: I didn't really have a reason to kill [i]them[/i] specifically.[p/] I just needed Aria to kill my victims as quickly and efficiently as possible.",
-    "translation": "Eris: 我没有特定要杀[i]他们[/i]的理由。[p/]我只需要阿莉亚高效快速地杀掉被害者。",
+    "translation": "Eris: 我要杀[i]他们[/i]没有特定的理由。[p/]我只需要阿莉亚尽可能高效快速地杀掉我要杀的人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj-3006\",\n  \"keywords\": []\n}"
   },
@@ -19693,8 +19693,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3017",
     "original": "But she might have had a reason to kill in general...",
-    "translation": "",
-    "stage": 0,
+    "translation": "可能一般而言有杀人理由……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3017\",\n  \"keywords\": []\n}"
   },
   {
@@ -19735,7 +19735,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3024",
     "original": "She said that she \"needed Aria to kill the victims\".",
-    "translation": "她说自己“需要阿莉亚杀掉受害者”。",
+    "translation": "她说自己“需要阿莉亚杀掉要杀的人”。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3024\",\n  \"keywords\": []\n}"
   },
@@ -19798,8 +19798,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3035",
     "original": "She admitted multiple times that she \"underestimated\" Celeste.[p/] This means that she was truly caught off guard by her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她已经多次承认自己“低估”了塞莱斯特。[p/]也许真的没料到这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3035\",\n  \"keywords\": []\n}"
   },
   {
@@ -19812,246 +19812,246 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3038",
     "original": "The phrase \"as possible\" changes how that sentence reads.",
-    "translation": "",
-    "stage": 0,
+    "translation": "“尽可能”这个说法也值得注意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3039",
     "original": "Because she fought Celeste,[p/] Aria couldn't kill Pierce quickly and efficiently.",
-    "translation": "",
-    "stage": 0,
+    "translation": "因为塞莱斯特的影响，[p/]阿莉亚没法高效快速杀掉皮尔斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3040",
     "original": "Actually...[p/] The previous contradiction you pointed out implies that Aria [i]didn't[/i] kill Pierce quickly and efficiently at all...",
-    "translation": "",
-    "stage": 0,
+    "translation": "这么一说……[p/]之前你也指出了暗示阿莉亚[i]没有[/i]高效快速杀害皮尔斯的矛盾……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3041",
     "original": "Hm...[p/] Maybe one of the other phrases elaborates on this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "嗯……[p/]也许是另一个词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3042",
     "original": "She said \"[i]her[/i] victims\" instead of \"[i]the[/i] victims\"...",
-    "translation": "",
-    "stage": 0,
+    "translation": "她说的是“[i]我[/i]要杀的人”而不是“要杀的人”……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3042\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3043",
     "original": "It's a small distinction.[p/] But a distinction nonetheless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "再小的不同也是不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3043\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3044",
     "original": "And you recall Marrunath using a similar trick during Beatrice's trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯在比亚特丽丝的案子里也用了类似手段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3044\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3045",
     "original": "Which can only mean...[p/] [i]the[/i] victims of this case aren't the same as [i]her[/i] victims.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也就意味着……[p/]本案被杀的人和[i]她[/i]要杀的人不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3046",
     "original": "Tyrion: Eris...[p/] Which of the people in this case were [i]your[/i] victims?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 厄莉斯……[p/]本案[i]你[/i]要杀的人是谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3047",
     "original": "Eris: Well...[p/] Considering what happened,[p/] you could say that [i]everyone[/i] at the Cathedral that day was my victim.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 这个嘛……[p/]考虑到发生的事，[p/]那天大教堂里的[i]所有人[/i]都是我要杀的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3048",
     "original": "Tyrion: Yes.[p/] But who was killed directly by Beatrice Frega or Aria Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没错。[p/]但谁是直接被比亚特丽丝·弗雷加或阿莉亚·斯蒂尔文德所杀？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3048\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3049",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3049\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3050",
     "original": "Tyrion: I knew it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我就知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3051",
     "original": "Tyrion: You're hiding something, aren't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你在隐瞒什么事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3052",
     "original": "Eris: If that's what you think,[p/] it's definitely possible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你想的事情确实有可能。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3052\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3053",
     "original": "Ugh...[p/] Again with the vague answers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "唉……[p/]又是这种含糊不清的回答。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3053\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3054",
     "original": "Why would she even agree to testify in the first place?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她干嘛一开始答应作证？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3054\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3055",
     "original": "There's nothing any of you can threaten her with...[p/] And nothing you do can permanently harm her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你既没有要挟她的把柄……[p/]也没有能永久伤害她的手段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3055\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3056",
     "original": "She could have easily gone into hiding.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她完全可以藏起来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3056\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3057",
     "original": "She never [i]had[/i] to come here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "根本就不需要来这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3057\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3058",
     "original": "Which means...[p/] she [i]wanted[/i] to come here...[p/][s/] But why?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "反过来说……[p/]是她自己[p/]想[/i]来……[p/][s/]但为什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj4-3058\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3059",
     "original": "Tyrion: Just tell me, Eris.[p/] Who killed Lloyd von Sanctus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 告诉我一件事，厄莉斯。[p/]谁杀了洛伊德·冯·桑克图斯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3059\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3060",
     "original": "Eris: Aria Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 阿莉亚·斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3060\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3061",
     "original": "Tyrion: And who killed Coraline Sibyl?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 那谁杀了卡洛琳·希比尔？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3061\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3062",
     "original": "Eris: Aria Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 阿莉亚·斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3062\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3063",
     "original": "Tyrion: ...And who killed Garrick Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……谁杀了加里克·皮尔斯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3063\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3064",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3064\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3065",
     "original": "Tyrion: ...Why are you staying silent?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……怎么不吭声了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3065\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3066",
     "original": "Lucio: Out with it, demon![p/][s/] Who killed Garrick Pierce?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 快说，恶魔！[p/][s/]谁杀了加里克·皮尔斯？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3066\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3067",
     "original": "Eris: I refuse to answer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 拒绝回答。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3067\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3068",
     "original": "Tyrion: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3068\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3069",
     "original": "She's doing this on purpose.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她是故意的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3069\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3070",
     "original": "In her own obnoxious way,[p/] she's trying to guide you to the truth...",
-    "translation": "",
-    "stage": 0,
+    "translation": "她在用自己令人痛恨的方式，[p/]引导你发现真相……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3070\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3071",
     "original": "But for what purpose?",
-    "translation": "",
-    "stage": 0,
+    "translation": "究竟是什么目的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3071\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3072",
     "original": "If she's refusing to answer the question,[p/] that must mean the answer is different from her previous answers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果她拒绝回答问题，[p/]就说明答案和她之前说的不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj5-3072\",\n  \"keywords\": []\n}"
   },
   {
@@ -20141,8 +20141,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3087",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj7-3087\",\n  \"keywords\": []\n}"
   },
   {
@@ -20253,8 +20253,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3103",
     "original": "Tyrion: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj8-3103\",\n  \"keywords\": []\n}"
   },
   {
@@ -53881,43 +53881,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3009",
     "original": "Player: \"I didn't really have a reason...\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: “没有特定的理由”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3009\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3014",
     "original": "Player: \"...to kill [i]them[/i] specifically.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: “要杀[i]他们[/i]”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3014\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3023",
     "original": "Player: \"I just needed Aria...\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: “我只需要阿莉亚”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3023\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3030",
     "original": "Player: \"...to kill my victims...\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: “杀掉我要杀的人”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3030\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3031",
     "original": "Player: \"...as quickly and efficiently...\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: “高效快速地”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3031\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3037",
     "original": "Player: \"...as possible.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: “尽可能”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3037\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
