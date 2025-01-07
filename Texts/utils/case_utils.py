@@ -19,7 +19,7 @@ def ParseProtoFromCase(proto_json: Path) -> pb.Program:
     program = pb.Program()
     program.ParseFromString(proto_bin)
 
-    return program
+    return program, data
 
 
 commands = {

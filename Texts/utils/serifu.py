@@ -63,7 +63,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
         case_file = case_mapping[Path(serifu_file).name]
         assert case_file
 
-        program = ParseProtoFromCase(proto_bin_path / case_file)
+        program, _ = ParseProtoFromCase(proto_bin_path / case_file)
         sp_case: SpecialCase = GetSpecialCase(case_file, program)
 
         tmp = []
@@ -126,7 +126,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         case_file = case_mapping[Path(serifu_file).name]
         assert case_file
 
-        program = ParseProtoFromCase(proto_bin_path / case_file)
+        program, _ = ParseProtoFromCase(proto_bin_path / case_file)
         sp_case: SpecialCase = GetSpecialCase(case_file, program)
 
         paraz_file = paraz_root / File(serifu_file.name)

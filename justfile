@@ -40,6 +40,7 @@ export:
     python text_io.py --export --raw @old --paraz {{ paraz }} --type tooltips
     python text_io.py --export --raw @old --paraz {{ paraz }} --type location
     python text_io.py --export --raw @old --paraz {{ paraz }} --type metadata
+
     # python text_io.py --export --raw @old --paraz {{ paraz }} --type episode
 
 paraz-out := "@paraz-out"
@@ -58,6 +59,7 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type location
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type metadata
+
     # Disable Episode Name Translation which will crash
     # python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type episode
 
@@ -66,6 +68,10 @@ import:
     python3 ../third/il2cpp-stringliteral-patcher/patch.py \
         -i @old/metadata/global-metadata.dat \
         -p @dist/global-metadata.patch.json \
+        -o @dist/il2cpp_data/Metadata/global-metadata.dat.stage1
+
+    python3 ../scripts/patchMetaData.py \
+        -i @dist/il2cpp_data/Metadata/global-metadata.dat.stage1 \
         -o @dist/il2cpp_data/Metadata/global-metadata.dat
 
 sync:

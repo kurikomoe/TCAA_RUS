@@ -1,5 +1,6 @@
 # mypy: disable-error-code="name-defined, attr-defined"
 import json
+import re
 import shlex
 from pathlib import Path
 from typing import Dict, List
@@ -21,7 +22,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
     for proto_json in proto_bin_path.glob("Case *.json"):
         case_name = proto_json.name
 
-        program = ParseProtoFromCase(proto_json)
+        program, data = ParseProtoFromCase(proto_json)
 
         tmp: List[Paratranz] = []
         for node_name, node in program.nodes.items():
@@ -53,7 +54,29 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                             ))
 
         file = File(case_name)
-        assert file not in ret
+        assert file not in ret, file
+        ret[file] = tmp
+
+        tmp = []
+        # Extra Steps deal with alias:
+        pat_alias = re.compile(r"alias:([\w_]+)")
+        line_ids = data["lineMetadata"]["_lineMetadata"]["keys"]["Array"]
+        lines = data["lineMetadata"]["_lineMetadata"]["values"]["Array"]
+        for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
+            matches = pat_alias.findall(line)
+            if not matches: continue
+
+            tmp.append(Paratranz(
+                key=Key(case_name, node_name, line_id, 0),
+                original=line,
+                context=json.dumps({
+                    "node_name": node_name,
+                }, ensure_ascii=False, indent=2),
+            ))
+
+        #! FIXME(kuriko)
+        file = Path(f"{proto_json.stem}-alias.json")
+        assert file not in ret, file
         ret[file] = tmp
 
     return ret
@@ -70,15 +93,9 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
         case_name = proto_json.name
 
-        with open(proto_json, "r", encoding="utf8") as f:
-            data = json.load(f)
-            proto_bin_json_data = data["compiledYarnProgram"]["Array"]
-            proto_bin = bytearray(proto_bin_json_data)
+        program, data = ParseProtoFromCase(proto_json)
 
         tmp: List[Paratranz] = []
-
-        program = pb.Program() #type: ignore[attr-defined]
-        program.ParseFromString(proto_bin)
 
         # Read corresponding Paratranz file
         paraz_file = paraz_root / File(case_name)
@@ -119,8 +136,32 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
                         op.string_value = new_cmd
 
+
         new_proto_bin = program.SerializeToString()
         data["compiledYarnProgram"]["Array"] = list(new_proto_bin)
+
+        # Extra Steps deal with alias:
+        #! FIXME(kuriko)
+        paraz_file = paraz_root / Path(f"{proto_json.stem}-alias.json")
+        paraz_acc = GetParazAcc(paraz_file)
+
+        pat_alias = re.compile(r"alias:([\w_]+)")
+        line_ids = data["lineMetadata"]["_lineMetadata"]["keys"]["Array"]
+        lines = data["lineMetadata"]["_lineMetadata"]["values"]["Array"]
+        for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
+            matches = pat_alias.findall(line)
+            if not matches: continue
+
+            def getter(tag, key=None, data=lines, name=case_name, idx=0):
+                key = key if key else Key(case_name, node_name, line_id, 0)
+                assert key in paraz_acc, key
+                paraz_data = paraz_acc[key]
+                assert data[tag] == paraz_data.original, \
+                    f"Mismatch:\n{data[tag]}\n{paraz_data.original}\nFile: {case_name}\nTranz: {paraz_file}"
+                # TODO(kuriko): add checker here
+                return paraz_data.translation
+
+            lines[idx] = getter(idx)
 
         file = Path("sharedassets0") / case_name
         ret[file] = data
