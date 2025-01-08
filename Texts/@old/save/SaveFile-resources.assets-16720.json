@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4824
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1116
+  },
+  "m_Name": "",
+  "saveNum": {
+    "m_FileID": 0,
+    "m_PathID": 14313
+  },
+  "date": {
+    "m_FileID": 0,
+    "m_PathID": 14014
+  },
+  "episode": {
+    "m_FileID": 0,
+    "m_PathID": 16724
+  },
+  "game_mode": {
+    "m_FileID": 0,
+    "m_PathID": 13094
+  },
+  "location": {
+    "m_FileID": 0,
+    "m_PathID": 13088
+  },
+  "fileButton": {
+    "m_FileID": 0,
+    "m_PathID": 16451
+  },
+  "normalSprite": {
+    "m_FileID": 2,
+    "m_PathID": 95
+  },
+  "selectedSprite": {
+    "m_FileID": 2,
+    "m_PathID": 71
+  },
+  "locationImage": {
+    "m_FileID": 0,
+    "m_PathID": 16449
+  },
+  "saveButtons": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 15995
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 13719
+      }
+    ]
+  },
+  "loadButtons": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 17975
+      }
+    ]
+  },
+  "deleteButtons": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 14812
+      }
+    ]
+  },
+  "currentSaveIndex": 0,
+  "saveMessage": "Overwrite data at this save slot?",
+  "loadMessage": "Load save data at this slot? \r\nYou might lose unsaved progress.\r",
+  "deleteMessage": "Delete the data at this slot?\r\nYou can’t undo this action.\r",
+  "dataNull": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4222
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4962
+      }
+    ]
+  },
+  "dataExists": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4822
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4823
+      }
+    ]
+  },
+  "layoutRects": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 10992
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10260
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 9273
+      }
+    ]
+  },
+  "confirming": 0
+}

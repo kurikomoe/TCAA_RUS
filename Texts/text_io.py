@@ -38,6 +38,7 @@ parser.add_argument('--type', type=str, choices=[
     "location",
     "metadata",
     "episode",
+    "save",
 ], help='Input Folder')
 
 parser.add_argument('--raw', type=str, help='@old')
@@ -90,6 +91,9 @@ def export_mode():
     elif args.type == "episode":  # protobuf dumps
         from utils.episode import ToParaTranz
         ret = ToParaTranz(in_root)
+    elif args.type == "save":  # protobuf dumps
+        from utils.save import ToParaTranz
+        ret = ToParaTranz(in_root)
 
     assert ret is not None
 
@@ -135,6 +139,9 @@ def import_mode():
         ret = ToRaw(raw_root, paraz_root)
     elif args.type == "episode":  # protobuf dumps
         from utils.episode import ToRaw
+        ret = ToRaw(raw_root, paraz_root)
+    elif args.type == "save":  # protobuf dumps
+        from utils.save import ToRaw
         ret = ToRaw(raw_root, paraz_root)
 
     assert ret is not None
