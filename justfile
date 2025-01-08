@@ -13,7 +13,7 @@ charset:
         --input-base third/chinese.txt \
         --input-base third/3500常用汉字.txt \
         --inputs Texts/@paraz-out \
-        --output Texts/chinese.txt
+        --output Fonts/chinese.txt
 
 fonts:
     rm -rf Fonts/@build

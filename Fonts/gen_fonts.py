@@ -6,7 +6,7 @@ import os
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Optional
+from typing import Any, Dict, Optional
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger()
@@ -16,14 +16,63 @@ class FontDef:
     sdf: str
     atlas: str
     material: str
+    shader_base: str | None = None
     ref: Optional["FontDef"] = None
 
 
 ref = FontDef(
-    sdf="OpenSans-Regular SDF-sharedassets0.assets-6.json",
-    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-3.json",
+    sdf="OpenSans-Regular SDF-sharedassets0.assets-8.json",
+    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-4.json",
     material="OpenSans-Regular Atlas Material-sharedassets0.assets-2.json",
 )
+
+refOutline = FontDef(
+    sdf="Typewriter-Regular SDF-sharedassets0.assets-9.json",
+    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-5.json",
+    material="OpenSans-Regular Atlas Material-sharedassets0.assets-3.json",
+    shader_base = "Shader #6-sharedassets0.assets-6.json",
+)
+
+shader_idx = 100000
+@dataclass
+class ShaderCache:
+    idx: int
+    data: Dict
+
+shader_idx_cache: Dict[Path, ShaderCache] = {}
+# refOutline = ref
+
+def SearchAndAddShader(file: Path, search_path: Path):
+    global shader_idx, shader_idx_cache
+
+    if file in shader_idx_cache:
+        return shader_idx_cache[file]
+
+    with open(file, "r", encoding="utf8") as f:
+        shader = json.load(f)
+
+    tmp: ShaderCache = ShaderCache(
+        idx = shader_idx,
+        data = {},
+    )
+    shader_idx += 1
+
+    for child_shader in shader["m_Dependencies"]["Array"]:
+        child_shader_pathid = child_shader["m_PathID"]
+
+        files = list(search_path.glob(f"Shader #{child_shader_pathid}*"))
+        assert len(files) == 1
+        child_shader_file = files[0]
+
+        ret = SearchAndAddShader(child_shader_file, search_path)
+        child_shader["m_PathID"] = ret.idx
+
+    tmp.data = shader
+
+    shader_idx_cache[file] = tmp
+
+    return tmp
+
 
 mapping = [
     FontDef(
@@ -36,7 +85,7 @@ mapping = [
         sdf="Merriweather-Regular Drop Thought Shadow-resources.assets-12434.json",
         atlas="Merriweather-Regular Atlas-resources.assets-762.json",
         material="Merriweather-Regular Atlas Material-resources.assets-106.json",
-        ref = ref,
+        ref = refOutline,
     ),
     FontDef(
         sdf="NotoSerifHK-Regular SDF-resources.assets-12435.json",
@@ -75,17 +124,19 @@ mapping = [
         ref = ref,
     ),
 
+    # 打字机特效
     FontDef(
         sdf="Typewriter-resources.assets-12437.json",
         atlas="OpenSans-Medium Atlas-resources.assets-109.json",
         material="OpenSans-Medium Atlas Material-resources.assets-105.json",
-        ref = ref,
+        ref = refOutline,
     ),
+
     FontDef(
         sdf="Title-resources.assets-12436.json",
         atlas="Title Atlas-resources.assets-763.json",
         material="Merriweather-Regular Atlas Material-resources.assets-107.json",
-        ref = ref,
+        ref = refOutline,
     ),
     # FontDef(
     #     sdf="",
@@ -181,7 +232,12 @@ def process_sdf(old_root: Path, old_sdf, new_root: Path, new_sdf, output: Path):
     json.dump(new_file_data, open(out, "w", encoding="utf8"), ensure_ascii=False, indent=2)
     return
 
-def process_material(old_root: Path, old_material, new_root: Path, new_material, output: Path):
+
+def process_material(old_root: Path, old_material,
+                     new_root: Path, new_material,
+                     output: Path,
+                     shader: Any | None = None):
+    global shader_idx
     old_file_path = old_root / old_material
     new_file_path = new_root / new_material
 
@@ -189,7 +245,12 @@ def process_material(old_root: Path, old_material, new_root: Path, new_material,
     new_file_data = json.load(open(new_file_path, 'r', encoding="utf8"))
 
     DictCopyAttr("m_Name", new_file_data, old_file_data)
-    DictCopyAttr("m_Shader", new_file_data, old_file_data)
+    if not shader:
+        DictCopyAttr("m_Shader", new_file_data, old_file_data)
+    else:
+        ret = SearchAndAddShader(Path(new_root) / shader, new_root)
+        new_file_data["m_Shader"]["m_PathID"] = ret.idx
+        # TODO(Kuriko): copy shader
 
     FoundFlag = False
     _mainTex_m_Texture = None
@@ -273,7 +334,9 @@ for font_def in mapping:
 
     assert font_def.ref
     process_sdf(old_root, font_def.sdf, new_root, font_def.ref.sdf, output)
-    process_material(old_root, font_def.material, new_root, font_def.ref.material, output)
+    process_material(
+        old_root, font_def.material, new_root, font_def.ref.material, output,
+        shader=font_def.ref.shader_base)
     process_atlas(old_root, font_def.atlas, new_root, font_def.ref.atlas, output)
 
 
@@ -281,3 +344,10 @@ for font_def in mapping:
 with open(out_resS_path, "wb") as fout:
     out_resS.seek(0, io.SEEK_SET)
     fout.write(out_resS.read())
+
+print("=========== manually imports ============")
+shader_path = Path(args.out_dir)
+for k, v in shader_idx_cache.items():
+    print(f"{k} => {v.idx}")
+    with open(shader_path / k.name, "w", encoding="utf8") as fshader:
+        json.dump(v.data, fshader, ensure_ascii=False, indent=2)
