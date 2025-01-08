@@ -45,6 +45,7 @@ if Path(args.output).exists():
 for data_dir in args.inputs:
     logging.debug(f"Folder: {data_dir}")
     for file in Path(data_dir).glob("**/*.json"):
+        if "global-metadata" in file.name: continue
         logging.debug(f"reading {file}")
         with open(file, "r", encoding="utf8") as f:
             data = f.read()
