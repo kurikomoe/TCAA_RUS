@@ -71,6 +71,7 @@ import:
         -o @dist/il2cpp_data/Metadata/global-metadata.dat.stage1
 
     python3 ../scripts/patchMetaData.py \
+        -t @dist/global-metadata.name.json \
         -i @dist/il2cpp_data/Metadata/global-metadata.dat.stage1 \
         -o @dist/il2cpp_data/Metadata/global-metadata.dat
 

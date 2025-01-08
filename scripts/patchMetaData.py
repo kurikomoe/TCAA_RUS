@@ -1,23 +1,36 @@
 import argparse
 import io
+import json
 import struct
-from typing import List, Tuple
+from pprint import pprint
+from typing import Dict, List, Tuple
 
 parser = argparse.ArgumentParser()
+parser.add_argument("-t", "--translation", type=str, help="input translation file")
 parser.add_argument("-i", "--input", type=str, help="input global-metadata.dat file")
 parser.add_argument("-o", "--output", type=str, help="output global-metadata.dat file")
 
 args = parser.parse_args()
 
+with open(args.translation, "r", encoding="utf8") as f:
+    trans_data: Dict[str, str] = json.load(f)
+
 mapping = [
-    ("Evocation\x00", "塑能术\x00"),
-    ("Transmutation\x00", "形变术\x00"),
-    ("Conjuration\x00", "召唤术\x00"),
-    ("Divination\x00", "占卜术\x00"),
-    ("Illusion\x00", "幻像术\x00"),
-    ("Abjuration\x00", "防护术\x00"),
-    ("Necromancy\x00", "死灵术\x00"),
+    # ("Evocation\x00", "塑能术\x00"),
+    # ("Transmutation\x00", "形变术\x00"),
+    # ("Conjuration\x00", "召唤术\x00"),
+    # ("Divination\x00", "占卜术\x00"),
+    # ("Illusion\x00", "幻象术\x00"),
+    # ("Abjuration\x00", "防护术\x00"),
+    # ("Necromancy\x00", "死灵术\x00"),
 ]
+
+for k, v in trans_data.items():
+    mapping.append(
+        (f"{k}\x00", f"{v}\x00")
+    )
+
+pprint(mapping)
 
 tot_en_len = 0
 tot_chs_len = 0
@@ -34,10 +47,10 @@ print(f"en_len: {hex(tot_en_len)}")
 print(f"chs_lchs: {hex(tot_chs_len)}")
 print("space left: ", tot_en_len - tot_chs_len)
 
-with open(args.input, "rb") as f:
-    data = f.read()
-    data = bytearray(data)
-    cur = io.BytesIO(data)
+with open(args.input, "rb") as f2:
+    data = f2.read()
+    data_bin = bytearray(data)
+    cur = io.BytesIO(data_bin)
 
 cur.seek(0x18, io.SEEK_SET)
 string_base = struct.unpack("<I", cur.read(4))[0]

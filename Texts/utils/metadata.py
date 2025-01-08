@@ -24,13 +24,41 @@ WHITELIST = [
 IDX_LOWER_BOUND = 200
 IDX_UPPER_BOUND = 10160
 
-def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
-    file = in_root / "metadata" / "global-metadata.json"
+
+def ToParaTranz_name(in_root: Path) -> Dict[Path, List[Paratranz]]:
+    file = in_root / "metadata" / "global-metadata-name.json"
 
     with open(file, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     ret = {}
+    tmp = []
+
+    for idx, item in enumerate(data):
+        tmp.append(Paratranz(
+            key=f"MetaData-name-{idx}-{item}",
+            original=item,
+            context=json.dumps({
+                "Name": item,
+                "Attr": "spellSchool",
+                "Order": idx,
+            }, ensure_ascii=False, indent=2),
+        ))
+
+    file = File("global-metadata-name")
+    assert file not in ret
+    ret[file] = tmp
+    return ret
+
+
+def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
+    ret = ToParaTranz_name(in_root)
+
+    file = in_root / "metadata" / "global-metadata.json"
+
+    with open(file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
     tmp = []
 
     for idx, item in enumerate(data):
@@ -68,8 +96,39 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
     return ret
 
+def ToRaw_name(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
+    file = raw_root / "metadata" / "global-metadata-name.json"
+
+    with open(file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    paraz_file = paraz_root / File("global-metadata-name")
+    paraz_acc = GetParazAcc(paraz_file)
+
+    ret = {}
+
+    tmp = {}
+    for idx, item in enumerate(data):
+        def getter(tag, key=None, data=data, name=item, idx=idx):
+            key=f"MetaData-name-{idx}-{item}"
+            assert key in paraz_acc, key
+            paraz_data = paraz_acc[key]
+            assert data[tag] == paraz_data.original, \
+                f"Mismatch:\n{data[tag]}\n{paraz_data.original}\nFile: global-metadata.json\nTranz: {paraz_file}"
+            return paraz_data.translation
+
+        assert item not in tmp
+        tmp[item] = getter(idx)
+
+    file = Path(".") / "global-metadata.name.json"
+    ret[file] = tmp
+
+    return ret
+
 
 def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
+    ret = ToRaw_name(raw_root, paraz_root)
+
     file = raw_root / "metadata" / "global-metadata.json"
 
     with open(file, "r", encoding="utf-8") as f:
@@ -78,7 +137,6 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
     paraz_file = paraz_root / File("global-metadata")
     paraz_acc = GetParazAcc(paraz_file)
 
-    ret = {}
     for idx, item in enumerate(data):
         # Key, do not translate
         index = int(item["index"])
@@ -100,7 +158,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
         def getter(tag, key=None, data=item, name=index, idx=idx):
             key = key if key else Key(name)
-            assert key in paraz_acc
+            assert key in paraz_acc, key
             paraz_data = paraz_acc[key]
             assert data[tag] == paraz_data.original, \
                 f"Mismatch:\n{data[tag]}\n{paraz_data.original}\nFile: global-metadata.json\nTranz: {paraz_file}"
