@@ -1,8 +1,10 @@
 build:
+  touch src/consts.h
   xmake
 
 copy: build
   cp build/windows/x86/release/version.dll ../Game/version.dll
+  cp build/windows/x86/release/version.dll ../@Release/data/
 
 run: build
   "../Game/Attorney of the Arcane.exe"
