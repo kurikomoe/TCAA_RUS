@@ -10,6 +10,7 @@ init:
 charset:
     python Texts/get_chars.py \
         --input-orig third/charset_orig.txt \
+        --input-base third/7000常用字优化版.txt \
         --input-base third/chinese.txt \
         --input-base third/3500常用汉字.txt \
         --inputs Texts/@paraz-out \

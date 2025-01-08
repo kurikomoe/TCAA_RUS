@@ -24,13 +24,14 @@ ref = FontDef(
     sdf="OpenSans-Regular SDF-sharedassets0.assets-8.json",
     atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-4.json",
     material="OpenSans-Regular Atlas Material-sharedassets0.assets-2.json",
+    # shader_base = "Shader #6-sharedassets0.assets-6.json",
 )
 
 refOutline = FontDef(
     sdf="Typewriter-Regular SDF-sharedassets0.assets-9.json",
     atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-5.json",
     material="OpenSans-Regular Atlas Material-sharedassets0.assets-3.json",
-    shader_base = "Shader #6-sharedassets0.assets-6.json",
+    # shader_base = "Shader #6-sharedassets0.assets-6.json",
 )
 
 shader_idx = 100000
@@ -55,7 +56,8 @@ def SearchAndAddShader(file: Path, search_path: Path):
         idx = shader_idx,
         data = {},
     )
-    shader_idx += 1
+    # FIXEM(kuriko): temp fix
+    shader_idx += 100000
 
     for child_shader in shader["m_Dependencies"]["Array"]:
         child_shader_pathid = child_shader["m_PathID"]
@@ -138,12 +140,6 @@ mapping = [
         material="Merriweather-Regular Atlas Material-resources.assets-107.json",
         ref = refOutline,
     ),
-    # FontDef(
-    #     sdf="",
-    #     atlas="",
-    #     material="",
-    #     ref = ref,
-    # ),
 ]
 
 

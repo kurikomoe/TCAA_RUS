@@ -1,0 +1,121 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3481
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1116
+  },
+  "m_Name": "",
+  "saveNum": {
+    "m_FileID": 0,
+    "m_PathID": 16580
+  },
+  "date": {
+    "m_FileID": 0,
+    "m_PathID": 16429
+  },
+  "episode": {
+    "m_FileID": 0,
+    "m_PathID": 13671
+  },
+  "game_mode": {
+    "m_FileID": 0,
+    "m_PathID": 17299
+  },
+  "location": {
+    "m_FileID": 0,
+    "m_PathID": 17451
+  },
+  "fileButton": {
+    "m_FileID": 0,
+    "m_PathID": 14109
+  },
+  "normalSprite": {
+    "m_FileID": 2,
+    "m_PathID": 95
+  },
+  "selectedSprite": {
+    "m_FileID": 2,
+    "m_PathID": 71
+  },
+  "locationImage": {
+    "m_FileID": 0,
+    "m_PathID": 14110
+  },
+  "saveButtons": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 14934
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 16793
+      }
+    ]
+  },
+  "loadButtons": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 12941
+      }
+    ]
+  },
+  "deleteButtons": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 15872
+      }
+    ]
+  },
+  "currentSaveIndex": 0,
+  "saveMessage": "覆盖此存档的数据？",
+  "loadMessage": "加载此存档？\r\n你可能会失去未保存的进度。\r",
+  "deleteMessage": "删除此存档的数据？\r\n你不能撤销此操作。\r",
+  "dataNull": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 4057
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3270
+      }
+    ]
+  },
+  "dataExists": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3482
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3483
+      }
+    ]
+  },
+  "layoutRects": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 9846
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 10754
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 11884
+      }
+    ]
+  },
+  "confirming": 0
+}

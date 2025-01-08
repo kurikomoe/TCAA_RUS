@@ -18,7 +18,10 @@ class Paratranz(BaseModel):
 
 
 def fix_slash_n(s: str) -> str:
-    return s.replace("\\n", "\n")
+    s = s.replace("\\n", "\n")
+    s = s.replace("$r", "\r")
+    s = s.replace("$n", "\n")
+    return s
 
 def check_marks(a: str, b: str) -> bool:
     if not flags.ENABLE_MARK_CHECK: return True

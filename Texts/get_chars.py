@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--input-orig", help="basic charset file")
-parser.add_argument("--input-base", help="basic charset file", nargs="*")
+parser.add_argument("--input-base", action='append', help="basic charset file")
 parser.add_argument("--inputs", help="collect all chars from path", required=True, nargs="*")
 parser.add_argument("--output", help="output chinese.txt file", required=True)
 
@@ -25,12 +25,14 @@ def addTo(ss: str, target=charset):
         target.add(ch)
 
 for input_base in args.input_base:
+    logger.info(f"Reading {input_base}")
     with open(input_base, "r", encoding="utf8") as f:
         data = f.read()
         addTo(data)
         addTo(data, target=charset_orig)
 
 if args.input_orig:
+    logger.info(f"Reading {args.input_orig}")
     with open(args.input_orig, "r", encoding="utf8") as f:
         data = f.read()
         addTo(data)
@@ -62,7 +64,7 @@ charset_list.sort()
 # input("cnt?")
 # print("="*80)
 # print(charset_list)
-logging.info(f"Total Charset Length: {len(charset_list)}")
+logging.info(f"Total Charset Length: {len(charset)}")
 
 if charset_last_gen != charset:
     logging.warning("Charset Updated")
