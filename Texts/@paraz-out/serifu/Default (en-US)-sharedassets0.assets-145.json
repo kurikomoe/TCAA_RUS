@@ -10306,7 +10306,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1571",
     "original": "TYRION: Every detail matters,[p/][s/] no matter how seemingly insignificant!",
-    "translation": "TYRION: 每个细节都很重要，[p/][s/]看似细枝末节，也可能暗藏玄机！",
+    "translation": "TYRION: 每个细节都很重要。[p/][s/]看似无关紧要的细节，也可能暗藏玄机！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_3-1571\",\n  \"keywords\": []\n}"
   },
@@ -10614,7 +10614,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1615",
     "original": "The prosecutor stays silent for a while.",
-    "translation": "检察官沉默片刻。",
+    "translation": "检察官沉默了一会儿。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1615\",\n  \"keywords\": []\n}"
   },
@@ -10656,15 +10656,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1621",
     "original": "The judge breathes a sigh of relief as the young noble is escorted out of the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "见到年轻贵族在护送下离开法庭，法官松了口气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1622",
     "original": "ARIA: Now with that out of the way…[p/] What else do you have, Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 碍事的已经走了……[p/]你还有什么新招吗，卡斯伯特先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1622\",\n  \"keywords\": []\n}"
   },
   {
@@ -10677,50 +10677,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1624",
     "original": "The only way to refute the prosecutor’s theory is to cast doubt on one of the witnesses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "想反驳检方的主张只有一个办法，那就是怀疑其中一名证人说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1624\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1625",
     "original": "If it wasn’t Miriam, then…",
-    "translation": "",
-    "stage": 0,
+    "translation": "既然米莉亚姆没问题，接下来……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1626",
     "original": "TYRION: Steelwind.[p/] To test your theory,[p/] we must question every witness that saw the victim that day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 斯蒂尔文德。[p/]为了验证你的主张，[p/]我们必须询问每一名目击到被害人的证人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1627",
     "original": "TYRION: So, with that said…[p/] the defense would like to call Jan Hughes to the stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 因此……[p/]辩方希望传唤简·休斯出庭作证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1628",
     "original": "ARIA: …I hope you understand, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……我希望你能明白一点，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1629",
     "original": "ARIA: Your entire case rests on the assumption that one of the witness accounts is incorrect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 你想翻盘，前提是其中一名证人的证词有误。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1630",
     "original": "ARIA: If your cross-examination of Mr. Hughes leads nowhere,[p/] then I hope you’re ready to concede.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 如果你交叉讯问休斯女士没问出结果，[p/]希望你做好认输的准备。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_5-1630\",\n  \"keywords\": []\n}"
   },
   {
@@ -10733,29 +10733,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1632",
     "original": "You don’t like the sound of it,[p/] but she’s right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这话听得你难受，[p/]但她说得没错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1632\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1633",
     "original": "Unless you can find…[p/][s/] [i]something[/i] in Jan’s testimony,[p/] you won’t really have anything to disprove her theory.",
-    "translation": "",
-    "stage": 0,
+    "translation": "除非在简的证词中找出[p/][s/][i]一线生机[/i]，[p/]否则你的确无法反驳她的主张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1633\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1634",
     "original": "ARIA: Bailiff.[p/] Please bring in Mr. Hughes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 法警，[p/]请将休斯女士带入法庭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1634\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1635",
     "original": "ARIA: Witness,[p/] please state your name and occupation for the courtroom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 证人，[p/]请你向法庭陈述你的姓名与职业。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1635\",\n  \"keywords\": []\n}"
   },
   {
@@ -10768,36 +10768,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1637",
     "original": "ARIA: Witness![p/][s/] Name and occupation!",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 证人！[p/][s/]陈述姓名与职业！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1637\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1638",
     "original": "JAN: A-[p/][s/]Ah,[p/][s/] right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 啊、[p/][s/]啊，[p/][s/]明白。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1638\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1639",
     "original": "JAN: My name is Jan Hughes.[p/] I’m on the cleaning staff of the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 我叫简·休斯，[p/]是学院的清洁工。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1640",
     "original": "ARIA: …Mr. Hughes,[p/] please testify to the court about your encounter with the professor that day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……休斯女士，[p/]请你就当天与教授的相遇向法院作证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1640\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1641",
     "original": "JAN: …Sure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: ……好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_6-1641\",\n  \"keywords\": []\n}"
   },
   {
