@@ -5441,7 +5441,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-858",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "Tyrion: 法官阁下！[p/][s/] 很明显证人的证言有矛盾！",
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-858\",\n  \"keywords\": []\n}"
   },
@@ -5455,14 +5455,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-860",
     "original": "Judge: I fail to see how [i]that[/i] proves anything, Mr. Cuthbert...",
-    "translation": "Judge: 卡斯伯特先生....我没看出来这两者有什么关系",
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-861",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊-[p/]哦..[p/] 好像是这样的",
+    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-861\",\n  \"keywords\": []\n}"
   },
@@ -6610,7 +6610,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1033",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "Tyrion: 法官阁下！[p/][s/]很明显证人的证言存在矛盾！",
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1033\",\n  \"keywords\": []\n}"
   },
@@ -6624,14 +6624,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1035",
     "original": "Judge: I fail to see how [i]that[/i] proves anything, Mr. Cuthbert...",
-    "translation": "Judge: 卡斯伯特先生....我没看出来这两者有什么关系",
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1035\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1036",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊-[p/]哦……[p/] 好像是这样的。",
+    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1036\",\n  \"keywords\": []\n}"
   },
@@ -10019,7 +10019,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1529",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "Tyrion: 法官阁下！[p/][s/] 很明显证人的证言有矛盾！",
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1529\",\n  \"keywords\": []\n}"
   },
@@ -11069,8 +11069,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1684",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1684\",\n  \"keywords\": []\n}"
   },
   {
@@ -11083,15 +11083,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1686",
     "original": "Judge: I fail to see how [i]that[/i] proves anything, Mr. Cuthbert...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1686\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1687",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1687\",\n  \"keywords\": []\n}"
   },
   {
@@ -12728,8 +12728,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1930",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1930\",\n  \"keywords\": []\n}"
   },
   {
@@ -12742,15 +12742,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1932",
     "original": "Judge: I fail to see how [i]that[/i] proves anything, Mr. Cuthbert...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1932\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1933",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1933\",\n  \"keywords\": []\n}"
   },
   {
@@ -13351,8 +13351,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2024",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2024\",\n  \"keywords\": []\n}"
   },
   {
@@ -13365,15 +13365,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2026",
     "original": "Judge: I fail to see how [i]that[/i] proves anything, Mr. Cuthbert...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2026\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2027",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2027\",\n  \"keywords\": []\n}"
   },
   {
