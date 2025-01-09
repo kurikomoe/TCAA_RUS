@@ -30,7 +30,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-10",
     "original": "If she ever stops focusing her magic into it,[p/] the Kingsguard will be notified and they'll storm the building.",
-    "translation": "只要她停止输入魔力，[p/] 国王卫队就会立刻得知并攻占这里。",
+    "translation": "只要她停止输入魔力，[p/]国王卫队就会立刻得知并攻占这里。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Alley2.yarn-Check_Events_Alley2-10\",\n  \"keywords\": []\n}"
   },
@@ -44,7 +44,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-12",
     "original": "Tyrion: Yeah...[p/] Let's do this...",
-    "translation": "Tyrion: 嗯……[p/] 我们上吧……",
+    "translation": "Tyrion: 嗯……[p/]我们上吧……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Alley2.yarn-Check_Events_Alley2-12\",\n  \"keywords\": []\n}"
   },
@@ -86,7 +86,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-18",
     "original": "Tyrion: Alright.[p/] On three.",
-    "translation": "Tyrion: 好吧。[p/] 我数到3。",
+    "translation": "Tyrion: 好吧。[p/]我数到3。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Alley2.yarn-Check_Events_Alley2-18\",\n  \"keywords\": []\n}"
   },
@@ -219,7 +219,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-43",
     "original": "Theon: I wouldn't go [i]that[/i] far.[p/] But she was certainly acting strangely.",
-    "translation": "Theon: 我不想[i]过度解读[/i]。[p/] 但她的确是举止可疑。",
+    "translation": "Theon: 我不想[u]过度解读[/u]。[p/]但她的确是举止可疑。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-43\",\n  \"keywords\": []\n}"
   },
@@ -33637,7 +33637,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5073",
     "original": "Aria: ...And they've nominated my [i]father[/i] as the prosecutor for my trial.",
-    "translation": "Aria: ……他们指派我的[i]父亲[/i]来当本次审理的检察官。",
+    "translation": "Aria: ……他们指派我的[u]父亲[/u]来当本次审理的检察官。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5073\",\n  \"keywords\": []\n}"
   },
@@ -33672,85 +33672,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5078",
     "original": "Aria: Now...[p/] The only way for him to redeem House Steelwind is to convict me and sentence me to death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 如今……[p/]唯一能让父亲重振斯蒂尔文德家雄风的方法就是起诉我，判我死刑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5078\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5079",
     "original": "Celeste: B-[p/][s/]But,[p/] he's your [i]father[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但、[p/][s/]但是，[p/]他是你的[u]父亲[/u]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5079\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5080",
     "original": "Celeste: There's no way he would-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他不可能——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5080\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5081",
     "original": "Aria: ...This isn't the first time something like this has happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……这种事情不是第一次发生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5081\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5082",
     "original": "Aria: When I was a child,[p/] my mother accidentally overused her magic and induced Mageblight within herself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我还小的时候，[p/]母亲意外使用魔力过度，感染了法师之疫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5082\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5083",
     "original": "Aria: ...In her resulting psychotic episode,[p/] she massacred an [i]entire[/i] village of commoners.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……疾病发作时，[p/]母亲屠杀了[u]一整个[/u]村庄的平民。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5083\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5084",
     "original": "Tyrion: No...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5084\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5085",
     "original": "Aria: House Steelwind almost lost everything after that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 斯蒂尔文德家几乎承受了灭顶之灾。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5085\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5086",
     "original": "Aria: To redeem himself,[p/] my father personally oversaw my mother's trial...[p/] and her execution.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 为了救赎自己，[p/]我父亲亲自监管了母亲的审判……[p/]以及处刑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5086\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5087",
     "original": "Celeste: That's-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5087\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5088",
     "original": "Aria: My father values his duty to Wyverngarde over everything else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我父亲把自己对维文加德的职责看得比什么都重。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5088\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5089",
     "original": "Aria: Nothing matters more to him than that,[p/] not even his family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 即使是家人，[p/]重要性也不会在此之上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5089\",\n  \"keywords\": []\n}"
   },
   {
@@ -33763,8 +33763,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5091",
     "original": "Aria: I [i]want[/i] to have confidence in myself...[p/] But I don't know if I can face him like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我也[u]想[/u]对自己有信心……[p/]但我不知道自己能否这样面对他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5091\",\n  \"keywords\": []\n}"
   },
   {
@@ -33777,64 +33777,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5093",
     "original": "Remus: Mr. Cuthbert...[p/] What is [i]your[/i] stake in all of this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 卡斯伯特先生……[p/]这么做对[u]你[/u]有什么好处？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5093\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5094",
     "original": "Tyrion: What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5094\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5095",
     "original": "Remus: You hate the nobility, don't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 你不是痛恨贵族吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5095\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5096",
     "original": "Remus: So why are you so intent on helping Ms. Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 为什么这么想帮助斯蒂尔文德女士？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5096\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5097",
     "original": "Tyrion: Because she's innocent![p/][s/] I [i]know[/i] she is!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 可她是无辜的！[p/][s/]我[u]知道[/u]她是无辜的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5097\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5098",
     "original": "Tyrion: She would never be irresponsible enough to give herself Mageblight!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她绝不会对自己不负责任到感染法师之疫！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5098\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5099",
     "original": "Aria: Mr. Cuthbert...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 卡斯伯特先生……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5099\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5100",
     "original": "Tyrion: It doesn't matter if she's a noble or a commoner!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不管她是贵族还是平民都一样！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5100\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5101",
     "original": "Tyrion: She's being oppressed by the system and she [i]deserves[/i] a fair trial!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她[u]值得[/u]公平审理，不该这么被体系欺压！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5101\",\n  \"keywords\": []\n}"
   },
   {
@@ -33847,113 +33847,113 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5103",
     "original": "Remus: Well said.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 说得好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5103\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5104",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……啥？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5104\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5105",
     "original": "Remus: I,[p/] Remus Virgilae,[p/] hereby grant you the privilege to serve as Ms. Steelwind's counsel.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 我，[p/]雷穆斯·维吉莱，[p/]在此授予你担任斯蒂尔文德女士顾问的特权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5105\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5106",
     "original": "Tyrion: Wait...[p/][s/] Really?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/][s/]真的吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5107",
     "original": "Remus: I will be acting as the judge and arbiter of Ms. Steelwind's trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 审理斯蒂尔文德女士的法官将由我担任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5107\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5108",
     "original": "Remus: It is within my right to grant such permissions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 我有授予这些的权力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5108\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5109",
     "original": "Tyrion: Um...[p/][s/] Thank you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/][s/]感谢您！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5109\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5110",
     "original": "Tyrion: But why would you-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 可你为什么——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5110\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5111",
     "original": "Remus: ...Do you think I've made a mistake?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……你觉得我这么做不对？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5111\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5112",
     "original": "Tyrion: N-[p/][s/]No![p/][s/] Of course not!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不、[p/][s/]不！[p/][s/]当然没错！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5112\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5113",
     "original": "Tyrion: I'll serve as Steelwind's attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我会担任斯蒂尔文德的律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5113\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5114",
     "original": "Tyrion: ...If she will have me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……如果她允许。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5114\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5115",
     "original": "Aria: Of course.[p/] There's no one else I would trust more with this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 当然了。[p/]你是辩护方面我最信任的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5115\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5116",
     "original": "Aria: ...And please,[p/] you've done a lot for me already.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……你为我做了很多了，[p/]我也拜托你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5117",
     "original": "Aria: You don't have to be so formal.[p/] Please call me by my first name.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不要这么客气了。[p/]用名字称呼我吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5117\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5118",
     "original": "Aria: Celeste has already taken to doing that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 塞莱斯特已经这么做了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5118\",\n  \"keywords\": []\n}"
   },
   {
@@ -33966,8 +33966,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5120",
     "original": "Aria: ...But [i]since[/i] you'll be defending me,[p/] you'll probably need this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……[u]既然[/u]你要为我辩护，[p/]可能会需要这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5120\",\n  \"keywords\": []\n}"
   },
   {
@@ -34015,337 +34015,337 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5127",
     "original": "Remus: Then it's settled.[p/] We will hold the trial at my home:[p/] the city of Ladon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 就这么定了。[p/]审理举办地就定在我的住处：[p/]雷登城。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5127\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5128",
     "original": "Tyrion: \"Ladon\"...?[p/] I've never heard of that place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “雷登”……？[p/]我从没听说过这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5128\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5129",
     "original": "Remus: Speak with Lucio.[p/] He knows the location well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 找卢西奥问问。[p/]他很了解这个地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5129\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5130",
     "original": "Before you can ask any more questions,[p/] the Archduke leaves without a word.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在你来得及提问之前，[p/]大公爵一言不发离去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5130\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5131",
     "original": "Tyrion: ...He really has a bad habit of just walking away from conversations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么都不说就跑真是他的坏习惯啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5131\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5132",
     "original": "Tyrion: But I guess we should consider ourselves lucky.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我们大概应该庆幸自己运气好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5132\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5133",
     "original": "Tyrion: Even if it's unorthodox,[p/] this situation will let us approach this like any other trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 虽然和平常不同，[p/]但处理方法应该和其他审理一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5133\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5134",
     "original": "You had no idea what you were in for when you agreed to this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你还不知道自己置身何种境地，做出了什么承诺。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5134\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5135",
     "original": "And what proceeded next would be unlike any trial you've ever been in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "接下来要发生的事会和你经历过的任何审理都不一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5135\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5136",
     "original": "But even so,[p/] you persevered as you've always done in the name of justice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但即使如此，[p/]你也会一如往常为正义而战。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5136\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5137",
     "original": "...Regardless of what you'd have to sacrifice to do so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……不管你需要牺牲什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5137\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5138",
     "original": "Celeste: I've...[p/] killed people...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我……[p/]杀过人……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5138\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5139",
     "original": "Celeste: They were usually criminals or bandits.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 一般都是强盗劫匪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5139\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5140",
     "original": "Celeste: But it still frightened me how unaffected I was by their deaths.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 想起自己对死亡无动于衷，我还是会震惊一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5140\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5141",
     "original": "Celeste: It always came so easily to me.[p/] I was good at it...[p/] a little [i]too[/i] good.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 杀人对我来说太容易了。[p/]我有点……优秀[u]过头[/u]了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5141\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5142",
     "original": "Celeste: People told me that taking the lives of others would be hard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 人们都说夺走他人性命会很难受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5142\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5143",
     "original": "Celeste: But I never felt that uneasiness...[p/] Not even once...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但我从没觉得不适……[p/]一次都没有……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5143\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5144",
     "original": "Celeste: It made me think that I was some kind of unfeeling monster...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这让我觉得自己是什么无情的怪物……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5144\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5145",
     "original": "Celeste: And...[p/] maybe I [i]am[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……也许……[p/]我[u]就是[/u]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5145\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5146",
     "original": "Celeste: But the time I spent with you,[p/] it filled me with more happiness than I could have ever dreamed of.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我做梦都没想过，[p/]和你在一起时会有这么开心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5146\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5147",
     "original": "Celeste: Instead of taking lives,[p/] I could save them alongside you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 和你一起我不用致人死地，[p/]反而可以救人性命。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5147\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5148",
     "original": "Celeste: It felt good to protect you.[p/] I felt needed when I knew you were relying on me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 保护你的感觉很好。[p/]被你依靠让我感觉自己还是被需要的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5148\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5149",
     "original": "Celeste: It made me feel like I was actually worth something to someone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 让我觉得在有些人心里我还是重要的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5149\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5150",
     "original": "Celeste: And whenever I saw the light in your eyes,[p/] it filled my heart with a warm feeling that I've never felt before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看见你眼睛里的光，[p/]我的心里也涌现从未感受过的温暖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5150\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5151",
     "original": "Celeste: ...But it was too good to be true, wasn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……好到不真实了，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5151\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5152",
     "original": "Celeste: In the end,[p/] I failed you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 到了最后，[p/]我辜负了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5152\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5153",
     "original": "Celeste: I couldn't protect you.[p/] Just like I couldn't protect my father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我保护不了你。[p/]就像我保护不了自己的父亲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5154",
     "original": "Celeste: I don't understand...[p/] What did you ever see in someone like me...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不明白……[p/]你从我身上看到了什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5154\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5155",
     "original": "Celeste: I...[p/] I really [i]don't[/i] understand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我……[p/]我[u]真的[/u]不明白。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5155\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5156",
     "original": "Celeste: Why would you go this far for me?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 为什么要为我做这么多？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5156\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5157",
     "original": "Tyrion: ...It's good to see you too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我也很高兴遇见你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5157\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5158",
     "original": "Tyrion: Ow![p/][s/] What was that for?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哎哟！[p/][s/]这是干什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5158\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5159",
     "original": "Celeste: You [i]know[/i] what it's for, you jerk!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你自己明白！你个坏蛋！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5159\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5160",
     "original": "Celeste: I literally had to sign my soul away to [i]hell[/i] to keep you alive!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 为了让你活下去，[p/]我把灵魂献给[u]地狱[/u]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5160\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5161",
     "original": "Celeste: And you just [i]threw[/i] your life away?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你就又把这条命[u]丢掉[/u]了？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5161\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5162",
     "original": "Tyrion: What else was I supposed to do?![p/][s/] Should I have just [i]let[/i] Lucio kill you?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我还能怎么办？！[p/][s/]我就该[u]任由[/u]卢西奥杀了你？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5162\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5163",
     "original": "Celeste: [i]Yes[/i]![p/][s/] That's [i]exactly[/i] what you should have done!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: [u]对[/u]！[p/][s/]你就应该[u]这么[/u]做！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5164",
     "original": "Celeste: It's a lot better than gambling away your life!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 比赌上你自己的命好多了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5165",
     "original": "Tyrion: I was never going to go along with that!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我绝对不会这么干！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5165\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5166",
     "original": "Tyrion: Do you even [i]know[/i] me?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你真的[u]了解[/u]我？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5166\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5167",
     "original": "Celeste: Oh my god![p/][s/] [i]This[/i] is why I couldn't tell you the truth!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 老天爷啊！[p/][s/][u]所以[/u]我才没有跟你说实话！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5167\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5168",
     "original": "Celeste: Because I knew you'd do something [i]stupid[/i] like this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 因为我知道你会做这种[u]蠢事[/u]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5168\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5169",
     "original": "Tyrion: You [i]know[/i] I always get to the truth in the end!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你[u]知道[/u]我最后总能找出真相！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5169\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5170",
     "original": "Tyrion: All you did was make that process [i]extremely[/i] frustrating!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你做的事只是让这个过程[u]极度[/u]费力！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5170\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5171",
     "original": "Celeste: ...I could've gotten away with it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我本来可以脱身的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5171\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5172",
     "original": "Tyrion: You can't even beat me at chess.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你连国际象棋都下不赢我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5172\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5173",
     "original": "Tyrion: How are you going to hide a murder from me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 怎么可能瞒过我杀人？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5173\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5174",
     "original": "Celeste: Oh,[p/][s/] you-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唉、[p/][s/]你——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth2-5174\",\n  \"keywords\": []\n}"
   },
   {
@@ -34365,8 +34365,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5177",
     "original": "Celeste: Tyrion...[p/] I killed Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂……[p/]我杀了皮尔斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5177\",\n  \"keywords\": []\n}"
   },
   {
@@ -34379,43 +34379,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5179",
     "original": "Tyrion: I know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5179\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5180",
     "original": "Celeste: At first,[p/] I tried to justify it by saying he would die in one month anyways...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 一开始，[p/]我以他还有一个月就要死了为理由，[p/]试图正当化自己的行为……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5180\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5181",
     "original": "Celeste: And what's [i]his[/i] life when compared to yours, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 毕竟[u]他的[/u]命怎么能和你比呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5181\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5182",
     "original": "Celeste: ...But when I looked at him just [i]lying[/i] there unconscious,[p/] I just got so angry.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……可当看向[u]躺[/u]在地上失去意识的他，我突然愤怒至极。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5182\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5183",
     "original": "Celeste: So I woke him up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我把他叫醒了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5183\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5184",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth3-5184\",\n  \"keywords\": []\n}"
   },
   {
