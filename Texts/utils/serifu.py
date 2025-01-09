@@ -69,7 +69,10 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
         tmp = []
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
             keywords: List[Any] = []
-            if line_id in sp_case.options:
+
+            if line_id in sp_case.load_talk:
+                keywords.append("对话选项")
+            elif line_id in sp_case.options:
                 keywords.append("选项文本")
 
             if line_id in sp_case.any_prompt:

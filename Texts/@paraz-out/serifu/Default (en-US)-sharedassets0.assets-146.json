@@ -3593,7 +3593,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-528",
     "original": "Mosourika: He's...[p/] dead.",
-    "translation": "Mosourika: 他……[p/] 去世了。",
+    "translation": "Mosourika: 他……[p/]去世了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-528\",\n  \"keywords\": []\n}"
   },
@@ -3957,7 +3957,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-584",
     "original": "Tyrion: The greens add a fresh and rustic ambiance to the restaurant.",
-    "translation": "Tyrion: 翠绿的植物给旅店添加了一丝新鲜质朴的氛围。",
+    "translation": "Tyrion: 翠绿的植物给咖啡店添加了一丝新鲜质朴的氛围。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Examine_Cafe-584\",\n  \"keywords\": []\n}"
   },
@@ -3978,14 +3978,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-589",
     "original": "Tyrion: There's a shelf full of drinks,[p/] mugs,[p/] cream,[p/] and sugar behind the restaurant counter.",
-    "translation": "Tyrion: 这里有一架子的饮品，[p/]杯子，[p/]奶油，[p/]砂糖都放在柜台后面。",
+    "translation": "Tyrion: 在餐厅柜台后面有一个架子，上面放满了饮料、[p/]杯子、[p/]奶油[p/]和糖。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Examine_Cafe-589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-590",
     "original": "Tyrion: This must be where they prepare coffee to be served.",
-    "translation": "Tyrion: 这里是准备咖啡的地方。",
+    "translation": "Tyrion: 这里一定是他们准备咖啡的地方。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Examine_Cafe-590\",\n  \"keywords\": []\n}"
   },
@@ -5427,7 +5427,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-821",
     "original": "Tyrion: This must be where they prepare coffee to be served.",
-    "translation": "Tyrion: 这里一定是他们准备咖啡供应的地方。",
+    "translation": "Tyrion: 这里一定是他们准备咖啡的地方。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe2.yarn-Examine_Cafe2-821\",\n  \"keywords\": []\n}"
   },
@@ -5469,183 +5469,183 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-830",
     "original": "Tyrion: Hm...[p/] I really wanted to go into detail about what she saw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 嗯……[p/]我很想详细了解一下她所看见的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe2.yarn-Check_Events_Cafe2-830\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-831",
     "original": "Tyrion: But it looks like we'll have to go somewhere else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但看来我们只能去其他地方了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe2.yarn-Check_Events_Cafe2-831\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-833",
     "original": "Tyrion: There are some barrels stacked in the corner here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 角落里有些木桶叠在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-834",
     "original": "Celeste: I wonder what's inside.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我很好奇里面是什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-835",
     "original": "Celeste: Wait...[p/] Rika.[p/] You wouldn't happen to have Lotus Juice, do you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等等……[p/]里卡，[p/]你该不会有莲之水吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-836",
     "original": "Mosourika: \"Lotus Juice\"? [p/] What's that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: “莲之水”？ [p/]那是什么东西？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-837",
     "original": "Celeste: *sigh*[p/] Never mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: *叹气*[p/]没什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-838",
     "original": "Tyrion: What happened to the Lotus Juice that you \"received\" from Miriam?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你从米莉亚姆那“收到”的莲之水怎么样了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-838\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-839",
     "original": "Celeste: I drank all of it…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我全部喝掉了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-840",
     "original": "Already...?[p/] It hasn't even been a month.",
-    "translation": "",
-    "stage": 0,
+    "translation": "已经喝掉了？[p/]还没过去一个月呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-842",
     "original": "Tyrion: This table looks [i]really[/i] well-made.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这张桌子做的[i]很[/i]不错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-842\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-843",
     "original": "Mosourika: You like it?[p/] I commissioned a local carpenter to have my tables custom-made.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你喜欢它吗？[p/]我委托了一个当地的木匠为我定制桌子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-844",
     "original": "Celeste: It was probably worth it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 还是很值的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-845",
     "original": "Celeste: They fit with the humble and rustic vibe you've got going on here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 它们与这里质朴的氛围很搭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-845\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-847",
     "original": "Rika seems to have decorated the entire café with several plants and flowers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "里卡用几株植物和花装饰了整个咖啡厅。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-848",
     "original": "The greens add a fresh and earthy ambiance to the restaurant.",
-    "translation": "",
-    "stage": 0,
+    "translation": "翠绿的植物给咖啡店添加了一丝新鲜质朴的氛围。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-848\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-850",
     "original": "There are artificer lights hanging from the ceiling.",
-    "translation": "",
-    "stage": 0,
+    "translation": "有精巧的人造灯具悬挂在天花板上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-851",
     "original": "Tyrion: Your business must be doing pretty well if you can afford artificery like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 能负担得起像这样的奥术能源，你的生意一定很好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-851\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-852",
     "original": "Mosourika: That's just one of the benefits I get from working with the Dracogen Trading Company.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 这只是我与德拉科根贸易公司合作所获得的好处之一。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-852\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-853",
     "original": "Mosourika: Most of the merchants equip all of their businesses with artificery networks now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 大多数商人现在都为他们的生意配备了奥术能源。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-855",
     "original": "There's a shelf full of drinks,[p/] mugs,[p/] and sugar behind the restaurant counter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在餐厅柜台后面有一个架子，上面放满了饮料、[p/]杯子、[p/]奶油[p/]和糖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-855\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-856",
     "original": "This must be where Rika's employees prepare coffee to be served.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这里一定是里卡的员工准备咖啡的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-856\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-859",
     "original": "Mosourika: So...[p/] Are you going to introduce us?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 所以……[p/]你会介绍我们吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-860",
     "original": "Tyrion: Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-861",
     "original": "Tyrion: This is Celeste McCoy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这位是塞莱斯特·麦考伊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-861\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-862",
     "original": "Tyrion: ...She's my bodyguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她是我的贴身护卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-862\",\n  \"keywords\": []\n}"
   },
   {
@@ -22019,7 +22019,7 @@
     "original": "What happened to the guard rail before Justin fell?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3386\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3386\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3387",
@@ -22075,7 +22075,7 @@
     "original": "What was Mosourika doing?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3394\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3394\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3395",
@@ -22124,7 +22124,7 @@
     "original": "What was Aster doing?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3401\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3401\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3402",
@@ -22166,7 +22166,7 @@
     "original": "Was the guard rail extremely rusted before it broke?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3407\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3407\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3408",
@@ -23552,7 +23552,7 @@
     "original": "Mosourika Tudor is lying.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3615\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3615\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3616",
@@ -23608,7 +23608,7 @@
     "original": "Noah Morrison is lying.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3623\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3623\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3624",
@@ -23643,7 +23643,7 @@
     "original": "They're both lying.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3628\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3628\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3629",
@@ -23678,7 +23678,7 @@
     "original": "They're both telling the truth.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3633\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaElim-3633\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3634",
@@ -23860,7 +23860,7 @@
     "original": "Justin survived the accident.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaPoss-3659\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaPoss-3659\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3660",
@@ -23895,14 +23895,14 @@
     "original": "Another person fell into the vat.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaPoss-3664\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaPoss-3664\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3665",
     "original": "Justin didn't fall into the vat.",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaPoss-3665\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaPoss-3665\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3666",
@@ -28606,28 +28606,28 @@
     "original": "Player: Justin Waye",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-12\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-12\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-23",
     "original": "Player: Lockpicking and Safe-Cracking",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-23\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-23\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-34",
     "original": "Player: Justin's Debt",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-34\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-34\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-52",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-52\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-52\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-53",
@@ -28732,56 +28732,56 @@
     "original": "Player: Justin's Friends (ARGUMENT)",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-592\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-592\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-593",
     "original": "Player: Where are the delinquents?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-593\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-593\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-615",
     "original": "Player: Why were you at the refinery?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-615\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-615\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-626",
     "original": "Player: Justin's Behaviour",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-626\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-626\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-636",
     "original": "Player: What did you see?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-636\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-636\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-657",
     "original": "Player: Justin Waye",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-657\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-657\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-679",
     "original": "Player: Justin's \"Bad Crowd\"",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-679\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-679\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-694",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-694\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-694\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-695",
@@ -28907,7 +28907,7 @@
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe2.yarn-Talk_Cafe2-823\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe2.yarn-Talk_Cafe2-823\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-824",
@@ -28963,49 +28963,49 @@
     "original": "Player: Celeste McCoy",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-858\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-858\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-880",
     "original": "Player: Tyrion Cuthbert",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-880\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-880\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-895",
     "original": "Player: Rika's Café",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-895\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-895\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-912",
     "original": "Player: Aurinax City",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-912\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-912\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-926",
     "original": "Player: The Chess Tournament",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-926\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-926\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-944",
     "original": "Player: The \"Thing\"",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-944\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-944\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-975",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-975\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-975\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-976",
@@ -29411,35 +29411,35 @@
     "original": "Player: The Accident",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-1975\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-1975\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1990",
     "original": "Player: The Victim",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-1990\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-1990\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2009",
     "original": "Player: The Walkway",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2009\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2009\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2020",
     "original": "Player: Witnesses",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2020\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2020\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2041",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2041\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2041\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2042",
@@ -29551,21 +29551,21 @@
     "original": "Player: The Trial",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2195\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2195\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2209",
     "original": "Player: Vat Contents",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2209\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2209\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2226",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2226\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2226\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2227",
@@ -29691,42 +29691,42 @@
     "original": "Player: What did you see?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2397\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2397\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2416",
     "original": "Player: The Guard Rail",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2416\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2416\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2427",
     "original": "Player: Your \"Patron\"",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2427\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2427\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2438",
     "original": "Player: The Blockade",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2438\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2438\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2453",
     "original": "Player: \"Aster\"",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2453\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2453\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2465",
     "original": "Player: Back",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2465\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2465\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2466",
@@ -29810,35 +29810,35 @@
     "original": "Player: \"Aster\"",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2822\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2822\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2842",
     "original": "Player: The Accident",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2842\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2842\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2861",
     "original": "Player: The \"Way He Fell\"",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2861\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2861\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2884",
     "original": "Player: Are You a Mage?",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2884\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2884\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2920",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2920\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2920\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2921",
@@ -29922,21 +29922,21 @@
     "original": "Player: The Investigation",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-2992\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-2992\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3027",
     "original": "Player: Next Lead",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-3027\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-3027\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3065",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-3065\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-3065\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3066",
@@ -30062,21 +30062,21 @@
     "original": "Player: The Investigation",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3159\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3159\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3192",
     "original": "Player: Next Lead",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3192\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3192\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3214",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3214\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3214\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3215",
@@ -30251,35 +30251,35 @@
     "original": "Player: The Trial",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3779\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3779\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3801",
     "original": "Player: Aria Steelwind",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3801\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3801\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3818",
     "original": "Player: Missing Attendant",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3818\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3818\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3834",
     "original": "Player: Von Sanctus Industries",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3834\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3834\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3848",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3848\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3848\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3849",
@@ -30412,56 +30412,56 @@
     "original": "Player: Metallic Shards",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4125\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4125\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4184",
     "original": "Player: The Investigation",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4184\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4184\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4195",
     "original": "Player: Magical Traces",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4195\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4195\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4205",
     "original": "Player: A Second Body",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4205\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4205\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4229",
     "original": "Player: Vat Liquid",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4229\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4229\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4240",
     "original": "Player: Crown Prince Aster",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4240\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4240\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4257",
     "original": "Player: Aria Steelwind",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4257\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4257\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4275",
     "original": "Player: BACK",
     "translation": "",
     "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4275\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4275\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4276",

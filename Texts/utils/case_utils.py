@@ -109,6 +109,8 @@ def IsAnyPrompt(inst: pb.Instruction) -> bool:
     return CheckCmd(inst, "PresentPrompt") \
         or CheckCmd(inst, "InterpretPrompt")
 
+def isLoadTalk(inst: pb.Instruction) -> bool:
+    return CheckCmd(inst, "LoadTalk")
 
 def IsShowOptions(inst: pb.Instruction) -> bool:
     return inst.opcode == pb.Instruction.SHOW_OPTIONS
@@ -147,6 +149,8 @@ class DeductionGroup:
 class SpecialCase:
     options: List[str] = field(default_factory=list)
     any_prompt: List[str] = field(default_factory=list)  # These translations should not be included
+
+    load_talk: List[str] = field(default_factory=list)  # These translations should not be included
 
     deduction: Dict[str, DeductionGroup] = field(default_factory=dict)
 
@@ -195,6 +199,18 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
                     sp_case.any_prompt.append(text_id)
             elif IsShowOptions(inst):
                 FLAG_AnyPrompt = False
+
+    # Process LoadTalk
+    for node_name, node in program.nodes.items():
+        FLAG_LoadTalk = False
+        for inst_idx, inst in enumerate(node.instructions):
+            if isLoadTalk(inst):
+                FLAG_LoadTalk = True
+            elif (text_id := ExtractAddOption(inst)):
+                if FLAG_LoadTalk:
+                    sp_case.load_talk.append(text_id)
+            elif IsShowOptions(inst):
+                FLAG_LoadTalk = False
 
     # process deduction
     ## Phase 1: Check Deduction Target Nodes
