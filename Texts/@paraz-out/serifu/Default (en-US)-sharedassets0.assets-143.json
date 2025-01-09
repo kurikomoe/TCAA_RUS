@@ -1836,7 +1836,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-326",
     "original": "Remus: ...",
-    "translation": "Remus: ...",
+    "translation": "Remus: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Present_Cathedral1-326\",\n  \"keywords\": []\n}"
   },
@@ -1885,7 +1885,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-334",
     "original": "Remus: ...",
-    "translation": "Remus: ...",
+    "translation": "Remus: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Present_Cathedral1-334\",\n  \"keywords\": []\n}"
   },
@@ -2018,7 +2018,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-355",
     "original": "Remus: ...",
-    "translation": "Remus: ...",
+    "translation": "Remus: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-355\",\n  \"keywords\": []\n}"
   },
@@ -3936,7 +3936,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-655",
     "original": "Aster: Mr. Cuthbert and Ms. McCoy.[p/] I'm surprised to see you here.",
-    "translation": "Aster: 卡斯伯特先生，麦考伊小姐。[p/]很高兴见到你们。",
+    "translation": "Aster: 卡斯伯特先生，麦考伊女士。[p/]很高兴见到你们。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-655\",\n  \"keywords\": []\n}"
   },
@@ -4237,7 +4237,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-703",
     "original": "Aster: Ah, Ms. McCoy.[p/] It's nice to see you again.",
-    "translation": "Aster: 啊，麦考伊小姐。[p/]很高兴又见面了。",
+    "translation": "Aster: 啊，麦考伊女士。[p/]很高兴又见面了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Present_CathedralIntro-703\",\n  \"keywords\": []\n}"
   },
@@ -21002,7 +21002,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3222",
     "original": "Rath: ...Ms. McCoy.",
-    "translation": "Rath: ……麦考伊小姐。",
+    "translation": "Rath: ……麦考伊女士。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj15-3222\",\n  \"keywords\": []\n}"
   },
@@ -21779,7 +21779,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3333",
     "original": "Rath: Ms. McCoy.[p/] Please take the stand.",
-    "translation": "Rath: 麦考伊小姐。[p/]请上证人席。",
+    "translation": "Rath: 麦考伊女士。[p/]请上证人席。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj20-3333\",\n  \"keywords\": []\n}"
   },
@@ -27008,7 +27008,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4100",
     "original": "Aster: Ms. McCoy...![p/] Think about this...",
-    "translation": "Aster: 麦、麦考伊……！[p/]仔细想想……",
+    "translation": "Aster: 麦考伊女士……！[p/]仔细想想……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj26-4100\",\n  \"keywords\": []\n}"
   },
@@ -28275,99 +28275,99 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4281",
     "original": "Celeste: What do you mean, she's gone?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你说她走了是什么意思？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4281\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4282",
     "original": "Celeste: She was [i]just[/i] here!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 她[i]刚刚[/i]还在这儿！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4282\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4283",
     "original": "Knight: I-[p/][s/]I'm sorry, Your...[p/] Grace?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: 我、[p/][s/]我很抱歉，殿……[p/]殿下？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4283\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4284",
     "original": "You may not know what the future has in store for the two of you.[p/] But perhaps that's okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然还不知道未来有什么等着你们俩，[p/]但也许没什么大不了的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4284\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4285",
     "original": "You have a feeling that as long as you have her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "感觉只要她在你身边……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4285\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4286",
     "original": "No...[p/] As long as you have [i]everyone[/i],[p/] you can begin forging your own path.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]只要[i]大家[/i]都在你身边，[p/]你就能开始走出自己的路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4287",
     "original": "A path that is completely chosen by you this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一条完全由你自己抉择的路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4287\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4288",
     "original": "Celeste: Damn it, Aria...[p/] Where are you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 该死，阿莉亚……[p/]你去哪儿了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4288\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4289",
     "original": "Remus: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4290",
     "original": "Celeste: O-[p/][s/]Oh...![p/] H-[p/][s/]Hello.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 噢、[p/][s/]噢……！[p/]你、[p/][s/]你好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4290\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4291",
     "original": "Remus: Ah...[p/] My apologies.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 啊……[p/]失礼了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj33-4291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4292",
     "original": "Remus: I didn't mean to frighten you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 我不是要故意吓你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4292\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4293",
     "original": "Celeste: N-[p/][s/]No...[p/] It's fine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不、[p/][s/]不用……[p/]没事的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4294",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4294\",\n  \"keywords\": []\n}"
   },
   {
@@ -28380,50 +28380,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4296",
     "original": "Remus: ...You're looking for Ms. Steelwind, aren't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……你在找斯蒂尔文德女士，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4296\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4297",
     "original": "Celeste: Yeah![p/][s/] How'd you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 对！[p/][s/]你怎么知道？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4297\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4298",
     "original": "Remus: ...She's been sitting outside my lair for a while.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……她在我的巢穴外面坐了有一会儿了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4298\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4299",
     "original": "Remus: I...[p/] [i]tried[/i] speaking to her,[p/] but...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 我……[p/][i]试着[/i]和她交谈，[p/]但是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4299\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4300",
     "original": "Celeste: Yeah...[p/] I get it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗯……[p/]我明白。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4300\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4301",
     "original": "Celeste: I'm going to try talking to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我会试着和她聊聊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4301\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4302",
     "original": "Remus: O-[p/][s/]Of course...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 当、[p/][s/]当然了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4302\",\n  \"keywords\": []\n}"
   },
   {
@@ -28436,120 +28436,120 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4304",
     "original": "Celeste: Rathallion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 拉萨利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4304\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4305",
     "original": "Remus: Yes...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 我在……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4305\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4306",
     "original": "Celeste: I'm not mad at you, you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我并不生你的气，明白吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4306\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4307",
     "original": "Remus: What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4307\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4308",
     "original": "Celeste: I'm not sure [i]why[/i] you left me at the McCoy Tavern...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不知道你[i]为什么[/i]把我留在麦考伊酒馆……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4308\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4309",
     "original": "Celeste: But because of that,[p/] I got to be raised by my mom and dad.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但也正因此，[p/]我才能被自己现在的父母抚养长大。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4309\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4310",
     "original": "Celeste: And if I didn't live there,[p/] I would've never met Tyrion or Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 如果没有住在那里，[p/]我也永远不会遇见提利昂或阿莉亚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4310\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4311",
     "original": "Celeste: I could never be mad about you giving me a life like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不会因为你给我这种人生而责怪你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4311\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4312",
     "original": "Celeste: Plus![p/][s/] Now I know that I'm half-[i]dragon[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 再说了！[p/][s/]我现在知道自己是半[i]龙[/i]人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4312\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4313",
     "original": "Celeste: That's pretty cool, isn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这也太酷炫了不是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4313\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4314",
     "original": "Remus: Ms. McCoy...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 麦考伊女士……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4314\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4315",
     "original": "Celeste: Don't be so formal![p/] I'm technically your daughter, aren't I?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别这么见外呀！[p/]我不是你的女儿吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4315\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4316",
     "original": "Remus: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4316\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4317",
     "original": "Remus: R-[p/][s/]Right...[p/] Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 对、[p/][s/]对的……[p/]塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj34-4317\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4318",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4318\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4319",
     "original": "Remus: So...[p/] I've been meaning to ask...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 所以……[p/]我一直想问……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4319\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4320",
     "original": "Remus: About you and Mr. Cuthbert...[p/] Are you two-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 你和卡斯伯特先生……[p/]是不是在——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4320\",\n  \"keywords\": []\n}"
   },
   {
@@ -28562,85 +28562,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4322",
     "original": "Celeste: Oh, wow![p/] [i]Look[/i] at how late it is!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 噢，哇噻！[p/]怎么这么晚啦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4323",
     "original": "Celeste: I'd better go talk to Aria, [i]right now[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我现在！就得去找阿莉亚！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4324",
     "original": "Celeste: I'll see you later, Scaled Dad![p/][s/] I-[p/][s/]I mean,[p/][s/] Scaled-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 之后见，鳞甲老爸！[p/][s/]我、[p/][s/]我是说！[p/][s/]鳞甲——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4324\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4325",
     "original": "Celeste: Agh![p/][s/] Just-![p/][s/] Bye!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哎呀！[p/][s/]不是——！[p/][s/]拜拜！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4325\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4326",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4326\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4327",
     "original": "Remus: She called herself my \"daughter\"...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 她说自己是我的“女儿”……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4328",
     "original": "Remus: Hmph...[p/] I suppose I understand how you feel now, Lucio.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 唔……[p/]我现在理解你的感受了，卢西奥。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4329",
     "original": "Celeste: ...Hey, Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……嘿，阿莉亚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4330",
     "original": "Aria: Oh, Celeste.[p/] What are you doing here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 噢，塞莱斯特。[p/]你来这儿干嘛？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4331",
     "original": "Celeste: Just making sure you're doing okay...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 就是想看看你有没有事……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4332",
     "original": "Celeste: You [i]are[/i] doing okay, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你[i]真的[/i]没事吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4332\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4333",
     "original": "Aria: I am.[p/] There's no need to worry about me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我没事。[p/]没有必要担心我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4333\",\n  \"keywords\": []\n}"
   },
   {
@@ -28653,323 +28653,323 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4335",
     "original": "Celeste: You're looking up at the sky.[p/] Are you looking at the stars?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你在抬头看天。[p/]是在看星星吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4336",
     "original": "Aria: I was looking at the moon.[p/] It's full tonight.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我在看月亮。[p/]今晚是满月。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4337",
     "original": "Celeste: ...Do you mind if I watch it with you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我能和你一起看吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4337\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4338",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4338\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4339",
     "original": "Aria: Do what you want.[p/] I technically take orders from you now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 请便。[p/]我现在理论上要听你指挥。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4340",
     "original": "Celeste: ...You know.[p/] It was also a full moon outside on the night my parents found me in their inn.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……你知道吗。[p/]我的父母在酒馆里捡到我时也是满月之夜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj35-4340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4341",
     "original": "Celeste: That's why they named me \"Celeste\".[p/] It's the word for \"heavenly bodies\" in the draconic language.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 所以他们才给我起名“塞莱斯特”。[p/]龙语里的意思是“天上的星星”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4341\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4342",
     "original": "Aria: ...Is that so?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4343",
     "original": "Celeste: Yeah...[p/] They told me they thought I was a gift from the Scaled Lord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 对……[p/]他们说，当时觉得我是来自鳞甲领主的礼物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4343\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4344",
     "original": "Celeste: In a roundabout way,[p/] they were actually kind of right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 绕了这么一大圈，[p/]他们反而说到点上了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4344\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4345",
     "original": "Celeste: It's a little funny when you think about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 想想还挺好玩儿呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4346",
     "original": "Celeste: ...By the way,[p/] I never got to thank you for sticking up for me before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……顺便一提，[p/]我一直没机会感谢你为我挺身而出。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4347",
     "original": "Aria: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4347\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4348",
     "original": "Celeste: Remember?[p/] You [i]jumped[/i] onto the stand when Tyrion manifested my Blood Contract.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 记得吗？[p/]你在提利昂昭示我的血契时[i]跳上[/i]了证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4348\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4349",
     "original": "Celeste: Not that I blame him,[p/] but I don't think even [i]he[/i] believed in me at that point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不怪他，[p/]但我觉得那时就连[i]他[/i]都不相信我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4350",
     "original": "Celeste: If you'd never done that,[p/] who [i]knows[/i] how this could have ended up?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 如果不是你，[p/]谁知道事情会怎么收场？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4351",
     "original": "Celeste: I really appreciated you doing that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我真的很感谢你这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4352",
     "original": "Celeste: You're...[p/] a [i]really[/i] good person, Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你是……[p/]一个[i]很好[/i]的人，阿莉亚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4352\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4353",
     "original": "Aria: I was merely doing what I thought was right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我只是在做我认为正确的事情……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4353\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4354",
     "original": "Celeste: Yeah...[p/] I guess that's what you've always done.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是的……[p/]你一直是这么做的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4354\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4355",
     "original": "Celeste: You're...[p/] not [i]really[/i] going to charge me with perjury, are you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你……[p/]不会[i]真的[/i]要起诉我伪证罪吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4356",
     "original": "Aria: Of course I am.[p/] I was serious about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我当然会。[p/]我很严肃的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4357",
     "original": "Celeste: Damn it...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 该死……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4358",
     "original": "Aria: But we [i]do[/i] require your help to hold the structure of our kingdom together.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但我们也[i]的确[/i]需要你的帮助来让王国结构完整。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4359",
     "original": "Aria: We won't sentence you to prison,[p/] but I might have you do some community service.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我们不会让你服刑，[p/]但你可能要做点社区服务。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4360",
     "original": "Celeste: Ugh...[p/] Fine...[p/] I guess I can live with that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 呜呜……[p/]好吧……[p/]这我还是能做到的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4360\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4361",
     "original": "Aria: My father told me I was being too lenient.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 父亲说我太仁慈了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4362",
     "original": "Aria: But I can understand the position you were put in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但我能理解你的处境。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4363",
     "original": "Aria: We all do stupid things for love, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 毕竟我们都为爱做了愚蠢的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4363\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4364",
     "original": "Aria: ...........stupid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ………………愚蠢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4364\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4365",
     "original": "Celeste: Aria...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 阿莉亚……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4366",
     "original": "Aria: H-[p/][s/]How...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我、[p/][s/]我怎么……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4366\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4367",
     "original": "Aria: ...How could I be so [i]stupid[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……我怎么会这么[i]愚蠢[/i]？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4368",
     "original": "Celeste: H-[p/][s/]Hey...[p/][s/] You're not-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 喂、[p/][s/]喂……[p/][s/]你并不——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4369",
     "original": "Aria: I am![p/][s/] I'm a complete and utter fool!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我蠢！[p/][s/]我就是个彻头彻尾的大笨蛋！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4370",
     "original": "Aria: I [i]knew[/i] about Blood Contracts after what happened to Beatrice!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 比亚特丽丝的事情之后，我是[i]知道[/i]血契存在的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4370\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4371",
     "original": "Aria: I'm an [i]attorney[/i], for Lord's sake!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我是个[i]检察官[/i]，巨龙在上！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4371\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4372",
     "original": "Aria:  I've read [i]countless[/i] legal documents!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我读过[i]无数[/i]法律文件！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4372\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4373",
     "original": "Aria: And when I signed that Contract,[p/] I [i]knew[/i] something was wrong!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 签订契约的时候，[p/]我[i]知道[/i]哪里不对！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4373\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4374",
     "original": "Aria: But I was just so [i]stupidly[/i] happy!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但我开心到[i]犯蠢[/i]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4374\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4375",
     "original": "Celeste: That's not fair.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这么说对你不公平。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4375\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4376",
     "original": "Celeste: No [i]one[/i] could have expected him to do something like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: [i]没有人[/i]能预料到他会做这种事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4376\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4377",
     "original": "Aria: Now my father...[p/] h-[p/][s/]he's going to pay for my [i]stupid[/i] mistakes!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 现在我的父亲……[p/]他、[p/][s/]他要为了我的愚蠢而献身！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4378",
     "original": "Celeste: ...I'm sorry.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……我很抱歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4378\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4379",
     "original": "Aria: Celeste.[p/] Why did I trust him so much?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 塞莱斯特。[p/]我怎么会这么信任他？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4379\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4380",
     "original": "Aria: He used me like a puppet...[p/] With [i]my[/i] hands and [i]my[/i] magic,[p/] he made me-[p/][s/]...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他把我当成一个傀儡……[p/]用[i]我的[/i]魔法和[i]我的[/i]双手，[p/]操控我——[p/][s/]……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4380\",\n  \"keywords\": []\n}"
   },
   {
@@ -28982,176 +28982,176 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4382",
     "original": "Celeste: I'm sorry, Aria.[p/] I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我很抱歉，阿莉亚。[p/]我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4382\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4383",
     "original": "Celeste: What he did to you was horrible,[p/] and I don't know how to make it better.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他对你做的事糟糕透顶，[p/]我也不知道该怎么办。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4383\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4384",
     "original": "Celeste: But you're not alone, okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但你不是一个人，明白吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4384\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4385",
     "original": "Celeste: It's not just me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不光是我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4385\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4386",
     "original": "Celeste: Tyrion,[p/] your father,[p/] we're all here for you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，[p/]你的父亲，[p/]我们都会陪着你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4386\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4387",
     "original": "Celeste: So please don't shut off your emotions from us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 求求你不要对我们封闭自己的心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4387\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4388",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4388\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4389",
     "original": "Aria: ...Thank you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……谢谢你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4389\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4390",
     "original": "Aria: Celeste...[p/] I think I've made a decision.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 塞莱斯特……[p/]我决定好了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4390\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4391",
     "original": "Celeste: What's that...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是指……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4391\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4392",
     "original": "Aria: ...I'm going to drop the charges of perjury against you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……我不会起诉你的伪证罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4392\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4393",
     "original": "Celeste: Wait...[p/] Are we still on that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不是……[p/]还在说这个？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4393\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4394",
     "original": "Remus: Mr. Cuthbert,[p/] I've spoken with my associates in the press.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 卡斯伯特先生，[p/]我和新闻报道的熟人谈过了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4394\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4395",
     "original": "Remus: The story we created should be printed as we speak.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 和你交谈的同时，他们应该也在印刷我们编造的故事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4395\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4396",
     "original": "Celeste: ...I don't like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我不喜欢这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4396\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4397",
     "original": "Celeste: We're lying to the people of Wyverngarde about what [i]really[/i] happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们是在欺骗维文加德人民，隐瞒[i]真正[/i]发生的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj38-4397\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4398",
     "original": "Celeste: Not to mention,[p/] this story paints me like I'm some kind of god.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 更不用说，[p/]这故事把我描绘的像个神。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4398\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4399",
     "original": "Tyrion: I understand your reservations,[p/] but Aster [i]was[/i] right about how the commonfolk felt about him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我理解你的顾虑，[p/]但阿斯特对于平民印象这一点没说错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4399\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4400",
     "original": "Tyrion: If we told the people what [i]actually[/i] happened-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 即使我们把[i]真正[/i]发生的事公之于众——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4400\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4401",
     "original": "Aria: They would never believe it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他们也绝对不会相信的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4401\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4402",
     "original": "Aria: They'd think that his death was a part of some sort of political conspiracy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他们只会觉得阿斯特的死是什么政治阴谋的一部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4402\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4403",
     "original": "Aria: And even [i]with[/i] this cover story,[p/] we can't be certain that they [i]still[/i] won't suspect that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 即使[i]有[/i]这个故事作掩护，[p/]我们也不敢说他们就会毫无疑心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4403\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4404",
     "original": "Tyrion: A-[p/][s/]Aria?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 阿、[p/][s/]阿莉亚？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4404\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4405",
     "original": "Celeste: Shouldn't you be resting?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你不是该歇着吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4405\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4406",
     "original": "Aria: Nonsense,[p/] I'm not going to sit around feeling sorry for myself while everyone else fixes my mistakes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 无稽之谈，[p/]在别人为了修正我犯的错忙里忙外时，[p/]我可不会只坐在旁边黯然神伤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4406\",\n  \"keywords\": []\n}"
   },
   {
@@ -29164,99 +29164,99 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4408",
     "original": "She may be hiding her pain behind a smile,[p/] but she's not shutting down her emotions like before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也许她在用笑容隐藏自己的痛，[p/]但她确实不像之前那样封闭感情了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4408\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4409",
     "original": "...Was Celeste able to get through to her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……是塞莱斯特成功说服了她吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4409\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4410",
     "original": "Aria: As much as it pains me,[p/] we should strive to carry forth the virtues that His-...[p/] that [i]Aster[/i] represented to the commonfolk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 虽然让我痛苦，[p/]但我们应该继续发扬他的……[p/][i]阿斯特[/i]在平民心中代表的美德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4410\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4411",
     "original": "Aria: Wyverngarde will gain more from those false virtues than from the person that he truly was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 比起真实的他，伪装的他身上有更多让维文加德受益的美德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4411\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4412",
     "original": "Aria: The stability of our nation must be maintained if we're to move forward,[p/] and if we must use the people's piety to do that,[p/] then so be it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 若想继续前进，[p/]维护我国秩序稳定必不可少。[p/]如果不得不利用人们的虔诚，[p/]那也无所谓。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4412\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4413",
     "original": "Celeste: Aria...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 阿莉亚……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4413\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4414",
     "original": "Aria: And as the newly appointed head of House Steelwind,[p/] I will also do my part to support your rule.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 作为斯蒂尔文德家最新就任的领主，[p/]我也会尽我的本分协助您治理国家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4414\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4415",
     "original": "Remus: As will the Scaled Lord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 鳞甲领主也会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4415\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4416",
     "original": "Celeste smiles in gratitude to their words,[p/] but she meekly glances at you expectantly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特对他们露出了感激的笑容，[p/]但她又轻轻用期许的眼神看着你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4416\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4417",
     "original": "Tyrion: ...Do you even have to ask?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这还用问吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndA-4417\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4418",
     "original": "Tyrion: I made a promise to you,[p/] didn't I?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我对你发过誓，[p/]不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4418\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4419",
     "original": "Celeste: Hehe...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嘻嘻……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4419\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4420",
     "original": "Tyrion: And it's not just us.[p/] I'll do my best to make sure that the rest of Wyverngarde supports you too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也不只是我们。[p/]我会尽可能确保维文加德其他人也都支持你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4420\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4421",
     "original": "Celeste: Oh, yeah.[p/] Since you two patched things up,[p/] we could also ask for Ruby's help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 噢，对。[p/]既然你们俩和好了，[p/]我们也可以找鲁比帮忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4421\",\n  \"keywords\": []\n}"
   },
   {
@@ -29269,64 +29269,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4423",
     "original": "Tyrion: Ah, right![p/] I forgot that I was supposed to meet with her this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 啊，对！[p/]我都忘了今早本应和她见面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4423\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4424",
     "original": "Tyrion: ...I'll need to apologize to her about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这一点我得对她道歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4424\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4425",
     "original": "Celeste: Wait...[p/][s/] Have you [i]still[/i] not told her about what happened yet?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等等……[p/][s/]你到现在[i]还[/i]没告诉她发生了什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4426",
     "original": "Tyrion: We had more important things to worry about.[p/] I'm sure that she'll understand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 当时我们有更重要的事要操心。[p/]我相信她会理解的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4426\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4427",
     "original": "Celeste: Tyrion,[p/] the last time you saw her,[p/] you manifested a Blood Contract without explaining anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，[p/]上一次见到她时，[p/]你什么都不解释就昭示了一份血契。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4427\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4428",
     "original": "Celeste: [i]Then[/i] you vaguely said something about helping Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: [i]然后[/i]你含糊不清地说了帮助阿莉亚之类的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4428\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4429",
     "original": "Tyrion: Don't worry.[p/] I'll explain everything to her once things quiet down.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别担心。[p/]一旦局势冷静下来，我会对她解释一切的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4429\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4430",
     "original": "Celeste: Tyrion![p/][s/] That story we fabricated is being printed right [i]now[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂！[p/][s/]我们编的故事[i]现在[/i]就在印刷！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4430\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4431",
     "original": "Celeste: [i]Everyone[/i] in Wyverngarde is going to read about it in the paper,[p/] [i]including[/i] her!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 包括她在内，维文加德的[i]所有人[/i]都会在读新闻时知道的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4431\",\n  \"keywords\": []\n}"
   },
   {
@@ -29339,176 +29339,176 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4433",
     "original": "Tyrion: Oh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哦……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4433\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4434",
     "original": "Ruby: ...What's all of this noise about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……怎么这么吵？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4434\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4435",
     "original": "Merchant: What?![p/][s/] Have you been living under a rock, lady?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Merchant: 什么？！[p/][s/]小姐你是什么隐世仙人吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4436",
     "original": "Merchant: Read the morning paper![p/][s/] The Scaled Lord has returned!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Merchant: 读读晨报吧！[p/][s/]鳞甲领主回来了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4437",
     "original": "Ruby: What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4438",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4439",
     "original": "Ruby: ...\"Demonic Attack Claims Lives of Prominent Figures\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……“恶魔的袭击夺走多位知名人物性命”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4440",
     "original": "\"Chaos broke out yesterday during the private wedding between Aria Steelwind and Crown Prince Aster de Wyverngarde.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“阿莉亚·斯蒂尔文德与王储阿斯特·维文加德的婚礼于昨日举办，席间爆发了混乱”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4441",
     "original": "\"In a surprise attack orchestrated by a malevolent demon,[p/] a devastating loss was inflicted upon our kingdom,[p/] shattering the very foundations of our power and stability.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“在歹毒恶魔谋划的突然袭击中，[p/]王国承受了惨痛损失，[p/]影响了我国国力与秩序的根基”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4442",
     "original": "\"The carnage left in the wake of this abyssal assault was nothing short of catastrophic.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“来自深渊的袭击造成了腥风血雨，留下的也都是灾难级后果”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4443",
     "original": "\"Among the fallen were Lady Coraline Sibyl,[p/] Lord Lloyd von Sanctus,[p/] and Lord Lucio Steelwind.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“逝者中包括卡洛琳·希比尔勋爵，[p/]洛伊德·冯·桑克图斯勋爵，[p/]还有卢西奥·斯蒂尔文德勋爵”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4444",
     "original": "\"Both King Olivier and Crown Prince Aster made a heroic attempt to repel the foul monster.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“奥利维尔王和王储阿斯特为了驱逐恶魔英勇斗争”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4445",
     "original": "\"And while the profane demon was felled and defeated,[p/] the King and the Crown Prince tragically lost their lives in the ensuing battle.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“肮脏的恶魔被打倒了，[p/]国王与王储也在战斗时不幸失去了性命”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4446",
     "original": "\"However,[p/] amidst the chaos and despair,[p/] a glimmer of hope emerged to prevent the kingdom from descending into further disarray.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“但是，[p/]混乱与绝望之间，[p/]还是有一线希望阻止王国陷入更为混乱的状态之中”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4447",
     "original": "\"The Scaled Lord himself descended from the heavens,[p/] restoring order,[p/] and making a profound proclamation.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“鳞甲领主亲自从天堂下凡，[p/]恢复秩序，并且庄严宣告”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4448",
     "original": "\"In a [i]selfless[/i] act to maintain the integrity and unity of Wyverngarde,[p/] the Scaled Lord anointed his holy daughter as the new Queen of Wyverngarde.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "“为了维护维文加德的团结与稳定，[p/]鳞甲领主[i]无私[/i]地任命自己的女儿为维文加德新女皇”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4448\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4449",
     "original": "Ruby: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4450",
     "original": "Ruby: Ugh...[p/] [i]Again[/i] with this Scaled Lord nonsense...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 呃……[p/][i]又是[/i]这套鳞甲领主的胡说八道……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4451",
     "original": "Ruby: This [i]reeks[/i] of a violent political coup.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 感觉像是什么暴力政变。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4452",
     "original": "Ruby: Whoever this new queen is,[p/] I bet she's just [i]another[/i] rotten noble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不管这新女皇是谁，[p/]我都敢打包票是[i]又一个[/i]恶臭贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4453",
     "original": "Ruby: Hmph...[p/] It says there's a picture of her on the next page.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 唔……[p/]上面说下一页有她的照片。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4454",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4455",
     "original": "Ruby: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4455\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4456",
     "original": "Ruby: Wait...[p/][s/] WHAT THE [i]FU[/i][p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 等等……[p/][s/]这什么[i]狗屁[/i][p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-End-4456\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4457",
     "original": "Rhys: After hearing about what happened to my former Lord,[p/] I've thought a lot about my actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rhys: 听说前主人发生了什么之后，[p/]我也针对自己的行为想了很多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4457\",\n  \"keywords\": []\n}"
   },
   {
@@ -29521,29 +29521,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4459",
     "original": "Rhys: I won't ask you to forgive me, Your Majesty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rhys: 我不会奢求你原谅我，女皇陛下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4460",
     "original": "Rhys: But I want to continue to atone for all the harm I've caused.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rhys: 我只是想来赎清我造成的罪过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4460\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4461",
     "original": "Miriam: I will continue my studies in the field of [b]conjuration[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我会继续在[b]召唤术[/b]领域深造。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4461\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4462",
     "original": "Miriam: With the kingdom in such disarray,[p/] it falls onto people like [i]me[/i] to maintain order.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 王国这么混乱的情况下，[p/]维护秩序的责任就落在了[i]我[/i]这种人身上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4462\",\n  \"keywords\": []\n}"
   },
   {
@@ -29556,36 +29556,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4464",
     "original": "Miriam: Why are you looking at me like that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 干嘛这么看着我？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4465",
     "original": "Valerie: We'd never be able to do this if it weren't for [i]your[/i] investment in our cafe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 如果不是[i]你的[/i]投资，我们的咖啡馆是做不到这些的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4465\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4466",
     "original": "Aria: I feel partially responsible for what happened at the Imperial Academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我感觉自己对帝国学院的事要负一部分责任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4466\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4467",
     "original": "Aria: I'd like to make amends however I can.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我会尽可能将功补过的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4468",
     "original": "Valentina: Don't worry about [i]that[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: [i]这个[/i]不用担心！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits-4468\",\n  \"keywords\": []\n}"
   },
   {
@@ -30613,8 +30613,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4615",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits6-4615\",\n  \"keywords\": []\n}"
   },
   {
@@ -31852,8 +31852,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4799",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4799\",\n  \"keywords\": []\n}"
   },
   {
@@ -33770,8 +33770,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5092",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5092\",\n  \"keywords\": []\n}"
   },
   {
@@ -33840,8 +33840,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5102",
     "original": "Remus: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5102\",\n  \"keywords\": []\n}"
   },
   {
@@ -47707,8 +47707,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7201",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7201\",\n  \"keywords\": []\n}"
   },
   {
@@ -47875,8 +47875,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7232",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7232\",\n  \"keywords\": []\n}"
   },
   {
@@ -48022,8 +48022,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7254",
     "original": "Ruby: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7254\",\n  \"keywords\": []\n}"
   },
   {
@@ -48106,8 +48106,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7266",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7266\",\n  \"keywords\": []\n}"
   },
   {
@@ -48148,15 +48148,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7272",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7274",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7274\",\n  \"keywords\": []\n}"
   },
   {
@@ -48218,8 +48218,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7283",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7283\",\n  \"keywords\": []\n}"
   },
   {
@@ -48288,8 +48288,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7293",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7293\",\n  \"keywords\": []\n}"
   },
   {
@@ -48743,8 +48743,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7360",
     "original": "Ruby: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7360\",\n  \"keywords\": []\n}"
   },
   {
@@ -49086,8 +49086,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7413",
     "original": "Ruby: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7413\",\n  \"keywords\": []\n}"
   },
   {
@@ -49233,8 +49233,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7434",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7434\",\n  \"keywords\": []\n}"
   },
   {
@@ -50017,8 +50017,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7550",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7550\",\n  \"keywords\": []\n}"
   },
   {
@@ -50178,8 +50178,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7573",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7573\",\n  \"keywords\": []\n}"
   },
   {
@@ -50241,8 +50241,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7582",
     "original": "Ruby: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7582\",\n  \"keywords\": []\n}"
   },
   {
