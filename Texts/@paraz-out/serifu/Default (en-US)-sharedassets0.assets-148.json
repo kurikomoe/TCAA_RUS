@@ -5749,8 +5749,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-886",
     "original": "Perhaps it would be best to try something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也许应该试试别的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument2-886\",\n  \"keywords\": []\n}"
   },
   {
@@ -6071,8 +6071,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-934",
     "original": "Perhaps it would be best to try something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也许应该试试别的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-934\",\n  \"keywords\": []\n}"
   },
   {
@@ -13330,8 +13330,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2044",
     "original": "How did you find the Sword?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你是怎么找到剑的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldPressState-2044\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
@@ -13372,8 +13372,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2050",
     "original": "How did you find Eugene?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你是怎么找到尤金的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldPressState-2050\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
   },
   {
@@ -40623,22 +40623,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4138",
     "original": "Player: The Artifacts",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 遗物",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4138\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4155",
     "original": "Player: The Theft",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 盗窃",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4155\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4171",
     "original": "Player: Other Stolen Items",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 其他被偷的东西",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4171\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40651,8 +40651,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4207",
     "original": "Player: Defunding the Hall of History",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 历史长廊被撤资",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4207\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40812,8 +40812,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4428",
     "original": "Player: The Power of the Dragons",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 龙族的力量",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Talk_GalleryIntro-4428\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -41127,15 +41127,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4935",
     "original": "Player: Stolen Artifact",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 失窃的遗物",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4935\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4956",
     "original": "Player: Lord Frega in the Study",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 书房里的弗雷加勋爵",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4956\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -41407,29 +41407,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5285",
     "original": "Player: What were you looking for?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 你在找什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5285\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5297",
     "original": "Player: The Modified Will",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 修改过的遗嘱",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5297\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5311",
     "original": "Player: Where is the will?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 遗嘱在哪里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5311\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5323",
     "original": "Player: Beatrice's Guilt",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 比亚特丽丝的罪",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5323\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
