@@ -16,28 +16,28 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4",
     "original": "Lit torches are hanging on the wall of the cell.",
-    "translation": "火把挂在牢房墙上",
+    "translation": "牢房墙上挂着点燃的火把。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-4\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-5",
     "original": "It seems a bit irresponsible to put a potentially harmful item in here with the prisoners.",
-    "translation": "把这种能造成潜在风险的东西放在囚犯触手可及的地方总觉得不太安全",
+    "translation": "把这种可能有害的东西放在囚犯触手可及的地方，好像不太安全。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-5\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-6",
     "original": "...But perhaps the Inquisition doesn't care.",
-    "translation": "...或许裁判所根本就不在乎火把能造成多大的威胁",
+    "translation": "……也许裁判所根本不在乎。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-6\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-8",
     "original": "The cell has a barred window.",
-    "translation": "牢房有扇铁窗",
+    "translation": "牢房有扇铁栅窗。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-8\",\n  \"keywords\": []\n}"
   },
@@ -107,7 +107,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-20",
     "original": "WALLACE: …!",
-    "translation": "WALLACE: …!",
+    "translation": "WALLACE: ……！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-20\",\n  \"keywords\": []\n}"
   },
@@ -135,7 +135,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-25",
     "original": "WALLACE: …!",
-    "translation": "WALLACE: …!",
+    "translation": "WALLACE: ……！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-25\",\n  \"keywords\": []\n}"
   },
@@ -226,7 +226,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-38",
     "original": "WALLACE: …",
-    "translation": "WALLACE: …",
+    "translation": "WALLACE: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-38\",\n  \"keywords\": []\n}"
   },
@@ -1269,7 +1269,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-200",
     "original": "WALLACE: … [mind=\"No, they want something from me… But…\"/]",
-    "translation": "WALLACE: ……[mind=\"不对，他们只是想要我的什么东西……但是……\"/]",
+    "translation": "WALLACE: ……[mind=\"不对，他们想从我身上获得什么……但是……\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Check_Events_Barracks-200\",\n  \"keywords\": []\n}"
   },
@@ -9935,7 +9935,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1513",
     "original": "MIRIAM: …I didn’t.[p/] But there’s not much else in that direction.",
-    "translation": "MIRIAM: 我没有。[p/]但哪个方向没有其他房间了。",
+    "translation": "MIRIAM: 我没有。[p/]但那个方向没有其他房间了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1513\",\n  \"keywords\": []\n}"
   },
@@ -10803,57 +10803,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1642",
     "original": "Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我是在清理西侧走廊的时候看到教授的，[p/]当时大概是在发现尸体的20-30分钟之前。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1642\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1643",
     "original": "Jan: She walked by me…[p/] But she looked pretty out of it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 她从我身旁走过...[p/] 但她看起来十分不正常。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1643\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1644",
     "original": "Jan: I heard she was undead when this happened…[p/] Pretty creepy if you ask me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 事发后听说她当时已经是僵尸一样的生物了...[p/]真把我吓坏了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1644\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1645",
     "original": "Jan: After that,[p/] she went into the empty classroom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 在那之后，[p/]她进了空教室。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1645\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1646",
     "original": "TYRION: Well...[p/] That was…[p/] straightforward.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 好吧...[p/]这证言....[p/]很直白清晰。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1646\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1647",
     "original": "CELESTE: Come on, Jan![p/][s/] What are we supposed to do with that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 别这样，简！[p/][s/]你这样我们怎么办呀？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1647\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1648",
     "original": "JAN: I don’t know.[p/] [i]You[/i] guys are the lawyers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 我怎么知道，[p/]你们是律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1648\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1649",
     "original": "JAN: I’m just telling you what I saw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 我只是把我看到的说出来而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1649\",\n  \"keywords\": []\n}"
   },
   {
@@ -10866,15 +10866,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1651",
     "original": "Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我是在清理西侧走廊的时候看到教授的，[p/]当时大概是在发现尸体的20-30分钟之前。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1651\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1652",
     "original": "TYRION: How are you so sure that it was 30 minutes before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你为什么如此确定是30分钟前？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1652\",\n  \"keywords\": []\n}"
   },
   {
@@ -23732,8 +23732,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3637",
     "original": "WALLACE: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3637\",\n  \"keywords\": []\n}"
   },
   {
@@ -24334,8 +24334,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3729",
     "original": "WALLACE: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Check_Events_Library-3729\",\n  \"keywords\": []\n}"
   },
   {
@@ -24411,8 +24411,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3740",
     "original": "WALLACE: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Check_Events_Library-3740\",\n  \"keywords\": []\n}"
   },
   {
@@ -25860,8 +25860,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3947",
     "original": "WALLACE: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-MurderReveal_3-3947\",\n  \"keywords\": []\n}"
   },
   {
@@ -29997,8 +29997,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4594",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4594\",\n  \"keywords\": []\n}"
   },
   {
@@ -30158,8 +30158,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4621",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument6-4621\",\n  \"keywords\": []\n}"
   },
   {
