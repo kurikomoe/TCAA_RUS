@@ -1787,8 +1787,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-260",
     "original": "Tyrion: I doubt he [i]actually[/i] did it.[p/] But he might be able to point us in the right direction.",
-    "translation": "Tyrion: 我怀疑他没有[i]真的[/i]动手。[p/]但他或许能为我们指明方向。",
-    "stage": 2,
+    "translation": "Tyrion: 我不觉得[i]真的[/i]付诸行动了。[p/]但他或许能为我们指明方向。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Talk_Ballroom1-260\",\n  \"keywords\": []\n}"
   },
   {
@@ -2151,8 +2151,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-321",
     "original": "Celeste: William Frega doesn't sound like the best person, does he?",
-    "translation": "Celeste: 威廉·弗雷加听起来不像是最好人选，对吧？",
-    "stage": 2,
+    "translation": "Celeste: 威廉·弗雷加听起来不是什么大好人，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-321\",\n  \"keywords\": []\n}"
   },
   {
@@ -3572,92 +3572,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-552",
     "original": "And [i]you[/i] were able to catch one of those thoughts.",
-    "translation": "",
-    "stage": 0,
+    "translation": "而[i]你[/i]抓住了其中一个想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-553",
     "original": "Tyrion: ...Beatrice.[p/] I'm sure you're aware that Prince Aster has your best interests at heart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……比亚特丽丝。[p/]我相信你知道阿斯特王子在为你着想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-554",
     "original": "Beatrice: I know.[p/] Even though we haven't spoken for the last five years,[p/] I still consider him a dear friend.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 我知道。[p/]尽管我们已经五年没说过话了，[p/]我仍然认为他是我的挚友。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-555",
     "original": "Tyrion: Then I suppose you have no issue with me sharing these findings with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那么我想你不会反对我和他分享这些发现吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-555\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-556",
     "original": "Beatrice: ...Of course not. [mind=\"This is bad. Even <i>he</i> wouldn't support us if he knew that I was involved.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: ……当然不会。[mind=\"这太糟糕了。如果知道我参与其中，即便是<i>他</i>也不会支持我们。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-557",
     "original": "Wait...[p/][s/] What was that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "等等……[p/][s/]什么意思？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-557\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-558",
     "original": "Her thoughts just said that she was involved...",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的想法刚刚说她参与了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-559",
     "original": "Did she...[p/][s/] actually murder her father?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "她……[p/][s/]真的杀了她的父亲？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-559\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-560",
     "original": "Eris: Is something wrong, Mr. Cuthbert?[p/] You look a little pale.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 怎么了，卡斯伯特先生？[p/]你脸色不太好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-560\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-561",
     "original": "Beatrice was actually behind this?![p/][s/] But how?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝实际上是这件事的幕后黑手？！[p/][s/]但是怎么会呢？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-561\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-562",
     "original": "She's completely blind![p/][s/] She couldn't have navigated through the manor [i]and[/i] avoided the guards.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她完全失明了！[p/][s/]她不可能穿过庄园并避开守卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-563",
     "original": "No...[p/] You must be taking her thoughts out of context.[p/] [i]That's[/i] it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]你肯定是在断章取义地理解她的想法。[p/]就是这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-563\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-564",
     "original": "Beatrice: Mr. Cuthbert.[p/] Perhaps you should get some rest.[p/] You look dreadfully tired.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 卡斯伯特先生。[p/]或许你应该休息一下。[p/]你看起来非常疲惫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-564\",\n  \"keywords\": []\n}"
   },
   {
@@ -3670,92 +3670,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-566",
     "original": "You think very carefully about what to say next.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你仔细斟酌接下来要说什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-567",
     "original": "There's [i]one[/i] way to get a certain answer through the Eye.[p/] But if you're wrong...",
-    "translation": "",
-    "stage": 0,
+    "translation": "有一个办法可以通过荷鲁斯之眼得到确切的答案。[p/]但是如果你错了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-568",
     "original": "Tyrion: Beatrice...[p/] You weren't [i]actually[/i] involved in this, were you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 比亚特丽丝……[p/]你[i]实际上[/i]并没有参与谋杀，对吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-569",
     "original": "Celeste: Tyrion...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-570",
     "original": "You see her gaze narrow in response to your question.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你看到她的目光在回应你的问题时变得锐利。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-570\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-571",
     "original": "Once again,[p/] she claps her hands together.[p/] She's clearly trying to stay calm.",
-    "translation": "",
-    "stage": 0,
+    "translation": "再一次，[p/]她拍了一下手。[p/]她显然在努力保持冷静。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-571\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-572",
     "original": "Beatrice: *sigh*[p/] Do [i]you[/i] suspect me now, Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: *叹气*[p/][i]你[/i]现在是在怀疑我吗，卡斯伯特先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-572\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-573",
     "original": "Tyrion: ...You didn't answer my question, Beatrice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你没有回答我的问题，比亚特丽丝。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-573\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-574",
     "original": "Beatrice: As if I'd even need to justify it with a response.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 好像我需要回答什么来为此辩解一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-574\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-575",
     "original": "Beatrice: But no, Mr. Cuthbert.[p/] I was not responsible for my father's murder. [mind=\"At least, not directly... I was technically an accomplice.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 但是不需要，卡斯伯特先生。[p/]我对我父亲的谋杀案不负有责任。[mind=\"至少，没有直接责任……只能说我是同谋。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-575\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-576",
     "original": "\"An accomplice\"...[p/][s/] Did she work together with someone?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "“同谋”……[p/][s/]她和谁一起下手的吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-577",
     "original": "Ruby: ...Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……卡斯伯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-578",
     "original": "Tyrion: M-[p/][s/]Ms. Tymora?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-578\",\n  \"keywords\": []\n}"
   },
   {
@@ -3768,71 +3768,71 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-580",
     "original": "Your mentor seems to have sensed the mood in the air.[p/] She raises an eyebrow at you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你的导师似乎察觉到了空气中的氛围。[p/]她朝你扬起了眉毛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-580\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-581",
     "original": "Tyrion: Ms. Tymora...[p/] Can I speak with you alone for a second?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士……[p/]我能单独和你聊聊吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-581\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-582",
     "original": "Ruby: ...Okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……行啊？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-582\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-583",
     "original": "Ruby: What's wrong?[p/] Is everything okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 怎么了？[p/]一切都还好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-583\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-584",
     "original": "Tyrion: Ms. Tymora![p/] Beatrice,[p/] she...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士！[p/]比亚特丽丝，[p/]她……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-584\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-585",
     "original": "Tyrion: She actually [i]did[/i] murder William Frega!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她[i]真的[/i]谋杀了威廉·弗雷加！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-585\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-586",
     "original": "Ms. Tymora's gaze narrows.[p/] Her eyes dart around the room to make sure the guards didn't overhear you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "泰摩拉女士的目光变得锐利起来。[p/]她的眼睛在房间里四处扫视，以确保守卫没有听到你的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-587",
     "original": "Ruby: What are you talking about?[p/] How could you [i]possibly[/i] know that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你在说些什么？[p/]你怎么可能知道？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-588",
     "original": "Tyrion: I...[p/] I used the Eye of Horus on her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……[p/]我对她用了荷鲁斯之眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-588\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-589",
     "original": "Tyrion: She conspired with someone else to orchestrate William Frega's death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她和其他人合谋策划了威廉·弗雷加的死亡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-589\",\n  \"keywords\": []\n}"
   },
   {
@@ -3845,22 +3845,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-591",
     "original": "Ruby: Have you told anyone else about this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你和其他人说过这件事吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-591\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-592",
     "original": "Tyrion: N-[p/][s/]No...[p/] It's not as if they'd believe me, anyways.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没、[p/][s/]没有……[p/]反正他们也不会相信我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-592\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-593",
     "original": "Tyrion: You're the only other person who knows about my abilities.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你是唯一知道我能力的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-593\",\n  \"keywords\": []\n}"
   },
   {
@@ -3873,78 +3873,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-595",
     "original": "Ruby: Okay...[p/] Just stay quiet about this for the time being.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 好吧……[p/]现在先对这件事保持沉默。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-596",
     "original": "Ruby: Anyways,[p/] I need to get ready.[p/] The trial starts in half an hour.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 总之，[p/]我需要做好准备。[p/]庭审会在半小时后开始。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-597",
     "original": "Tyrion: W-[p/][s/]What-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什、[p/][s/]什么——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-598",
     "original": "Tyrion: You're not seriously going to defend her, are you?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你真的要为她辩护吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-599",
     "original": "Ruby: Of course I am.[p/] I'm her attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 当然。[p/]我是她的律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-600",
     "original": "Tyrion: But she's guilty![p/][s/] I [i]saw[/i] it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但是她有罪！[p/][s/]我[i]看到[/i]了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-601",
     "original": "Ruby: Look.[p/] At this point,[p/] I don't know [i]what[/i] you saw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 听着。[p/]关于这一点，[p/]我不知道你看到了[i]什么[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-602",
     "original": "Ruby: Do you think I can just abandon a client minutes before a trial?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你认为我会在开庭前几分钟放弃委托人吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-603",
     "original": "Tyrion: N-[p/][s/]No,[p/] but-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没、[p/][s/]没有，[p/]但是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-603\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-604",
     "original": "Ruby: It's not for either of us to decide who's guilty and who's not.[p/] [i]Everyone[/i] has a right to an attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 谁有罪、谁无罪，不是由我们来决定的。[p/][i]每个人[/i]都有权聘请律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-605",
     "original": "Ruby: Our court system needs a defense attorney and a prosecutor to keep things fair.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我们的司法体系需要一名辩护律师和一名检察官来保持公平。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-605\",\n  \"keywords\": []\n}"
   },
   {
@@ -3957,43 +3957,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-607",
     "original": "Ruby: More importantly,[p/] you had no right to use the Eye of Horus on [i]my[/i] client without my permission.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 更重要的是，[p/]未经我的许可，你无权对[i]我的[/i]委托人使用荷鲁斯之眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-607\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-608",
     "original": "Tyrion: W-[p/][s/]What?![p/][s/] B-[p/][s/]But-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什、[p/][s/]什么？！[p/][s/]可、[p/][s/]可是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_6-608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-609",
     "original": "Ruby: I don't have time to argue about this.[p/] We [i]will[/i] be talking about this later.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我没有时间和你争论这个。[p/]我们稍后再谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_6-609\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-610",
     "original": "Before you have a chance to respond,[p/] Ms. Tymora walks away.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你还没来得及反应，泰摩拉女士就走开了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_6-610\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-611",
     "original": "Celeste sees both of you and awkwardly approaches you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特看到了你们俩，尴尬地向你们走来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_6-611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-612",
     "original": "Celeste: Hey, Tyrion?[p/] Is everything okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗨，提利昂？[p/]你还好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_6-612\",\n  \"keywords\": []\n}"
   },
   {
