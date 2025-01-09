@@ -25,6 +25,7 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
     ret = {}
     tmp = []
+
     for idx, episode in enumerate(data['episodes']["Array"]):
         # Key, do not translate
         name = episode["episodeName"]
@@ -42,8 +43,10 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                 }, ensure_ascii=False, indent=2),
             ))
 
-        episode_name = episode["episodeName"]
-        adder("episodeName")
+        for override in episode["initState"]["occupationOverrides"]["Array"]:
+            adder("value",
+                  key=f"{name}-occupationOverrides-{override['key']}",
+                  data=override)
 
     file = File("EpisodeLibrary")
     assert file not in ret
@@ -80,7 +83,12 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
             # TODO(kuriko): add checker here
             return paraz_data.translation
 
-        episode["episodeName"] = getter("episodeName")
+        for override in episode["initState"]["occupationOverrides"]["Array"]:
+            override["value"] = getter(
+                "value",
+                key=f"{name}-occupationOverrides-{override['key']}",
+                data=override,
+            )
 
     file = "level0" / base_file
     ret[file] = data

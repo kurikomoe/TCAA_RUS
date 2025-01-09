@@ -41,9 +41,8 @@ export:
     python text_io.py --export --raw @old --paraz {{ paraz }} --type tooltips
     python text_io.py --export --raw @old --paraz {{ paraz }} --type location
     python text_io.py --export --raw @old --paraz {{ paraz }} --type save
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type episode
     python text_io.py --export --raw @old --paraz {{ paraz }} --type metadata
-
-    # python text_io.py --export --raw @old --paraz {{ paraz }} --type episode
 
 paraz-out := "@paraz-out"
 new := "@dist"
@@ -61,10 +60,8 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type location
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type save
+    python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type episode
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type metadata
-
-    # Disable Episode Name Translation which will crash
-    # python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type episode
 
     echo Rebuild global-metadata.dat
     mkdir -p @dist/il2cpp_data/Metadata
