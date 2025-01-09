@@ -31502,7 +31502,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4743",
     "original": "The door seems to be locked by some kind of magical mechanism.",
-    "translation": "看起来门锁是某种魔法装置。",
+    "translation": "门锁看起来是某种魔法装置。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Examine_Dungeon1-4743\",\n  \"keywords\": []\n}"
   },
@@ -54154,8 +54154,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4872",
     "original": "Player: Saving Steelwind's future",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 拯救斯蒂尔文德的未来",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4872\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -54343,15 +54343,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6015",
     "original": "Player: Where were you during the massacre?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 屠杀期间你在哪里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6015\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6048",
     "original": "Player: Contracts with a demon",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 和恶魔签约",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6048\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -54966,7 +54966,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7169",
     "original": "Player: Next Lead",
-    "translation": "Player: 下个线索",
+    "translation": "Player: 下一个线索",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Talk_TownSquare2-7169\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
@@ -55043,22 +55043,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7250",
     "original": "Player: Tymora's Actions",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 泰摩拉的行动",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7250\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7273",
     "original": "Player: Tymora's Past",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 泰摩拉的过往",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7273\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7296",
     "original": "Player: What did you do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 你做了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7296\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {

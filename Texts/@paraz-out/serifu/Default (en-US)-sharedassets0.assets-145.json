@@ -9,7 +9,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2",
     "original": "The door seems to be locked by some kind of magical mechanism.",
-    "translation": "看起来门锁是某种魔法装置",
+    "translation": "门锁看起来是某种魔法装置。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-2\",\n  \"keywords\": []\n}"
   },
@@ -34372,8 +34372,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4472",
     "original": "Player: The Other Witness",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 其他目击证人",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4472\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -34442,29 +34442,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4709",
     "original": "Player: The Headmaster",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 校长",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4709\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4722",
     "original": "Player: Steelwind's Paranoia",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 斯蒂尔文德的被害妄想",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4722\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4745",
     "original": "Player: Possible Explanation",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 可能的解释",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4745\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4765",
     "original": "Player: The Secret Witness",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 秘密目击证人",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4765\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {

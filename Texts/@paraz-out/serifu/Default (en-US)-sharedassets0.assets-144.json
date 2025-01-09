@@ -2,7 +2,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-0",
     "original": "Child: ... [mind=\"I'm so thirsty...\"/]",
-    "translation": "Child: ... [mind=\"好渴……\"/]",
+    "translation": "Child: ……[mind=\"好渴……\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice-0\",\n  \"keywords\": []\n}"
   },
@@ -16,14 +16,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2",
     "original": "Her eyes are fixed on the flasks of apple juice.",
-    "translation": "更确切地说，她是盯着这几瓶苹果汁。",
+    "translation": "更确切地说是盯着这几瓶苹果汁。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice-2\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-3",
     "original": "Tyrion Cuthbert: ...How about 20sp for [i]three[/i] flasks?",
-    "translation": "Tyrion Cuthbert: ……20 银币[i]三瓶[/i]如何？",
+    "translation": "Tyrion Cuthbert: ……20 银币[u]三瓶[/u]如何？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice-3\",\n  \"keywords\": []\n}"
   },
@@ -72,7 +72,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-10",
     "original": "The child's passing thoughts tell you [i]exactly[/i] how much “succor” the kingdom is sharing.",
-    "translation": "她一闪而过的思绪昭示了，这个王国的“援助” [i]有多么[/i]徒有虚名。",
+    "translation": "她一闪而过的思绪昭示了，这个王国的“援助” [u]多么[/u]徒有虚名。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice2-10\",\n  \"keywords\": []\n}"
   },
@@ -86,7 +86,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-12",
     "original": "Tyrion Cuthbert: W-[p/]Well,[p/] I suppose I just have a good intuition for this sort of thing.",
-    "translation": "Tyrion Cuthbert: 诶、[p/]啊[p/]，我觉得我只是对某些事的直觉很准罢了。",
+    "translation": "Tyrion Cuthbert: 诶、[p/]啊[p/]，我只是对某些事的直觉很准罢了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice2-12\",\n  \"keywords\": []\n}"
   },
@@ -128,7 +128,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-18",
     "original": "Ruby: If [i]I[/i] can see through you,[p/] others will be able to as well.",
-    "translation": "Ruby: 如果[i]我[/i]能看穿你的能力，那其他人也可以。",
+    "translation": "Ruby: 如果[u]我[/u]能看穿你的能力，那其他人也可以。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice2-18\",\n  \"keywords\": []\n}"
   },
@@ -142,28 +142,28 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-20",
     "original": "Ruby Tymora: Anyways,[p/] I did some asking around while you were...[p/] haggling.",
-    "translation": "Ruby Tymora: 言归正传，[p/]当你在….[p/]讨价还价的时候，我在附近打听了一下。",
+    "translation": "Ruby Tymora: 言归正传，[p/]当你在……[p/]讨价还价的时候，我在附近打听了一下。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice2-20\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-21",
     "original": "Ruby Tymora: Supposedly,[p/] the McCoy Tavern should be north of here.",
-    "translation": "Ruby Tymora: 据说，[p/] 麦考伊的酒馆就在北边。",
+    "translation": "Ruby Tymora: 照理说，[p/] 麦考伊的酒馆就在北边。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice2-21\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-22",
     "original": "Ruby Tymora: If my tip is correct,[p/] [i]this[/i] should be the place.",
-    "translation": "Ruby Tymora: 不出意外，[p/][i]这[/i]就是我们在找的酒馆了。",
+    "translation": "Ruby Tymora: 不出意外，[p/][u]这[/u]就是我们在找的酒馆了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-22\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-23",
     "original": "Tyrion Cuthbert: Wait…[p/] [i]This[/i] is the McCoy tavern?",
-    "translation": "Tyrion Cuthbert: 呃...[p/][i]这[/i]是麦考伊的酒馆？",
+    "translation": "Tyrion Cuthbert: 呃……[p/][u]这里[/u]是麦考伊的酒馆？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-23\",\n  \"keywords\": []\n}"
   },
@@ -177,14 +177,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-25",
     "original": "You find it hard to believe that [i]this[/i] has a secret meeting place for dissidents…",
-    "translation": "很难相信[i]这里[/i]是供不同政见的人秘密聚会的地方……",
+    "translation": "很难相信[u]这里[/u]是供持不同政见的人秘密聚会的地方……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-25\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-26",
     "original": "But now that you think about it,[p/] maybe [i]that's[/i] the entire point.",
-    "translation": "但仔细一想，[p/]或许[i]这正是[/i]能作为秘密集会点的原因。",
+    "translation": "但仔细一想，[p/]或许[u]这正是[/u]能作为秘密集会点的原因。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-26\",\n  \"keywords\": []\n}"
   },
@@ -205,21 +205,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-29",
     "original": "Ruby Tymora: Although,[p/] I [i]do[/i] wonder how they’ve been keeping themselves afloat for this long.",
-    "translation": "Ruby Tymora: 虽然我[i]蛮[/i]好奇他们这么多年是如何维持生计的。",
+    "translation": "Ruby Tymora: 虽然我[u]蛮[/u]好奇他们这么多年是如何维持生计的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-29\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-30",
     "original": "Flinhart McCoy: Hey![p/][s/] You lot![p/][s/] The McCoy Tavern is closed!",
-    "translation": "Flinhart McCoy: 喂！[p/][s/]你们！[p/][s/] 麦考伊酒馆已经关门了！",
+    "translation": "Flinhart McCoy: 喂！[p/][s/]你们！[p/][s/]麦考伊酒馆已经关门了！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-30\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-31",
     "original": "A gruff man approaches your carriage as you step out of it.",
-    "translation": "刚下马车，一个粗暴的男人走上前来。",
+    "translation": "刚下马车，一个外表粗暴的男人走上前来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-31\",\n  \"keywords\": []\n}"
   },
@@ -233,14 +233,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-33",
     "original": "Ruby Tymora: …I take it that [i]you’re[/i] Flinhart McCoy?",
-    "translation": "Ruby Tymora: ……这么说，[i]你就是[/i]弗林哈特 麦考伊？",
+    "translation": "Ruby Tymora: ……这么说，[u]你就是[/u]弗林哈特·麦考伊？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-33\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-34",
     "original": "Flinhart McCoy: I am![p/][s/] What of it?!",
-    "translation": "Flinhart McCoy: 我是！[p/][s/] 有何贵干？！",
+    "translation": "Flinhart McCoy: 我是！[p/][s/]有何贵干？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice3-34\",\n  \"keywords\": []\n}"
   },
@@ -268,7 +268,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-38",
     "original": "Flinhart McCoy: Wait…[p/][s/] [i]The[/i] Ruby Tymora?!",
-    "translation": "Flinhart McCoy: 诶....[p/][s/][i]那个[/i]鲁比·泰摩拉？！",
+    "translation": "Flinhart McCoy: 诶……[p/][s/][u]那个[/u]鲁比·泰摩拉？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice4-38\",\n  \"keywords\": []\n}"
   },
@@ -296,7 +296,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-42",
     "original": "You didn't expect someone like [i]him[/i] to know about Ms. Tymora.",
-    "translation": "没想到像[i]他这样的人[/i]会认识泰摩拉女士。",
+    "translation": "没想到像[u]他这样的人[/u]会认识泰摩拉女士。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice4-42\",\n  \"keywords\": []\n}"
   },
@@ -317,7 +317,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-45",
     "original": "Flinhart McCoy: Sorry about the mess.[p/] We haven't exactly been-...",
-    "translation": "Flinhart McCoy: 抱歉里面这么乱，[p/] 说实话我们已经很久没……",
+    "translation": "Flinhart McCoy: 抱歉里面这么乱，[p/]说实话我们已经很久没……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice4-45\",\n  \"keywords\": []\n}"
   },
@@ -359,7 +359,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-51",
     "original": "Flinhart McCoy: Sure,[p/] the kitchen is empty.",
-    "translation": "Flinhart McCoy: 当然有，[p/] 厨房就可以。",
+    "translation": "Flinhart McCoy: 当然有，[p/]厨房就可以。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice5-51\",\n  \"keywords\": []\n}"
   },
@@ -380,7 +380,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-54",
     "original": "Tyrion Cuthbert: W-[p/][s/]What…?[p/] Don't you need my help?",
-    "translation": "Tyrion Cuthbert: 哈、[p/][s/]哈？！[p/]你不用我帮忙吗？",
+    "translation": "Tyrion Cuthbert: 哈、[p/][s/]哈？[p/]你不用我帮忙吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice5-54\",\n  \"keywords\": []\n}"
   },
@@ -401,7 +401,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-57",
     "original": "If she's trying to make a deal with Flinhart,[p/][s/] you can [i]easily[/i] read his thoughts to help her!",
-    "translation": "如果要和弗林哈特谈判，[p/][s/]你可以[i]轻而易举的[/i]用读心来帮她！",
+    "translation": "如果要和弗林哈特谈判，[p/][s/]你可以[u]轻而易举地[/u]用读心来帮她！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice5-57\",\n  \"keywords\": []\n}"
   },
@@ -415,14 +415,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-59",
     "original": "You desperately want to object.[p/] But she shoots you a stern look that causes you to freeze up.",
-    "translation": "你超想接着反驳她，[p/]但只需她狠狠盯你一眼，就能让你打消了这个念头。",
+    "translation": "你超想接着反驳她，[p/]但只需她狠狠盯你一眼，就能让你打消这个念头。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice5-59\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-60",
     "original": "You slowly look away from her.",
-    "translation": "你慢慢的移开视线。",
+    "translation": "你慢慢地移开视线。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice5-60\",\n  \"keywords\": []\n}"
   },
@@ -443,7 +443,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-63",
     "original": "You can hear faint murmurs from behind the closed door,[p/] and you’ve been resisting the urge to eavesdrop.",
-    "translation": "虽然透过紧闭的门传来了一些模糊的只言片语，[p/]但你强忍着欲望不去偷听她们在聊什么。",
+    "translation": "虽然透过紧闭的门传来了一些模糊的只言片语，[p/]但你强忍着偷听她们在聊什么的欲望。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice5-63\",\n  \"keywords\": []\n}"
   },
@@ -485,7 +485,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-69",
     "original": "Chess can be played with one person.[p/] And you’ve always taken advantage of that.",
-    "translation": "象棋是可以一个人玩的，[p/]而你总是自己和自己下棋。",
+    "translation": "国际象棋是可以一个人玩的，[p/]你总是自己和自己下棋。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice6-69\",\n  \"keywords\": []\n}"
   },
@@ -513,7 +513,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-73",
     "original": "Tyrion Cuthbert: *mutters* I’ve played ten games already…[p/] And I’ve won seven out of ten times as black.",
-    "translation": "Tyrion Cuthbert: *嘀咕*已经十局了……[p/]黑棋赢了7次。",
+    "translation": "Tyrion Cuthbert: *嘀咕*已经十局了……[p/]黑棋赢了七次。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice6-73\",\n  \"keywords\": []\n}"
   },
@@ -541,14 +541,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-77",
     "original": "Unbeknownst to you,[p/] you're thinking out loud.",
-    "translation": "思绪中的你，[p/]对她的存在浑然不知。",
+    "translation": "不知不觉中，你把自己想的东西都说出来了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice7-77\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-78",
     "original": "Tyrion Cuthbert: *mutters* So why am I performing so much [i]better[/i] when playing as black?",
-    "translation": "Tyrion Cuthbert: *嘀咕*那为什么我黑棋下的[i]这么好[/i] 呢？",
+    "translation": "Tyrion Cuthbert: *嘀咕*那为什么我黑棋下的[i]更好[/i]呢？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice7-78\",\n  \"keywords\": []\n}"
   },
@@ -562,7 +562,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-80",
     "original": "You still don't notice her.[p/] And you're verbalizing your thoughts just as fast as you're thinking them.",
-    "translation": "你还没注意到她，[p/]甚至继续自言自语说象棋的事。",
+    "translation": "你还没注意到她，[p/]还在继续把自己的想法说出来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice7-80\",\n  \"keywords\": []\n}"
   },
@@ -576,7 +576,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-82",
     "original": "Tyrion Cuthbert: Or perhaps that [i]very[/i] advantage is affecting my choices and making me play in a suboptimal manner…",
-    "translation": "Tyrion Cuthbert:或许[i]白棋先动的[/i]优势影响了我的抉择，导致我一直选择一种次优的策略……",
+    "translation": "Tyrion Cuthbert: 或许[u]白棋先动的[/u]优势影响了我的抉择，导致我一直选择一种次优的策略……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice7-82\",\n  \"keywords\": []\n}"
   },
@@ -590,7 +590,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-84",
     "original": "Celeste McCoy: Hey!",
-    "translation": "Celeste McCoy: 嘿！",
+    "translation": "Celeste McCoy: 喂！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice7-84\",\n  \"keywords\": []\n}"
   },
@@ -625,7 +625,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-89",
     "original": "Tyrion Cuthbert: O-[p/]Oh,[p/] sorry…",
-    "translation": "Tyrion Cuthbert: 啊……呃……[p/]抱、[p/]抱歉……",
+    "translation": "Tyrion Cuthbert: 啊、[p/]啊……[p/]抱歉……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice7-89\",\n  \"keywords\": []\n}"
   },
@@ -646,14 +646,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-92",
     "original": "Celeste McCoy: Flinhart McCoy.[p/] I’m his daughter: Celeste.",
-    "translation": "Celeste McCoy: 弗林哈特·麦考伊。[p/] 我是他的女儿：塞莱斯特。",
+    "translation": "Celeste McCoy: 弗林哈特·麦考伊。[p/]我是他的女儿塞莱斯特。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice8-92\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-93",
     "original": "Tyrion Cuthbert: Oh,[p/] Flinhart is speaking with my mo-[p/]… mentor, right now.",
-    "translation": "Tyrion Cuthbert: 哦，弗林哈特正和我妈[p/]……导师聊天呢",
+    "translation": "Tyrion Cuthbert: 哦，弗林哈特正和我妈[p/]……导师聊天呢。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice8-93\",\n  \"keywords\": []\n}"
   },
@@ -681,7 +681,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-97",
     "original": "You hear Flinhart and Ms. Tymora’s voices getting louder and more frustrated.[p/] But Celeste doesn’t seem to notice.",
-    "translation": "争论的声音越来越响，[p/]不过塞莱斯特貌似并没注意到。",
+    "translation": "弗林哈特与泰摩拉女士争论的声音越来越响，[p/]不过塞莱斯特貌似并没注意到。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice8-97\",\n  \"keywords\": []\n}"
   },
@@ -758,7 +758,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-108",
     "original": "Celeste McCoy: Relax,[p/] I’m just joking.",
-    "translation": "Celeste McCoy: 嘿嘿，别紧张，[p/]我就是开个玩笑。",
+    "translation": "Celeste McCoy: 别紧张，[p/]我就是开个玩笑。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice9-108\",\n  \"keywords\": []\n}"
   },
@@ -786,7 +786,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-112",
     "original": "She's [i]read[/i] about it?",
-    "translation": "她……“[i]读过[/i]一点”？",
+    "translation": "她[u]读过[/u]一点？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice9-112\",\n  \"keywords\": []\n}"
   },
@@ -814,7 +814,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-116",
     "original": "Celeste McCoy: Um...[p/] How do I arrange these things again?",
-    "translation": "Celeste McCoy: 啊……那个，这个是放在哪里来着？",
+    "translation": "Celeste McCoy: 啊……[p/]这些棋子怎么摆来着？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice9-116\",\n  \"keywords\": []\n}"
   },
@@ -842,7 +842,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-120",
     "original": "Celeste McCoy: Thanks!",
-    "translation": "Celeste McCoy: 真的吗？谢啦！",
+    "translation": "Celeste McCoy: 谢啦！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice9-120\",\n  \"keywords\": []\n}"
   },
@@ -884,7 +884,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-126",
     "original": "You decide [i]against[/i] telling her what the name of that mate was.",
-    "translation": "你打算[i]藏招[/i]，不告诉她这步棋是怎么下的。",
+    "translation": "你打算[u]藏招[/u]，不告诉她这步棋是怎么下的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice10-126\",\n  \"keywords\": []\n}"
   },
@@ -1017,7 +1017,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-145",
     "original": "For someone who had clearly [i]never[/i] played before,[p/] she’s quickly improving with each game.",
-    "translation": "只不过在[i]零基础[/i]的人里，[p/]她算进步的相当快的了。",
+    "translation": "在[i]零基础[/i]的人里，[p/]她算进步相当快的了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice11-145\",\n  \"keywords\": []\n}"
   },
@@ -1045,7 +1045,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-149",
     "original": "…But even so.[p/] You've been playing this game for a [i]lot[/i] longer than she has.",
-    "translation": "……话虽这么说，[p/]下赢她还是[i]轻而易举[/i]的。",
+    "translation": "……话虽这么说，[p/]你下赢她还是[u]轻而易举[/u]的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice11-149\",\n  \"keywords\": []\n}"
   },
@@ -1073,14 +1073,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-153",
     "original": "Celeste McCoy: Just one more game![p/][s/] I'll get you this time!",
-    "translation": "Celeste McCoy: 再、再来一局！[p/][s/]就这局我肯定能赢你！",
+    "translation": "Celeste McCoy: 再、再来一局！[p/][s/]这局我肯定能赢你！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice11-153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-154",
     "original": "Ruby Tymora: *sigh*[p/] Hello, Cuthbert.",
-    "translation": "Ruby Tymora: *叹气*我回来了，卡斯伯特。",
+    "translation": "Ruby Tymora: *叹气*[p/]我回来了，卡斯伯特。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-154\",\n  \"keywords\": []\n}"
   },
@@ -1108,14 +1108,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-158",
     "original": "Flinhart McCoy: Oh…[p/] Hello, sweetie.",
-    "translation": "Flinhart McCoy: 哦，[p/] 你好啊，宝贝。",
+    "translation": "Flinhart McCoy: 哦……[p/]你好啊，宝贝。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-158\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-159",
     "original": "Flinhart looks irritated.[p/] But as soon as he sees Celeste,[p/] he quickly hides it behind a smile.",
-    "translation": "虽然弗林哈特一开始看起来很恼火，[p/]但他一看到塞莱斯特，[p/]就开心的笑了出来。",
+    "translation": "虽然弗林哈特一开始看起来很恼火，[p/]但一看到塞莱斯特，[p/]他就用笑容将负面感情隐藏起来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-159\",\n  \"keywords\": []\n}"
   },
@@ -1143,21 +1143,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-163",
     "original": "Ruby Tymora: ...Don’t feel [i]too[/i] bad about losing to him.[p/] He’s nationally ranked.",
-    "translation": "Ruby Tymora: 别觉得输给他[i]很[/i]不服气，他在国内都能排得上号。",
+    "translation": "Ruby Tymora: ……别觉得输给他[u]很[/u]不服气，他在国内都能排得上号。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-164",
     "original": "Celeste McCoy: Oh,[p/] you're a professional.[p/] Is that why you’re wearing a suit?",
-    "translation": "Celeste McCoy: 哇哦！[p/]原来你穿这身西装就是因为你是职业选手吗？",
+    "translation": "Celeste McCoy: 哇哦！[p/]你是职业选手。[p/]所以才要穿西装？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-165",
     "original": "Tyrion Cuthbert: No…[p/] Chess is just a hobby.[p/] I’m actually a defense attorney.",
-    "translation": "Tyrion Cuthbert: 不是的，[p/]下棋只是爱好，[p/]我其实是个辩护律师。",
+    "translation": "Tyrion Cuthbert: 不是的……[p/]下棋只是爱好，[p/]我其实是个辩护律师。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-165\",\n  \"keywords\": []\n}"
   },
@@ -1171,7 +1171,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-167",
     "original": "Ruby Tymora: Speaking of which,[p/] we should probably be on our way.",
-    "translation": "Ruby Tymora: 总之，[p/]我们差不多该走了。",
+    "translation": "Ruby Tymora: 说到这个，[p/]我们差不多该走了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12-167\",\n  \"keywords\": []\n}"
   },
@@ -1220,7 +1220,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-174",
     "original": "Celeste McCoy: A-[p/][s/]Anyways,[p/] it [i]is[/i] getting late.",
-    "translation": "Celeste McCoy: 那、[p/][s/]那个，[p/]现在时辰[i]不早[/i]了。",
+    "translation": "Celeste McCoy: 那、[p/][s/]那个，[p/]现在时间[u]不早[/u]了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12a-174\",\n  \"keywords\": []\n}"
   },
@@ -1255,7 +1255,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-179",
     "original": "Ruby Tymora: …I guess you have a point.",
-    "translation": "Ruby Tymora: ……那怎么办呢",
+    "translation": "Ruby Tymora: ……你说得有道理。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12a-179\",\n  \"keywords\": []\n}"
   },
@@ -1283,7 +1283,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-183",
     "original": "Celeste McCoy: The tavern is shut down.[p/] But we still have some sheets and blankets.",
-    "translation": "Celeste McCoy: 虽然酒馆停业了，[p/]但我们还有很多的床单被褥。",
+    "translation": "Celeste McCoy: 虽然酒馆停业了，[p/]但我们还有一些床单被褥。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice12a-183\",\n  \"keywords\": []\n}"
   },
@@ -1332,7 +1332,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-190",
     "original": "Tyrion Cuthbert: Well... [p/]There [i]is[/i] one way to find out.",
-    "translation": "Tyrion Cuthbert: 嗯……[p/]总[i]有办法[/i]知道的。",
+    "translation": "Tyrion Cuthbert: 嗯……[p/]总[u]有办法[/u]知道的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice13-190\",\n  \"keywords\": []\n}"
   },
@@ -1353,21 +1353,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-193",
     "original": "Tyrion: If your business with Flinhart is related to our clients, [p/]I can help.",
-    "translation": "Tyrion: 如果你们聊的与我们的委托人有关，[p/]我肯定能帮到什么。",
+    "translation": "Tyrion: 如果你们聊的与我们的委托人有关，[p/]我可以帮忙。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice13-193\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-194",
     "original": "Ruby: ...It wasn't important. [p/]And your presence was [i]not[/i] necessary.",
-    "translation": "Ruby: ……没什么大事。[p/]而且也[i]不需要[/i]你出场。",
+    "translation": "Ruby: ……没什么大事。[p/]而且也[u]不需要[/u]你出场。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice13-194\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-195",
     "original": "That's such an obvious lie.[p/] But you can’t read a single thought from her mind.",
-    "translation": "那明显不是实话，[p/]但你完全读不到她在想什么。",
+    "translation": "这谎也太明显了，[p/]但你完全读不到她在想什么。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice13-195\",\n  \"keywords\": []\n}"
   },
@@ -1381,7 +1381,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-197",
     "original": "Celeste: Um…",
-    "translation": "Celeste: 唔……",
+    "translation": "Celeste: 呃……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice13-197\",\n  \"keywords\": []\n}"
   },
@@ -1409,7 +1409,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-201",
     "original": "Ruby: ...Right.",
-    "translation": "Ruby: ……好的",
+    "translation": "Ruby: ……好的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice14-201\",\n  \"keywords\": []\n}"
   },
@@ -1458,14 +1458,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-208",
     "original": "Ruby: You were playing chess with Flinhart's daughter earlier. [p/]Was she any good?",
-    "translation": "Ruby: 你刚刚和弗林哈特的女儿下棋来着？ [p/]她棋下的好吗？",
+    "translation": "Ruby: 你刚刚和弗林哈特的女儿下棋来着？ [p/]她棋下得好吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice14-208\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-209",
     "original": "Tyrion: …Not at first.[p/] But she got a lot better as we kept playing.",
-    "translation": "Tyrion: ……最开始不怎么样，[p/]但她边下边学进步很大。",
+    "translation": "Tyrion: ……最开始不怎么样，[p/]但她边下边学，进步很大。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice14-209\",\n  \"keywords\": []\n}"
   },
@@ -1493,7 +1493,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-213",
     "original": "Ruby: Well...[p/] I suppose you [i]are[/i] at that age.",
-    "translation": "Ruby: 嗯……[p/]再怎么说你也到[i]那个年龄[/i]了呢。",
+    "translation": "Ruby: 嗯……[p/]再怎么说你也到[u]那个年龄[/u]了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice15-213\",\n  \"keywords\": []\n}"
   },
@@ -1549,7 +1549,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-221",
     "original": "You sternly look at each other,[p/] your positions already made.",
-    "translation": "你们凶巴巴的望着彼此，[p/]两人都不打算让步。",
+    "translation": "你们凶巴巴地望着彼此，[p/]两人都不打算让步。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice15-221\",\n  \"keywords\": []\n}"
   },
@@ -1570,7 +1570,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-224",
     "original": "Ruby: I’m sorry if it looks like I don't trust you.[p/] I know you're just trying to help.",
-    "translation": "Ruby: 抱歉我看起来很不信任你，[p/]我知道你只是想帮我的忙。",
+    "translation": "Ruby: 抱歉我看起来很不信任你。[p/]我知道你只是想帮我的忙。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice15-224\",\n  \"keywords\": []\n}"
   },
@@ -1584,14 +1584,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-226",
     "original": "Ruby: But one day...[p/] I'll tell you everything.",
-    "translation": "Ruby: 总有一天，[p/]我会坦白一切的。",
+    "translation": "Ruby: 总有一天……[p/]我会对你坦白一切的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice15-226\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-227",
     "original": "Tyrion: Right…[p/] I’m sorry for prying.",
-    "translation": "Tyrion: 好吧，抱歉我那么爱打破沙锅问到底。",
+    "translation": "Tyrion: 好吧……[p/]抱歉我那么爱打破沙锅问到底。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice15-227\",\n  \"keywords\": []\n}"
   },
@@ -1626,7 +1626,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-232",
     "original": "Ruby: ...You should mentally prepare yourself for the journey tomorrow.",
-    "translation": "Ruby: ……我们明天还要赶路。",
+    "translation": "Ruby: ……你也得为了明天的路程好好休养。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice16-232\",\n  \"keywords\": []\n}"
   },
@@ -1668,14 +1668,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-238",
     "original": "...As this happens,[p/] you feel something…[p/] invasive.",
-    "translation": "……但这次……[p/]有些……[p/]不同寻常。",
+    "translation": "……但是同时，[p/]你有一种……[p/]被入侵的感觉。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice16-238\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-239",
     "original": "Your mind drifts away.[p/] And you feel yourself being pulled elsewhere.",
-    "translation": "意识逐渐远去，[p/]但你能明显感觉自己被拉到了别处。",
+    "translation": "意识逐渐远去，[p/]但你能感觉自己被拉到了别处。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice16-239\",\n  \"keywords\": []\n}"
   },
@@ -1696,7 +1696,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-242",
     "original": "...But some instinct in the back of your mind tells you that something is fundamentally wrong about this.",
-    "translation": "但你心中的某种本能告诉你这并非是梦。",
+    "translation": "……但你心中的某种本能告诉你，有什么根本上的不对。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice16-242\",\n  \"keywords\": []\n}"
   },
@@ -1710,7 +1710,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-244",
     "original": "You see a woman in the far distance.[p/] She’s staring directly at you.",
-    "translation": "你远远望见一个女人正直直的盯着你。",
+    "translation": "你远远望见一个女人。[p/]她正直直地盯着你。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice17-244\",\n  \"keywords\": []\n}"
   },
@@ -1724,7 +1724,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-246",
     "original": "She’s murmuring something,[p/] but you can’t quite make it out.[p/] Is she trying to say something to you?",
-    "translation": "她在嘀咕着什么，[p/]但你听不清，[p/]她是想告诉你什么吗？",
+    "translation": "她在嘀咕着什么，[p/]但你听不清。[p/]她是在对你说什么吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice17-246\",\n  \"keywords\": []\n}"
   },
@@ -1766,14 +1766,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-252",
     "original": "But whatever her words were,[p/] they sent a piercing chill down your spine.",
-    "translation": "无论她说了什么都令你寒毛直竖。",
+    "translation": "无论她说了什么，[p/]都令你寒毛直竖。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice17-252\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-253",
     "original": "Your breath is heavy and your heart is beating at a hundred miles per hour.",
-    "translation": "喘着粗气，[p/] 心跳飞快。",
+    "translation": "喘着粗气，[p/]心跳飞快。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice17-253\",\n  \"keywords\": []\n}"
   },
@@ -1787,7 +1787,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-255",
     "original": "...At least,[p/] that's what you [i]try[/i] to tell yourself.",
-    "translation": "……至少，[p/]你[i]希望[/i]如此。",
+    "translation": "……至少，[p/]你[u]希望[/u]如此。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice18-255\",\n  \"keywords\": []\n}"
   },
@@ -1815,14 +1815,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-259",
     "original": "It must be extremely late.[p/] What could they possibly be arguing about at [i]this[/i] hour?",
-    "translation": "都这么晚了，[p/]这个[i]时候[/i]他们在吵什么呢？",
+    "translation": "都这么晚了，[p/]这个[u]时候[/u]他们在吵什么呢？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice18-259\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-260",
     "original": "Flinhart: I WANT YOU OUT OF MY HOUSE![p/][s/] OUT!",
-    "translation": "Flinhart: 给我滚出我的房子！[p/][s/]出去！",
+    "translation": "Flinhart: <size=2em>给我滚出我的房子！[p/][s/]出去！</size>",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice18-260\",\n  \"keywords\": []\n}"
   },
@@ -1836,7 +1836,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-262",
     "original": "Whoever left slams the door behind them.",
-    "translation": "摔门而去。",
+    "translation": "而且是摔门而去。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice18-262\",\n  \"keywords\": []\n}"
   },
@@ -1850,7 +1850,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-264",
     "original": "...It's none of your business.[p/] You only met those two today.",
-    "translation": "……很明显不关你事，[p/] 你今天才刚认识他们两个。",
+    "translation": "……很明显不关你事，[p/]你今天才刚认识他们两个。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice18-264\",\n  \"keywords\": []\n}"
   },
@@ -1864,7 +1864,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-266",
     "original": "...And as you tell yourself that,[p/] a brief image of Celeste’s smile appears in your mind.",
-    "translation": "……但话又说回来，[p/]一想到塞莱斯特天真的笑容。",
+    "translation": "……这么劝自己的同时，[p/]你回忆起塞莱斯特的笑容。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice18-266\",\n  \"keywords\": []\n}"
   },
@@ -1885,7 +1885,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-269",
     "original": "You slowly make your way out of your room.",
-    "translation": "悄悄的离开了客房。",
+    "translation": "悄悄地离开了客房。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice19-269\",\n  \"keywords\": []\n}"
   },
@@ -1920,21 +1920,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-274",
     "original": "Even this close,[p/] it’s hard to see his expression in the darkness.",
-    "translation": "即使你们俩都贴上了，[p/]也很难在黑暗中看清他的神情。",
+    "translation": "即使这么接近，[p/]黑暗中他的神情也很难分辨。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice19-274\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-275",
     "original": "Tyrion: S-[p/]Sorry…[p/] I just heard-",
-    "translation": "Tyrion: 抱、[p/]抱歉，[p/] 我听到你们……",
+    "translation": "Tyrion: 抱、[p/]抱歉……[p/] 我听到你们——",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice19-275\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-276",
     "original": "Flinhart: Right…[p/] I forgot you two were…",
-    "translation": "Flinhart: 哈啊……[p/]忘了你们两个还在这了……",
+    "translation": "Flinhart: 哈啊……[p/]我忘了你们两个还在这了……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice19-276\",\n  \"keywords\": []\n}"
   },
@@ -1976,7 +1976,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-282",
     "original": "You awkwardly shimmy past Flinhart to head down the stairs.",
-    "translation": "你尴尬的越过弗林哈特下楼。",
+    "translation": "你尴尬地越过弗林哈特下楼。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice19-282\",\n  \"keywords\": []\n}"
   },
@@ -1990,7 +1990,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-284",
     "original": "You arrive at the dining room.[p/] But you don’t see Celeste anywhere.",
-    "translation": "来到了餐厅，[p/] 但这里没有塞莱斯特的身影。",
+    "translation": "来到了餐厅，[p/]但这里没有塞莱斯特的身影。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice21-284\",\n  \"keywords\": []\n}"
   },
@@ -2123,14 +2123,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-303",
     "original": "The merchant’s expression becomes a little colder.",
-    "translation": "商人的表情变得更冷漠了。",
+    "translation": "商人的表情变得冷漠了一些。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-303\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-304",
     "original": "Tyrion: Do you...[p/] [i]know[/i] them?",
-    "translation": "Tyrion: 你……[p/]知道她？",
+    "translation": "Tyrion: 你……[p/][u]认识[/u]她？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-304\",\n  \"keywords\": []\n}"
   },
@@ -2151,28 +2151,28 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-307",
     "original": "Merchant: Those two probably woke up half the street with all their yelling.",
-    "translation": "Merchant: 他们俩吵醒了整条街。",
+    "translation": "Merchant: 他们俩的大喊大叫快把整条街吵醒了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-307\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-308",
     "original": "Merchant: I don’t need [i]you[/i] keeping us up too.",
-    "translation": "Merchant: 你最好安静点。",
+    "translation": "Merchant: 不需要[u]你[/u]也加入他们。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-308\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-309",
     "original": "Merchant: If I hear any more noise,[p/] I’m going to call the town guard.",
-    "translation": "Merchant: 我要是再听到什么噪音，就让镇警来处理你们。",
+    "translation": "Merchant: 我要是再听到什么噪音，[p/]就让镇警来处理你们。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-309\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-310",
     "original": "Before you can get a word in,[p/] the merchant walks back into his home in a huff.",
-    "translation": "还没来得及说些什么，[p/]商人便回去了。",
+    "translation": "还没来得及说些什么，[p/]商人便气呼呼回家了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-310\",\n  \"keywords\": []\n}"
   },
@@ -2186,7 +2186,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-312",
     "original": "You look around but you still don’t see any sign of Celeste.[p/] You decide to continue searching.",
-    "translation": "你看了看周围没有发现塞莱斯特的身影。[p/]于是你打算扩大搜索范围。",
+    "translation": "周围没有发现塞莱斯特的身影。[p/]于是你打算扩大搜索范围。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice22-312\",\n  \"keywords\": []\n}"
   },
@@ -2200,7 +2200,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-314",
     "original": "Flinhart: I can’t believe I said those things to her…",
-    "translation": "Flinhart: 我竟然说的那么过分……",
+    "translation": "Flinhart: 我竟然说得那么过分……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice23-314\",\n  \"keywords\": []\n}"
   },
@@ -2242,35 +2242,35 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-320",
     "original": "Flinhart: What are [i]you[/i] doing here?!",
-    "translation": "Flinhart: [i]你[/i]来干什么？！",
+    "translation": "Flinhart: [u]你[/u]来干什么？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice23-320\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-321",
     "original": "Flinhart: And how dare you bring that…[p/][s/] [i]witchcraft[/i] into my home?!",
-    "translation": "Flinhart: 谁许你在我家用那种巫术的？！",
+    "translation": "Flinhart: 谁许你在我家用那种……[p/][s/][u]巫术[/u]的？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice23-321\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-322",
     "original": "Garrick: You’ve been busy lately.",
-    "translation": "Garrick: 你最近很忙",
+    "translation": "Garrick: 你最近很忙啊。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice23-322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-323",
     "original": "Garrick: Your little rallies have gained [i]quite[/i] a lot of support.",
-    "translation": "Garrick: 看起来你的小同伙们得到了不少的援助",
+    "translation": "Garrick: 看起来你的小同伙们得到了[u]不少[/u]援助。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice23-323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-324",
     "original": "Garrick: …Too much support for my family’s liking.",
-    "translation": "Garrick: …有点..太多了",
+    "translation": "Garrick: ……多到我的家族有点不高兴了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice23-324\",\n  \"keywords\": []\n}"
   },
@@ -2284,91 +2284,91 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-326",
     "original": "Garrick: You have my word.",
-    "translation": "Garrick: 我向你保证",
+    "translation": "Garrick: 我向你保证。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-326\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-327",
     "original": "Garrick: If you stop spreading dissidence,[p/] no harm will come to you or your family.",
-    "translation": "Garrick: 只要你立刻停止宣扬你的那些暴论，[p/] 你和你的家人都不会受任何伤害",
+    "translation": "Garrick: 只要立刻停止传播异见，[p/]你和你的家人都不会受任何伤害。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-328",
     "original": "Flinhart: Hah![p/][s/] Your “word” is as good as the dirt you lick off of King Olivier's boots.",
-    "translation": "Flinhart: 啊哈！[p/][s/]你的承诺好似国王靴子上的土一样没用",
+    "translation": "Flinhart: 哈！[p/][s/]信你的“保证”？还不如去学你对奥利维尔王点头哈腰。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-329",
     "original": "Flinhart: As if I’d [i]ever[/i] trust the words of a [i]murderer[/i] like you…",
-    "translation": "Flinhart: 我绝不可能相信你这种杀人犯的话...",
+    "translation": "Flinhart: 我[u]绝不可能[/u]相信你这种[u]杀人犯[/u]的话……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-330",
     "original": "Garrick: …",
-    "translation": "Garrick: …",
+    "translation": "Garrick: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-331",
     "original": "Garrick: Flinhart,[p/] please…",
-    "translation": "Garrick: 弗林哈特，[p/]别这样",
+    "translation": "Garrick: 弗林哈特，[p/]拜托……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-332",
     "original": "Garrick: As someone you once called a friend,[p/] I’m only going to ask you one time.",
-    "translation": "Garrick: 我的老朋友，[p/] 我只求你这一次",
+    "translation": "Garrick: 作为你的老朋友，[p/]我只求你这一次。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-332\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-333",
     "original": "Flinhart: “Friend”…?[p/][s/] “Friend”?!",
-    "translation": "Flinhart: “老朋友”…？[p/][s/] “老朋友”？！",
+    "translation": "Flinhart: “老朋友”……？[p/][s/]“老朋友”？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-333\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-334",
     "original": "Flinhart: I’ll be dead in the ground before I ever call the likes of [i]you[/i] a \"friend\"!",
-    "translation": "Flinhart: 我死也不愿与你这样的人交友！",
+    "translation": "Flinhart: 我死也不会管[u]你[/u]这样的人叫“老朋友”！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-334\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-335",
     "original": "Flinhart: Get out of my house.",
-    "translation": "Flinhart: 滚出去",
+    "translation": "Flinhart: 滚出去。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-336",
     "original": "Flinhart: I don’t have time for your nonsense.",
-    "translation": "Flinhart: 我没时间陪你胡闹",
+    "translation": "Flinhart: 我没时间听你放屁。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-337",
     "original": "Garrick: …",
-    "translation": "Garrick: …",
+    "translation": "Garrick: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-337\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-338",
     "original": "Garrick: Unfortunately,[p/] I don’t think you’ll have much time for anything.",
-    "translation": "Garrick: 可惜，[p/] 你时日已尽",
+    "translation": "Garrick: 可惜，[p/]你想干什么都没时间了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice24-338\",\n  \"keywords\": []\n}"
   },
@@ -2382,14 +2382,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-340",
     "original": "Garrick: ...",
-    "translation": "Garrick: ...",
+    "translation": "Garrick: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice25-340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-341",
     "original": "Garrick Pierce: Damn it...",
-    "translation": "Garrick Pierce: 可恶...",
+    "translation": "Garrick Pierce: 可恶……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice25-341\",\n  \"keywords\": []\n}"
   },
@@ -2410,21 +2410,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-344",
     "original": "Garrick: Why couldn’t you have just [i]listened[/i] to me?!",
-    "translation": "Garrick: 为什么就不能听我的？",
+    "translation": "Garrick: 为什么就不能[u]听[/u]我的？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice25-344\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-345",
     "original": "Garrick Pierce: ...",
-    "translation": "Garrick Pierce: ...",
+    "translation": "Garrick Pierce: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-346",
     "original": "Garrick Pierce: Rudolf.[p/] I require your assistance.",
-    "translation": "Garrick Pierce: 鲁道夫，[p/]帮我个忙",
+    "translation": "Garrick Pierce: 鲁道夫。[p/]我需要你帮忙。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-346\",\n  \"keywords\": []\n}"
   },
@@ -2438,231 +2438,231 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-348",
     "original": "Rhys Rudolf: By the Scaled Lord![p/][s/] What did you-?!",
-    "translation": "Rhys Rudolf: 鳞甲领主在上！[p/][s/]你到底做了什么！？",
+    "translation": "Rhys Rudolf: 鳞甲领主在上！[p/][s/]你到底做了什——！？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-348\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-349",
     "original": "Rhys Rudolf: You...[p/][s/] killed him!",
-    "translation": "Rhys Rudolf: 你….[p/][s/]杀了他！",
+    "translation": "Rhys Rudolf: 你……[p/][s/]杀了他！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-350",
     "original": "Garrick: ...",
-    "translation": "Garrick: ...",
+    "translation": "Garrick: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-351",
     "original": "Garrick: Alert the town guard.[p/] Tell them that you saw his daughter fleeing the scene.",
-    "translation": "Garrick: 向镇警报案 ，[p/]告诉他们你看见他女儿逃走了",
+    "translation": "Garrick: 向镇警报案。[p/]告诉他们你看见他女儿逃离了现场。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-352",
     "original": "Garrick: I’m sure their neighbors heard them arguing with each other.",
-    "translation": "Garrick: 周边的邻居都听到他们吵架了",
+    "translation": "Garrick: 邻居肯定都听到他们吵架了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-352\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-353",
     "original": "Garrick: They'll immediately suspect her.",
-    "translation": "Garrick: 她是头号嫌疑人",
+    "translation": "Garrick: 她会成为头号嫌疑人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-353\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-354",
     "original": "Rhys Rudolf: ...",
-    "translation": "Rhys Rudolf: ...",
+    "translation": "Rhys Rudolf: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-354\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-355",
     "original": "Rhys Rudolf: At once, sir.",
-    "translation": "Rhys Rudolf: 马上照做，阁下",
+    "translation": "Rhys Rudolf: 马上照做，阁下。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice26-355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-356",
     "original": "You’ve been searching for Celeste for a while.",
-    "translation": "从开始寻找塞莱斯特已经过了有一会了",
+    "translation": "你开始寻找塞莱斯特已经过去一段时间了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-357",
     "original": "How long have you been outside?[p/] Two hours?[p/] Three?",
-    "translation": "已经找了几个小时了？[p/]两个小时？[p/]三个小时？",
+    "translation": "已经找了多久了？[p/]两个小时？[p/]三个小时？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-358",
     "original": "However long it's been,[p/] it's clearly taking a toll on you.",
-    "translation": "具体的时间已经无所谓了，[p/]精疲力竭的身体告诉你已经过了很久了",
+    "translation": "不管具体过去多久，[p/]你的身体都已精疲力竭。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-359",
     "original": "Where [i]is[/i] she...?",
-    "translation": "她到底跑哪去了...？",
+    "translation": "她到底跑哪去了……？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-360",
     "original": "Celeste: ...What am I going to do now?",
-    "translation": "Celeste: ...我该怎么办…",
+    "translation": "Celeste: ……我该怎么办？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-360\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-361",
     "original": "You hear a faint voice...[p/] Could it be...?",
-    "translation": "远处传来一阵有气无力的声音...[p/] 会是她吗？",
+    "translation": "你听到一个模糊的声音……[p/]会是她吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-362",
     "original": "Celeste: O-[p/][s/]Oh…!",
-    "translation": "Celeste: 诶-[p/][s/]啊...！",
+    "translation": "Celeste: 诶、[p/][s/]啊……！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-363",
     "original": "As you peer behind an old tree,[p/] you finally find her.",
-    "translation": "你在一棵古树后找到了她",
+    "translation": "你终于在一棵古树后找到了她。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-363\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-364",
     "original": "She looks just as tired as you are.[p/] Probably, even more so.",
-    "translation": "她看起来身心俱疲，[p/]比你更甚。",
+    "translation": "她看起来和你一样身心俱疲，[p/]甚至可能更严重。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-364\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-365",
     "original": "Her eyes are puffy and red.[p/] But she’s doing her best to hide it with a smile.",
-    "translation": "即使她努力用微笑掩饰悲伤，[p/] 哭红的双眼却倾诉了她的心碎",
+    "translation": "即使她努力用微笑掩饰，[p/]哭红的双眼也出卖了她的悲伤。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-366",
     "original": "Tyrion: I’ve...[p/] been looking all over for you.",
-    "translation": "Tyrion: 我…[p/]一直在找你",
+    "translation": "Tyrion: 我……[p/]一直在找你。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-366\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-367",
     "original": "Celeste: Oh…[p/] sorry.",
-    "translation": "Celeste: 啊…[p/]抱歉...",
+    "translation": "Celeste: 啊……[p/]抱歉。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-368",
     "original": "Celeste: ...I’m guessing we woke you up?",
-    "translation": "Celeste: ...我把你吵醒了吧？",
+    "translation": "Celeste: ……我们把你吵醒了吧？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-369",
     "original": "Tyrion: Yeah...",
-    "translation": "Tyrion: 嗯…",
+    "translation": "Tyrion: 嗯……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-370",
     "original": "Tyrion: ...Is everything okay?",
-    "translation": "Tyrion: ...还好吗？",
+    "translation": "Tyrion: ……你还好吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-370\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-371",
     "original": "Celeste: It’s nothing. [p/]It was just an argument…",
-    "translation": "Celeste: 没什么大不了的，[p/]只是吵了一架...",
+    "translation": "Celeste: 没什么大不了的，[p/]只是吵了一架……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-371\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-372",
     "original": "But from the way she reacted,[p/] this is clearly not common.",
-    "translation": "从她的神情来看，[p/]绝非吵了一架那么简单",
+    "translation": "从她的反应来看，[p/]这种事并不频繁。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-372\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-373",
     "original": "...You suppose that it's none of your business.[p/] You decide not to pry further.",
-    "translation": "...再怎么说这也是他们父女之间的事，[p/]你觉得还是不要深究为好",
+    "translation": "……再怎么说这也是他们父女之间的事，[p/]你觉得还是不要深究为好。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice27-373\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-374",
     "original": "Celeste: …Have you been looking for me all this time?",
-    "translation": "Celeste: …已经好几个小时了，[p/]你一直都在找我吗？",
+    "translation": "Celeste: ……已经好几个小时了，[p/]你一直都在找我吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-374\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-375",
     "original": "Tyrion: I have...",
-    "translation": "Tyrion: 对啊",
+    "translation": "Tyrion: 对啊……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-375\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-376",
     "original": "Celeste: T-[p/][s/]Thank you.",
-    "translation": "Celeste: 谢-[p/][s/]谢谢你",
+    "translation": "Celeste: 谢、[p/][s/]谢谢你",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-376\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-377",
     "original": "Celeste: …But I’m okay now.[p/] You should head back.",
-    "translation": "Celeste: …我现在好多了，[p/]你应该回去好好休息，[p/] 明天还要赶路不是吗？",
+    "translation": "Celeste: ……我现在没事了，[p/]你应该回去休息。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-378",
     "original": "Tyrion: …What about you?",
-    "translation": "Tyrion: …那你呢？还要再一个人静一静吗？",
+    "translation": "Tyrion: ……那你呢？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-378\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-379",
     "original": "Celeste: I think I’m going to stay out a little longer.",
-    "translation": "Celeste: 嗯…我想再待一会",
+    "translation": "Celeste: 我想再待一会儿。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-379\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-380",
     "original": "Tyrion: …",
-    "translation": "Tyrion: …",
+    "translation": "Tyrion: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-380\",\n  \"keywords\": []\n}"
   },
@@ -2676,28 +2676,28 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-382",
     "original": "Tyrion: ...I’m sure whatever happened between you two,[p/] it’s nothing you can’t talk out.",
-    "translation": "Tyrion: ...无论与父母之间出现怎样的隔阂，只要你愿意沟通，一定有办法和好如初的。我一直是这样认为的",
+    "translation": "Tyrion: ……无论你们之间发生了什么，[p/]都不是好好谈谈解决不了的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-382\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-383",
     "original": "Celeste: …!",
-    "translation": "Celeste: …!",
+    "translation": "Celeste: ……！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-383\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-384",
     "original": "Tyrion: It doesn’t happen a lot.[p/] But sometimes Ms. Tymora and I get into fights too.",
-    "translation": "Tyrion: 我和摩拉女士也经常吵的一发不可收拾，[p/]虽然不是很频繁就是了",
+    "translation": "Tyrion: 我和泰摩拉女士也会吵架，[p/]虽然不是很频繁吧。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-384\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-385",
     "original": "Tyrion: But no matter what happens,[p/] we were always able to talk through it.",
-    "translation": "Tyrion: 但重要的是，[p/] 无论发生了什么，[p/] 无论当时有多么生气，[p/] 我们最后总能用言语化解矛盾",
+    "translation": "Tyrion: 但无论发生了什么，[p/]我们最后总能用言语化解矛盾。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-385\",\n  \"keywords\": []\n}"
   },
@@ -2711,28 +2711,28 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-387",
     "original": "Tyrion: S-[p/][s/]Sorry![p/] I know it’s none of my business,[p/] but I just-!",
-    "translation": "Tyrion: 抱-[p/][s/]抱歉！[p/]我明知道这不关我的事，[p/] 但我就是…！",
+    "translation": "Tyrion: 抱、[p/][s/]抱歉！[p/]我知道这不关我的事，[p/] 但我就是——！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-387\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-388",
     "original": "Celeste: No, I really appreciate it.[p/] Thank you.",
-    "translation": "Celeste: 呵呵，不用道歉，卡斯伯特先生，我真的很感激你能这样开导我，[p/] 真的很感谢你",
+    "translation": "Celeste: 不，我很感激。[p/]谢谢你。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-388\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-389",
     "original": "Celeste: …",
-    "translation": "Celeste: …",
+    "translation": "Celeste: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-389\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-390",
     "original": "Celeste: You’re right… [p/]Let’s go back.",
-    "translation": "Celeste: 你说的对，[p/]我们回去吧",
+    "translation": "Celeste: 你说得对……[p/]我们回去吧。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-390\",\n  \"keywords\": []\n}"
   },
@@ -2746,98 +2746,98 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-392",
     "original": "You arrive back at the McCoy Tavern.",
-    "translation": "回到了麦考伊的酒馆",
+    "translation": "回到了麦考伊的酒馆。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-392\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-393",
     "original": "...But it’s now surrounded by several carriages and knights clad in plate armor.",
-    "translation": "平日里萧条的酒馆现在被好几辆马车与全副武装的骑士包围",
+    "translation": "……但酒馆现在被好几辆马车与全副武装的骑士包围。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-393\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-394",
     "original": "Tyrion: Is that…[p/][s/] the Inquisition?!",
-    "translation": "Tyrion: 那是….[p/][s/]裁判所？",
+    "translation": "Tyrion: 那是……[p/][s/]裁判所？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-394\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-395",
     "original": "Celeste: What…?",
-    "translation": "Celeste: 什...么…?",
+    "translation": "Celeste: 什么……?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-395\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-396",
     "original": "Tyrion: The Arcane Inquisition.[p/] They're an order of knights that investigate crimes committed using magic.",
-    "translation": "Tyrion: 奥术裁判所，[p/] 他们负责调查一些涉及魔法的刑事案件",
+    "translation": "Tyrion: 奥术裁判所，[p/]由一群负责调查涉及魔法的刑事案件骑士组成。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-396\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-397",
     "original": "As you say the word “crimes”,[p/] you and Celeste share a glance and come to the same realization.",
-    "translation": "说到刑事案件，[p/] 你和塞莱斯特四目相对，顿时明白了发生了什么",
+    "translation": "说到“刑事案件”，[p/]你和塞莱斯特对视了一下，得出了相同的结论。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-397\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-398",
     "original": "Both of you rush towards the tavern,[p/] but Celeste outpaces you by a large margin.",
-    "translation": "你们一同冲向酒馆，[p/] 但塞莱斯特的速度远超于你",
+    "translation": "你们一同冲向酒馆，[p/]但塞莱斯特的速度远超于你。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-398\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-399",
     "original": "Celeste: What…?",
-    "translation": "Celeste: 什….么……?",
+    "translation": "Celeste: 什么……?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-399\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-400",
     "original": "Celeste: N-[p/]No...",
-    "translation": "Celeste: 不-[p/]不……",
+    "translation": "Celeste: 不、[p/]不……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-400\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-401",
     "original": "Celeste: NOOOOOO!",
-    "translation": "Celeste: 这不是真的！",
+    "translation": "Celeste: <size=1.5em>不！</size>",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-401\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-402",
     "original": "She reaches the tavern before you.[p/] And before anyone can stop her,[p/] she takes a look inside the inn.",
-    "translation": "她先你一步来到酒馆，[p/]得知发生了什么",
+    "translation": "她先你一步来到酒馆，[p/]并向酒馆内看去，[p/]没人来得及阻止她。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice30-402\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-403",
     "original": "[i]Whatever[/i] she saw makes her cry out in anguish.",
-    "translation": "现场发生的事令她失声痛哭",
+    "translation": "[u]看到的事[/u]令她失声痛哭。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-403\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-404",
     "original": "She drops to the ground in tears.",
-    "translation": "她泪流满面地跌坐在地上",
+    "translation": "她泪流满面，跌坐在地上。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-404\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-405",
     "original": "Orym: [i]There[/i] she is!",
-    "translation": "Orym: 她在那！",
+    "translation": "Orym: 她在那儿！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-405\",\n  \"keywords\": []\n}"
   },
@@ -2851,21 +2851,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-407",
     "original": "Upon seeing Celeste,[p/] one of the knights steps forward and grabs her.",
-    "translation": "一看见塞莱斯特，[p/]其中的一名骑士上前尝试制服她",
+    "translation": "看见塞莱斯特后，[p/]骑士之一上前尝试制服她。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-407\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-408",
     "original": "Surprisingly,[p/] she’s able to break free from his grip and tries to push further into the tavern.",
-    "translation": "惊讶的是，[p/]她挣脱了骑士的控制并试图进入酒馆",
+    "translation": "惊讶的是，[p/]她挣脱了骑士的控制，并试图进入酒馆。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-408\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-409",
     "original": "Noticing the commotion,[p/] three other knights rush to grab her and begin dragging her away.",
-    "translation": "意识到骚乱后，[p/]立刻有三位骑士上前抓住她，把她拖开。",
+    "translation": "意识到骚乱后，[p/]立刻有另外三位骑士上前抓住她，把她拖开。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-409\",\n  \"keywords\": []\n}"
   },
@@ -2879,84 +2879,84 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-411",
     "original": "Even between the three knights,[p/] it's taking all of their strength to subdue her.",
-    "translation": "甚至需要三位骑士使出全力才能制服她",
+    "translation": "甚至需要三位骑士使出全力才能制服她。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-411\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-412",
     "original": "Tyrion: What are you doing to her?![p/][s/] What is going on here?!",
-    "translation": "Tyrion: 为什么要逮捕她！？ [p/][s/]这里发生什么事了！？",
+    "translation": "Tyrion: 为什么要逮捕她！？ [p/][s/]这里发生什么事了？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-412\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-413",
     "original": "Ruby: ...Tyrion!",
-    "translation": "Ruby: ...提利昂！",
+    "translation": "Ruby: ……提利昂！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-413\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-414",
     "original": "Ms. Tymora approaches you.[p/] You breathe a small sigh of relief when you see that she’s okay.",
-    "translation": "摩拉女士走上前，[p/] 看到她安然无恙，你悬着的心终于放了下来",
+    "translation": "泰摩拉女士走上前。[p/]看到她安然无恙，你悬着的心放了下来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-414\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-415",
     "original": "Tyrion: M-[p/][s/]Ms. Tymora!",
-    "translation": "Tyrion: 泰摩拉女士！",
+    "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-415\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-416",
     "original": "Orym: Bah![p/] I should have known that he was one of [i]yours[/i].",
-    "translation": "Orym: 哼！[p/]我就知道他是和你一伙的",
+    "translation": "Orym: 哼！[p/]我早该知道他是和你[u]一伙[/u]的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice31-416\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-417",
     "original": "Orym: Just stay out of our way.",
-    "translation": "Orym: 别来捣乱",
+    "translation": "Orym: 别来捣乱。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice32-417\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-418",
     "original": "Tyrion: Ms. Tymora…[p/][s/] What's going on?!",
-    "translation": "Tyrion: 泰摩拉女士….[p/][s/]出什么事了？！",
+    "translation": "Tyrion: 泰摩拉女士……[p/][s/]出什么事了？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice32-418\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-419",
     "original": "Tyrion: Why is the [i]Inquisition[/i] here?!",
-    "translation": "Tyrion: 为什么裁判所的人在这？！",
+    "translation": "Tyrion: 为什么这儿有裁判所的人？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice32-419\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-420",
     "original": "Ruby: …",
-    "translation": "Ruby: …",
+    "translation": "Ruby: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice32-420\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-421",
     "original": "Ruby: I’m surprised myself.",
-    "translation": "Ruby: 我也很震惊",
+    "translation": "Ruby: 我也很震惊。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice32-421\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-422",
     "original": "Ruby: But from what I understand…[p/] Flinhart McCoy has been murdered.",
-    "translation": "Ruby: 但据我所知，[p/]弗林哈特·麦考伊被人谋杀了",
+    "translation": "Ruby: 但据我所知……[p/]弗林哈特·麦考伊被人谋杀了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice32-422\",\n  \"keywords\": []\n}"
   },
@@ -2970,14 +2970,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-425",
     "original": "There's only one locked door that leads into the cell.",
-    "translation": "仅有一扇门通向牢房",
+    "translation": "仅有一扇门通向牢房。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Examine_Barracks-425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-426",
     "original": "And it seems to be locked by some kind of magical mechanism.",
-    "translation": "看起来门锁是某种魔法装置",
+    "translation": "门锁看起来是某种魔法装置。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Examine_Barracks-426\",\n  \"keywords\": []\n}"
   },
@@ -3019,147 +3019,147 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-436",
     "original": "Tyrion: ...I'm sorry for freezing up like that.",
-    "translation": "Tyrion: ...抱歉让你看见我丢人的样子了…",
+    "translation": "Tyrion: ……抱歉让你看见我丢人的样子。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-437",
     "original": "Tyrion: I almost lost us the trial…",
-    "translation": "Tyrion: 差点就让案件草草结案了..",
+    "translation": "Tyrion: 我差点就输掉了审理……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-438",
     "original": "Celeste: N-[p/][s/]No,[p/][s/] there’s no need to apologize!",
-    "translation": "Celeste: 诶-[p/][s/]不，[p/][s/]怎么会！你不用道歉的！",
+    "translation": "Celeste: 不、[p/][s/]不，[p/][s/]你不用道歉的！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-439",
     "original": "Celeste: You did great!",
-    "translation": "Celeste: 你做的很好啊！",
+    "translation": "Celeste: 你做得很好啊！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-440",
     "original": "But it was only thanks to her.[p/] If she hadn't calmed you down...[p/] who [i]knows[/i] what would have happened?",
-    "translation": "多亏她当时安慰你，[p/]如果她没这么做，[p/]法官肯定已经宣判裁决了",
+    "translation": "但都是多亏了她，[p/]如果她没有让你冷静下来……[p/]谁[u]知道[/u]会发生什么？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-441",
     "original": "Celeste: ...But I still don’t understand, though.",
-    "translation": "Celeste: ...但是我还是想不通",
+    "translation": "Celeste: ……但是我还是想不通。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-442",
     "original": "Celeste: Why were there traces of magic on my dad’s body?",
-    "translation": "Celeste: 为什么我父亲的身体上有这么多魔法痕迹？",
+    "translation": "Celeste: 为什么我父亲身上有这么多魔法痕迹？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-443",
     "original": "Right...[p/] Those traces of magic were on the sword [i]and[/i] the body.",
-    "translation": "确实...[p/]那些痕迹存在于剑和尸体上",
+    "translation": "确实……[p/]那些痕迹存在于剑[u]和[/u]尸体上。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-444",
     "original": "Magical traces are particles of magical residue that are left behind when a mage casts a spell.",
-    "translation": "魔法痕迹是法师施法后留下的某种魔法粒子残留物",
+    "translation": "魔法痕迹是法师施法后留下的某种魔法粒子残留物。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-445",
     "original": "They only linger around for 48 hours.[p/] And that gives you a rough timeline of when and where a spell is cast.",
-    "translation": "这些残留物只存在48小时，通过消失的时间能粗略的判断出法术的施法时间",
+    "translation": "这些残留物只存在48小时，[p/]能通过它们粗略判断出法术的施法时间和位置。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-446",
     "original": "Tyrion: Did you cast [b]Mage Blade[/b] on your sword that day?",
-    "translation": "Tyrion: 你那天给你的剑附魔[b]法术剑刃[/b] 了吗？",
+    "translation": "Tyrion: 你那天给你的剑附魔[b]法术剑刃[/b]了吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-447",
     "original": "Celeste: I did.[p/] I usually cast it when I train in the morning.",
-    "translation": "Celeste: 嗯，[p/] 一般我每天早上都在我的剑上用一次来练习这个法术",
+    "translation": "Celeste: 嗯，[p/]我每天早上训练时都会用一次。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-448",
     "original": "That explains why there was a trace on the sword, at least.",
-    "translation": "没有什么帮助...不过这至少解释了为什么剑上留下了痕迹",
+    "translation": "至少能解释为什么剑上留下了痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-448\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-449",
     "original": "Celeste: Did the trace on my sword leave the magical trace on my dad’s body?",
-    "translation": "Celeste: 有没有可能是我剑上的痕迹蔓延到我父亲的身体上？",
+    "translation": "Celeste: 有没有可能，是我剑上的痕迹蔓延到父亲的身体上？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-450",
     "original": "Tyrion: No…[p/] Magical traces can't be moved around physically.",
-    "translation": "Tyrion: 没可能…[p/]魔法痕迹不可被物理性的转移",
+    "translation": "Tyrion: 不……[p/]魔法痕迹不可被物理性转移。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-451",
     "original": "Tyrion: For a spell to leave a trace,[p/] it has to be active when physical contact is made.",
-    "translation": "Tyrion: 要留下痕迹，[p/]必须要在法术生效时与物体有物理接触",
+    "translation": "Tyrion: 要留下痕迹，[p/]物理必须在法术生效时有物理接触。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-452",
     "original": "Celeste: Really?[p/] What does that mean then?",
-    "translation": "Celeste: 诶？[p/]那这意思是？",
+    "translation": "Celeste: 真的？[p/]那这意思是？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-453",
     "original": "Tyrion: Whatever killed your father had a [b]transmutation[/b] spell active on it at the time.",
-    "translation": "Tyrion: 你父亲死时一定有某个[b]转变魔法[/b]作用在他身上",
+    "translation": "Tyrion: 杀死你父亲的凶器当时一定被施了某种[b]形变术[/b]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-454",
     "original": "Tyrion: The magical trace on your sword was just an unlucky coincidence.",
-    "translation": "Tyrion: 你剑上的魔法痕迹只是个非常不幸的巧合",
+    "translation": "Tyrion: 你剑上的魔法痕迹只是个非常不幸的巧合。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-455",
     "original": "Celeste: I can’t believe this…",
-    "translation": "Celeste: 难以置信..",
+    "translation": "Celeste: 难以置信……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-455\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-457",
     "original": "Tyrion: Could you tell me more about your father?",
-    "translation": "Tyrion: 你能和我聊聊你父亲是个什么样的人吗？",
+    "translation": "Tyrion: 能和我聊聊你父亲吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-457\",\n  \"keywords\": []\n}"
   },
@@ -3173,70 +3173,70 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-459",
     "original": "Tyrion: Sorry,[p/] I know this must be difficult after everything that’s happened.",
-    "translation": "Tyrion: 抱歉，[p/]我知道这对你来说很….",
+    "translation": "Tyrion: 抱歉，[p/]我知道现在可能很难讨论这些。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-460",
     "original": "Celeste: No…[p/] It’s okay.",
-    "translation": "Celeste: 没事的..[p/]我都告诉你",
+    "translation": "Celeste: 不……[p/]没事的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-460\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-461",
     "original": "Celeste: If it helps you,[p/] I’ll try my best to answer your questions.",
-    "translation": "Celeste: 如果这些能帮助你破案，[p/]我会尽我所能的回答你的所有问题",
+    "translation": "Celeste: 如果能帮助你破案，[p/]我会尽我所能回答问题。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-461\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-462",
     "original": "Tyrion: Were you two close?",
-    "translation": "Tyrion: 你们俩关系应该还不错吧？",
+    "translation": "Tyrion: 你们俩很亲密？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-462\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-463",
     "original": "Celeste: We were…",
-    "translation": "Celeste: 嗯… 那件事之前是的...",
+    "translation": "Celeste: 之前是的……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-463\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-464",
     "original": "Celeste: I’m sure you know this by now,[p/] but I was adopted by him and my mom.",
-    "translation": "Celeste: 这件事我觉得你应该已经知道了，[p/]我是被他和妈妈收养的",
+    "translation": "Celeste: 你现在应该也知道了，[p/]我是他和妈妈收养的孩子。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-465",
     "original": "Celeste: But even though I didn’t have their blood,[p/] they [i]treated[/i] me as if I did.",
-    "translation": "Celeste: 尽管我不是他们亲生的，[p/]他们还是把我当做他们的亲生女儿一样对待",
+    "translation": "Celeste: 尽管我是捡来的，[p/]他们还是把我当亲生女儿一样[u]对待[/u]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-465\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-466",
     "original": "Celeste: He loved me with all his heart until…",
-    "translation": "Celeste: 他全心全意的爱着我，直到….",
+    "translation": "Celeste: 他全心全意爱着我，直到……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-466\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-467",
     "original": "Celeste: …",
-    "translation": "Celeste: …",
+    "translation": "Celeste: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-468",
     "original": "“Until”…?[p/] Until what?",
-    "translation": "直到？[p/]直到什么？",
+    "translation": "“直到”……？[p/]直到什么？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-468\",\n  \"keywords\": []\n}"
   },
@@ -3250,7 +3250,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-471",
     "original": "Tyrion: I'm sorry to say this...[p/] But I could hear your argument from my room that night…",
-    "translation": "Tyrion: 我知道不该提起这件事，[p/]但那晚我在房间里听见你们吵得很凶",
+    "translation": "Tyrion: 很抱歉提起这个……[p/]但那晚我的房间里都能听到你们的争吵……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-471\",\n  \"keywords\": []\n}"
   },
@@ -3264,70 +3264,70 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-473",
     "original": "Celeste: …",
-    "translation": "Celeste: …",
+    "translation": "Celeste: ……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-473\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-474",
     "original": "Celeste: For as long as I can remember,[p/] my dad has hated mages.",
-    "translation": "Celeste: 从我记事起，我父亲就讨厌魔法使",
+    "translation": "Celeste: 从我记事起，[p/]我父亲就讨厌法师。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-474\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-475",
     "original": "Celeste: I’m not sure why,[p/] but if you even mentioned magic around him,[p/] he’d fly into a rage.",
-    "translation": "Celeste: 我不太清楚为什么，如果你当他面提魔法的事，他马上就会生气",
+    "translation": "Celeste: 我不太清楚原因，[p/]如果你当他面提魔法的事，[p/]他马上就会生气。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-476",
     "original": "Celeste: So I hid my magic from my family.",
-    "translation": "Celeste: 所以我一直隐瞒我会魔法的事",
+    "translation": "Celeste: 所以我一直隐瞒了自己会魔法的事。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-476\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-477",
     "original": "Tyrion: But why even learn magic in the first place?",
-    "translation": "Tyrion: 既然这样那当初为什么要学魔法呢？",
+    "translation": "Tyrion: 那当初为什么要学魔法呢？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-477\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-478",
     "original": "Tyrion: If you really wanted to,[p/] you could have gone your whole life without using it.",
-    "translation": "Tyrion: 你可以就这样平凡的度过一生的",
+    "translation": "Tyrion: 你可以就这样平凡度过一生的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-478\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-479",
     "original": "Celeste: Ever since our tavern closed,[p/] my family’s been in a lot of debt.",
-    "translation": "Celeste: 自从酒馆闭业后，我家就欠了很多债",
+    "translation": "Celeste: 自从酒馆停业后，[p/]我家就欠了很多债。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-479\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-480",
     "original": "Celeste: I decided to become a mercenary and use magic to enhance my ability to fight.",
-    "translation": "Celeste: 我决定去当雇佣兵并且用魔法来提升我的战斗力",
+    "translation": "Celeste: 我决定去当雇佣兵，[p/]用魔法来提升我的战斗力。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-480\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-481",
     "original": "Celeste: Most mages are in the nobility.[p/] So people will pay a lot for a sellsword who can use magic.",
-    "translation": "Celeste: 因为大多数法师都是贵族，[p/]所以很多雇主愿意付很多钱来雇佣会魔法的人",
+    "translation": "Celeste: 大多数法师都是贵族，[p/]所以雇主愿意付很多钱来雇佣会魔法的人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-481\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-482",
     "original": "...So [i]that's[/i] why she's a mercenary.",
-    "translation": "原来是这样",
+    "translation": "……[u]所以[/u]她才要当雇佣兵。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-482\",\n  \"keywords\": []\n}"
   },
@@ -3341,21 +3341,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-484",
     "original": "Celeste: But I know now…[p/] Learning magic was the biggest mistake I've ever made…",
-    "translation": "Celeste: 但我现在明白了，[p/]学魔法是我这辈子做的最坏的决定",
+    "translation": "Celeste: 但我现在明白了，[p/]学魔法是我这辈子最大的错误……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-484\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-485",
     "original": "Celeste: On that night,[p/] my dad found my [b]Spell Compendium[/b].",
-    "translation": "Celeste: 那天晚上，爸爸他发现了我的[b]法术汇编[/b]",
+    "translation": "Celeste: 那天晚上，[b]爸爸发现了我的[b]法术汇编[/b]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-485\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-486",
     "original": "Celeste: When he confronted me about it,[p/] I finally came clean to him.",
-    "translation": "Celeste: 当他质问我时，[p/] 我和他坦白了",
+    "translation": "Celeste: 当他质问我时，[p/]我和他坦白了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-486\",\n  \"keywords\": []\n}"
   },
@@ -20484,7 +20484,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2940",
     "original": "Player: Next Lead",
-    "translation": "Player: 下个线索",
+    "translation": "Player: 下一个线索",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2940\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
