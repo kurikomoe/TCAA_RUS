@@ -2683,7 +2683,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-408",
     "original": "CDress: Beatrice is Ruby's client.[p/] I'm sure that [i]she'll[/i] be the one defending her.",
-    "translation": "CDress: 比亚特丽丝是鲁比的委托人。[p/]我确信[i]她[/i]会为比亚特丽丝辩护。",
+    "translation": "CDress: 比亚特丽丝是鲁比的委托人。[p/]我确信<u>她</u>会为比亚特丽丝辩护。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Check_Events_Ballroom1-408\",\n  \"keywords\": []\n}"
   },
@@ -3957,7 +3957,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-607",
     "original": "Ruby: More importantly,[p/] you had no right to use the Eye of Horus on [i]my[/i] client without my permission.",
-    "translation": "Ruby: 更重要的是，[p/]未经我的许可，你无权对[i]我的[/i]委托人使用荷鲁斯之眼。",
+    "translation": "Ruby: 更重要的是，[p/]未经我的许可，你无权对<u>我的</u>委托人使用荷鲁斯之眼。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_5-607\",\n  \"keywords\": []\n}"
   },
@@ -5728,14 +5728,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-883",
     "original": "Tyrion: It's proof that you had [i]some[/i] idea of what your father was doing in his study!",
-    "translation": "Tyrion: 这是你对你父亲在书房的行为有所了解的证据。",
+    "translation": "Tyrion: 这是你对你父亲在书房的行为有所了解的证据！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument2-883\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-884",
     "original": "Celeste: Tyrion...[p/] I don't think [i]that[/i] really proves anything.",
-    "translation": "Celeste: 提利昂……[p/]我不认为<u>这</u>能证明什么。",
+    "translation": "Celeste: 提利昂……[p/]我认为<u>这</u>不能证明什么。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument2-884\",\n  \"keywords\": []\n}"
   },
@@ -5917,155 +5917,155 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-910",
     "original": "Doubt [d=\"I'm not so sure... You were the last person to see your father alive. It's possible that you've been lying to us.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Doubt [d=\"我不太确定……但你是最后一个见到活着的弗雷加勋爵的人。而你可能对我们撒了谎。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-910\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-911",
     "original": "Tyrion: I'm not so sure...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不太确定……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-911\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-912",
     "original": "Tyrion: You were the last person to see your father alive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你是最后一个见到活着的弗雷加勋爵的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-912\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-913",
     "original": "Tyrion: It's possible that you've been lying to us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而你可能对我们撒了谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-913\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-914",
     "original": "Liafal: And what could I have [i]possibly[/i] gained by doing that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我那么做又能得到什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-914\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-915",
     "original": "Liafal: I gave my testimony to the Inquisition of my own volition!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我是自愿向裁判所提供证词的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-915\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-916",
     "original": "Liafal: If I had truly been involved,[p/] I would have simply stayed silent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 如果我真的参与了谋杀，[p/]那我只要保持沉默就好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-916\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-917",
     "original": "Right...[p/] She has a point there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "好吧……[p/]她说的有道理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument4-917\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-918",
     "original": "Liafal: I-[p/][s/]I don't know...[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我、[p/][s/]我不知道……[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument5-918\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-919",
     "original": "Liafal: I've already told you.[p/] My father was a secretive man.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我告诉过你了。[p/]我的父亲是个注重隐私的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument5-919\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-920",
     "original": "Liafal: He didn't share the details of his estate with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 他不会向我透露遗产的详细情况。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument5-920\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-922",
     "original": "Tyrion: Is that really true, though?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不过，真的是那样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-922\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-923",
     "original": "Liafal: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-923\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-924",
     "original": "Tyrion: I already know about your arranged marriage to Jaiden von Sanctus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我已经知道你和杰登·冯·桑克图斯有婚约了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-924\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-925",
     "original": "Tyrion: And I also know that as a part of this deal,[p/] Jaiden would inherit House Frega instead of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我还知道作为交易的一部分，[p/]杰登会代替你继承弗雷加家族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-925\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-926",
     "original": "Liafal: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-927",
     "original": "Tyrion: You definitely knew about this.[p/] And you heavily resisted the marriage in an attempt to stall it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你无疑知道这件事。[p/]并且强烈抵制这桩婚姻，试图拖延它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-927\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-928",
     "original": "Tyrion: Which means that you had [i]some[/i] idea of how your father's will was arranged.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也就是说你对你父亲的遗嘱安排是有<u>一些</u>了解的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-928\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-930",
     "original": "Liafal: ...What is this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……这是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-930\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-931",
     "original": "Tyrion: It's proof that you had [i]some[/i] idea of what your father was doing to his will!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是你对你父亲的遗嘱安排有所了解的证据！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-931\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-932",
     "original": "Celeste: Tyrion...[p/] I don't think [i]that[/i] really proves anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂……[p/]我认为<u>这</u>不能证明什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-932\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-933",
     "original": "Tyrion: O-[p/]Oh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢、[p/]哦……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument6-933\",\n  \"keywords\": []\n}"
   },
   {
@@ -6078,92 +6078,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-935",
     "original": "Tyrion: So what aren't you telling me, Ms. Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以弗雷加女士，你还有什么没告诉我们吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-935\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-936",
     "original": "Liafal: I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-936\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-937",
     "original": "Liafal: I can't trust you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我没法信任你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-937\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-938",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-938\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-939",
     "original": "Liafal: You are here on behalf of Crown Prince Aster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 你是代表阿斯特王储来这里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-939\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-940",
     "original": "Liafal: The Four Pillar families [i]and[/i] the Crown have much to gain from my father's death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 四大支柱家族<u>和</u>王室能从我父亲的死中获得很多好处。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-940\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-941",
     "original": "Liafal: How can you assure me that this information won't be used against my family?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 你如何向我保证这些信息不会被用来对付我的家人？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-941\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-942",
     "original": "So [i]that's[/i] why she's been so secretive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "所以<u>这就是</u>她守口如瓶的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument7-942\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-943",
     "original": "Appeal [d=\"There's nothing I could possibly say to make you trust me. But please understand, I'm only trying to find out who murdered your father.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Appeal [d=\"我很难说什么让你相信我。但请理解，我只是想找出杀害你父亲的凶手。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument8-943\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-944",
     "original": "Tyrion: There's nothing I could possibly say to make you trust me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很难说什么让你相信我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument8-944\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-945",
     "original": "Tyrion: But please understand,[p/] I'm only trying to find out who murdered your father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但请理解，[p/]我只是想找出杀害你父亲的凶手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument8-945\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-946",
     "original": "Tyrion: And to do that,[p/] I need to know everything that he was doing that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为此，[p/]我需要知道他那天晚上做的所有事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument8-946\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-947",
     "original": "Liafal: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument8-947\",\n  \"keywords\": []\n}"
   },
   {
@@ -6288,8 +6288,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-965",
     "original": "Liafal: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument9-965\",\n  \"keywords\": []\n}"
   },
   {
@@ -6323,8 +6323,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-972",
     "original": "Liafal: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Examine_BeatriceRoom2-972\",\n  \"keywords\": []\n}"
   },
   {

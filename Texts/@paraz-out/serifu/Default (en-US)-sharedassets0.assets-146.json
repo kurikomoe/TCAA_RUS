@@ -3670,7 +3670,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-539",
     "original": "Tyrion: Rika,[p/] I specialize in homicide cases.[p/] And most of my clients are mages who've been charged with murder.",
-    "translation": "Tyrion: 里卡，[p/]我专门处理凶杀案，[p/]而且我绝大部分的客户都是被指控犯有谋杀罪的法师。",
+    "translation": "Tyrion: 里卡，[p/]我专门处理凶杀案。[p/]而且我绝大部分的客户都是被控谋杀罪的法师。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-539\",\n  \"keywords\": []\n}"
   },
@@ -8101,7 +8101,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1249",
     "original": "Tyrion: He entered the refinery building with the intent of [i]robbing[/i] my client's personal safe.",
-    "translation": "Tyrion: 他是带着<u>抢劫</u>被告的私人保险箱的目的进入炼油厂的。",
+    "translation": "Tyrion: 他是想要<u>抢劫</u>我的委托人的私人保险箱才进入炼油厂的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2_Obj-1249\",\n  \"keywords\": []\n}"
   },
@@ -8192,7 +8192,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1262",
     "original": "Tyrion: The safe that he was planning to rob was located in my client's office within the Refinery Building.",
-    "translation": "Tyrion: 他计划抢劫的保险箱位于炼油厂建筑内被告的办公室里。",
+    "translation": "Tyrion: 他计划抢劫的保险箱位于炼油厂建筑内，我的委托人的办公室里。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2_Obj_1-1262\",\n  \"keywords\": []\n}"
   },

@@ -5343,7 +5343,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-840",
     "original": "TYRION: And the prosecution believes that my client used [b]Necrotic Blight[/b]?",
-    "translation": "TYRION: 检方认为被告使用了[b]索命咒[/b]？",
+    "translation": "TYRION: 检方认为我的委托人使用了[b]索命咒[/b]？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-840\",\n  \"keywords\": []\n}"
   },
@@ -7149,7 +7149,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1111",
     "original": "Valentina: Neither of us is a mage![p/][s/] Both of us held that book the knights gave us! [mind=\"I was caught off guard when they asked us. They almost found us out.\"/]",
-    "translation": "Valentina: 我们俩都不是法师！[p/][s/]我们都碰了骑士们给我们的那本书！[mind=\"他们讯问我的时候我有点措手不及。他们差点就发现了。\"/]",
+    "translation": "Valentina: 我们俩都不是法师！[p/][s/]我们都碰了骑士们给我们的那本书！[mind=\"他们问的时候我有点措手不及。差点就被他们发现了。\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Test-1111\",\n  \"keywords\": []\n}"
   },
@@ -7303,7 +7303,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1133",
     "original": "Tyrion: My client would have already closed them to \"confound the investigation\".",
-    "translation": "Tyrion: 被告也可能已经为了“扰乱调查”治愈了伤口。",
+    "translation": "Tyrion: 我的委托人也可能已经为了“扰乱调查”治愈了伤口。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1133\",\n  \"keywords\": []\n}"
   },
@@ -8199,7 +8199,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1265",
     "original": "TYRION: Your Honor.[p/] As you can clearly see from the witness’ testimony,[p/] the trace of [b]necromancy[/b] was left by the witness,[p/] not my client.",
-    "translation": "TYRION: 法官各写。[p/]您能通过证词清楚地知道，[p/][b]死灵术[/b]的魔法痕迹是证人留下的，[p/]不是我的委托人。",
+    "translation": "TYRION: 法官阁下。[p/]您能通过证词清楚地知道，[p/][b]死灵术[/b]的魔法痕迹是证人留下的，[p/]不是我的委托人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1265\",\n  \"keywords\": []\n}"
   },
@@ -9641,7 +9641,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1471",
     "original": "Judge: Mr. Cuthbert.[p/] You may begin your cross-examination.",
-    "translation": "Judge: 卡斯伯特先生，[p/]你可以开始交叉讯问了。",
+    "translation": "Judge: 卡斯伯特先生，[p/]你可以开始交叉询问了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Courtroom2_4-1471\",\n  \"keywords\": []\n}"
   },
@@ -10558,7 +10558,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1607",
     "original": "CELESTE: At this rate,[p/][s/] this will be the only chance you have to cross-examine her!",
-    "translation": "CELESTE: 这样下去，[p/][s/]你之后再也没机会交叉讯问她了啊！",
+    "translation": "CELESTE: 这样下去，[p/][s/]你之后再也没机会对她进行交叉询问了啊！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_4-1607\",\n  \"keywords\": []\n}"
   },
@@ -12077,7 +12077,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1833",
     "original": "TYRION: …Ms. Steelwind.[p/] Earlier you said that my client could have orchestrated this entire ruse.",
-    "translation": "TYRION: …斯蒂尔文德，[p/] 先前你提到被告也能自导自演这一切。",
+    "translation": "TYRION: ……斯蒂尔文德女士。[p/]先前你提到我的委托人也能自导自演这一切。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1833\",\n  \"keywords\": []\n}"
   },
@@ -23011,7 +23011,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3527",
     "original": "Wallace: William Frega can teleport entire [i]caravans[/i] across the continent!",
-    "translation": "Wallace: 威廉·弗雷加能将整个商队[i]连人带车[/i]传送到大陆的另一头！",
+    "translation": "Wallace: 威廉·弗雷加能将整个商队<u>连人带车</u>传送到大陆的另一头！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3527\",\n  \"keywords\": []\n}"
   },
@@ -23025,29 +23025,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3529",
     "original": "Theodore: I’m…[p/] sorry.[p/] I truly am.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我……[p/]很抱歉。[p/]真的很抱歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3529\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3530",
     "original": "Wallace: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "Wallace: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3530\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3531",
     "original": "Wallace: Emily…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Wallace: 艾梅莉……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3531\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3532",
     "original": "Tyrion: I’m sorry, Celeste…[p/] But there’s no way out of this…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不好意思啊，塞莱斯特……[p/]这盘棋已经被你下死了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3532\",\n  \"keywords\": []\n}"
   },
   {
@@ -23060,43 +23060,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3534",
     "original": "Celeste's attention is sharply focused on the chessboard between you two.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特全神贯注，紧盯着摆在两人之间的棋盘。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3534\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3535",
     "original": "You can see her eyes quickly dart from piece to piece.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你能看到她的目光飞快地在棋子间移动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3536",
     "original": "Celeste: J-[p/][s/]Just give me a second![p/][s/] I can still win this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 再、[p/][s/]再给我一秒钟！[p/][s/]我还有胜算！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3537",
     "original": "Tyrion: Celeste,[p/] there’s no way for you to avoid checkmate next turn.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特，[p/]无论你怎么下，也逃不开下一回合被将死的命运。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3537\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3538",
     "original": "Tyrion: Just surrender…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别垂死挣扎了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3539",
     "original": "She ignores you and continues staring at the pieces.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她没搭理你，继续盯着棋子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3539\",\n  \"keywords\": []\n}"
   },
   {
@@ -23109,92 +23109,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3541",
     "original": "Celeste: There![p/][s/] What about that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看招！[p/][s/]知道厉害了吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3542",
     "original": "Tyrion: …Checkmate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……将军。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3543",
     "original": "Celeste: Damn it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 可恶啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3543\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3544",
     "original": "Ruby: Would you two keep it down?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你们俩不能小声点吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3544\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3545",
     "original": "Ruby: We [i]are[/i] in a library.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我们在<u>图书馆</u>呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3546",
     "original": "Ms. Tymora glances at the chessboard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "泰摩拉女士扫了眼棋盘。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3546\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3547",
     "original": "Ruby: …I hope you didn’t spend the [i]entire[/i] morning playing around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……你们两个不会下棋下了<u>一整个</u>上午吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3547\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3548",
     "original": "Celeste: I-[p/]I’ve been working hard, Ruby!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我、[p/]我可用功了，鲁比！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3549",
     "original": "Celeste: I’ve already learned two new spell formulas since we got here!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们到图书馆这么一会儿，我都学会两个法术啦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3549\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3550",
     "original": "Ruby: Hm…[p/] Well at least there's that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 嗯……[p/]也算没白来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3550\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3551",
     "original": "Ruby: What about you, Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你呢，卡斯伯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3551\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3552",
     "original": "Tyrion: U-[p/]Um…[p/] Well-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃、[p/]嗯……[p/]怎么说呢——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3553",
     "original": "Your flustered stammering tells her exactly how much progress [i]you’ve[/i] made.",
-    "translation": "",
-    "stage": 0,
+    "translation": "只看你这言辞闪烁、做贼心虚的样子，她就知道<u>你</u>有多勤奋了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3553\",\n  \"keywords\": []\n}"
   },
   {
@@ -23207,8 +23207,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3555",
     "original": "Tyrion: I-[p/][s/]I couldn't find any books about the…[p/] subject we’ve been looking into.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我、[p/][s/]我找了半天，没找到我们要找的……[p/]那个话题的书。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start-3555\",\n  \"keywords\": []\n}"
   },
   {
