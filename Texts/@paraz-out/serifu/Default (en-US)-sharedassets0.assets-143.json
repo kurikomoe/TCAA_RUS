@@ -562,7 +562,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-96",
     "original": "Theon: ...I have. [mind=\"He's not what I was expecting...\"/]",
-    "translation": "Theon: ……是的。[mind=“他和我预想的不同……”/]",
+    "translation": "Theon: ……是的。[mind=\"他和我预想的不同……\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-96\",\n  \"keywords\": []\n}"
   },
@@ -36248,7 +36248,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5449",
     "original": "Eris: I am the Empress of Discord![p/][s/] Ruler of the Sixth Circle of Hell!",
-    "translation": "Eris: 我是无序女皇！[p/][s/]地狱第六层的领主！",
+    "translation": "Eris: 我是无序女皇！[p/][s/]地狱第六层的统治者！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered13-5449\",\n  \"keywords\": []\n}"
   },
@@ -52845,29 +52845,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-188",
     "original": "Player: Talk",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 交谈",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Main-188\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-189",
     "original": "Player: Move",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 移动",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Main-189\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-190",
     "original": "Player: Present",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 出示",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Main-190\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-191",
     "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 窗户",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Examine_Cathedral1-191\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52985,8 +52985,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-390",
     "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 窗户",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Examine_Cathedral2-390\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53132,8 +53132,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-636",
     "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 窗户",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Examine_CathedralIntro-636\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
