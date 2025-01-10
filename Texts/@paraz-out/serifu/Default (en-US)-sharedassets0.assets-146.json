@@ -8395,7 +8395,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1291",
     "original": "Mosourika: It could have also been one of the Maintenance Constructs.[p/] I saw one working on the machines.[p/] Maybe one of [i]them[/i] broke the lock.",
-    "translation": "Mosourika: 也有可能是维护构造体。[p/]我曾看到它们在修理机器,[p/]也许是<u>它们</u>中的某一个破坏了锁。",
+    "translation": "Mosourika: 也有可能是维护构造体。[p/]我曾看到它们在维护机器,[p/]也许是<u>它们</u>中的某一个破坏了锁。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2_Obj_2-1291\",\n  \"keywords\": []\n}"
   },
@@ -8689,7 +8689,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1333",
     "original": "Mosourika: It could have also been one of the Maintenance Constructs.[p/] I saw one working on the machines.[p/] Maybe one of [i]them[/i] broke the lock.",
-    "translation": "Mosourika: 也有可能是维修构造体。[p/]我曾看到它们在修理机器,[p/]也许是<u>它们</u>中的某一个破坏了锁。",
+    "translation": "Mosourika: 也有可能是维修构造体。[p/]我曾看到它们在维护机器,[p/]也许是<u>它们</u>中的某一个破坏了锁。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1333\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
@@ -9256,253 +9256,253 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1423",
     "original": "Think about this clearly.[p/] Arcane Constructs are not available to the general public yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "好好思考一下。[p/]奥术构造体还不向大众出售。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Present_VonSanctus-1423\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1424",
     "original": "Only a select few individuals have access to them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "只有很少一部分人能够接触到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Present_VonSanctus-1424\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1425",
     "original": "Thankfully,[p/] there is one person involved in this case that would [i]definitely[/i] have access to one.",
-    "translation": "",
-    "stage": 0,
+    "translation": "谢天谢地，[p/]本案中<u>确实</u>有一个人拥有接触奥术构造体的权限。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Present_VonSanctus-1425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1426",
     "original": "Tyrion: Only one individual could have done everything that I described.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只有一个人可能做了我说的那些事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1426\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1427",
     "original": "Tyrion: Lloyd von Sanctus:[p/] the noble lord of Aurinax!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 洛伊德·冯·桑克图斯：[p/]欧奥耐克斯尊贵的勋爵！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1427\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1428",
     "original": "Aria: You can't be serious!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你是认真的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1428\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1429",
     "original": "Aria: Are you accusing [i]Lord von Sanctus[/i] of illegally sending a Construct into the Arcane Refinery?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你是在指控<u>冯·桑克图斯勋爵</u>非法将一架构造体送进了奥术炼油厂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1429\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1430",
     "original": "Aria: What possible reason would he have to do that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他有什么理由那么做？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1430\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1431",
     "original": "When Rika saw the Construct,[p/] she said that it was \"working on the machines\"...",
-    "translation": "",
-    "stage": 0,
+    "translation": "里卡看见构造体时，[p/]她说它正在“维护机器”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1431\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1432",
     "original": "But that Construct was sent by von Sanctus...[p/] It didn't actually \"work\" for Dracogen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但这是冯·桑克图斯派来的构造体……[p/]它并不是在为德拉科根做“维护”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1433",
     "original": "Wait...[p/][s/] Could that mean?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "等等……[p/][s/]难道说？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1433\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1434",
     "original": "Tyrion: Rika![p/][s/] When you saw that Construct in the Refinery, was it carrying anything?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 里卡！[p/][s/]当你在炼油厂看到那个构造体时，它有在运什么东西吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1434\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1435",
     "original": "Mosourika: U-[p/]Um...[p/][s/] Yeah, actually!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 呃、[p/]呃……[p/][s/]对的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1436",
     "original": "Mosourika: It was carrying a large cylindrical machine.[p/] And it looked pretty heavy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 它正在运一个巨大的圆柱形机器，[p/]那个机器看起来很重。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1437",
     "original": "Tyrion: Like it would normally need to be held by two people?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就像那种通常得要两个人才能搬起来的机器？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1438",
     "original": "Mosourika: Yeah![p/][s/] How did you know?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 对！[p/][s/]你怎么知道的？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1439",
     "original": "It all makes sense now.[p/] Von Sanctus has been far too aggressive in pushing these charges.",
-    "translation": "",
-    "stage": 0,
+    "translation": "现在一切都说得通了，[p/]冯·桑克图斯实在太过激进地推动这些指控了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1440",
     "original": "It wasn't because he was desperate to get rid of Dracogen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "并不是因为他急于除掉德拉科根。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1441",
     "original": "It was because he needed to cover up what [i]actually[/i] happened!",
-    "translation": "",
-    "stage": 0,
+    "translation": "而是因为他需要掩盖<u>真正</u>发生的事情！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1442",
     "original": "Judge: Mr. Cuthbert![p/][s/] Where are you going with this?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生！[p/][s/]你要扯到哪里去？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1443",
     "original": "Tyrion: You see, Your Honor.[p/] The tool that the witness saw this Construct carrying wasn't just any tool.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如你所见，法官阁下。[p/]奥术构造体那时搬运的并不是什么机器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1444",
     "original": "Tyrion: It was a Rod of Mending:[p/] an artificery tool that channels [b]transmutation[/b] magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那是一根修复之杖：[p/]一种注入[b]形变术[/b]魔法的奥术能源工具。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1445",
     "original": "Aria: \"[b]Transmutation[/b] magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: [b]形变术[/b]魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1446",
     "original": "Aria: As in...[p/] magic that could be used to weaken and sabotage parts of the refinery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 也就是说……[p/]那是可以用来削弱和破坏炼油厂部分设施的魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1447",
     "original": "Judge: No...[p/] Are you seriously accusing...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 不会吧……[p/]你真的是在指控……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1448",
     "original": "Tyrion: Your Honor![p/][s/] Lloyd von Sanctus sent a Construct into the Arcane Refinery to sabotage it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下！[p/][s/]洛伊德·冯·桑克图斯将构造体送入奥术炼油厂就是为了破坏它！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1448\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1449",
     "original": "Tyrion: In other words,[p/] Lloyd von Sanctus is responsible for that guard rail breaking!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 换句话说，[p/]洛伊德·冯·桑克图斯应该对护栏的损坏负责！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2-1449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1450",
     "original": "Lloyd: ...I think that's enough out of you, you upstart commoner.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……我觉得你已经说得够多了，你这个自以为是的平民。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1451",
     "original": "Celeste: The judge really needs to stop these guys from just barging onto the stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 法官就应该阻止这些人随便冲上证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1452",
     "original": "To be fair,[p/] who's going to stop a noble from a pillar family?",
-    "translation": "",
-    "stage": 0,
+    "translation": "说实话，[p/]谁能阻止一个出自显赫家族的贵族呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1453",
     "original": "Lloyd: I've had enough of these blatant accusations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 我受够了这些明目张胆的指控。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1454",
     "original": "Lloyd: If you want to sling mud at my name,[p/] you [i]will[/i] do it to me directly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 如果你想抹黑我的名字，[p/]<u>就应该</u>直接冲我来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1455",
     "original": "Aria: ...Lord von Sanctus,[p/] I would highly advise against doing this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……冯·桑克图斯勋爵，[p/]我强烈建议不要这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1455\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1456",
     "original": "Lloyd: Please.[p/] Do you think I'm like that fool Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 拜托。[p/]你觉得我像那个傻瓜皮尔斯吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1456\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1457",
     "original": "Lloyd: The defense's theory is laughable.[p/] And I have several pieces of evidence that can easily prove my innocence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 辩方的理论可笑至极。[p/]而且我有几份证据可以轻松证明我的清白。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1457\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1458",
     "original": "He has a good poker face.[p/] But the Eye is telling you that he's a little desperate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他的脸上看起来镇定自若。[p/]但荷鲁斯之眼告诉你，他已经有点绝望了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2B2_1-1458\",\n  \"keywords\": []\n}"
   },
   {

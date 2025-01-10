@@ -5455,8 +5455,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-842",
     "original": "Liafal: Come on, Tracker...[p/] Where are you?",
-    "translation": "Liafal: 好了，追迹者……[p/]你在哪儿？",
-    "stage": 1,
+    "translation": "Liafal: 来吧，追迹者……[p/]你在哪儿？",
+    "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-842\",\n  \"keywords\": []\n}"
   },
   {
@@ -5560,7 +5560,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-857",
     "original": "You think you've learned everything you can for now.",
-    "translation": "你认为你已经掌握了目前所能得知的所有信息。",
+    "translation": "你认为你已经掌握了目前能得知的所有线索。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-857\",\n  \"keywords\": []\n}"
   },
@@ -5574,15 +5574,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-859",
     "original": "Anyways,[p/] you think that you've learned everything you can from Laefe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "总之，[p/]你应该已经获得了拉菲能提供的所有有用线索。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-860",
     "original": ":There's only one last person to speak with:[p/] Harold Haroldson.",
-    "translation": "",
-    "stage": 0,
+    "translation": ": 只剩最后一个人要交谈了：[p/]哈罗德·哈罗德森。",
+    "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-860\",\n  \"keywords\": []\n}"
   },
   {
@@ -5595,99 +5595,99 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-862",
     "original": "Liafal: You can ask me as many times as you like.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 你问我多少次都可以。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LialfalArgument_Fail-862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-863",
     "original": "Liafal: The answer will remain the same.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 答案不会变的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LialfalArgument_Fail-863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-864",
     "original": "Damn it...[p/] You're still not getting through.",
-    "translation": "",
-    "stage": 0,
+    "translation": "可恶……[p/]你还是说服不了她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LialfalArgument_Fail-864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-865",
     "original": "OK",
-    "translation": "",
-    "stage": 0,
+    "translation": "OK",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LialfalArgument_Fail-865\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-866",
     "original": "Laefe Frega seems to be hiding what her father was doing in his study.",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲·弗雷加似乎在隐瞒她父亲在书房里做的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-867",
     "original": "You doubt that she's doing this out of malice.[p/] She might not even think that it's relevant to the case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你猜她这样做并非出于恶意。[p/]她甚至可能认为那与案件无关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-867\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-868",
     "original": "But William Frega had many enemies,[p/] and he retreated into his study to do [i]something[/i] that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但是威廉·弗雷加有很多敌人，[p/]而且那天晚上他回书房做了<u>什么</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-869",
     "original": "And that \"something\" could be related to why he was murdered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "而他做的“那件事”可能与他被谋杀的原因有关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-869\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-870",
     "original": "Yes",
-    "translation": "",
-    "stage": 0,
+    "translation": "是",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-870\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-871",
     "original": "No",
-    "translation": "",
-    "stage": 0,
+    "translation": "否",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-871\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-872",
     "original": "Tyrion: Is there something you're not telling us, Laefe?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你还有什么没告诉我们的吗，拉菲？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-872\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-873",
     "original": "Tyrion: Because I have a feeling that you know more than you're letting on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 因为我感觉你知道的比你透露的要多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-873\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-874",
     "original": "Liafal: W-[p/][s/]What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 什、[p/][s/]什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-874\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-875",
     "original": "Tyrion: What was your father doing in his study?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你父亲在书房里做什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-LiafalArgument-875\",\n  \"keywords\": []\n}"
   },
   {
