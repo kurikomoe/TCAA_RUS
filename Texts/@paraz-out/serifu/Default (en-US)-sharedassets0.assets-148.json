@@ -1220,7 +1220,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-174",
     "original": "Aster: You are [i]completely[/i] out of line, Commander!",
-    "translation": "Aster: 你[i]完全[/i]越界了，指挥官！",
+    "translation": "Aster: 你[u]完全[/u]越界了，指挥官！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_9-174\",\n  \"keywords\": []\n}"
   },
@@ -1269,7 +1269,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-181",
     "original": "Aster: And these cretins think that [i]Beatrice[/i] is behind it somehow!",
-    "translation": "Aster: 然后这些傻瓜觉得是[i]比亚特丽丝[/i]在背后搞鬼！",
+    "translation": "Aster: 然后这些傻瓜觉得是[u]比亚特丽丝[/u]在背后搞鬼！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_9-181\",\n  \"keywords\": []\n}"
   },
@@ -1409,7 +1409,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-201",
     "original": "Did he just say that she's [i]blind[/i]?!",
-    "translation": "他刚刚是说她[i]失明[/i]了？！",
+    "translation": "他刚刚是说她[u]失明[/u]了？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_10-201\",\n  \"keywords\": []\n}"
   },
@@ -14401,8 +14401,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2208",
     "original": "Hm…[p/] That piece of evidence didn’t evoke any useful thoughts from him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "唔……[p/]那份证据没能让他产生什么有用的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldEye-2208\",\n  \"keywords\": []\n}"
   },
   {
@@ -22507,8 +22507,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3404",
     "original": "No…[p/] That’s not right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]再好好想想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered2-3404\",\n  \"keywords\": []\n}"
   },
   {

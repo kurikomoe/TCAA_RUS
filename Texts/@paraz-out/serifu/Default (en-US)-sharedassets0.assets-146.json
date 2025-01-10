@@ -632,7 +632,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-105",
     "original": "Tyrion: Get.[p/][p/][p/] The [i]hell[/i].[p/][p/][p/] Away from my house.",
-    "translation": "Tyrion: 从我的屋里[p/][p/][p/][i]他妈的[/i][p/][p/][p/]滚出去！",
+    "translation": "Tyrion: 从我的屋里[p/][p/][p/][u]他妈的[/u][p/][p/][p/]滚出去！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-105\",\n  \"keywords\": []\n}"
   },
@@ -660,7 +660,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-109",
     "original": "Celeste: U-[p/]Um...[p/] Okay.[p/] Let's [i]all[/i] calm down and just-.",
-    "translation": "Celeste: 呃、[p/]唔……[p/]好吧。[p/]让我们[i]都[/i]冷静下来然后-",
+    "translation": "Celeste: 呃、[p/]唔……[p/]好吧。[p/]让我们[u]都[/u]冷静下来然后——",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-109\",\n  \"keywords\": []\n}"
   },
@@ -709,14 +709,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-116",
     "original": "Gavin: I [i]said[i/], \"stay out of this\"!",
-    "translation": "Gavin: 我[i]说了[i/]，“滚远点”！",
+    "translation": "Gavin: 我[u]说了[/u]，“滚远点”！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-117",
     "original": "Gavin: You[p/][p/][p/][p/][s/] [i]little[/i][p/][p/][p/][p/][s/] shi",
-    "translation": "Gavin: 你[p/][p/][p/][p/][s/][i]这个[/i][p/][p/][p/][p/][s/]混",
+    "translation": "Gavin: 你[p/][p/][p/][p/][s/][u]这个[/u][p/][p/][p/][p/][s/]混",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-117\",\n  \"keywords\": []\n}"
   },
@@ -772,7 +772,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-125",
     "original": "Tyrion: I think you [i]might[/i] have overdone it a bit.",
-    "translation": "Tyrion: 我认为你[i]可能[/i]做得有点过火了。",
+    "translation": "Tyrion: 我认为你[u]可能[/u]做得有点过火了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-125\",\n  \"keywords\": []\n}"
   },
@@ -842,7 +842,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-135",
     "original": "Celeste: You're [p/][s/][i]fine[/i].",
-    "translation": "Celeste: 你[p/][s/][i]还好吧[/i]。",
+    "translation": "Celeste: 你[p/][s/][u]还好吧[/u]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-135\",\n  \"keywords\": []\n}"
   },
@@ -961,7 +961,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-152",
     "original": "Tyrion: ...We're not going to hurt you [i]anymore[/i].",
-    "translation": "Tyrion: ……我们不会再伤害你的，[i]一点也不会[/i]。",
+    "translation": "Tyrion: ……我们不会再伤害你的，[u]一点也不会[/u]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-152\",\n  \"keywords\": []\n}"
   },
@@ -1353,7 +1353,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-208",
     "original": "Celeste: It's [i]not[/i] nothing!",
-    "translation": "Celeste: 这才[i]不是[/i]没什么!",
+    "translation": "Celeste: 这才[u]不是[/u]没什么!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-208\",\n  \"keywords\": []\n}"
   },
@@ -1752,7 +1752,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-265",
     "original": "You feel almost a little [i]too[/i] rested.",
-    "translation": "你感觉休息得有点[i]过头[/i]了。",
+    "translation": "你感觉休息得有点[u]过头[/u]了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-265\",\n  \"keywords\": []\n}"
   },
@@ -1850,7 +1850,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-279",
     "original": "Celeste: U-[p/][s/]Um...[p/][s/] So...",
-    "translation": "Celeste: 呃-[p/][s/]唔……[p/][s/]那么……",
+    "translation": "Celeste: 呃、[p/][s/]唔……[p/][s/]那么……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-279\",\n  \"keywords\": []\n}"
   },
@@ -1962,7 +1962,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-295",
     "original": "Aster: I apologize for contacting you in this manner.[p/] But I was worried that something had happened to you two.",
-    "translation": "Aster: 很抱歉用这种方式联系你们。[p/]但我害怕有事情发生在你俩身上了。",
+    "translation": "Aster: 很抱歉用这种方式联系你们，[p/]但我害怕你们俩出事了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-295\",\n  \"keywords\": []\n}"
   },
@@ -2158,7 +2158,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-323",
     "original": "More importantly,[p/] you're a little worried about what he might have [i]seen[/i].",
-    "translation": "更重要的是，[p/]你有点担心他可能[i]看见了什么[/i]。",
+    "translation": "更重要的是，[p/]你有点担心他可能[u]看见了什么[/u]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-323\",\n  \"keywords\": []\n}"
   },
@@ -2284,7 +2284,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-341",
     "original": "You're questioning his motives...[p/] for a [i]variety[/i] of reasons...",
-    "translation": "你思考着他的动机……[p/]有[i]很多种[/i]原因……",
+    "translation": "你思考着他的动机……[p/]有[u]很多种[/u]原因……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-341\",\n  \"keywords\": []\n}"
   },
@@ -2333,7 +2333,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-348",
     "original": "Aster is your prime suspect right now.[p/] And he [i]has[/i] to be aware of that.",
-    "translation": "阿斯特是你现在的首要嫌疑人。[p/]他[i]必须[/i]知道这一点。",
+    "translation": "阿斯特是你现在的首要嫌疑人。[p/]他[u]必须[/u]知道这一点。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-348\",\n  \"keywords\": []\n}"
   },
@@ -2606,7 +2606,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-387",
     "original": "Knight: We can't let [i]anyone[/i] outside of the city until our investigation is complete.",
-    "translation": "Knight: 我们不能让[i]任何人[/i]出城，直到调查结束。",
+    "translation": "Knight: 我们不能让[u]任何人[/u]出城，直到调查结束。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-CafeAfter-387\",\n  \"keywords\": []\n}"
   },
@@ -2830,7 +2830,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-419",
     "original": "Merchant: ...Sorry,[p/] I can't even spare [i]one[/i] room.",
-    "translation": "Merchant: ……抱歉，[p/]我们[i]一间[/i]房也没有了。",
+    "translation": "Merchant: ……抱歉，[p/]我们[u]一间[/u]房也没有了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-419\",\n  \"keywords\": []\n}"
   },
@@ -2893,7 +2893,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-428",
     "original": "Merchant: Even [i]with[/i] your gold,[p/] that's the best I can do for you.",
-    "translation": "Merchant: 就算[i]有[/i]这么多金子，[p/]一间房也就是我能给你的最好的东西了。",
+    "translation": "Merchant: 就算[u]有[/u]这么多金子，[p/]一间房已经是我能给你的最好的东西了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-428\",\n  \"keywords\": []\n}"
   },
@@ -2907,7 +2907,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-430",
     "original": "Tyrion: N-[p/][s/]No![p/][s/] It's just-!",
-    "translation": "Tyrion: 没、[p/][s/]没有！[p/][s/]只是-！",
+    "translation": "Tyrion: 没、[p/][s/]没有！[p/][s/]只是——！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-430\",\n  \"keywords\": []\n}"
   },
@@ -2928,7 +2928,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-433",
     "original": "Tyrion: S-[p/]So...[p/] How should we-?",
-    "translation": "Tyrion: 那、[p/]那么……[p/]我们怎么办-？",
+    "translation": "Tyrion: 那、[p/]那么……[p/]我们怎么办——？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-433\",\n  \"keywords\": []\n}"
   },
@@ -2956,7 +2956,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-437",
     "original": "Celeste: Please,[p/] we may both be commoners,[p/] but [i]you[/i] live a cushy life in the city.",
-    "translation": "Celeste: 拜托，[p/]我们都是普通人，[p/]但是[i]你[/i]在城市中过着安逸的生活。",
+    "translation": "Celeste: 拜托，[p/]我们都是普通人，[p/]但是[u]你[/u]在城市中过着安逸的生活。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-437\",\n  \"keywords\": []\n}"
   },
@@ -3145,14 +3145,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-464",
     "original": "Lloyd: No...[p/] I can [i]use[/i] this.",
-    "translation": "Lloyd: 不……[p/]我能[i]用[/i]这个。",
+    "translation": "Lloyd: 不……[p/]我能[u]用[/u]这个。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-465",
     "original": "Lloyd: That's right![p/] I can still make this look like it was all [i]his[/i] fault!",
-    "translation": "Lloyd: 对的！[p/]我还能让这一切看起来都是[i]他的[/i]错！",
+    "translation": "Lloyd: 对的！[p/]我还能让这一切看起来都是[u]他的[/u]错！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-465\",\n  \"keywords\": []\n}"
   },
@@ -3278,7 +3278,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-483",
     "original": "Tyrion: You're the [i]only[/i] one who will fight against them!",
-    "translation": "Tyrion: 你是[i]唯一一个[/i]同他们战斗的人！",
+    "translation": "Tyrion: 你是[u]唯一一个[/u]同他们战斗的人！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-483\",\n  \"keywords\": []\n}"
   },
@@ -3341,7 +3341,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-492",
     "original": "Tyrion: I can [i]help[/i] you![p/][s/] We can fight them together!",
-    "translation": "Tyrion: 我可以[i]帮[/i]你！[p/][s/]我们俩可以一起跟他们战斗！",
+    "translation": "Tyrion: 我可以[u]帮[/u]你！[p/][s/]我们俩可以一起跟他们战斗！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-492\",\n  \"keywords\": []\n}"
   },
@@ -3677,7 +3677,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-540",
     "original": "Tyrion: I've never even [i]tried[/i] a case like this before.",
-    "translation": "Tyrion: 我从来没有[i]试过[/i]这样的案子。",
+    "translation": "Tyrion: 我从来没有[u]试过[/u]这样的案子。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-540\",\n  \"keywords\": []\n}"
   },
@@ -3733,7 +3733,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-548",
     "original": "...She has a point.[p/] There aren't many attorneys who will go against the nobility under [i]any[/i] circumstances.",
-    "translation": "......她说的有道理。[p/]几乎没有律师愿意与贵族们作对，在[i]任何[/i]情况下都是如此。",
+    "translation": "......她说的有道理。[p/]几乎没有律师愿意与贵族们作对，在[u]任何[/u]情况下都是如此。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-548\",\n  \"keywords\": []\n}"
   },
@@ -4552,7 +4552,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-678",
     "original": "Perhaps Rika can tell you more about what he was like [i]before[/i] he turned his life around.",
-    "translation": "或许里卡可以告诉你更多他生活变化[i]之前[/i]的信息。",
+    "translation": "或许里卡可以告诉你更多他生活变化[u]之前[/u]的信息。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-678\",\n  \"keywords\": []\n}"
   },
@@ -4692,7 +4692,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-702",
     "original": "Mosourika: It doesn't look [i]anything[/i] like the swords I've seen at the local blacksmith.",
-    "translation": "Mosourika: 这和我在当地的铁匠铺见到的那些剑[i]完全[i/]不一样。",
+    "translation": "Mosourika: 这和我在当地的铁匠铺见到的那些剑[u]完全[/u]不一样。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-702\",\n  \"keywords\": []\n}"
   },
@@ -4769,14 +4769,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-714",
     "original": "Tyrion: Yeah...[p/] Let's not go [i]that[/i] far.",
-    "translation": "Tyrion: 是……[p/]我们还是不要扯[i]那么[/i]远了。",
+    "translation": "Tyrion: 是……[p/]我们还是不要扯[u]那么[/u]远了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-714\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-715",
     "original": "Mosourika: What's [i]that[/i] supposed to mean?!",
-    "translation": "Mosourika: [i]这是[/i]什么意思？！",
+    "translation": "Mosourika: [u]这是[/u]什么意思？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-715\",\n  \"keywords\": []\n}"
   },
@@ -4916,7 +4916,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-737",
     "original": "Mosourika: He would [i]never[/i] betray me and Mr. Dracogen like that!",
-    "translation": "Mosourika: 他[i]绝对不可能[/i]像那样背叛我和德拉科根先生的！",
+    "translation": "Mosourika: 他[u]绝对不可能[/u]像那样背叛我和德拉科根先生的！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-737\",\n  \"keywords\": []\n}"
   },
@@ -5070,7 +5070,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-762",
     "original": "Tyrion: But no one can be [i]that[/i] philanthropic.",
-    "translation": "Tyrion: 但是没有人会[i]那么[/i]博爱。",
+    "translation": "Tyrion: 但是没有人会[u]那么[/u]博爱。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-762\",\n  \"keywords\": []\n}"
   },
@@ -5140,7 +5140,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-773",
     "original": "Tyrion: What do you think about [i]this[/i], Rika?",
-    "translation": "Tyrion: 你怎么看待[i]这个[/i]的，里卡?",
+    "translation": "Tyrion: 你怎么看待[u]这个[/u]的，里卡?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-773\",\n  \"keywords\": []\n}"
   },
@@ -5231,7 +5231,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-787",
     "original": "If this truly [i]was[/i] a murder,[p/] you have to find out who did this and why.",
-    "translation": "如果这真的[i]是[/i]一桩谋杀，[p/]你需要找出是谁干的，还有那个人的动机。",
+    "translation": "如果这真的[u]是[/u]一桩谋杀，[p/]你需要找出是谁干的，还有那个人的动机。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Check_Events_Cafe-787\",\n  \"keywords\": []\n}"
   },
@@ -5252,7 +5252,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-790",
     "original": "Tyrion: On that note,[p/] [i]you[/i] were at the refinery when the accident occurred, am I correct?",
-    "translation": "说到这个，[p/][i]你[/i]在事故发生时在炼油厂，对吗？",
+    "translation": "说到这个，[p/][u]你[/u]在事故发生时在炼油厂，对吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Check_Events_Cafe-790\",\n  \"keywords\": []\n}"
   },
@@ -5539,7 +5539,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-842",
     "original": "Tyrion: This table looks [i]really[/i] well-made.",
-    "translation": "Tyrion: 这张桌子做的[i]很[/i]不错。",
+    "translation": "Tyrion: 这张桌子做的[u]很[/u]不错。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-842\",\n  \"keywords\": []\n}"
   },
@@ -5658,7 +5658,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-864",
     "original": "Tyrion: And Celeste, this is-",
-    "translation": "Tyrion: 塞莱斯特，这位是-",
+    "translation": "Tyrion: 塞莱斯特，这位是——",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-864\",\n  \"keywords\": []\n}"
   },
@@ -5672,7 +5672,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-866",
     "original": "Mosourika: [i]I[/i] am Mosourika Tudor:[p/][s/] Dark Lord of Aurinax,[p/][s/] High Archmagi of the Cadmium Flames,[p/][s/] and the proud proprietor of this café!",
-    "translation": "Mosourika: [i]我[/i]是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
+    "translation": "Mosourika: [u]我[/u]是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-866\",\n  \"keywords\": []\n}"
   },
@@ -5728,7 +5728,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-874",
     "original": "Celeste: Hm...[p/] I haven't really [i]mastered[/i] any of them.",
-    "translation": "Celeste: 唔……[p/]我还没有[i]掌握[/i]任何法术。",
+    "translation": "Celeste: 唔……[p/]我还没有[u]掌握[/u]任何法术。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-874\",\n  \"keywords\": []\n}"
   },
@@ -5749,7 +5749,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-877",
     "original": "She's learned even [i]more[/i] spells?",
-    "translation": "她还学了[i]更多[/i]法术？",
+    "translation": "她还学了[u]更多[/u]法术？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-877\",\n  \"keywords\": []\n}"
   },
@@ -5805,7 +5805,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-886",
     "original": "Mosourika: Is [i]that[/i] why you left town with that scary lady?",
-    "translation": "Mosourika: [i]这[/i]就是为什么你要和那位可怕的女士一起离开小镇？",
+    "translation": "Mosourika: [u]这[/u]就是为什么你要和那位可怕的女士一起离开小镇？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-886\",\n  \"keywords\": []\n}"
   },
@@ -5931,7 +5931,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-905",
     "original": "Celeste: After all,[p/] [i]he[/i] owns one of the largest businesses in the kingdom.",
-    "translation": "Celeste: 毕竟，[p/][i]他[/i]拥有着王国里最大的商业帝国之一。",
+    "translation": "Celeste: 毕竟，[p/][u]他[/u]拥有着王国里最大的商业帝国之一。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-905\",\n  \"keywords\": []\n}"
   },
@@ -5952,7 +5952,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-908",
     "original": "Tyrion: I didn't even know he [i]was[/i] a businessman.",
-    "translation": "Tyrion: 我都不知道他[i]是[/i]一个商人。",
+    "translation": "Tyrion: 我都不知道他[u]是[/u]一个商人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-908\",\n  \"keywords\": []\n}"
   },
@@ -6036,7 +6036,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-921",
     "original": "Mosourika: They aren't owned by the nobility.[p/] [i]And[/i] they pay their employees a lot more than von Sanctus does.",
-    "translation": "Mosourika: 他们不为贵族所有。[p/][i]而且[/i]他们给员工的工资比冯·桑克图斯高出许多。",
+    "translation": "Mosourika: 他们不为贵族所有。[p/][u]而且[/u]他们给员工的工资比冯·桑克图斯高出许多。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-921\",\n  \"keywords\": []\n}"
   },
@@ -6064,7 +6064,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-925",
     "original": "Celeste: Oh...[p/] von Sanctus definitely won't appreciate [i]that[/i].",
-    "translation": "Celeste: 噢……[p/]冯·桑克图斯肯定不会喜欢[i]那样[/i]的.",
+    "translation": "Celeste: 噢……[p/]冯·桑克图斯肯定不会喜欢[u]那样[/u]的.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-925\",\n  \"keywords\": []\n}"
   },
@@ -6148,7 +6148,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-938",
     "original": "Mosourika: Wait...[p/] You're [i]actually[/i] embarrassed about it?",
-    "translation": "Mosourika: 等等……[p/]你[i]实际上[i/]对那件事感觉很害羞？",
+    "translation": "Mosourika: 等等……[p/]你[u]实际上[/u]对那件事感觉很害羞？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-938\",\n  \"keywords\": []\n}"
   },
@@ -6316,7 +6316,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-963",
     "original": "Tyrion: …W-[p/]Well,[p/][s/] [i]that's[/i] why I don't do it anymore!",
-    "translation": "Tyrion: …呃、[p/]嗯，[p/][s/][i]这就是[/i]为什么我不再干了！",
+    "translation": "Tyrion: …呃、[p/]嗯，[p/][s/][u]这就是[/u]为什么我不再干了！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-963\",\n  \"keywords\": []\n}"
   },
@@ -6330,7 +6330,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-965",
     "original": "Celeste: It was [i]really[/i] cool, Tyrion.",
-    "translation": "Celeste: 这真的[i]太[/i]酷了，提利昂",
+    "translation": "Celeste: 这真的[u]太[/u]酷了，提利昂",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-965\",\n  \"keywords\": []\n}"
   },
@@ -6344,7 +6344,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-967",
     "original": "Tyrion: And why are [i]you[/i] laughing?![p/][s/] You were [i]just[/i] doing it a moment ago!",
-    "translation": "Tyrion: [i]你[/i]为什么要笑？！[p/][s/][i]仅仅[/i]几分钟前你也在干这种事！",
+    "translation": "Tyrion: [u]你[/u]为什么要笑？！[p/][s/][u]仅仅[/u]几分钟前你也在干这种事！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-967\",\n  \"keywords\": []\n}"
   },
@@ -6400,498 +6400,498 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-977",
     "original": "Mosourika: So...[p/] Are you going to introduce us?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 所以……[p/]你会介绍我们吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-977\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-978",
     "original": "Tyrion: Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-978\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-979",
     "original": "Tyrion: Rika, this is Celeste McCoy, my...[p/] bodyguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 里卡，这位是塞莱斯特·麦考伊，我的……[p/]贴身护卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-980",
     "original": "Mosourika: ...Bodyguard?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……贴身护卫？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-980\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-981",
     "original": "Tyrion: And Celeste, this is-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特，这位是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-981\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-982",
     "original": "Mosourika: Ha![p/][s/] As if I need such introductions!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 哈！[p/][s/]我就不用这样介绍了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-982\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-983",
     "original": "Mosourika: [i]I[/i] am Mosourika Tudor:[p/][s/] Dark Lord of Aurinax,[p/][s/] High Archmagi of the Cadmium Flames,[p/][s/] and the proud proprietor of this café!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: [u]我[/u]是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-983\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-984",
     "original": "Celeste: O-[p/]Oh...[p/] Okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 噢、[p/]噢……[p/]好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-984\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-985",
     "original": "Tyrion: I was friends with her when I used to live here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我以前住在这里的时候和她是朋友。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-985\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-986",
     "original": "Tyrion: She's a little eccentric,[p/] but she's a good person at heart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她有点古怪，[p/]但她本性善良。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-986\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-987",
     "original": "Mosourika: H-[p/][s/]Hey!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 嘿-[p/][s/]嘿！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-987\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-988",
     "original": "Tyrion: She's also a commonfolk mage like you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她也是个和你一样的平民法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-988\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-989",
     "original": "Mosourika: Ah![p/] So you're also a practitioner of the Arcane Arts.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 啊！[p/]所以你也是奥术实践者。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-989\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-990",
     "original": "Mosourika: Which spells have you mastered?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你现在掌握了什么法术？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-990\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-991",
     "original": "Celeste: Hm...[p/] I haven't really [i]mastered[/i] any of them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唔……[p/]我还没有[i]掌握[/i]任何法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-991\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-992",
     "original": "Celeste: I know about seven spells, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不过我能用的有七种。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-992\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-993",
     "original": "Mosourika: S-[p/][s/]Seven?! [mind=\"That's almost four times the amount as mine...\"]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 七、[p/][s/]七种？！ [mind=\"快是我的四倍了……\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-993\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-994",
     "original": "She's learned even more spells?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她还学了更多法术？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-994\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-995",
     "original": "She's been picking them up rather quickly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的学习速度也太快了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-995\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-996",
     "original": "Mosourika: I've been usurped.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我的地位被取代了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-996\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-998",
     "original": "Mosourika: Look at you, Mr. Big Shot.[p/] You're wearing a suit now.[p/] And you even have a bodyguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 看看你，大人物先生。[p/]你现在穿西装了，[p/]甚至还有贴身护卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-998\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-999",
     "original": "Mosourika: Did you get an office job in the big city?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你是在城里找了个办公室工作吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-999\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1000",
     "original": "Tyrion: Something like that...[p/] I'm actually a defense attorney now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 差不多吧……[p/]我现在实际上是个辩护律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1000\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1001",
     "original": "Mosourika: A defense attorney?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 辩护律师？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1001\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1002",
     "original": "Mosourika: ...I see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……我知道了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1002\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1003",
     "original": "Mosourika: Is [i]that[/i] why you left town with that scary lady?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: [u]这[/u]就是为什么你要和那位可怕的女士一起离开小镇？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1003\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1004",
     "original": "Celeste: \"Scary lady\"?[p/] Are you talking about Ruby?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: “可怕的女士”？[p/]你指的是鲁比吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1004\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1005",
     "original": "Tyrion: Ms. Tymora adopted me when my mother...[p/] passed several years ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士收养了我……[p/]在我母亲多年前去世的时候。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1005\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1006",
     "original": "Tyrion: After that,[p/] she started training me to become an attorney like her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 在那之后，她开始训练我成为一名像她那样的律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1006\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1007",
     "original": "Mosourika: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1007\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1008",
     "original": "Celeste: Wait,[p/] you've been studying to be an attorney since you were a kid?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等等，[p/]你小时候就开始学习当律师了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1008\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1009",
     "original": "Celeste: ...Well, I guess that explains why you're so young for a lawyer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……嗯，我想这就是为什么你是个如此年轻的律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1010",
     "original": "Tyrion: ...Said the nineteen-year-old mercenary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这句话还是十九岁的雇佣兵说的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1010\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1011",
     "original": "Celeste: Eh, I guess you've got me there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊，你说得对。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1011\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1013",
     "original": "Tyrion: You've really made a life for yourself here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你还是在这里找到了自己的生活。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1013\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1014",
     "original": "Tyrion: I'm glad that you were able to realize your dreams and open a café.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很高兴你实现了自己的梦想，开了一家咖啡厅。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1014\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1015",
     "original": "Mosourika: Hehe.[p/] But of course.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 哈哈，[p/]那当然。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1015\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1016",
     "original": "Mosourika: Once the Dark Lord sets her sights on a quarry,[p/] it's only a matter of time before she obtains it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 一旦黑暗领主锁定了她的猎物，[p/]抓住它就只是时间问题了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1017",
     "original": "Mosourika: I've grown up since you last saw me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 自从你上次见到我以来，我已经长大了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1017\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1018",
     "original": "Tyrion: Yeah...[p/] Let's not go [i]that[/i] far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是……[p/]我们还是不要扯[u]那么[/u]远了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1019",
     "original": "Mosourika: What's [i]that[/i] supposed to mean?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: [u]这是[/u]什么意思？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1021",
     "original": "Mosourika: The scary lady...[p/] She's your mother now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 那个可怕的女士……[p/]她现在是你的母亲吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1021\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1022",
     "original": "Tyrion: …She's my guardian, yes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……是，她是我的监护人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1022\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1023",
     "original": "Mosourika: ...Is she nice?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……她人怎么样？好相处吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1024",
     "original": "Tyrion: \"Nice\" isn't the [i]first[/i] word I'd use to describe Ms. Tymora...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “好相处”恐怕不是我形容提摩拉女士时会想到的第一个词……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1025",
     "original": "Tyrion: But she's always taken care of me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但她一直在照顾我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1026",
     "original": "Tyrion: She taught me everything I know about being a defense attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 关于如何当一名辩护律师，她教会了我所有的一切。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1026\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1027",
     "original": "Tyrion: I don't think I'd be the person that I am today without her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 若不是她，我无法成为今天的我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1027\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1028",
     "original": "Mosourika: That's good.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 真好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1028\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1029",
     "original": "Mosourika: I'm just glad that she treats you well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我很高兴她对你不错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1029\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1031",
     "original": "Tyrion: What do you think about [i]this[/i], Rika?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么看待[u]这个[/u]的，里卡?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1032",
     "original": "Mosourika: Speaking about such things would be beneath me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 谈论这种事情有失我的身份。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1032\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1033",
     "original": "In other words,[p/] she has nothing to say about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也就是说，[p/]她无可奉告。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1033\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1035",
     "original": "Mosourika: Oh![p/] Looks like our order is here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 噢！[p/]我们点的单来了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1035\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1036",
     "original": "A waiter brings in the lunch special for each of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一名服务员为你们每个人端上了今日特餐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1036\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1037",
     "original": "The enticing aroma of the meals makes you salivate a little.",
-    "translation": "",
-    "stage": 0,
+    "translation": "食物的诱人香味让你垂涎欲滴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1038",
     "original": "You gladly devour the meal.[p/] Rika's cooking is just as delicious as you remembered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你愉快地享用着这顿美餐。[p/]里卡的厨艺和你记忆中的一样美味。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1039",
     "original": "You spend some more time catching up with her while you finish your meal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你一边吃完这顿饭，一边和她聊起了更多近况。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1040",
     "original": "As your conversation continues,[p/] You and Celeste regale her with stories of your past court cases.",
-    "translation": "",
-    "stage": 0,
+    "translation": "随着谈话的继续，[p/]你和塞莱斯特给她讲述了你们过去一些法庭案件的趣事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1041",
     "original": "Mosourika: No![p/][s/] Really?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 不！[p/][s/]不会吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1042",
     "original": "Celeste: Yep![p/] It turned out that it was the [i]headmaster[/i] the entire time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是的！[p/]最后发现一直都是[u]校长[/u]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1042\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1043",
     "original": "Mosourika: Wow...[p/] I would have never figured that out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 哇……[p/]我绝对发现不了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1043\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1044",
     "original": "Mosourika: How did you know, Tyrion?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你怎么知道的，提利昂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1044\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1045",
     "original": "Celeste: Maybe he \"saw\" it with his Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 可能他用自己的荷鲁斯之眼“看见”了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1046",
     "original": "You nearly choke on your drink before you realize what she's actually referring to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你意识到她真正指的是什么，差点就被自己的饮料呛到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1047",
     "original": "Mosourika: But wow…[p/] I can't believe it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但是……[p/]难以置信。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1048",
     "original": "Mosourika: I never thought court cases could be that dramatic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我不知道法庭案件还会这样戏剧化。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1048\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1049",
     "original": "You finish your meal as you continue to tell Rika more about your cases.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你一边说着更多案件的故事，一边吃完了这顿饭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1049\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1050",
     "original": "It's…[p/] nice being able to talk with her again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "能够再次跟她聊天……[p/]真是太棒了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1051",
     "original": "You tried so hard to leave everything behind after what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在发生了这么多事后，你竭尽全力把一切都抛之脑后。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1052",
     "original": "But you're happy that she seems to be doing well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但是你很高兴看见她现在过得这么好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1052\",\n  \"keywords\": []\n}"
   },
   {
@@ -6904,22 +6904,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1069",
     "original": "Celeste: Hey, Tyrion?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嘿，提利昂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1069\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1070",
     "original": "Tyrion: ...Yeah?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1070\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1071",
     "original": "Celeste: Back at the house...[p/] What was that all about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 刚才在房子里……[p/]到底是怎么回事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1071\",\n  \"keywords\": []\n}"
   },
   {
@@ -6932,29 +6932,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1073",
     "original": "Celeste: I've never seen you get that angry before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我从没见过你那么生气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1073\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1074",
     "original": "Celeste: And you said that it was [i]your[/i] house...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 而且你说那是[u]你的[/u]房子……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1074\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1075",
     "original": "Tyrion: ...Yeah.[p/] It was my house.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……是。[p/]那曾经是我的房子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1075\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1076",
     "original": "Celeste: It \"was\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: “曾经是”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1076\",\n  \"keywords\": []\n}"
   },
   {
@@ -6967,22 +6967,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1078",
     "original": "Celeste: Ever since we arrived in this city,[p/] you've haven't really been...[p/] yourself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 塞莱斯特：自从我们来到这座城市后，[p/]你就一直……不像你自己了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1078\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1079",
     "original": "Celeste: If you want to talk about it,[p/] I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 如果你想说说这件事，[p/]我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1079\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1080",
     "original": "Tyrion: I'm fine.[p/] And I [i]don't[/i][p/] want to talk about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很好。[p/]而且我[u]不[/u][p/]想谈论这件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1080\",\n  \"keywords\": []\n}"
   },
   {
@@ -6995,43 +6995,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1082",
     "original": "Celeste: You're [i]not[/i] fine.[p/][s/] I can see it on your face.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你一点也[u]不[/u]好。[p/][s/]我能从你脸上看出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1082\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1083",
     "original": "Celeste: Please.[p/] Just talk to me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 拜托了，[p/]告诉我吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1083\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1084",
     "original": "Tyrion: It's [i]none[/i] of your business!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这跟你[u]没有[/u]关系！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1084\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1085",
     "original": "That came out a lot louder than you wanted it to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这句话说得比你想的要大声得多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1085\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1086",
     "original": "Tyrion: C-[p/]Celeste...[p/] I'm sorry...[p/] I didn't mean to-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞、[p/]塞莱斯特……[p/]对不起……[p/]我不是故意——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1086\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1087",
     "original": "Without a word,[p/] she quickly walks ahead of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她什么也没说，[p/]快步向你走来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1087\",\n  \"keywords\": []\n}"
   },
   {
@@ -10621,8 +10621,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1625",
     "original": "No…[p/] That’s not right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]再好好想想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Sanctus_Present-1625\",\n  \"keywords\": []\n}"
   },
   {
@@ -10887,8 +10887,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1667",
     "original": "No…[p/] That’s not right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]再好好想想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Sanctus_Present3-1667\",\n  \"keywords\": []\n}"
   },
   {
@@ -24187,8 +24187,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3708",
     "original": "No…[p/] That’s not right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]再好好想想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-CourtPres-3708\",\n  \"keywords\": []\n}"
   },
   {
