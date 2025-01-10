@@ -181,8 +181,8 @@ Orym_Deduce3
 
 注意，由于游戏的程序拼句子的时候会自动加上空格，因此目标句子也要加上空格，不过这个仅起到判断作用，不会被游戏本身显示。
 
-![deduction 词语](../docs/Texts/combine-words.png)
-![deduction 句子](../docs/Texts/combine-sentence.png)
+<img src="../docs/Texts/combine-words.png" alt="deduction 句子" style="width:40%;" />
+<img src="../docs/Texts/combine-sentence.png" alt="deduction 句子" style="width:40%;" />
 
 
 
