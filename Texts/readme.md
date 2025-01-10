@@ -1,60 +1,5 @@
-文件组织：
+**文件组织： [见最后](#%E6%96%87%E4%BB%B6%E7%BB%84%E7%BB%87)**
 
-<details>
-<summary> 本文件夹内的文件组织和用途说明 </summary>
-```shell
-"Texts/"
-├── "charalist"
-├── "@dist" # 最终生成的文件，用于 UABEA[Next] 读取导入，按 data.unity3d 内部格式组织
-│   ├── "il2cpp_data"  # global-metadata.dat 汉化
-│   ├── "level0"
-│   └── "resources"
-│   └── "sharedassets0"
-├── "@old"  # @raw, 原始文件，read-only
-│   ├── "case"
-│   ├── "m_text"
-│   ├── "metadata"  # global-metadata.dat 文本导出
-│   ├── "save"      # 读档存档删档相关提示文本
-│   ├── "serifu"
-│   ├── "tooltips"
-│   ├── "CharacterLibrary-level0-599.json"
-│   ├── "EpisodeLibrary-level0-607.json" # override 相关文本，例如红衣女孩的职业（注意这部分文本会写入到存档，因此需要重新建档才能看到修改）
-│   ├── "ItemLibrary-level0-603.json"
-│   ├── "LocationLibrary-level0-604.json"
-│   └── "SpellLibrary-level0-602.json"
-├── "@paraz" # `just export` 命令导出文件，用于 paratranz
-│   ├── "case"       # Case 字节码文本
-│   ├── "charalist"  # 人物定义文本
-│   ├── "episode"    # 章节内部初始化的重定义文本
-│   ├── "item"       # 物品文本
-│   ├── "location"   # 地点文本
-│   ├── "m_text"     # 控件，按钮文本
-│   ├── "metadata"   # 程序内硬编码的文本（例如添加线索，退出游戏，法术类型`enum spellSchool`之类的）
-│   ├── "serifu"     # 台本，Case 字节码中的多语言定义文本
-│   ├── "save"       # 读存删档文本
-│   ├── "spell"      # 咒语文本
-│   └── "tooltips"   # 几个按钮上的注释文本
-├── "@paraz-out" # Paratranz 导出文件，和 @paraz 相同但是包含了汉化，手动或者GitHub Action导出
-│   ├── .. 略 ..
-├── "utils"          # Texts 相关的导入导出函数
-│   ├── "case.py"
-│   ├── "charalist.py"
-│   ├── "flags.py"
-│   ├── "__init__.py"
-│   ├── "item.py"
-│   ├── "m_text.py"
-│   ├── "serifu.py"
-│   ├── "spell.py"
-│   ├── "tooltips.py"
-│   ├── "yarn_spinner_pb2.py"  # 根据 yarnspinner 2.2.1 版本的 yarn_spinner.proto 定义文件，通过 protoc --python_out=.  ./yarn_spinner.proto 生成
-│   └── "yarn_spinner.proto"   # 从 yarnspinner 2.2.1 中偷出来的
-│   ├── .. 略 ..
-├── "chinese.txt"     # `just charset` 生成的码表
-├── "get_chars.py"    # `just charset` 用到的脚本
-├── "readme.md"
-└── "text_io.py"      # 核心的文本导入导出脚本，用于`just import|export`
-```
-</details>
 ## global-metadata.dat 特殊说明
 
 ### 常规文本
@@ -240,4 +185,59 @@ Orym_Deduce3
 ![deduction 句子](../docs/Texts/combine-sentence.png)
 
 
+
+# 文件组织
+
+```shell
+"Texts/"
+├── "charalist"
+├── "@dist" # 最终生成的文件，用于 UABEA[Next] 读取导入，按 data.unity3d 内部格式组织
+│   ├── "il2cpp_data"  # global-metadata.dat 汉化
+│   ├── "level0"
+│   └── "resources"
+│   └── "sharedassets0"
+├── "@old"  # @raw, 原始文件，read-only
+│   ├── "case"
+│   ├── "m_text"
+│   ├── "metadata"  # global-metadata.dat 文本导出
+│   ├── "save"      # 读档存档删档相关提示文本
+│   ├── "serifu"
+│   ├── "tooltips"
+│   ├── "CharacterLibrary-level0-599.json"
+│   ├── "EpisodeLibrary-level0-607.json" # override 相关文本，例如红衣女孩的职业（注意这部分文本会写入到存档，因此需要重新建档才能看到修改）
+│   ├── "ItemLibrary-level0-603.json"
+│   ├── "LocationLibrary-level0-604.json"
+│   └── "SpellLibrary-level0-602.json"
+├── "@paraz" # `just export` 命令导出文件，用于 paratranz
+│   ├── "case"       # Case 字节码文本
+│   ├── "charalist"  # 人物定义文本
+│   ├── "episode"    # 章节内部初始化的重定义文本
+│   ├── "item"       # 物品文本
+│   ├── "location"   # 地点文本
+│   ├── "m_text"     # 控件，按钮文本
+│   ├── "metadata"   # 程序内硬编码的文本（例如添加线索，退出游戏，法术类型`enum spellSchool`之类的）
+│   ├── "serifu"     # 台本，Case 字节码中的多语言定义文本
+│   ├── "save"       # 读存删档文本
+│   ├── "spell"      # 咒语文本
+│   └── "tooltips"   # 几个按钮上的注释文本
+├── "@paraz-out" # Paratranz 导出文件，和 @paraz 相同但是包含了汉化，手动或者GitHub Action导出
+│   ├── .. 略 ..
+├── "utils"          # Texts 相关的导入导出函数
+│   ├── "case.py"
+│   ├── "charalist.py"
+│   ├── "flags.py"
+│   ├── "__init__.py"
+│   ├── "item.py"
+│   ├── "m_text.py"
+│   ├── "serifu.py"
+│   ├── "spell.py"
+│   ├── "tooltips.py"
+│   ├── "yarn_spinner_pb2.py"  # 根据 yarnspinner 2.2.1 版本的 yarn_spinner.proto 定义文件，通过 protoc --python_out=.  ./yarn_spinner.proto 生成
+│   └── "yarn_spinner.proto"   # 从 yarnspinner 2.2.1 中偷出来的
+│   ├── .. 略 ..
+├── "chinese.txt"     # `just charset` 生成的码表
+├── "get_chars.py"    # `just charset` 用到的脚本
+├── "readme.md"
+└── "text_io.py"      # 核心的文本导入导出脚本，用于`just import|export`
+```
 
