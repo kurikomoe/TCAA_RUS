@@ -1220,7 +1220,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-174",
     "original": "Aster: You are [i]completely[/i] out of line, Commander!",
-    "translation": "Aster: 你[u]完全[/u]越界了，指挥官！",
+    "translation": "Aster: 你<u>彻底</u>越界了，指挥官！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_9-174\",\n  \"keywords\": []\n}"
   },
@@ -1269,7 +1269,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-181",
     "original": "Aster: And these cretins think that [i]Beatrice[/i] is behind it somehow!",
-    "translation": "Aster: 然后这些傻瓜觉得是[u]比亚特丽丝[/u]在背后搞鬼！",
+    "translation": "Aster: 然后这些傻瓜觉得是<u>比亚特丽丝</u>在背后搞鬼！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_9-181\",\n  \"keywords\": []\n}"
   },
@@ -1409,7 +1409,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-201",
     "original": "Did he just say that she's [i]blind[/i]?!",
-    "translation": "他刚刚是说她[u]失明[/u]了？！",
+    "translation": "他刚刚是说她<u>失明</u>了？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_10-201\",\n  \"keywords\": []\n}"
   },
@@ -24292,8 +24292,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3667",
     "original": "Tyrion: If it's a contract,[p/][s/] we can dispute it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果是一份契约，[p/][s/]我们就可以对其中内容提出异议！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered23-3667\",\n  \"keywords\": []\n}"
   },
   {
@@ -24355,8 +24355,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3676",
     "original": "MBeatrice: To dispute a Blood Contract is to bet your own soul.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 想对血契提出异议，你就要赌上自己的灵魂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End-3676\",\n  \"keywords\": []\n}"
   },
   {

@@ -632,7 +632,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-105",
     "original": "Tyrion: Get.[p/][p/][p/] The [i]hell[/i].[p/][p/][p/] Away from my house.",
-    "translation": "Tyrion: 从我的屋里[p/][p/][p/][u]他妈的[/u][p/][p/][p/]滚出去！",
+    "translation": "Tyrion: 从我的屋里[p/][p/][p/]<u>天杀的</u>[p/][p/][p/]滚出去！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-105\",\n  \"keywords\": []\n}"
   },
@@ -660,7 +660,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-109",
     "original": "Celeste: U-[p/]Um...[p/] Okay.[p/] Let's [i]all[/i] calm down and just-.",
-    "translation": "Celeste: 呃、[p/]唔……[p/]好吧。[p/]让我们[u]都[/u]冷静下来然后——",
+    "translation": "Celeste: 呃、[p/]唔……[p/]好吧。[p/]让我们<u>都</u>冷静下来然后——",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-109\",\n  \"keywords\": []\n}"
   },
@@ -709,14 +709,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-116",
     "original": "Gavin: I [i]said[i/], \"stay out of this\"!",
-    "translation": "Gavin: 我[u]说了[/u]，“滚远点”！",
+    "translation": "Gavin: 我<u>说了</u>，“滚远点”！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-117",
     "original": "Gavin: You[p/][p/][p/][p/][s/] [i]little[/i][p/][p/][p/][p/][s/] shi",
-    "translation": "Gavin: 你[p/][p/][p/][p/][s/][u]这个[/u][p/][p/][p/][p/][s/]混",
+    "translation": "Gavin: 你[p/][p/][p/][p/][s/]<u>这个</u>[p/][p/][p/][p/][s/]混",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-117\",\n  \"keywords\": []\n}"
   },
@@ -772,7 +772,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-125",
     "original": "Tyrion: I think you [i]might[/i] have overdone it a bit.",
-    "translation": "Tyrion: 我认为你[u]可能[/u]做得有点过火了。",
+    "translation": "Tyrion: 我认为你<u>可能</u>做得有点过火了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-125\",\n  \"keywords\": []\n}"
   },
@@ -842,7 +842,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-135",
     "original": "Celeste: You're [p/][s/][i]fine[/i].",
-    "translation": "Celeste: 你[p/][s/][u]还好吧[/u]。",
+    "translation": "Celeste: 你[p/][s/]<u>还好吧</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-135\",\n  \"keywords\": []\n}"
   },
@@ -961,7 +961,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-152",
     "original": "Tyrion: ...We're not going to hurt you [i]anymore[/i].",
-    "translation": "Tyrion: ……我们不会再伤害你的，[u]一点也不会[/u]。",
+    "translation": "Tyrion: ……我们不会再伤害你的，<u>一点也不会</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-152\",\n  \"keywords\": []\n}"
   },
@@ -1353,7 +1353,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-208",
     "original": "Celeste: It's [i]not[/i] nothing!",
-    "translation": "Celeste: 这才[u]不是[/u]没什么!",
+    "translation": "Celeste: 这才<u>不是</u>没什么！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-208\",\n  \"keywords\": []\n}"
   },
@@ -1752,7 +1752,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-265",
     "original": "You feel almost a little [i]too[/i] rested.",
-    "translation": "你感觉休息得有点[u]过头[/u]了。",
+    "translation": "你感觉休息得有点<u>过头</u>了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-265\",\n  \"keywords\": []\n}"
   },
@@ -2158,7 +2158,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-323",
     "original": "More importantly,[p/] you're a little worried about what he might have [i]seen[/i].",
-    "translation": "更重要的是，[p/]你有点担心他可能[u]看见了什么[/u]。",
+    "translation": "更重要的是，[p/]你有点担心他可能<u>看见了什么</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-323\",\n  \"keywords\": []\n}"
   },
@@ -2249,7 +2249,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-336",
     "original": "Aster: But the trial yesterday really highlighted the significance of that.",
-    "translation": "Aster: 但是昨天的试验强调了它的重要性。",
+    "translation": "Aster: 但是昨天的审理强调了它的重要性。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-336\",\n  \"keywords\": []\n}"
   },
@@ -2284,7 +2284,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-341",
     "original": "You're questioning his motives...[p/] for a [i]variety[/i] of reasons...",
-    "translation": "你思考着他的动机……[p/]有[u]很多种[/u]原因……",
+    "translation": "你思考着他的动机……[p/]有<u>很多种</u>原因……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-341\",\n  \"keywords\": []\n}"
   },
@@ -2333,7 +2333,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-348",
     "original": "Aster is your prime suspect right now.[p/] And he [i]has[/i] to be aware of that.",
-    "translation": "阿斯特是你现在的首要嫌疑人。[p/]他[u]必须[/u]知道这一点。",
+    "translation": "阿斯特是你现在的首要嫌疑人。[p/]他<u>必须</u>知道这一点。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-348\",\n  \"keywords\": []\n}"
   },
@@ -2606,7 +2606,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-387",
     "original": "Knight: We can't let [i]anyone[/i] outside of the city until our investigation is complete.",
-    "translation": "Knight: 我们不能让[u]任何人[/u]出城，直到调查结束。",
+    "translation": "Knight: 我们不能让<u>任何人</u>出城，直到调查结束。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-CafeAfter-387\",\n  \"keywords\": []\n}"
   },
@@ -2830,7 +2830,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-419",
     "original": "Merchant: ...Sorry,[p/] I can't even spare [i]one[/i] room.",
-    "translation": "Merchant: ……抱歉，[p/]我们[u]一间[/u]房也没有了。",
+    "translation": "Merchant: ……抱歉，[p/]我们<u>一间</u>房也没有了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-419\",\n  \"keywords\": []\n}"
   },
@@ -2893,7 +2893,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-428",
     "original": "Merchant: Even [i]with[/i] your gold,[p/] that's the best I can do for you.",
-    "translation": "Merchant: 就算[u]有[/u]这么多金子，[p/]一间房已经是我能给你的最好的东西了。",
+    "translation": "Merchant: 就算<u>有</u>这么多金子，[p/]我也最多给你一间房。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-428\",\n  \"keywords\": []\n}"
   },
@@ -2956,7 +2956,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-437",
     "original": "Celeste: Please,[p/] we may both be commoners,[p/] but [i]you[/i] live a cushy life in the city.",
-    "translation": "Celeste: 拜托，[p/]我们都是普通人，[p/]但是[u]你[/u]在城市中过着安逸的生活。",
+    "translation": "Celeste: 拜托，[p/]我们都是普通人，[p/]但是<u>你</u>在城市中过着安逸的生活。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-437\",\n  \"keywords\": []\n}"
   },
@@ -3145,14 +3145,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-464",
     "original": "Lloyd: No...[p/] I can [i]use[/i] this.",
-    "translation": "Lloyd: 不……[p/]我能[u]用[/u]这个。",
+    "translation": "Lloyd: 不……[p/]我能<u>用</u>这个。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-465",
     "original": "Lloyd: That's right![p/] I can still make this look like it was all [i]his[/i] fault!",
-    "translation": "Lloyd: 对的！[p/]我还能让这一切看起来都是[u]他的[/u]错！",
+    "translation": "Lloyd: 对的！[p/]我还能让这一切看起来都是<u>他的</u>错！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-465\",\n  \"keywords\": []\n}"
   },
@@ -3278,7 +3278,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-483",
     "original": "Tyrion: You're the [i]only[/i] one who will fight against them!",
-    "translation": "Tyrion: 你是[u]唯一一个[/u]同他们战斗的人！",
+    "translation": "Tyrion: 你是<u>唯一一个</u>同他们战斗的人！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-483\",\n  \"keywords\": []\n}"
   },
@@ -3341,7 +3341,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-492",
     "original": "Tyrion: I can [i]help[/i] you![p/][s/] We can fight them together!",
-    "translation": "Tyrion: 我可以[u]帮[/u]你！[p/][s/]我们俩可以一起跟他们战斗！",
+    "translation": "Tyrion: 我可以<u>帮</u>你！[p/][s/]我们俩可以一起跟他们战斗！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-492\",\n  \"keywords\": []\n}"
   },
@@ -3677,7 +3677,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-540",
     "original": "Tyrion: I've never even [i]tried[/i] a case like this before.",
-    "translation": "Tyrion: 我从来没有[u]试过[/u]这样的案子。",
+    "translation": "Tyrion: 我从来没有<u>试过</u>这样的案子。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-540\",\n  \"keywords\": []\n}"
   },
@@ -3733,7 +3733,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-548",
     "original": "...She has a point.[p/] There aren't many attorneys who will go against the nobility under [i]any[/i] circumstances.",
-    "translation": "......她说的有道理。[p/]几乎没有律师愿意与贵族们作对，在[u]任何[/u]情况下都是如此。",
+    "translation": "......她说的有道理。[p/]几乎没有律师愿意与贵族们作对，在<u>任何</u>情况下都是如此。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-IntroMorning-548\",\n  \"keywords\": []\n}"
   },
@@ -4531,7 +4531,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-675",
     "original": "Mosourika: He even got mad at me a few times when I accidentally broke Dracogen's protocols.",
-    "translation": "Mosourika: 我有几次不小心违反了德拉科根的协议，他甚至对我发火了。",
+    "translation": "Mosourika: 我有几次不小心违反了德拉科根的规定，他甚至对我发火了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-675\",\n  \"keywords\": []\n}"
   },
@@ -4552,7 +4552,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-678",
     "original": "Perhaps Rika can tell you more about what he was like [i]before[/i] he turned his life around.",
-    "translation": "或许里卡可以告诉你更多他生活变化[u]之前[/u]的信息。",
+    "translation": "或许里卡可以告诉你更多他生活变化<u>之前</u>的信息。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-678\",\n  \"keywords\": []\n}"
   },
@@ -4692,7 +4692,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-702",
     "original": "Mosourika: It doesn't look [i]anything[/i] like the swords I've seen at the local blacksmith.",
-    "translation": "Mosourika: 这和我在当地的铁匠铺见到的那些剑[u]完全[/u]不一样。",
+    "translation": "Mosourika: 这和我在当地的铁匠铺见到的那些剑<u>完全</u>不一样。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-702\",\n  \"keywords\": []\n}"
   },
@@ -4769,14 +4769,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-714",
     "original": "Tyrion: Yeah...[p/] Let's not go [i]that[/i] far.",
-    "translation": "Tyrion: 是……[p/]我们还是不要扯[u]那么[/u]远了。",
+    "translation": "Tyrion: 是……[p/]我们还是不要扯<u>那么</u>远了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-714\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-715",
     "original": "Mosourika: What's [i]that[/i] supposed to mean?!",
-    "translation": "Mosourika: [u]这是[/u]什么意思？！",
+    "translation": "Mosourika: <u>这是</u>什么意思？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-715\",\n  \"keywords\": []\n}"
   },
@@ -4916,7 +4916,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-737",
     "original": "Mosourika: He would [i]never[/i] betray me and Mr. Dracogen like that!",
-    "translation": "Mosourika: 他[u]绝对不可能[/u]像那样背叛我和德拉科根先生的！",
+    "translation": "Mosourika: 他<u>绝对不可能</u>像那样背叛我和德拉科根先生的！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-737\",\n  \"keywords\": []\n}"
   },
@@ -5070,7 +5070,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-762",
     "original": "Tyrion: But no one can be [i]that[/i] philanthropic.",
-    "translation": "Tyrion: 但是没有人会[u]那么[/u]博爱。",
+    "translation": "Tyrion: 但是没有人会<u>那么</u>博爱。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-762\",\n  \"keywords\": []\n}"
   },
@@ -5140,7 +5140,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-773",
     "original": "Tyrion: What do you think about [i]this[/i], Rika?",
-    "translation": "Tyrion: 你怎么看待[u]这个[/u]的，里卡?",
+    "translation": "Tyrion: 你怎么看待<u>这个</u>的，里卡?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Present_Cafe-773\",\n  \"keywords\": []\n}"
   },
@@ -5231,7 +5231,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-787",
     "original": "If this truly [i]was[/i] a murder,[p/] you have to find out who did this and why.",
-    "translation": "如果这真的[u]是[/u]一桩谋杀，[p/]你需要找出是谁干的，还有那个人的动机。",
+    "translation": "如果这真的<u>是</u>一桩谋杀，[p/]你需要找出是谁干的，还有那个人的动机。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Check_Events_Cafe-787\",\n  \"keywords\": []\n}"
   },
@@ -5252,7 +5252,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-790",
     "original": "Tyrion: On that note,[p/] [i]you[/i] were at the refinery when the accident occurred, am I correct?",
-    "translation": "说到这个，[p/][u]你[/u]在事故发生时在炼油厂，对吗？",
+    "translation": "说到这个，[p/]<u>你</u>事故发生时在炼油厂，对吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Check_Events_Cafe-790\",\n  \"keywords\": []\n}"
   },
@@ -5539,7 +5539,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-842",
     "original": "Tyrion: This table looks [i]really[/i] well-made.",
-    "translation": "Tyrion: 这张桌子做的[u]很[/u]不错。",
+    "translation": "Tyrion: 这张桌子做得<u>很</u>不错。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Examine_CafeIntro-842\",\n  \"keywords\": []\n}"
   },
@@ -5672,7 +5672,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-866",
     "original": "Mosourika: [i]I[/i] am Mosourika Tudor:[p/][s/] Dark Lord of Aurinax,[p/][s/] High Archmagi of the Cadmium Flames,[p/][s/] and the proud proprietor of this café!",
-    "translation": "Mosourika: [u]我[/u]是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
+    "translation": "Mosourika: <u>我</u>是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-866\",\n  \"keywords\": []\n}"
   },
@@ -5728,7 +5728,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-874",
     "original": "Celeste: Hm...[p/] I haven't really [i]mastered[/i] any of them.",
-    "translation": "Celeste: 唔……[p/]我还没有[u]掌握[/u]任何法术。",
+    "translation": "Celeste: 唔……[p/]我还没有<u>掌握</u>任何法术。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-874\",\n  \"keywords\": []\n}"
   },
@@ -5749,7 +5749,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-877",
     "original": "She's learned even [i]more[/i] spells?",
-    "translation": "她还学了[u]更多[/u]法术？",
+    "translation": "她还学了<u>更多</u>法术？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-877\",\n  \"keywords\": []\n}"
   },
@@ -5805,7 +5805,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-886",
     "original": "Mosourika: Is [i]that[/i] why you left town with that scary lady?",
-    "translation": "Mosourika: [u]这[/u]就是为什么你要和那位可怕的女士一起离开小镇？",
+    "translation": "Mosourika: <u>这</u>就是你和那位可怕的女士一起离开的原因？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-886\",\n  \"keywords\": []\n}"
   },
@@ -5931,7 +5931,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-905",
     "original": "Celeste: After all,[p/] [i]he[/i] owns one of the largest businesses in the kingdom.",
-    "translation": "Celeste: 毕竟，[p/][u]他[/u]拥有着王国里最大的商业帝国之一。",
+    "translation": "Celeste: 毕竟，[p/]<u>他</u>拥有着王国里最大的商业帝国之一。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-905\",\n  \"keywords\": []\n}"
   },
@@ -5952,7 +5952,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-908",
     "original": "Tyrion: I didn't even know he [i]was[/i] a businessman.",
-    "translation": "Tyrion: 我都不知道他[u]是[/u]一个商人。",
+    "translation": "Tyrion: 我都不知道他<u>是</u>一个商人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-908\",\n  \"keywords\": []\n}"
   },
@@ -6036,7 +6036,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-921",
     "original": "Mosourika: They aren't owned by the nobility.[p/] [i]And[/i] they pay their employees a lot more than von Sanctus does.",
-    "translation": "Mosourika: 他们不为贵族所有。[p/][u]而且[/u]他们给员工的工资比冯·桑克图斯高出许多。",
+    "translation": "Mosourika: 他们不为贵族所有。[p/]<u>而且</u>他们给员工的工资比冯·桑克图斯高出许多。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-921\",\n  \"keywords\": []\n}"
   },
@@ -6064,7 +6064,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-925",
     "original": "Celeste: Oh...[p/] von Sanctus definitely won't appreciate [i]that[/i].",
-    "translation": "Celeste: 噢……[p/]冯·桑克图斯肯定不会喜欢[u]那样[/u]的.",
+    "translation": "Celeste: 噢……[p/]冯·桑克图斯肯定不会喜欢<u>那样</u>的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-925\",\n  \"keywords\": []\n}"
   },
@@ -6148,7 +6148,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-938",
     "original": "Mosourika: Wait...[p/] You're [i]actually[/i] embarrassed about it?",
-    "translation": "Mosourika: 等等……[p/]你[u]实际上[/u]对那件事感觉很害羞？",
+    "translation": "Mosourika: 等等……[p/]你<u>实际上</u>对那件事感觉很害羞？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-938\",\n  \"keywords\": []\n}"
   },
@@ -6316,7 +6316,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-963",
     "original": "Tyrion: …W-[p/]Well,[p/][s/] [i]that's[/i] why I don't do it anymore!",
-    "translation": "Tyrion: …呃、[p/]嗯，[p/][s/][u]这就是[/u]为什么我不再干了！",
+    "translation": "Tyrion: …呃、[p/]嗯，[p/][s/]<u>这就是</u>为什么我不干了的原因！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-963\",\n  \"keywords\": []\n}"
   },
@@ -6330,7 +6330,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-965",
     "original": "Celeste: It was [i]really[/i] cool, Tyrion.",
-    "translation": "Celeste: 这真的[u]太[/u]酷了，提利昂",
+    "translation": "Celeste: 这真的<u>太</u>酷了，提利昂。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-965\",\n  \"keywords\": []\n}"
   },
@@ -6344,7 +6344,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-967",
     "original": "Tyrion: And why are [i]you[/i] laughing?![p/][s/] You were [i]just[/i] doing it a moment ago!",
-    "translation": "Tyrion: [u]你[/u]为什么要笑？！[p/][s/][u]仅仅[/u]几分钟前你也在干这种事！",
+    "translation": "Tyrion: <u>你</u>为什么要笑？！[p/][s/]<u>仅仅</u>几分钟前你也在干这种事！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-967\",\n  \"keywords\": []\n}"
   },
@@ -6442,7 +6442,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-983",
     "original": "Mosourika: [i]I[/i] am Mosourika Tudor:[p/][s/] Dark Lord of Aurinax,[p/][s/] High Archmagi of the Cadmium Flames,[p/][s/] and the proud proprietor of this café!",
-    "translation": "Mosourika: [u]我[/u]是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
+    "translation": "Mosourika: <u>我</u>是莫苏里卡·都铎：[p/][s/]欧奥耐克斯的黑暗领主，[p/][s/]镉之火焰的最高大法师，[p/][s/]以及这家咖啡馆的骄傲的店主！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-983\",\n  \"keywords\": []\n}"
   },
@@ -6575,7 +6575,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1003",
     "original": "Mosourika: Is [i]that[/i] why you left town with that scary lady?",
-    "translation": "Mosourika: [u]这[/u]就是为什么你要和那位可怕的女士一起离开小镇？",
+    "translation": "Mosourika: <u>这</u>就是你和那位可怕的女士一起离开的原因？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1003\",\n  \"keywords\": []\n}"
   },
@@ -6673,14 +6673,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1018",
     "original": "Tyrion: Yeah...[p/] Let's not go [i]that[/i] far.",
-    "translation": "Tyrion: 是……[p/]我们还是不要扯[u]那么[/u]远了。",
+    "translation": "Tyrion: 是……[p/]我们还是不要扯<u>那么</u>远了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1019",
     "original": "Mosourika: What's [i]that[/i] supposed to mean?!",
-    "translation": "Mosourika: [u]这是[/u]什么意思？！",
+    "translation": "Mosourika: <u>这是</u>什么意思？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1019\",\n  \"keywords\": []\n}"
   },
@@ -6750,7 +6750,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1031",
     "original": "Tyrion: What do you think about [i]this[/i], Rika?",
-    "translation": "Tyrion: 你怎么看待[u]这个[/u]的，里卡?",
+    "translation": "Tyrion: 你怎么看待<u>这个</u>的，里卡?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Present_CafeIntro-1031\",\n  \"keywords\": []\n}"
   },
@@ -6820,7 +6820,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1042",
     "original": "Celeste: Yep![p/] It turned out that it was the [i]headmaster[/i] the entire time.",
-    "translation": "Celeste: 是的！[p/]最后发现一直都是[u]校长[/u]。",
+    "translation": "Celeste: 是的！[p/]最后发现一直都是<u>校长</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Check_Events_CafeIntro-1042\",\n  \"keywords\": []\n}"
   },
@@ -6939,7 +6939,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1074",
     "original": "Celeste: And you said that it was [i]your[/i] house...",
-    "translation": "Celeste: 而且你说那是[u]你的[/u]房子……",
+    "translation": "Celeste: 而且你说那是<u>你的</u>房子……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1074\",\n  \"keywords\": []\n}"
   },
@@ -6981,7 +6981,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1080",
     "original": "Tyrion: I'm fine.[p/] And I [i]don't[/i][p/] want to talk about it.",
-    "translation": "Tyrion: 我很好。[p/]而且我[u]不[/u][p/]想谈论这件事。",
+    "translation": "Tyrion: 我很好。[p/]而且我<u>不</u>[p/]想谈论这件事。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1080\",\n  \"keywords\": []\n}"
   },
@@ -6995,7 +6995,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1082",
     "original": "Celeste: You're [i]not[/i] fine.[p/][s/] I can see it on your face.",
-    "translation": "Celeste: 你一点也[u]不[/u]好。[p/][s/]我能从你脸上看出来。",
+    "translation": "Celeste: 你一点也<u>不</u>好。[p/][s/]我能从你脸上看出来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1082\",\n  \"keywords\": []\n}"
   },
@@ -7009,7 +7009,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1084",
     "original": "Tyrion: It's [i]none[/i] of your business!",
-    "translation": "Tyrion: 这跟你[u]没有[/u]关系！",
+    "translation": "Tyrion: 这跟你<u>没有</u>关系！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1084\",\n  \"keywords\": []\n}"
   },
@@ -7044,519 +7044,519 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1093",
     "original": "Judge: Court is now resumed for the trial of Stefanic Dracogen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 法庭现在开庭，就斯蒂芬尼克·德拉科根一案继续审理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1093\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1094",
     "original": "Judge: Let us review the proceedings from two days ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我们先就两日前的诉讼情况进行回顾。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1094\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1095",
     "original": "Judge: At first,[p/] the facts of the case seemed very straightforward.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 起初，[p/]这个案件的事实看起来非常简单明了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1095\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1096",
     "original": "Judge: The victim:[p/] Justin Waye,[p/] put his weight on a poorly maintained guard rail on the refinery grounds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 受害者：[p/]贾斯汀·维耶，[p/]在炼油厂场地内将体重压在了一处维护不善的护栏上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1096\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1097",
     "original": "Judge: Said guard rail broke,[p/] causing Justin Waye to fall to his death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 那处护栏断裂，[p/]导致贾斯汀·维耶坠落身亡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1097\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1098",
     "original": "Judge: ...However,[p/] the defense presented a shocking piece of evidence in the previous proceedings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……然而，[p/]辩方在之前的庭审中出示了一份令人震惊的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1098\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1099",
     "original": "Judge: Traces of [b]transmutation[/b] magic were found on that same broken guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 在同样的护栏断裂处，还发现了形变术的魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1099\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1100",
     "original": "Judge: This new evidence implies that sabotage,[p/] if not outright foul play,[p/] played a part in the death of the victim.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 这一新证据表明，[p/]受害者的死亡可能涉及人为破坏，甚至是蓄意谋害。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1100\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1101",
     "original": "Judge: This evidence is also accompanied by conflicting testimonies from witnesses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 这份证据还伴随着证人们互相矛盾的证词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1101\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1102",
     "original": "Judge: All of these elements have thrown quite some doubt on the validity of the prosecution's case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 所有这些因素都对控方案件的可信性产生了相当大的怀疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro-1102\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1103",
     "original": "Aria: Yes.[p/] However,[p/] the prosecution maintains that the Dracogen Trading Company is at fault for Justin Waye's death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 是的。[p/]但是，[p/]控方坚持认为，是德拉科根贸易公司对贾斯汀·维耶的死亡负有责任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1103\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1104",
     "original": "Judge: Even though someone may have sabotaged the guard rails?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 即使有人可能破坏了护栏？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1104\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1105",
     "original": "Aria: The prosecution acknowledges that sabotage [i]may[/i] have occurred at the scene of the accident.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 控方承认事故现场<u>可能</u>被人为破坏过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1105\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1106",
     "original": "Aria: However,[p/] we also believe that there are several factors in this case that the court is overlooking.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 然而，[p/]我们也认为本案中有几个因素被法庭忽视了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1107",
     "original": "Aria: As we all know,[p/] several witnesses were present at the refinery at the time of the accident.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: “众所周知，[p/]事故发生时，有几名证人在炼油厂现场。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1107\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1108",
     "original": "Aria: The harbourmaster was showing a patron around the refinery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 当时，港务长正在带领一位赞助商参观炼油厂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1108\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1109",
     "original": "Aria: Mosourika Tudor was making a food delivery and entered the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 莫苏里卡·都铎正在进行食品配送，并进入了大楼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1109\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1110",
     "original": "Aria: And of course,[p/] the victim:[p/] Justin Waye was obviously present as well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 当然，[p/]受害者：[p/]贾斯汀·维耶显然也在场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1110\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1111",
     "original": "Aria: Each and every one of these people had no business [i]being[/i] in the refinery that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 每一个在场的人，那晚都没有理由<u>出现在</u>炼油厂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1111\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1112",
     "original": "Tyrion: In the case of the harbourmaster and his patron,[p/] it would be hardly reasonable for [i]anyone[/i] to stop them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 至于港务长和他的顾客，[p/]几乎<u>没有人</u>会认为阻止他们是合理的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1112\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1113",
     "original": "You doubt anyone would stand in the way of the crown prince.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你怀疑会有人敢阻碍王储殿下的去路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1113\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1114",
     "original": "Aria: ...That may be.[p/] But [i]Justin Waye[/i] worked in the freight division and should [i]not[/i] have been at the scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……这可能是事实。[p/]但<u>贾斯汀·维耶</u>在货运部门工作，他<u>本不应该</u>出现在现场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1114\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1115",
     "original": "Tyrion: I've already verified this with my client.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我已经和我的客户核实过这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1115\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1116",
     "original": "Tyrion: The victim was not authorized to be in the refinery building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 受害者没有获得进入炼油厂大楼的授权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1117",
     "original": "Aria: And who stopped Justin Waye from entering the area unauthorized?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 那是谁阻止了贾斯汀·维耶未经授权进入该区域？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1117\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1118",
     "original": "Aria: Isn't it the defendant's duty to prevent such individuals from entering the building?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 阻止此类人员进入大楼难道不是被告的责任吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1118\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1119",
     "original": "Tyrion: My client can't be held responsible for Justin's breach of the set protocols.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我的客户不能为贾斯汀违反既定规定的行为负责。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1119\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1120",
     "original": "Tyrion: And you surely can't hold my client responsible for someone [i]sabotaging[/i] the guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你当然不能让我的委托人对<u>破坏</u>护栏这件事负责。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1-1120\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1121",
     "original": "Aria: This so-called \"sabotage\" is only theoretical until a proper culprit is found.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria:所谓的“破坏”在没有找到真正的罪犯之前，充其量只是一个假设。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1121\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1122",
     "original": "Judge: Hm...[p/] I might be compelled to agree with you, Ms. Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 嗯……[p/]斯蒂尔文德女士，我或许不得不同意你的观点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1122\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1123",
     "original": "Judge: After all,[p/] there's no hard evidence that proves the traces of [b]transmutation[/b] were left by a specific spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 毕竟，[p/]并没有确凿的证据证明这些[b]形变术[/b]的痕迹是由某个特定的法术留下的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1123\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1124",
     "original": "Celeste: What kind of mental gymnastics is that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这是什么头脑体操？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1124\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1125",
     "original": "Celeste: Every part of the guard rail that had traces on it was rusted!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 护栏上所有有魔法痕迹的部分都是生锈的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1125\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1126",
     "original": "Tyrion: Ugh...[p/] They're bending the context of what happened to suit their purposes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/]他们在扭曲事件的背景以迎合自己的目的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1126\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1127",
     "original": "Hard evidence means everything here...[p/] And the Rod of Mending has been reduced to shards in the vat...",
-    "translation": "",
-    "stage": 0,
+    "translation": "确凿的证据在这里至关重要……[p/]而修复之杖已经在桶里碎成了片段……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1127\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1128",
     "original": "Without the complete rod,[p/] you can't prove that someone used it to sabotage the guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "没有完整的修复之杖，[p/]你无法证明有人用它破坏了护栏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1128\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1129",
     "original": "Aria: Regardless,[p/] is it not the responsibility of the Dracogen Trading Company to ensure that its employees do not wander into restricted areas?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 无论如何，[p/]难道确保其员工不会擅自进入禁区不是德拉科根贸易公司的责任吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1129\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1130",
     "original": "Aria: Blaming a potential saboteur puts the cart before the horse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 把责任推到可能的破坏者身上，是本末倒置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1130\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1131",
     "original": "Aria: It doesn't just stop with Justin Waye either.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 这不仅仅止于贾斯汀·维耶的情况。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1131\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1132",
     "original": "Aria: Why was [i]Mosourika Tudor[/i] able to enter the building?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 为什么<u>莫苏里卡·都铎</u>能够进入大楼？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1132\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1133",
     "original": "Aria: She doesn't even work for the refinery,[p/] yet she was able to waltz into the building without any trouble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 她甚至不是炼油厂的员工，[p/]却能毫无阻碍地进入大楼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1133\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1134",
     "original": "Actually,[p/] Steelwind [i]does[/i] have a point about Rika.",
-    "translation": "",
-    "stage": 0,
+    "translation": "实际上，[p/]斯蒂尔文德关于里卡的观点<u>确实</u>有道理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1134\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1135",
     "original": "Shouldn't something have stopped her from entering that area?",
-    "translation": "",
-    "stage": 0,
+    "translation": "难道不应该有什么措施阻止她进入那个区域吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1135\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1136",
     "original": "You doubt that Dracogen would show that kind of negligence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你怀疑德拉科根会表现出这种疏忽大意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1136\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1137",
     "original": "Tyrion: If that's true,[p/] I believe that we should hear from Ms. Tudor directly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果那是真的，[p/]我认为我们应该直接听听都铎女士的陈述。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1137\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1138",
     "original": "Tyrion: Let's hear how \"easily\" she gained access to the refinery on the day of the accident.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 让我们听听她是如何在事故当天“轻松”进入炼油厂的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1138\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1139",
     "original": "Aria: We've already anticipated that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我们早就料到了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1139\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1140",
     "original": "Aria: Mosourika Tudor is prepared and ready to testify.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 莫苏里卡·都铎已准备好作证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1140\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1141",
     "original": "Judge: Very well, then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 很好，那么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1141\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1142",
     "original": "Judge: Bailiff,[p/] please escort Ms. Tudor to the stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 法警，[p/]请护送都铎小姐到证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_1a-1142\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1143",
     "original": "Aria: Ms. Tudor,[p/] are you aware of why you've been called here today?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 都铎女士，[p/]您知道今天为何被召来吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1143\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1144",
     "original": "Mosourika: Y-[p/]Yeah...[p/] I heard everything from the gallery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我……[p/]是的……[p/]我从旁听席听到了所有的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1144\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1145",
     "original": "Aria: Then you'll have no problem answering the following question.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 那你应该不会有问题回答接下来的问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1145\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1146",
     "original": "Aria: Did you encounter resistance when you entered the refinery the night of the accident?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 在事故发生的那个晚上，您进入炼油厂时遇到了阻碍吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1146\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1147",
     "original": "Mosourika: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1147\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1148",
     "original": "Aria: Witness,[p/] may I remind you that you are under oath to tell the court everything that you know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 证人，[p/]请允许我提醒您，您已宣誓过要向法庭如实陈述您所知道的一切。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1148\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1149",
     "original": "Aria: Failure to do so is a crime.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 知而不言即是犯罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1149\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1150",
     "original": "Mosourika: Urk!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 噫！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1150\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1151",
     "original": "Mosourika: N-[p/]No...[p/] No one tried to stop me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没、[p/]没有……[p/]没有人阻止我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1151\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1152",
     "original": "Mosourika: S-[p/]Sorry, Tyrion...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 抱[p/]抱歉，提利昂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1152\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1153",
     "original": "Aria: You have nothing to apologize for, witness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你没什么好道歉的，证人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1154",
     "original": "Aria: The only one at fault is the Dracogen Trading Company and their negligence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 有责任的只有德拉科根贸易公司和它们的疏忽大意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1154\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1155",
     "original": "Mosourika: H-[p/][s/]Hey![p/][s/] That's-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 嘿、[p/][s/]嘿！[p/][s/]那是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1155\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1156",
     "original": "Aria: For the record,[p/] please testify in detail about how you entered the refinery that day, Ms. Tudor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 为了记录，[p/]请详细作证，您当天是如何进入炼油厂的，都铎女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1156\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1157",
     "original": "Mosourika: Okay...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 好的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_2-1157\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1158",
     "original": "Mosourika: That day,[p/] I was looking for Justin in the freight area.[p/] But I couldn't find him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 那天，[p/]我在货运区找贾斯汀，[p/]但我找不到他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1158\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1159",
     "original": "Mosourika: I decided to look for him in the refinery's main building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 于是我决定去炼油厂的主楼找他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1159\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1160",
     "original": "Mosourika: There was some kind of magical door leading into it,[p/] but it was unlocked.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 有一道通往大楼的魔法门，[p/]但它没有上锁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1160\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1161",
     "original": "Mosourika: Nothing really stopped me from entering the refinery building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 确实没有什么阻碍我进入炼油厂大楼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1161\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1162",
     "original": "Aria: As the court can clearly see,[p/] there were no safeguards preventing the witness from entering that restricted area.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 正如法庭清晰所见，[p/]没有任何防护措施阻止证人进入那个限制区域。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1162\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1163",
     "original": "Tyrion: The witness clearly stated that there was a magical door leading into the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 证人明确表示，的确有一道魔法门通往大楼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1164",
     "original": "Tyrion: This was obviously some sort of security door powered by artificery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这显然是一种由奥术能源驱动的安全门。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1165",
     "original": "Aria: ...Which was still unlocked and effectively useless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……但它依然没有上锁，实际上毫无作用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1165\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1166",
     "original": "Damn it...[p/] There must be a way to prove that the unlocked door wasn't Dracogen's fault.",
-    "translation": "",
-    "stage": 0,
+    "translation": "该死……[p/]一定有办法证明那扇没有上锁的门不是德拉科根公司的错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Trial2Intro_3-1166\",\n  \"keywords\": []\n}"
   },
   {
@@ -7569,162 +7569,162 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1168",
     "original": "Mosourika: That day,[p/] I was looking for Justin in the freight area.[p/] But I couldn't find him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 那天，[p/]我在货运区找贾斯汀，[p/]但我找不到他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1168\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1169",
     "original": "Tyrion: You were there to deliver his dinner to him.[p/] Am I correct?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你是过去给他送晚餐的，[p/]我没说错吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1169\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1170",
     "original": "Mosourika: Yeah...[p/] He was usually in the freight area around that time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 是的……[p/]那个时间点他一般都在货运区。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1170\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1171",
     "original": "Mosourika: I was surprised when I didn't see him there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我很惊讶我没在那看到他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1171\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1172",
     "original": "Mosourika: I was a little worried so...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我有点担心，于是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1172\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1173",
     "original": "Mosourika: I decided to look for him in the refinery's main building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我决定去炼油厂的主楼找他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1173\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1174",
     "original": "Tyrion: It seems strange that you'd go looking for him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这有点奇怪啊，你还会去找他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1174\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1175",
     "original": "Tyrion: Why not just leave his food with one of his co-workers?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为什么不把食物托付给他的同事呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1175\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1176",
     "original": "Mosourika: I thought of that,[p/] but I also wanted to make sure that he was okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我有这么想过，[p/]但我希望亲自确认他没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1176\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1177",
     "original": "Mosourika: I [i]was[/i] the one that helped him get this job in the first place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 毕竟一开始<u>是</u>我帮他找的这个工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1177\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1178",
     "original": "Mosourika: It wouldn't look good if he left in the middle of a shift.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 如果他在上班中途离开，还是不太合适。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1178\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1179",
     "original": "Aria: How [i]did[/i] you enter the Refinery Building, Ms. Tudor?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 那你是<u>怎么</u>进入炼油厂大楼的，都铎女士？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1179\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1180",
     "original": "Mosourika: There was some kind of magical door leading into it,[p/] but it was unlocked.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 有一道通往大楼的魔法门，[p/]但它没有上锁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1180\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1181",
     "original": "Tyrion: By \"magical door\",[p/] do you mean that it was a door powered by artificery?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你说“魔法门”，[p/]是指那是由奥术能源供应的门吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1181\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1182",
     "original": "Mosourika: Yeah...[p/] I have a door like it in my restaurant too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 是……[p/]我的咖啡馆里也有一扇差不多的门。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1182\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1183",
     "original": "Mosourika: But this one looked a lot more complex.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但大楼的这一扇看起来更复杂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1183\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1184",
     "original": "Tyrion: Why would you or Dracogen need magical doors, anyways?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为什么你和德拉科根公司需要魔法门？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1184\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1185",
     "original": "Mosourika: The one in my café magically locks the shop when I close it for the day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我咖啡馆里的那扇会在我打烊时魔法般锁上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1185\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1186",
     "original": "Mosourika: I guess the door to the refinery building was for the same thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我猜通往炼油厂大楼的那扇门也是一样的作用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1186\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1187",
     "original": "Tyrion: But that means that there [i]was[/i] a mechanism to keep out unauthorized personnel.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但那就意味着<u>存在</u>某种机制，能阻挡未获授权的人进入。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1187\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1188",
     "original": "Aria: ...Which was effectively useless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……而且毫无作用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1188\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1189",
     "original": "Aria: The witness entered the refinery and encountered zero resistance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 证人进入炼油厂时，没有遇到任何阻碍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1189\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1190",
     "original": "Aria: Furthermore,[p/] the Inquisition has already logged the specs for the door.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 此外，[p/]裁判所已经记录了这扇门的详细规格。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1190\",\n  \"keywords\": []\n}"
   },
   {
@@ -7737,57 +7737,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1192",
     "original": "Aria: Did you use a key to unlock the door, Ms. Tudor?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你是用钥匙开门的吗，都铎女士？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1192\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1193",
     "original": "Mosourika: No...[p/] I didn't...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 不……[p/]不是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1193\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1194",
     "original": "Aria: As you can see from this report,[p/] Stefanic Dracogen was the only person capable of disabling the lock.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 正如您从这份报告中可以看到的，斯蒂芬尼克·龙焰是唯一能让门锁失效的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1194\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1195",
     "original": "Mosourika: I guess Mr. Dracogen kept the door unlocked during work hours...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika:我猜德拉科根先生在上班时间还开着门……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1195\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1196",
     "original": "Aria: This means that it's entirely Dracogen's fault that the victim gained access to the building in the first place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 这意味着，受害者能够进入大楼完全是德拉科根公司的过失。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1196\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1197",
     "original": "Mosourika: W-[p/][s/]Wait![p/][s/] That's not what I meant to-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 等、[p/][s/]等等！[p/][s/]我不是这个意思——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1197\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1198",
     "original": "Aria: But that [i]is[/i] what you implied.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但这就[i]是[/i]您想表达的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1198\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1199",
     "original": "Aria: Unless you can prove that [i]another[/i] person disabled that door.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 除非您能证明还有<u>其他</u>人破坏了那扇门。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1199\",\n  \"keywords\": []\n}"
   },
   {
@@ -7800,148 +7800,148 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1201",
     "original": "You can't refute that statement...[p/] yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你没有办法驳斥这个观点……[p/]至少目前是的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1201\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1202",
     "original": "But you might be able to work with this new information.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但是你或许能在这个新信息上做文章。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1202\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1203",
     "original": "Tyrion: Regardless,[p/] please add that last statement to your testimony, witness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不管怎样，[p/]请将刚才的那句话添加到您的证词中，证人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1203\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1204",
     "original": "Mosourika: Alright...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 好的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1204\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1205",
     "original": "Mosourika: Mr. Dracogen must have disabled the lock.[p/] No one else could have disabled it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 一定是德拉科根先生让锁失效的，[p/]没有其他人能够做到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1205\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1206",
     "original": "Tyrion: That's quite the leap in logic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这可真是个不小的逻辑跳跃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1206\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1207",
     "original": "Aria: The specs of the door state that the lock can only be disabled by Stefanic Dracogen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 门的规格表明，只有斯蒂芬尼克·德拉科根能让锁失效。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1207\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1208",
     "original": "Mosourika: Sorry,[p/] but I can't think of any other reason why it would be disabled.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 抱歉，[p/]但我想不到任何锁会失效的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1208\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1209",
     "original": "Mosourika: I mean...[p/] I get it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我的意思是……[p/]我知道了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1209\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1210",
     "original": "Mosourika: Sometimes I forget the key to my shop.[p/] It becomes a real headache when I get locked out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 有时我会忘带咖啡店的钥匙。[p/]被锁在外面真令人头疼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1210\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1211",
     "original": "You suppose that makes sense.[p/] But would Dracogen really do something like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你觉得她说的话有道理。[p/]但德拉科根真的会做这样的事吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1211\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1212",
     "original": "The lock is [i]designed[/i] to be disabled only by Dracogen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "锁被<u>设计</u>成只有德拉科根能使其失效。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1212\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1213",
     "original": "But perhaps someone did something to bypass that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但也许有人采取了某种手段绕过了这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1213\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1214",
     "original": "Mosourika: Nothing really stopped me from entering the refinery building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没有什么真正阻碍我进入炼油厂大楼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1214\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1215",
     "original": "Tyrion: Are you sure you're not forgetting any obstacles that you encountered?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你确定你没有忘记什么你碰见的阻碍吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1215\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1216",
     "original": "Mosourika: No...[p/] I would have remembered something like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没有……[p/]我会记得那样的东西的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1216\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1217",
     "original": "Mosourika: If someone told me that I wasn't supposed to be there,[p/] I would've just left.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 如果有人告诉我那不是我该去的地方，[p/]我会离开的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1217\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1218",
     "original": "She seems sincere about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她看来对此很确定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1218\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1219",
     "original": "It was probably an honest mistake.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这可能是一个诚实的错误。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1219\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1221",
     "original": "Celeste: Rika didn't even realize that she entered a restricted area.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 里卡甚至没有意识到她进入了一个限制区域。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1221\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1222",
     "original": "Tyrion: But the fact she was able to enter it so easily is definitely strange.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但她能够这么轻松进入的事实太奇怪了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1222\",\n  \"keywords\": []\n}"
   },
   {
