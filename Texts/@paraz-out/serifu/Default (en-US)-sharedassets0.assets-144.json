@@ -6330,8 +6330,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-965",
     "original": "Tyrion: N-[p/][s/]No![p/][s/] I’m just [i]genuinely[/i] curious!",
-    "translation": "Tyrion: 没、[p/][s/]没有！[p/][s/]我<u>真的<u>只是好奇！",
-    "stage": 5,
+    "translation": "Tyrion: 没、[p/][s/]没有！[p/][s/]我<u>真的</u>只是好奇！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-965\",\n  \"keywords\": []\n}"
   },
   {
@@ -6883,8 +6883,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1050",
     "original": "Orym: That damn noble comes in here,[p/] telling [i]me[/i] how to do [i]my[/i] job?",
-    "translation": "Orym: 那个该死的贵族跑过来，[p/]教<u>我</u>怎么干好</u>我的</u>工作？",
-    "stage": 5,
+    "translation": "Orym: 那个该死的贵族跑过来，[p/]教<u>我</u>怎么干好<u>我的</u>工作？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1050\",\n  \"keywords\": []\n}"
   },
   {
@@ -7170,8 +7170,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1096",
     "original": "Orym: That damn noble comes in here,[p/] telling [i]me[/i] how to do [i]my[/i] job?",
-    "translation": "Orym: 那个该死的贵族跑过来，[p/]教<u>我</u>怎么干好</u>我的</u>工作？",
-    "stage": 5,
+    "translation": "Orym: 那个该死的贵族跑过来，[p/]教<u>我</u>怎么干好<u>我的</u>工作？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1096\",\n  \"keywords\": []\n}"
   },
   {
@@ -10649,8 +10649,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1623",
     "original": "On them,[p/] are a clash of souls.[p/] Souls brought to conflict by the corrupt powers that rule over them.",
-    "translation": "硝烟之下，[p/]是被腐败势力统治的灵魂们。[/p]这些灵魂间正在激烈冲突。",
-    "stage": 5,
+    "translation": "硝烟之下，[p/]是被腐败势力统治的灵魂们。[p/]这些灵魂间正在激烈冲突。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TeaserScene-1623\",\n  \"keywords\": []\n}"
   },
   {
@@ -14044,7 +14044,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2123",
     "original": "Tyrion: A courtroom…[p/] I’m in a real courtroom.",
-    "translation": "Tyrion: 这是法庭….[p/]我真的在一个法庭里",
+    "translation": "Tyrion: 这是法庭……[p/]我真的在一个法庭里。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Trial1_Intro-2123\",\n  \"keywords\": []\n}"
   },

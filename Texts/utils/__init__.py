@@ -75,6 +75,27 @@ def check_speaker(a: str, b: str) -> bool:
 
     return flag
 
+def check_underline(tgt: str) -> bool:
+    if tgt == "<u>": return True;
+    if tgt == "</u>": return True;
+    pat1 = re.compile(r"<u>")
+    pat2 = re.compile(r"</u>")
+    gp1 = pat1.findall(tgt)
+    gp2 = pat2.findall(tgt)
+
+    return len(gp1) == len(gp2)
+
+def check_invalid_tag_format(tgt: str) -> bool:
+    pats = [
+        re.compile(r"\[/p\]")
+    ]
+    for pat in pats:
+        if pat.findall(tgt):
+            return False
+
+    return True
+
+
 def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz]:
     if not checks:
         checks = {
@@ -109,6 +130,20 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
             logger.error(item.translation)
             logger.error("")
             #  input("cnt?")
+
+        if not check_underline(item.translation):
+            logger.error("Mismatch underline")
+            logger.error(item.original)
+            logger.error(item.translation)
+            logger.error("")
+            input("cnt?")
+
+        if not check_invalid_tag_format(item.translation):
+            logger.error("Invalid tag format")
+            logger.error(item.original)
+            logger.error(item.translation)
+            logger.error("")
+            input("cnt?")
 
 
         if item.context:
