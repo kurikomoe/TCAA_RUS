@@ -40,8 +40,6 @@ OpenSans-Medium.ttf
 
 
 
-
-
 目前看起来所有的资源都能在 resource 里面找到，因此直接在 resource 里面替换就行。
 
 游戏中所有用到的字库图定义见 `gen_fonts.py` 中的 `FontDef`，目前全部替换成了更纱黑体 SC。
