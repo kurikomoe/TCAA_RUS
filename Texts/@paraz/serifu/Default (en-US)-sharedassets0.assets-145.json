@@ -1,11 +1,5 @@
 [
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-0",
-    "original": "Player: Door",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-0\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1",
     "original": "There's only one locked door that leads into the cell.",
     "translation": null,
@@ -16,12 +10,6 @@
     "original": "The door seems to be locked by some kind of magical mechanism.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-2\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3",
-    "original": "Player: Torch",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-3\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4",
@@ -42,12 +30,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-6\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-7",
-    "original": "Player: Window",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-7\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-8",
     "original": "The cell has a barred window.",
     "translation": null,
@@ -66,16 +48,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-10\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-11",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-11\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-12",
     "original": "Player: Alibi",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-12\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-12\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-13",
@@ -141,7 +117,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-23",
     "original": "Player: Spell Compendium",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-23\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-23\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-24",
@@ -345,7 +321,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-57",
     "original": "Player: Wallace and Eris",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-57\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-57\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-58",
@@ -459,7 +435,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-76",
     "original": "Player: Necromancy",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-76\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-76\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-77",
@@ -567,7 +543,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-94",
     "original": "Player: Catherine Bellwether",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-94\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-94\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-95",
@@ -669,13 +645,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-111",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-111\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-112",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-112\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-111\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-113",
@@ -744,12 +714,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-123\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-124",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-124\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-125",
     "original": "Wallace: I wish I could be like you, Celeste...",
     "translation": null,
@@ -784,12 +748,6 @@
     "original": "Wallace: ...I don't know about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-130\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-131",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-131\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-132",
@@ -832,12 +790,6 @@
     "original": "Wallace: Hm...[p/] Maybe...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-138\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-139",
-    "original": "Player: Catherine Bellwether|Autopsy Report: Catherine Bellwether",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-139\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-140",
@@ -888,12 +840,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-147\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-148",
-    "original": "Player: Valentina Ianus|Valerie Ianus|Who Discovered the Body?",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-148\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-149",
     "original": "Tyrion: Do you know the twins who work in the Academy Kitchen?",
     "translation": null,
@@ -916,12 +862,6 @@
     "original": "Wallace: They always did their best to avoid talking to me.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-152\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-153",
-    "original": "Player: Theodore Redmond",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-153\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-154",
@@ -972,12 +912,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-161\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-162",
-    "original": "Player: Wallace Chillgrave|Wallace's Spell Compendium",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-162\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-163",
     "original": "Tyrion: I've met a lot of mages in my time,[p/] but I've never met a necromancer before.",
     "translation": null,
@@ -1002,12 +936,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-166\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-167",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-167\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-168",
     "original": "Tyrion: What can you tell me about this, Wallace?",
     "translation": null,
@@ -1018,12 +946,6 @@
     "original": "Wallace: Sorry...[p/] I can't tell you much about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-169\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-170",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-170\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-171",
@@ -1542,42 +1464,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce7-256\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-257",
-    "original": "Player: Foyer2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-257\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-258",
-    "original": "Player: Cemetery",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-258\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-259",
-    "original": "Player: Library2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-259\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-260",
-    "original": "Player: Lockers",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-260\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-261",
-    "original": "Player: Dorm",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-261\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-262",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-262\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-263",
     "original": "Player: Barracks",
     "translation": null,
@@ -1644,12 +1530,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-273\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-274",
-    "original": "Player: Emily",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Examine_Cemetery-274\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-275",
     "original": "It's the grave of Emily Grant.",
     "translation": null,
@@ -1686,12 +1566,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Examine_Cemetery-280\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-281",
-    "original": "Player: Grave",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Examine_Cemetery-281\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-282",
     "original": "It's a grave for an individual that you don't know.",
     "translation": null,
@@ -1704,16 +1578,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Examine_Cemetery-283\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-284",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Examine_Cemetery-284\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-285",
     "original": "Player: The Trial",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-285\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-285\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-286",
@@ -1869,7 +1737,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-311",
     "original": "Player: Illusion Magic",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-311\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-311\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-312",
@@ -1953,7 +1821,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-325",
     "original": "Player: Major Illusion",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-325\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-325\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-326",
@@ -2109,7 +1977,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-351",
     "original": "Player: Gravestone",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-351\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-351\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-352",
@@ -2307,13 +2175,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-384",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-384\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-385",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-385\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-384\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-386",
@@ -2338,12 +2200,6 @@
     "original": "Eris: I only hope the climax lives up to my expectations.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-389\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-390",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-390\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-391",
@@ -2380,12 +2236,6 @@
     "original": "Eris: They have a unique style that's easy to recognize.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-396\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-397",
-    "original": "Player: Aria Steelwind",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-397\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-398",
@@ -2442,12 +2292,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-406\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-407",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-407\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-408",
     "original": "Tyrion: We know that Wallace was accepted through Redmond's program...",
     "translation": null,
@@ -2502,12 +2346,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-416\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-417",
-    "original": "Player: Catherine Bellwether",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-417\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-418",
     "original": "Eris: Catherine Bellwether wasn't the best person.",
     "translation": null,
@@ -2542,12 +2380,6 @@
     "original": "Eris: I have no interest in respecting those in power who are unworthy of it.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-423\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-424",
-    "original": "Player: Wallace Chillgrave",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-424\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-425",
@@ -2622,12 +2454,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-436\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-437",
-    "original": "Player: Theodore Redmond",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-437\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-438",
     "original": "Tyrion: You were with the headmaster in his office earlier.",
     "translation": null,
@@ -2682,12 +2508,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-446\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-447",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-447\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-448",
     "original": "Tyrion: What do you think about this, Eris?",
     "translation": null,
@@ -2716,12 +2536,6 @@
     "original": "Tyrion: Um...[p/] Okay?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-452\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-453",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-453\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-454",
@@ -2892,12 +2706,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-481\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-482",
-    "original": "Player: Painting",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-482\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-483",
     "original": "Tyrion: It's a painting of some sort of musician.",
     "translation": null,
@@ -2938,12 +2746,6 @@
     "original": "Looks like he was a man of many talents.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-489\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-490",
-    "original": "Player: Body",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-490\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-491",
@@ -3018,12 +2820,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-502\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-503",
-    "original": "Player: Window",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-503\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-504",
     "original": "Tyrion: The lecture hall has a window with a view.",
     "translation": null,
@@ -3084,12 +2880,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-513\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-514",
-    "original": "Player: Illusion",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-514\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-515",
     "original": "Celeste: There's a trace of [b]illusion[/b] magic next to the body.",
     "translation": null,
@@ -3126,12 +2916,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-520\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-521",
-    "original": "Player: Books",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-521\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-522",
     "original": "Celeste: Oh![p/] They have books here too.",
     "translation": null,
@@ -3148,12 +2932,6 @@
     "original": "Celeste: Aw...[p/] Lame.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-524\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-525",
-    "original": "Player: Students",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-525\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-526",
@@ -3208,12 +2986,6 @@
     "original": "Aria: ...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-534\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-535",
-    "original": "Player: Detect Body",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-535\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-536",
@@ -3468,16 +3240,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-577\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-578",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-578\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-579",
     "original": "Player: Questions for us",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-579\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-579\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-580",
@@ -3621,7 +3387,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-603",
     "original": "Rancid Smell",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-603\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-603\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-604",
@@ -3693,7 +3459,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-615",
     "original": "Player: The Murder",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-615\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-615\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-616",
@@ -3873,7 +3639,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-645",
     "original": "How was the body discovered?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-645\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-645\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-646",
@@ -3969,7 +3735,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-661",
     "original": "Why is Wallace a Suspect?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-661\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-661\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-662",
@@ -4047,13 +3813,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-674",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-674\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-675",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-675\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-674\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-676",
@@ -4102,12 +3862,6 @@
     "original": "Celeste: Don't bother asking.[p/] He won't tell you.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-683\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-684",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-684\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-685",
@@ -4182,12 +3936,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-696\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-697",
-    "original": "Player: Aria Steelwind|Orym White",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-697\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-698",
     "original": "Tyrion: I was surprised to see [i]you[/i] conducting the investigation, Steelwind.",
     "translation": null,
@@ -4224,12 +3972,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-703\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-704",
-    "original": "Player: Foul Classroom Smell",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-704\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-705",
     "original": "Tyrion: Ugh...[p/] This rancid smell is really horrible.",
     "translation": null,
@@ -4252,12 +3994,6 @@
     "original": "Aria: I was surprised too.[p/] It's not like the headmaster to make a mistake like that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-708\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-709",
-    "original": "Player: Catherine Bellwether|Bloodstain Under the Body (Case 2)|Bloodstain Under the Body (Case 2) 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-709\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-710",
@@ -4302,12 +4038,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-716\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-717",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-717\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-718",
     "original": "Tyrion: What do you think about this, Ms. Steelwind?",
     "translation": null,
@@ -4318,12 +4048,6 @@
     "original": "Aria: I'm sorry.[p/] But I'm afraid I can't say much about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-719\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-720",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-720\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-721",
@@ -4854,12 +4578,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Courtroom1_3-808\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-809",
-    "original": "Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-809\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-810",
     "original": "TYRION: What time did this call come in?",
     "translation": null,
@@ -4882,12 +4600,6 @@
     "original": "Right…[p/] you remember that was around the time the lockdown occurred.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-813\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-814",
-    "original": "Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-814\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-815",
@@ -4930,12 +4642,6 @@
     "original": "True.[p/] For better or for worse,[p/] the kingdom will act quickly to protect a building filled with nobles.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-821\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-822",
-    "original": "Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-822\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-823",
@@ -4986,12 +4692,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-830\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-831",
-    "original": "Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-831\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-832",
     "original": "TYRION: How carefully was the body checked?",
     "translation": null,
@@ -5032,12 +4732,6 @@
     "original": "The question is…[p/] how do you prove that?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-838\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-839",
-    "original": "Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-839\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-840",
@@ -5106,12 +4800,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-850\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-851",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-851\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-852",
     "original": "CELESTE: We already investigated the crime scene.",
     "translation": null,
@@ -5128,24 +4816,6 @@
     "original": "TYRION: Right.[p/] All I have to do is present that contradiction to the court.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-854\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-855",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-855\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-856",
-    "original": "Player: Bloodstain Under the Body (Case 2) 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-856\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-857",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-857\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-858",
@@ -5170,12 +4840,6 @@
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-861\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-862",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-862\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-863",
@@ -5868,12 +5532,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-ValTest-980\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-981",
-    "original": "Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-981\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-982",
     "original": "TYRION: Where were you two coming from?",
     "translation": null,
@@ -5910,12 +5568,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-987\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-988",
-    "original": "Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-988\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-989",
     "original": "TYRION: Did you notice anything else strange in the lecture hall?",
     "translation": null,
@@ -5944,12 +5596,6 @@
     "original": "It makes sense…[p/] It would be hard to notice anything else.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-993\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-994",
-    "original": "Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood…",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-994\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-995",
@@ -5994,12 +5640,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1001\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1002",
-    "original": "Valentina: She used first aid and applied pressure to her wound to stop the bleeding.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1002\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1003",
     "original": "TYRION: Your sister knows how to use a first aid kit?",
     "translation": null,
@@ -6022,12 +5662,6 @@
     "original": "TYRION: Hm…",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1006\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1007",
-    "original": "Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1007\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1008",
@@ -6084,12 +5718,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1016\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1017",
-    "original": "Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood…",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1017\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1018",
     "original": "TYRION: I see.[p/] That must have been a difficult experience for both of you.",
     "translation": null,
@@ -6126,12 +5754,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1023\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1024",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1024\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1025",
     "original": "CELESTE: Honestly,[p/] her testimony makes a lot of sense.",
     "translation": null,
@@ -6162,24 +5784,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1029\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1030",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1030\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1031",
-    "original": "Player: Autopsy Report: Catherine Bellwether",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1031\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1032",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1032\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1033",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
     "translation": null,
@@ -6202,12 +5806,6 @@
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1036\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1037",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1037\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1038",
@@ -6690,12 +6288,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Test-1117\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1118",
-    "original": "Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [mind=\"I was definitely surprised when I saw her like that.\"/]",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1118\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1119",
     "original": "That matches the details of her previous testimony.",
     "translation": null,
@@ -6706,12 +6298,6 @@
     "original": "You have no reason to doubt this.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1120\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1121",
-    "original": "Valentina: N-[p/]Now that you mention it…[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [mind=\"I can’t go back on that now… I just need to play dumb.\"/]",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1121\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1122",
@@ -6748,12 +6334,6 @@
     "original": "You'll need to look at her other statements and the thoughts that accompany them.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1127\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1128",
-    "original": "Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [mind=\"Ugh, Valerie… You’re too kind-hearted for your own good…\"/]",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1128\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1129",
@@ -6802,12 +6382,6 @@
     "original": "Maybe you should try looking at the thoughts of her other statements.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1136\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1137",
-    "original": "Valentina: Neither of us is a mage![p/][s/] Both of us held the book the knights gave us! [mind=\"I was caught off guard when they asked us. They almost found us out.\"/]",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1137\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1138",
@@ -6864,12 +6438,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1146\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1147",
-    "original": "Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [mind=\"It’s a good thing that we’re twins… Or else that trick wouldn’t have worked.\"/]",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1147\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1148",
     "original": "It's a \"good thing that they're twins\"?",
     "translation": null,
@@ -6924,12 +6492,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1156\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1157",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1157\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1158",
     "original": "Think through this.[p/] This isn’t like a normal cross-examination.",
     "translation": null,
@@ -6958,12 +6520,6 @@
     "original": "Find the thought that holds that clue and INTERPRET it to proceed.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1162\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1163",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1163\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1164",
@@ -8814,12 +8370,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Courtroom2_4-1471\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1472",
-    "original": "Miriam: I was working on a research project in my dorm room when I decided to take a break.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1472\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1473",
     "original": "TYRION: Was this research project a part of your schoolwork?",
     "translation": null,
@@ -8904,12 +8454,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1486\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1487",
-    "original": "Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1487\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1488",
     "original": "TYRION: And you’re sure that you saw her exit the Headmaster’s Office?",
     "translation": null,
@@ -8938,12 +8482,6 @@
     "original": "ARIA: Did you interact with the professor at all, Miriam?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1492\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1493",
-    "original": "Miriam: She was walking in my direction.[p/] So I greeted her and she responded in kind.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1493\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1494",
@@ -9006,12 +8544,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1503\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1504",
-    "original": "Miriam: She was walking towards me.[p/] So I bid her “Good morning” and she responded in kind.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1504\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1505",
     "original": "TYRION: And you’re certain that nothing seemed off about her.",
     "translation": null,
@@ -9048,12 +8580,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1510\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1511",
-    "original": "Miriam: After that,[p/] she headed towards the library.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1511\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1512",
     "original": "TYRION: Did you [i]see[/i] her enter the library?",
     "translation": null,
@@ -9076,12 +8602,6 @@
     "original": "ARIA: Even if she didn’t enter the library,[p/] she was still in that area for more than an hour.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1515\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1516",
-    "original": "Miriam: A short time after that,[p/] I went back to my room and continued my work.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1516\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1517",
@@ -9108,12 +8628,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1520\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1521",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1521\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1522",
     "original": "CELESTE: Her testimony seems pretty straightforward.",
     "translation": null,
@@ -9138,24 +8652,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1525\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1526",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1526\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1527",
-    "original": "Player: Steelwind's Deduction",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1527\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1528",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1528\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1529",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
     "translation": null,
@@ -9178,12 +8674,6 @@
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1532\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1533",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1533\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1534",
@@ -9888,12 +9378,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1650\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1651",
-    "original": "Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1651\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1652",
     "original": "TYRION: How are you so sure that it was 30 minutes before?",
     "translation": null,
@@ -9922,12 +9406,6 @@
     "original": "ARIA: What was the \"professor\" like, Mr. Hughes?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1656\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1657",
-    "original": "Jan: She walked by me…[p/] But she looked pretty out of it.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1657\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1658",
@@ -9978,36 +9456,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1665\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1666",
-    "original": "Jan: I heard she was undead when this happened…[p/] Pretty creepy if you ask me.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1666\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1667",
-    "original": "Jan: I heard she was undead. Which is pretty creepy because she pushed me out of her way.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1667\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1668",
-    "original": "Jan: I heard she was undead. Which is pretty creepy because she knocked over a vase.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1668\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1669",
-    "original": "Jan: I heard she was undead. Which is pretty creepy because she yelled at me.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1669\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1670",
-    "original": "Jan: After that,[p/] she went into the empty classroom.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1670\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1671",
     "original": "TYRION: Did you see anyone else enter that classroom?",
     "translation": null,
@@ -10038,12 +9486,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1675\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1676",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1676\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1677",
     "original": "CELESTE: He’s not giving us a lot to work with…",
     "translation": null,
@@ -10068,24 +9510,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1680\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1681",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1681\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1682",
-    "original": "Player: Animate Corpse",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1682\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1683",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1683\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1684",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
     "translation": null,
@@ -10108,12 +9532,6 @@
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1687\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1688",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1688\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1689",
@@ -10143,7 +9561,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-1693",
     "original": "Did she do anything to you?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1693\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1693\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1694",
@@ -10173,7 +9591,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-1698",
     "original": "Did she touch anything?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1698\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1698\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1699",
@@ -10203,7 +9621,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-1703",
     "original": "Did she make any sounds?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1703\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1703\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1704",
@@ -11280,12 +10698,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1886\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1887",
-    "original": "Theodore: That day,[p/] I had a meeting scheduled with the professor at noon.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1887\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1888",
     "original": "TYRION: What was this meeting for?",
     "translation": null,
@@ -11308,12 +10720,6 @@
     "original": "THEODORE: In an academy such as ours,[p/] it is beneficial to regularly communicate with the staff.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1891\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1892",
-    "original": "Theodore: She showed up at the expected time,[p/] and we discussed various administrative matters.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1892\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1893",
@@ -11364,12 +10770,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1900\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1901",
-    "original": "Theodore: Our meeting went on for an hour.[p/] After which, she left.[p/] Presumably to prepare for her next class.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1901\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1902",
     "original": "TYRION: So that means the professor left your office at 1:00 PM?",
     "translation": null,
@@ -11406,12 +10806,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1907\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1908",
-    "original": "Theodore: Despite our many disagreements,[p/] we still knew how to be civil with one another.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1908\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1909",
     "original": "TYRION: After hearing so much about her…[p/] I find that a little hard to believe.",
     "translation": null,
@@ -11440,12 +10834,6 @@
     "original": "Is that really true, though?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1913\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1914",
-    "original": "Theodore: After all,[p/] I had no reason to bear a personal grudge against her.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1914\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1915",
@@ -11484,12 +10872,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1920\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1921",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1921\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1922",
     "original": "CELESTE: His testimony pretty much matches what we know so far.",
     "translation": null,
@@ -11520,24 +10902,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1926\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1927",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1927\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1928",
-    "original": "Player: Bellwether's Plan 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1928\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1929",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1929\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1930",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
     "translation": null,
@@ -11560,12 +10924,6 @@
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1933\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1934",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1934\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1935",
@@ -11820,12 +11178,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoObj_3-1976\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-1977",
-    "original": "Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand.[p/] But I had only just learned about it.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1977\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-1978",
     "original": "TYRION: So, you only learned about it recently?",
     "translation": null,
@@ -11848,12 +11200,6 @@
     "original": "Theodore: But...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1981\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1982",
-    "original": "Theodore: On the day of the murder,[p/] the professor told me about her plan.[p/] She was going to replace me as headmaster and replace the staff with her Arcane Constructs.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1982\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1983",
@@ -11884,12 +11230,6 @@
     "original": "THEODORE: To think that the professor [i]and[/i] the board would go around my back like that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1987\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-1988",
-    "original": "Theodore: Now you might say that this would have given me the perfect motive to murder the professor.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1988\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1989",
@@ -11958,12 +11298,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1999\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2000",
-    "original": "Theodore: However,[p/] the supposed murder weapon was stolen from Ms. Frega.[p/] This happened weeks before the murder.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2000\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2001",
     "original": "TYRION: As the headmaster,[p/] you’d probably have the tools available to get into her room.",
     "translation": null,
@@ -12004,12 +11338,6 @@
     "original": "THEODORE: However,[p/] there’s one flaw with your logic.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2007\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2008",
-    "original": "Theodore: I had no knowledge of their plan before she told me.[p/] And therefore,[p/] I wouldn’t have known to steal Ms. Frega’s weapon in an attempt to frame her.",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2008\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2009",
@@ -12060,12 +11388,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2016\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2017",
-    "original": "Player: Overflow",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2017\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2018",
     "original": "CELESTE: He had to have known about Bellwether’s betrayal weeks ago.",
     "translation": null,
@@ -12082,24 +11404,6 @@
     "original": "CELESTE: Do we have something that proves he knew about it before the day of the murder?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2020\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2021",
-    "original": "Player: Objection",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2021\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2022",
-    "original": "Player: Bellwether's Plan 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2022\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2023",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2023\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2024",
@@ -12124,12 +11428,6 @@
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2027\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2028",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2028\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2029",
@@ -12351,7 +11649,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2065",
     "original": "OK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoCornered_Fail-2065\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoCornered_Fail-2065\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2066",
@@ -14694,12 +13992,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_16-2480\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2481",
-    "original": "Player: Bed",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2481\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2482",
     "original": "It's an extravagant bed.",
     "translation": null,
@@ -14710,12 +14002,6 @@
     "original": "It looks like Miriam lives pretty well here.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2483\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2484",
-    "original": "Player: Dresser",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2484\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2485",
@@ -14730,12 +14016,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2486\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2487",
-    "original": "Player: Table",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2487\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2488",
     "original": "It's a table for guests.",
     "translation": null,
@@ -14748,16 +14028,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2489\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2490",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Examine_Dorm-2490\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2491",
     "original": "Player: Questions",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2491\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2491\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2492",
@@ -14829,7 +14103,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2503",
     "original": "Player: The Murder",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2503\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2503\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2504",
@@ -14943,7 +14217,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2522",
     "original": "Player: What did you see?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2522\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2522\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2523",
@@ -15087,7 +14361,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2546",
     "original": "Player: Replacing the Headmaster",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2546\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2546\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2547",
@@ -15177,7 +14451,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2561",
     "original": "Player: Frega's Rapier",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2561\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2561\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2562",
@@ -15303,7 +14577,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2582",
     "original": "Player: Your Grades",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2582\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2582\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2583",
@@ -15405,7 +14679,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2599",
     "original": "Player: Aria Steelwind",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2599\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2599\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2600",
@@ -15513,7 +14787,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2617",
     "original": "Player: Arcane Construct",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2617\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2617\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Arcane Construct\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2618",
@@ -15723,13 +14997,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2652",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2652\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2653",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2653\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2652\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2654",
@@ -15754,12 +15022,6 @@
     "original": "You're a little touched about how angry she's getting on your behalf.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2657\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2658",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2658\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2659",
@@ -15792,12 +15054,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2663\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2664",
-    "original": "Player: Aria Steelwind|Steelwind's Uneasiness",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2664\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2665",
     "original": "Miriam: Honestly,[p/] I don't know what Aria is thinking...",
     "translation": null,
@@ -15826,12 +15082,6 @@
     "original": "Miriam: W-[p/][s/]What?![p/][s/] Of course, not!",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2669\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2670",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2670\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2671",
@@ -15864,12 +15114,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2675\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2676",
-    "original": "Player: Catherine Bellwether|Autopsy Report: Catherine Bellwether|Bellwether’s Reputation",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2676\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2677",
     "original": "Miriam: It's such a shame what happened to the professor...",
     "translation": null,
@@ -15886,12 +15130,6 @@
     "original": "Well…[p/] She was certainly [i]something[/i]...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2679\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2680",
-    "original": "Player: Wallace Chillgrave",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2680\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2681",
@@ -15948,12 +15186,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2689\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2690",
-    "original": "Player: Theodore Redmond",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2690\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2691",
     "original": "Miriam: Ugh...[p/] With the professor gone,[p/] the headmaster is just going to bring more of those street urchins into the academy.",
     "translation": null,
@@ -16008,12 +15240,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2699\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2700",
-    "original": "Player: Miriam Frega|The Big Four",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2700\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2701",
     "original": "CSteel: The Fregas primarily control Wyverngarde's finances, right?",
     "translation": null,
@@ -16044,12 +15270,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2705\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2706",
-    "original": "Player: Blood in the Locker|Blood in the Locker 2|Bloody Rapier|Bloody Rapier 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2706\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2707",
     "original": "Miriam: Ugh...[p/] I really hope Aria returns my rapier soon.",
     "translation": null,
@@ -16072,12 +15292,6 @@
     "original": "Miriam: My father will throw a fit if he finds out that it was stolen.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2710\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2711",
-    "original": "Player: Arcane Construct|Arcane Construct’s Logic Limitation|Construct In the Locker Room",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2711\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2712",
@@ -16128,12 +15342,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2719\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2720",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2720\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2721",
     "original": "CSteel: What do you think about this, Miriam?",
     "translation": null,
@@ -16156,12 +15364,6 @@
     "original": "Miriam: But I don’t have much to say about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2724\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2725",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2725\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2726",
@@ -16848,12 +16050,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2839\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2840",
-    "original": "Player: Painting 1",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2840\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2841",
     "original": "Tyrion: It's a painting of a man with some sort of creature on his arm.",
     "translation": null,
@@ -16888,12 +16084,6 @@
     "original": "Tyrion: \"On his arm is one of the last pseudodragons,[p/] which have now gone extinct.\"",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2846\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2847",
-    "original": "Player: Painting 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2847\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2848",
@@ -16932,16 +16122,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2853\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2854",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2854\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2855",
     "original": "Player: The Investigation",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2855\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2855\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2856",
@@ -17133,7 +16317,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2887",
     "original": "Player: Next Lead",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2887\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2887\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2888",
@@ -17247,13 +16431,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2906",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2906\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2907",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2907\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2906\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2908",
@@ -17304,12 +16482,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2915\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2916",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2916\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2917",
     "original": "Tyrion: Now that I think about it,[p/] this is the first case we've worked together.",
     "translation": null,
@@ -17358,12 +16530,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2924\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2925",
-    "original": "Player: Aria Steelwind",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2925\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2926",
     "original": "Celeste: I didn't expect Steelwind to be working this case too.",
     "translation": null,
@@ -17380,12 +16546,6 @@
     "original": "Tyrion: We'll probably be seeing a lot more of her in the future.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2928\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2929",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2929\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2930",
@@ -17410,12 +16570,6 @@
     "original": "You're detecting fear from her again.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2933\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2934",
-    "original": "Player: Catherina Bellwether|Bellwether’s Reputation",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2934\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2935",
@@ -17448,12 +16602,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2939\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2940",
-    "original": "Player: Jan Hughes",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2940\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2941",
     "original": "Celeste: Jan looks like he's in a constant state of being tired.[p/] I feel kind of bad for him.",
     "translation": null,
@@ -17478,12 +16626,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2944\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2945",
-    "original": "Player: Valentina Ianus|Valerie Ianus",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2945\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2946",
     "original": "Celeste: The more we talk to them,[p/] the more suspicious the Ianus sisters look.",
     "translation": null,
@@ -17500,12 +16642,6 @@
     "original": "But it doesn't matter.[p/] You'll pull the truth out of them,[p/] one way or another.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2948\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2949",
-    "original": "Player: Wallace Chillgrave",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2949\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2950",
@@ -17568,12 +16704,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2959\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2960",
-    "original": "Player: Unattuned Spell Compendium|Wallace's Spell Compendium",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2960\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2961",
     "original": "Tyrion: [b]Spell Compendiums[/b] are really useful.",
     "translation": null,
@@ -17590,12 +16720,6 @@
     "original": "And more importantly,[p/] they act as indisputable evidence in court.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2963\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2964",
-    "original": "Player: Valentina's Magical Trace",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2964\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2965",
@@ -17616,12 +16740,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2967\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-2968",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2968\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-2969",
     "original": "Tyrion: What do you think about [i]this[/i], Celeste?",
     "translation": null,
@@ -17638,12 +16756,6 @@
     "original": "Celeste: I don't think I can help you with that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2971\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2972",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2972\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2973",
@@ -17727,7 +16839,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2986",
     "original": "Player: The Investigation",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer2.yarn-Talk_Foyer2-2986\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer2.yarn-Talk_Foyer2-2986\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2987",
@@ -17859,7 +16971,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3008",
     "original": "Player: Next Lead",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer2.yarn-Talk_Foyer2-3008\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer2.yarn-Talk_Foyer2-3008\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3009",
@@ -17943,13 +17055,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3022",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer2.yarn-Talk_Foyer2-3022\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3023",
-    "original": "Player: 2-A",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3023\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer2.yarn-Talk_Foyer2-3022\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3024",
@@ -17962,12 +17068,6 @@
     "original": "Tyrion: The door says that it's Lecture Hall 2-D.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3025\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3026",
-    "original": "Player: 2-B",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3026\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3027",
@@ -17988,12 +17088,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3029\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3030",
-    "original": "Player: 2-C",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3030\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3031",
     "original": "Tyrion: It's the entrance to a lecture hall.",
     "translation": null,
@@ -18004,12 +17098,6 @@
     "original": "Tyrion: The door says that it's Lecture Hall 2-F.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3032\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3033",
-    "original": "Player: 2-D",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3033\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3034",
@@ -18024,12 +17112,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3035\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3036",
-    "original": "Player: Closet",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3036\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3037",
     "original": "Tyrion: It's a door that leads into some kind of storage closet.",
     "translation": null,
@@ -18042,16 +17124,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3038\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3039",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3039\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3040",
     "original": "Player: Jan Hughes",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3040\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3040\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3041",
@@ -18099,7 +17175,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3048",
     "original": "Player: The Murder",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3048\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3048\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3049",
@@ -18255,7 +17331,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3074",
     "original": "Player: Catherine Bellwether",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3074\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3074\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3075",
@@ -18315,7 +17391,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3084",
     "original": "Player: Firing the academy staff",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3084\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3084\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3085",
@@ -18423,13 +17499,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3102",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3102\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3103",
-    "original": "Player: Jan Hughes",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3103\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3102\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3104",
@@ -18472,12 +17542,6 @@
     "original": "Well...[p/] Apparently, that’s all he has to say about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3110\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3111",
-    "original": "Player: Foul Classroom Smell",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3111\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3112",
@@ -18546,12 +17610,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3122\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3123",
-    "original": "Player: Catherine Bellwether|Autopsy Report: Catherine Bellwether|Bellwether’s Reputation",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3123\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3124",
     "original": "Jan: Man...[p/] I still can't believe someone offed Bellwether.",
     "translation": null,
@@ -18586,12 +17644,6 @@
     "original": "Jan: It's easier to not think about it.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3129\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3130",
-    "original": "Player: Who Discovered the Body?|Valentina Ianus|Valerie Ianus",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3130\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3131",
@@ -18636,12 +17688,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3137\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3138",
-    "original": "Player: Theodore Redmond|The Headmaster's Actions",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3138\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3139",
     "original": "Tyrion: How is working under Headmaster Redmond?",
     "translation": null,
@@ -18678,12 +17724,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3144\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3145",
-    "original": "Player: Jan's Statement",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3145\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3146",
     "original": "Tyrion: I just want to go over your statement again, Jan.",
     "translation": null,
@@ -18712,12 +17752,6 @@
     "original": "Jan: I definitely didn't think the workday would end with a homicide.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3150\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3151",
-    "original": "Player: Bellwether’s Plan|Bellwether's Plan 2|Arcane Construct",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3151\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3152",
@@ -18766,12 +17800,6 @@
     "original": "You wonder what he means by that...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3159\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3160",
-    "original": "Player: Aria Steelwind",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3160\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3161",
@@ -18828,12 +17856,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3169\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3170",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3170\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3171",
     "original": "Tyrion: What can you tell me about this, Mr. Hughes?",
     "translation": null,
@@ -18856,12 +17878,6 @@
     "original": "He's not very helpful...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3174\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3175",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3175\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3176",
@@ -19092,12 +18108,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3213\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3214",
-    "original": "Player: Painting 1",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3214\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3215",
     "original": "Tyrion: It's a painting of someone.[p/] He looks like some sort of professor.",
     "translation": null,
@@ -19138,12 +18148,6 @@
     "original": "Theodore: ...Unfortunately,[p/] we lost him to illness very early in his life.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3221\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3222",
-    "original": "Player: Painting 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3222\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3223",
@@ -19194,12 +18198,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3230\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3231",
-    "original": "Player: Fireplace",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3231\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3232",
     "original": "Tyrion: There's a fireplace with some burning wood.",
     "translation": null,
@@ -19212,22 +18210,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3233\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3234",
-    "original": "Player: Chandalier",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3234\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3235",
     "original": "Tyrion: It's a fancy-looking chandelier.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3235\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3236",
-    "original": "Player: Window",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3236\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3237",
@@ -19240,12 +18226,6 @@
     "original": "Tyrion: The headmaster has a nice view from up here.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3238\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3239",
-    "original": "Player: Table",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3239\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3240",
@@ -19272,16 +18252,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3243\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3244",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Examine_Office-3244\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3245",
     "original": "Player: The Murder",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3245\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3245\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3246",
@@ -19401,7 +18375,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3265",
     "original": "Player: Wallace Nightgrave",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3265\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3265\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3266",
@@ -19581,7 +18555,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3295",
     "original": "Player: Wallace's Spell Compendium",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3295\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3295\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Wallace's Spell Compendium\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3296",
@@ -19707,7 +18681,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3316",
     "original": "Player: Catherine Bellwether",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3316\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3316\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3317",
@@ -19899,7 +18873,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3348",
     "original": "Player: The Meeting",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3348\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3348\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3349",
@@ -20001,13 +18975,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3365",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3365\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3366",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3366\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3365\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3367",
@@ -20032,12 +19000,6 @@
     "original": "...Unfortunately,[p/] your research left with you even more questions about the Eye of Horus.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3370\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3371",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3371\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3372",
@@ -20106,12 +19068,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3382\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3383",
-    "original": "Player: Aria Steelwind",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3383\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3384",
     "original": "Tyrion: Have you met the prosecutor, Mr. Redmond?",
     "translation": null,
@@ -20140,12 +19096,6 @@
     "original": "Celeste: It makes sense that she'd go to school here.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3388\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3389",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3389\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3390",
@@ -20182,12 +19132,6 @@
     "original": "Eris: It's also quite enjoyable to use my magic to deceive people.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3395\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3396",
-    "original": "Player: Ruby Tymora",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3396\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3397",
@@ -20236,12 +19180,6 @@
     "original": "It'd be best not to pry further.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3404\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3405",
-    "original": "Player: Wallace Chillgrave",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3405\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3406",
@@ -20424,12 +19362,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3435\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3436",
-    "original": "Player: Catherine Bellwether",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3436\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3437",
     "original": "TYRION: What can you tell me about Catherine Bellwether?",
     "translation": null,
@@ -20610,12 +19542,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3466\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3467",
-    "original": "Player: Jan Hughes",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3467\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3468",
     "original": "Tyrion: Mr. Hughes doesn't seem like the most...[p/] reliable employee.",
     "translation": null,
@@ -20652,12 +19578,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3473\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3474",
-    "original": "Player: Theodore Redmond",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3474\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3475",
     "original": "Tyrion: How long have you been headmaster of the Imperial Academy, Mr. Redmond?",
     "translation": null,
@@ -20688,12 +19608,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3479\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3480",
-    "original": "Player: Imperial Academy Map",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3480\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3481",
     "original": "Tyrion: The Imperial Academy is actually quite big when I look at it.",
     "translation": null,
@@ -20716,12 +19630,6 @@
     "original": "Theodore: Their families have invested a lot into our facilities.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3484\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3485",
-    "original": "Player: Foul Classroom Smell",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3485\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3486",
@@ -20748,12 +19656,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3489\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3490",
-    "original": "Player: Autopsy Report: Catherine Bellwether|Bloodstain Under the Body (Case 2)|Bloodstain Under the Body (Case 2) 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3490\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3491",
     "original": "Theodore: It's a terrible thing that happened.",
     "translation": null,
@@ -20778,12 +19680,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3494\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3495",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3495\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3496",
     "original": "Tyrion: What can you tell me about this, Mr. Redmond?",
     "translation": null,
@@ -20800,12 +19696,6 @@
     "original": "Theodore: I've learned a lot in my years,[p/] but I can't say much about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3498\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3499",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3499\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3500",
@@ -21450,12 +20340,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start_2-3606\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3607",
-    "original": "Player: Books",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3607\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3608",
     "original": "The library is full of books for educational purposes.",
     "translation": null,
@@ -21466,12 +20350,6 @@
     "original": "You've been combing through these books all morning.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3609\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3610",
-    "original": "Player: Holy Text",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3610\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3611",
@@ -21486,12 +20364,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3612\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3613",
-    "original": "Player: Table",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3613\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3614",
     "original": "It's a table for students to sit at.",
     "translation": null,
@@ -21502,12 +20374,6 @@
     "original": "You've been sitting here with Celeste all morning.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3615\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3616",
-    "original": "Player: Globe",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3616\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3617",
@@ -21546,12 +20412,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3622\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3623",
-    "original": "Player: Notice",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3623\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3624",
     "original": "There's some sort of notice taped to one of the shelves.",
     "translation": null,
@@ -21570,16 +20430,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3626\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3627",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3627\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3628",
     "original": "Player: Eris and Wallace",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3628\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3628\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3629",
@@ -21645,7 +20499,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3639",
     "original": "Player: Tyrion and Celeste",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3639\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3639\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3640",
@@ -21771,7 +20625,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3660",
     "original": "Player: Supernatural Phenomena",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3660\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3660\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3661",
@@ -21903,7 +20757,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3682",
     "original": "Player: The Ancient Dragon",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3682\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3682\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3683",
@@ -22071,13 +20925,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3710",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3710\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3711",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Present_Library-3711\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3710\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3712",
@@ -22126,12 +20974,6 @@
     "original": "...You're not exactly sure what she's talking about.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Present_Library-3719\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3720",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Present_Library-3720\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3721",
@@ -23718,12 +22560,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3984\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3985",
-    "original": "Player: Spoons",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3985\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3986",
     "original": "Tyrion: There's a rack of cooking implements hanging from the wall.",
     "translation": null,
@@ -23736,22 +22572,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3987\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-3988",
-    "original": "Player: Ingredients",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3988\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-3989",
     "original": "Tyrion: Several commonly used ingredients are close to the cooking area.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3989\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3990",
-    "original": "Player: Barrels",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3990\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3991",
@@ -23776,12 +22600,6 @@
     "original": "Celeste: ...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3994\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-3995",
-    "original": "Player: Bread",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3995\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3996",
@@ -23838,12 +22656,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4004\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4005",
-    "original": "Player: Station",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4005\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4006",
     "original": "Tyrion: There's a large cooking station here.",
     "translation": null,
@@ -23856,22 +22668,10 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4007\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4008",
-    "original": "Player: Pots",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4008\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4009",
     "original": "Tyrion: It's a set of pots for cooking soups and the like.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4009\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4010",
-    "original": "Player: Plates",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4010\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4011",
@@ -23884,12 +22684,6 @@
     "original": "Tyrion: It's a shame that they had to close the kitchen due to the investigation.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4012\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4013",
-    "original": "Player: Stuff",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4013\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4014",
@@ -23908,12 +22702,6 @@
     "original": "Tyrion: That must be for the professors.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4016\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4017",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4017\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4018",
@@ -23937,7 +22725,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4021",
     "original": "Player: Necromancy on you",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4021\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4021\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4022",
@@ -23979,7 +22767,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4028",
     "original": "Player: Magic on the body",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4028\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4028\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4029",
@@ -24045,13 +22833,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4039",
     "original": "Player: Did you see something? (ARGUMENT)",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4039\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4039\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4040",
     "original": "Player: What did you see?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4040\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4040\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4041",
@@ -24117,7 +22905,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4051",
     "original": "Player: Wallace Nightgrave",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4051\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4051\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4052",
@@ -24195,7 +22983,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4064",
     "original": "Player: Catherine Bellwether",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4064\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4064\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4065",
@@ -24261,7 +23049,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4075",
     "original": "Player: Keeping your jobs",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4075\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4075\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4076",
@@ -24327,13 +23115,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4086",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4086\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4087",
-    "original": "Player: Tyrion Cuthbert|Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4087\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4086\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4088",
@@ -24352,12 +23134,6 @@
     "original": "It'd be best not to tell her that you plan on being Wallace's attorney.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4090\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4091",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4091\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4092",
@@ -24412,12 +23188,6 @@
     "original": "Valentina: N-[p/]No, thanks...[p/] I'm good.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4100\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4101",
-    "original": "Player: Wallace Chillgrave",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4101\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4102",
@@ -24492,12 +23262,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4113\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4114",
-    "original": "Player: Catherine Bellwether",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4114\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4115",
     "original": "TYRION: What can you tell me about Catherine Bellwether?",
     "translation": null,
@@ -24558,12 +23322,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4124\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4125",
-    "original": "Player: Theodore Redmond",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4125\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4126",
     "original": "Tyrion: What can you tell me about the headmaster?",
     "translation": null,
@@ -24600,12 +23358,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4131\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4132",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4132\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4133",
     "original": "Tyrion: What can you tell me about this, Ms. Ianus?",
     "translation": null,
@@ -24616,12 +23368,6 @@
     "original": "Valentina: S-[p/]Sorry...[p/] I don't have much to say about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4134\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4135",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4135\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4136",
@@ -25329,7 +24075,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4253",
     "original": "OK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValArgument_Fail-4253\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValArgument_Fail-4253\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4254",
@@ -25353,13 +24099,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4257",
     "original": "Yes",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4257\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4257\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4258",
     "original": "No",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4258\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4258\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4259",
@@ -25485,7 +24231,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4281",
     "original": "Threaten [d=\"You’ve already given your statement to the Inquisition. If the truth comes out, what do you think they’ll do when they realize you lied to them?\"/]",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4281\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4281\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4282",
@@ -25509,7 +24255,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4285",
     "original": "Appeal [d=\"My client is innocent. By withholding your testimony, you’re condemning him to a wrongful conviction.\"/]",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4285\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4285\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4286",
@@ -25551,7 +24297,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4292",
     "original": "Rationalize [d=\"You have nothing to lose by telling us what happened. I know that you’re not the murderer. I’ll make sure you’re protected.\"/]",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4292\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4292\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4293",
@@ -25734,12 +24480,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument6-4324\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4325",
-    "original": "Player: Books",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4325\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4326",
     "original": "Tyrion: The library is full of books for educational purposes.",
     "translation": null,
@@ -25824,12 +24564,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4339\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4340",
-    "original": "Player: Holy Text",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4340\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4341",
     "original": "Tyrion: It's a holy text from the Church of Bahamut.",
     "translation": null,
@@ -25878,12 +24612,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4348\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4349",
-    "original": "Player: Table",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4349\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4350",
     "original": "Tyrion: There are tables for students to sit at while they study.",
     "translation": null,
@@ -25894,12 +24622,6 @@
     "original": "Celeste: Ugh...[p/] I don't think I could handle studying here day after day.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4351\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4352",
-    "original": "Player: Globe",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4352\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4353",
@@ -25950,12 +24672,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4360\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4361",
-    "original": "Player: Notice",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4361\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4362",
     "original": "Tyrion: \"Due to constant misuse of the Arcane Constructs' voice systems,[p/] voice lines can now only be set by Headmaster Redmond.\".",
     "translation": null,
@@ -26002,12 +24718,6 @@
     "original": "Celeste: Eh...[p/] I can't blame them for wanting to let off some steam...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4369\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4370",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4370\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4371",
@@ -26133,7 +24843,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4391",
     "original": "Player: The Truth",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4391\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4391\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4392",
@@ -26553,13 +25263,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4461",
     "original": "Player: The Secret Witness (ARGUMENT)",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4461\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4461\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4462",
     "original": "Player: Any Leads?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4462\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4462\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4463",
@@ -26619,7 +25329,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4472",
     "original": "Player: The Other Witness",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4472\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4472\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4473",
@@ -26763,13 +25473,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4496",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4496\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4497",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4497\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4496\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4498",
@@ -26794,12 +25498,6 @@
     "original": "Aria: Clearly...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4501\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4502",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4502\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4503",
@@ -26874,12 +25572,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4514\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4515",
-    "original": "Player: Aria Steelwind|Steelwind’s Orders",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4515\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4516",
     "original": "Tyrion: I was surprised to see [i]you[/i] conducting the investigation, Steelwind.",
     "translation": null,
@@ -26916,12 +25608,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4521\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4522",
-    "original": "Player: Orym White",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4522\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4523",
     "original": "Aria: I can't believe Orym fell for such a simple trick.",
     "translation": null,
@@ -26956,12 +25642,6 @@
     "original": "Aria: ...He'd be a great asset if he'd just show a little initiative in his work.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4528\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4529",
-    "original": "Player: Catherine Bellwether|Bloodstain Under the Body (Case 2)|Bloodstain Under the Body (Case 2) 2",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4529\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4530",
@@ -27006,12 +25686,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4536\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4537",
-    "original": "Player: Valentina Ianus|Valerie Ianus|Who Discovered the Body?|Valentina's Magical Trace",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4537\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4538",
     "original": "Aria: I would have never guessed that one of the Ianus twins was a mage.",
     "translation": null,
@@ -27048,12 +25722,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4543\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4544",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4544\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4545",
     "original": "Tyrion: What do you think about this, Ms. Steelwind?",
     "translation": null,
@@ -27064,12 +25732,6 @@
     "original": "Aria: I'm sorry.[p/] But I'm afraid I can't say much about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4546\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4547",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4547\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4548",
@@ -27237,7 +25899,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4575",
     "original": "OK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-AriaArgument_Fail-4575\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-AriaArgument_Fail-4575\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4576",
@@ -27255,13 +25917,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4578",
     "original": "Yes",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4578\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4578\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4579",
     "original": "No",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4579\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4579\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4580",
@@ -27555,7 +26217,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4634",
     "original": "Threaten [d=\"If you don’t present what you found to the court, I’ll have no choice but to pull the “owner” of that locker onto the stand.\"/]",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4634\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4634\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4635",
@@ -27633,7 +26295,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4647",
     "original": "Appeal [d=\"You’re hiding evidence, Ms. Steelwind?! Do you not see how wrong that is?!\"/]",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4647\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4647\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4648",
@@ -27663,7 +26325,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4652",
     "original": "Rationalize [d=\"Let’s not be coy, Ms. Steelwind. Anyone can tell that the bloodstain is the most notable thing in that room.\"/]",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4652\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4652\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4653",
@@ -27747,7 +26409,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4666",
     "original": "Wallace Nightgrave",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4666\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4666\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4667",
@@ -27783,7 +26445,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4672",
     "original": "Miriam Frega",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4672\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4672\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4673",
@@ -27879,7 +26541,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4688",
     "original": "Jaiden von Sanctus",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4688\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4688\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4689",
@@ -27945,7 +26607,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4699",
     "original": "Warren Sibyl",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4699\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4699\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4700",
@@ -27981,7 +26643,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4705",
     "original": "Back",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4705\",\n  \"keywords\": [\n    \"对话选项\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4705\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4706",
@@ -28005,7 +26667,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4709",
     "original": "Player: The Headmaster",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4709\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4709\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4710",
@@ -28083,7 +26745,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4722",
     "original": "Player: Steelwind's Paranoia",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4722\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4722\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4723",
@@ -28221,7 +26883,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4745",
     "original": "Player: Possible Explanation",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4745\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4745\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4746",
@@ -28341,7 +27003,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4765",
     "original": "Player: The Secret Witness",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4765\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4765\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4766",
@@ -28413,13 +27075,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4777",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4777\",\n  \"keywords\": [\n    \"对话选项\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4778",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4778\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Talk_Lockers-4777\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4779",
@@ -28444,12 +27100,6 @@
     "original": "Tyrion: Thanks...[p/] I think?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4782\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4783",
-    "original": "Player: Celeste McCoy",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4783\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4784",
@@ -28518,12 +27168,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4794\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4795",
-    "original": "Player: Aria Steelwind|Steelwind's Uneasiness|Steelwind’s Orders",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4795\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4796",
     "original": "Orym: Man...[p/] Steelwind's really wound up today.",
     "translation": null,
@@ -28552,12 +27196,6 @@
     "original": "Orym: Or at least not [i]this[/i] much.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4800\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4801",
-    "original": "Player: Eris Illmater",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4801\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4802",
@@ -28602,12 +27240,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4808\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4809",
-    "original": "Player: Wallace Chillgrave|Autopsy Report: Catherine Bellwether",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4809\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4810",
     "original": "Orym: Look, kid...[p/] I know you always \"believe in your clients\" and all, but...",
     "translation": null,
@@ -28650,12 +27282,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4816\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4817",
-    "original": "Player: The Academy Lockdown System",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4817\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4818",
     "original": "Tyrion: Was there really no way for you to breach the academy during the lockdown?",
     "translation": null,
@@ -28686,12 +27312,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4822\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4823",
-    "original": "Player: Valentina Ianus|Valerie Ianus|Valentina's Magical Trace",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4823\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4824",
     "original": "Orym: Ugh...[p/] Those twins really screwed me over with what they did.",
     "translation": null,
@@ -28714,12 +27334,6 @@
     "original": "Tyrion: Twins are such a rare occurrence.[p/] I doubt even the Inquisition has dealt with that before.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4827\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4828",
-    "original": "Player: The Big Four",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4828\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4829",
@@ -28770,12 +27384,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4836\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-145-4837",
-    "original": "Player: Default",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4837\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-145-4838",
     "original": "Tyrion: What do you think about this, Commander White?",
     "translation": null,
@@ -28786,12 +27394,6 @@
     "original": "Orym: Sorry, kid.[p/] I don't have much to say about that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4839\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-4840",
-    "original": "Player: Back",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Present_Lockers-4840\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4841",

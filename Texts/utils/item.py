@@ -101,3 +101,22 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
     ret[file] = data
 
     return ret
+
+
+def GetItems(in_root: Path) -> List[str]:
+    file = in_root / "ItemLibrary-level0-603.json"
+
+    with open(file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    ret = []
+    for _, item_container in enumerate(data['items']["Array"]):
+        item_container_name = item_container["name"]
+
+        if item_container_name == "Test": continue
+
+        for idx, item in enumerate(item_container["itemList"]["Array"]):
+            # Key, do not translate
+            name = item["name"]
+            ret.append(name)
+    return ret

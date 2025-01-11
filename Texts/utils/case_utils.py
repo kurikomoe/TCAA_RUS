@@ -105,12 +105,34 @@ def CheckCmd(inst: pb.Instruction, cmd: str) -> bool:
 def IsSetDeductionField(inst: pb.Instruction) -> bool:
     return CheckCmd(inst, "SetDeductionField")
 
-def IsAnyPrompt(inst: pb.Instruction) -> bool:
-    return CheckCmd(inst, "PresentPrompt") \
-        or CheckCmd(inst, "InterpretPrompt")
+# def IsAnyPrompt(inst: pb.Instruction) -> bool:
+#     return CheckCmd(inst, "PresentPrompt") \
+#         or CheckCmd(inst, "InterpretPrompt")
 
-def isLoadTalk(inst: pb.Instruction) -> bool:
-    return CheckCmd(inst, "LoadTalk")
+# def isLoadTalk(inst: pb.Instruction) -> bool:
+#     return CheckCmd(inst, "LoadTalk")
+
+def isRunCommand(inst: pb.Instruction) -> Tuple[bool, str] | None:
+    ignored_cmds = [
+        "PresentPrompt",
+        "InterpretPrompt",
+        "LoadPresent",
+        "Examine",
+        "Testimony",
+        "Move",
+    ]
+    cmds = [
+        "LoadTalk",
+        "Confirmation",
+        "ElocutionPrompt",
+    ]
+    for cmd in cmds:
+        if CheckCmd(inst, cmd):
+            return False, cmd
+    for ignored_cmd in ignored_cmds:
+        if CheckCmd(inst, ignored_cmd):
+            return True, ignored_cmd
+    return None
 
 def IsShowOptions(inst: pb.Instruction) -> bool:
     return inst.opcode == pb.Instruction.SHOW_OPTIONS
@@ -146,11 +168,19 @@ class DeductionGroup:
     finals: List[str] = field(default_factory=list)
 
 @dataclass
+class RunCommandInfo:
+    ignored: bool
+    cmd: str
+    inst: str
+
+@dataclass
 class SpecialCase:
     options: List[str] = field(default_factory=list)
-    any_prompt: List[str] = field(default_factory=list)  # These translations should not be included
 
-    load_talk: List[str] = field(default_factory=list)  # These translations should not be included
+    run_command_option: List[str] = field(default_factory=list)  # These translations should not be included
+
+    # ignored, cmd, inst
+    run_command_option_type: List[RunCommandInfo] = field(default_factory=list)  # These translations should not be included
 
     deduction: Dict[str, DeductionGroup] = field(default_factory=dict)
 
@@ -190,27 +220,21 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
 
     # Process present_prompt
     for node_name, node in program.nodes.items():
-        FLAG_AnyPrompt = False
+        Flag_RunCommand = None
         for inst_idx, inst in enumerate(node.instructions):
-            if IsAnyPrompt(inst):
-                FLAG_AnyPrompt = True
+            if (ret := isRunCommand(inst)):
+                ignored, cmd = ret
+                Flag_RunCommand = RunCommandInfo(
+                    ignored=ignored,
+                    cmd=cmd,
+                    inst=str(inst).replace("\n", " "),
+                )
             elif (text_id := ExtractAddOption(inst)):
-                if FLAG_AnyPrompt:
-                    sp_case.any_prompt.append(text_id)
+                if Flag_RunCommand:
+                    sp_case.run_command_option.append(text_id)
+                    sp_case.run_command_option_type.append(Flag_RunCommand)
             elif IsShowOptions(inst):
-                FLAG_AnyPrompt = False
-
-    # Process LoadTalk
-    for node_name, node in program.nodes.items():
-        FLAG_LoadTalk = False
-        for inst_idx, inst in enumerate(node.instructions):
-            if isLoadTalk(inst):
-                FLAG_LoadTalk = True
-            elif (text_id := ExtractAddOption(inst)):
-                if FLAG_LoadTalk:
-                    sp_case.load_talk.append(text_id)
-            elif IsShowOptions(inst):
-                FLAG_LoadTalk = False
+                Flag_RunCommand = None
 
     # process deduction
     ## Phase 1: Check Deduction Target Nodes
@@ -249,8 +273,5 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
             if (text_id := ExtractAddOption(inst)):
                 if FLAG_IsDeductionTargetNode:
                     sp_case.deduction[node_name].finals.append(text_id)
-
-            elif IsShowOptions(inst):
-                FLAG_AnyPrompt = False
 
     return sp_case

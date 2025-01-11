@@ -5,7 +5,8 @@ from typing import Any, Dict, List
 from . import GetParazAcc, Paratranz
 from . import yarn_spinner_pb2 as pb
 from .case_utils import (DeductionGroup, GetSpecialCase, ParseProtoFromCase,
-                         SpecialCase)
+                         RunCommandInfo, SpecialCase)
+from .item import GetItems
 
 
 def Key(*args) -> str:
@@ -50,6 +51,8 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
     serifu_path = in_root / "serifu"
 
+    item_list = GetItems(in_root)
+
     for serifu_file in serifu_path.glob("Default (en-US)*.json"):
         with open(serifu_file, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -70,15 +73,30 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
             keywords: List[Any] = []
 
-            if line_id in sp_case.load_talk:
-                keywords.append("对话选项")
-            elif line_id in sp_case.options:
+            if line_id in sp_case.options:
                 keywords.append("选项文本")
 
-            if line_id in sp_case.any_prompt:
-                keywords.append("证据选择对象文本")
-                print(f"Ignore 证据选择文本: {line}")
-                continue  # directly ignores
+            try:
+                if (idx2 := sp_case.run_command_option.index(line_id)):
+                    info: RunCommandInfo = sp_case.run_command_option_type[idx2]
+                    if not info.ignored:
+                        # NOTE(Kuriko): Backward commpatitable
+                        if info.cmd == "LoadTalk":
+                            keywords.append("对话选项")
+
+                        keywords.append({
+                            "类型": info.cmd,
+                            "指令": info.inst,
+                        })
+                    else:
+                        print(f"Ignore {info.cmd}: {line}")
+                        continue
+
+                    for item in item_list:
+                        if item in line:
+                            keywords.append(f"疑似物品： {item}")
+            except ValueError:
+                pass
 
             if (deduction := SearchInDeduction(line_id, sp_case)):
                 keywords.append({
@@ -136,13 +154,18 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         paraz_acc = GetParazAcc(paraz_file)
 
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
-            if line_id in sp_case.any_prompt:
-                print(f"Ignore 证据选择文本: {line}")
-                continue  # directly ignores
+            try:
+                if (idx2 := sp_case.run_command_option.index(line_id)):
+                    info: RunCommandInfo = sp_case.run_command_option_type[idx2]
+                    if info.ignored:
+                        print(f"Ignore {info.cmd}: {line}")
+                        continue
+            except ValueError:
+                pass
 
             def getter(tag, key=None, data=lines, name=stem, idx=idx):
                 key = key if key else Key(name, idx)
-                assert key in paraz_acc, key
+                assert key in paraz_acc, (key, data[tag])
                 paraz_data = paraz_acc[key]
                 assert data[tag] == paraz_data.original, \
                     f"Mismatch:\n{data[tag]}\n{paraz_data.original}\nFile: {serifu_file}\nTranz: {paraz_file}"
