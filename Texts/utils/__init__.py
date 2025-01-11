@@ -18,6 +18,8 @@ class Paratranz(BaseModel):
 
 
 def fix_slash_n(s: str) -> str:
+    s = s.replace("\\u200B", "\u200B")
+    s = s.replace("\\u200b", "\u200b")
     s = s.replace("\\n", "\n")
     s = s.replace("$r", "\r")
     s = s.replace("$n", "\n")

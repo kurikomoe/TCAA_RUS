@@ -7,8 +7,15 @@ from typing import Dict, List
 
 from . import GetParazAcc, Paratranz, kquote
 from . import yarn_spinner_pb2 as pb
-from .case_utils import Key, ParseProtoFromCase, commands, extractor, importer
+from .case_utils import (CheckCmd, GetOpXAsString, Key, ParseProtoFromCase,
+                         commands, extractor, importer)
 
+
+def Key_psychComplete(*args) -> str:
+    case_name = args[0]
+    node_name = args[1]
+    tag = args[2]
+    return f"{case_name}-{node_name}-psychComplete-{tag}"
 
 def File(*args) -> Path:
     case_name = args[0]
@@ -18,6 +25,8 @@ def File(*args) -> Path:
 def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
     proto_bin_path = in_root / "case"
 
+    psychComplete_name_set = set()
+
     ret = {}
     for proto_json in proto_bin_path.glob("Case *.json"):
         case_name = proto_json.name
@@ -26,7 +35,25 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
         tmp: List[Paratranz] = []
         for node_name, node in program.nodes.items():
+            last_insts = []
             for inst_idx, inst in enumerate(node.instructions):
+                # Process the psychComplete
+                last_insts.append(inst)
+                if len(last_insts) > 5: last_insts.pop(0)
+
+                if CheckCmd(inst, "psychComplete"):
+                    name_inst = last_insts[-3]
+                    assert name_inst.opcode == pb.Instruction.PUSH_STRING, name_inst
+                    name = GetOpXAsString(name_inst, 0)
+
+                    if name not in psychComplete_name_set:
+                        psychComplete_name_set.add(name)
+                        tmp.append(Paratranz(
+                            key=Key_psychComplete(case_name, node_name, name),
+                            original=name,
+                        ))
+
+
                 if inst.opcode != pb.Instruction.RUN_COMMAND:
                     continue
 
@@ -102,7 +129,23 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         paraz_acc = GetParazAcc(paraz_file)
 
         for node_name, node in program.nodes.items():
+            pass
+
             for inst_idx, inst in enumerate(node.instructions):
+                # Process the psychComplete
+                # last_insts.append(inst)
+                # if len(last_insts) > 5: last_insts.pop(0)
+
+                # if CheckCmd(inst, "psychComplete"):
+                #     name_inst = last_insts[-3]
+                #     assert name_inst.opcode == pb.Instruction.PUSH_STRING, name_inst
+                #     name = GetOpXAsString(name_inst, 0)
+
+                #     key_name = Key_psychComplete(case_name, node_name, name)
+                #     assert key_name in paraz_acc, key_name
+                #     assert name_inst.operands[0].string_value == paraz_acc[key_name].original
+                #     name_inst.operands[0].string_value = paraz_acc[key_name].translation
+
                 if inst.opcode != pb.Instruction.RUN_COMMAND:  #type: ignore[attr-defined]
                     continue
 

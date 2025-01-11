@@ -89,7 +89,10 @@ def GetCmdOpXString(inst: pb.Instruction, idx: int) -> str:
 
 
 def CheckCmd(inst: pb.Instruction, cmd: str) -> bool:
-    if inst.opcode != pb.Instruction.RUN_COMMAND:
+    if inst.opcode not in [
+        pb.Instruction.RUN_COMMAND,
+        pb.Instruction.CALL_FUNC,
+    ]:
         return False
 
     if len(inst.operands) == 0:
@@ -235,6 +238,18 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
                     sp_case.run_command_option_type.append(Flag_RunCommand)
             elif IsShowOptions(inst):
                 Flag_RunCommand = None
+
+    # Process psychComplete
+    for node_name, node in program.nodes.items():
+        last_insts = []
+        for inst_idx, inst in enumerate(node.instructions):
+            last_insts.append(inst)
+            if len(last_insts) > 5: last_insts.pop(0)
+
+            if CheckCmd(inst, "psychComplete"):
+                name_inst = last_insts[-3]
+                assert name_inst.opcode == pb.Instruction.PUSH_STRING, name_inst
+                GetOpXAsString(name_inst, 0)
 
     # process deduction
     ## Phase 1: Check Deduction Target Nodes
