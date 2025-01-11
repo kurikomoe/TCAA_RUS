@@ -3040,7 +3040,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-449",
     "original": "Justin: H-[p/][s/]Holy crap![p/][s/] Pull me up!",
-    "translation": "Justin: 我的、[p/][s/]我的妈！[p/][s/]把我拉上去！",
+    "translation": "Justin: 我的、[p/][s/]我的妈！[p/][s/]快把我拉上去！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-449\",\n  \"keywords\": []\n}"
   },
@@ -11321,7 +11321,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1746",
     "original": "Tyrion: So,[p/] you must have used an object attuned to your magic to communicate with it.",
-    "translation": "提利昂：所以，[p/]你一定用了一个和你的魔法有共鸣的物品来和它交流。",
+    "translation": "提利昂：所以，[p/]你一定用了一个绑定了你的魔法的物品来和它交流。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1746\",\n  \"keywords\": []\n}"
   },
@@ -11342,7 +11342,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1749",
     "original": "Aria: The Inquisition has [b]divination[/b] magic.[p/] And they can use it to detect if an object is attuned to a specific mage.",
-    "translation": "Aria: 裁判所有[b]占卜术[/b]魔法。[p/]他们可以用它来检测一个物品是否和特定的法师有共鸣。",
+    "translation": "Aria: 裁判所有[b]占卜术[/b]魔法。[p/]他们可以用它来检测一个物品是否和特定的法师互相绑定。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1749\",\n  \"keywords\": []\n}"
   },
@@ -11370,260 +11370,260 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1753",
     "original": "Tyrion: Let's look at things from your perspective.[p/] Why would you do the things that you did that day?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 让我们从你的角度考虑一下。[p/]你那天为什么要那么做？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1753\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1754",
     "original": "Tyrion: Knowing [i]that[/i] will point us to where you ultimately hid the Construct.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你明明知道<u>那</u>会指引我们找到你最终藏匿构造体的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1754\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1755",
     "original": "Lloyd: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1755\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1756",
     "original": "Tyrion: Your intention was to sabotage the refinery without anyone finding out what you did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你的目的是在不被任何人发现的情况下，破坏炼油厂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1756\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1757",
     "original": "Tyrion: So how would you dispose of the Construct [i]and[/i] the attuned item?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以你会怎么处理构造体<u>和</u>被绑定的物体？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1757\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1758",
     "original": "He needed to hide and/or destroy it so that no one would be able to find it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他需要藏匿并且/或者破坏那个物体，这样才没有人能发现。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1758\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1759",
     "original": "...",
-    "translation": "",
-    "stage": 0,
+    "translation": "……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1759\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1760",
     "original": "Wait...[p/][s/] \"destroy\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "等等……[p/][s/]“破坏”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce2-1760\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1763",
     "original": "No...[p/] Von Sanctus needed a surefire way to dispose of the evidence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]冯·桑克图斯需要一个万无一失的方法来处理证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce3-1763\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1764",
     "original": "And to do that he'd either need to destroy it or hide it somewhere that no one would find it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "为了做到这一点，他要么销毁证据，要么把它藏在一个没人能找到的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce3-1764\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1765",
     "original": "Is there anything he could have used to destroy or hide the evidence?",
-    "translation": "",
-    "stage": 0,
+    "translation": "有什么东西他能用来销毁或隐藏证据吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce3-1765\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1766",
     "original": "Tyrion: You used the vat of volatile liquid!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你用了那桶易燃液体！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1766\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1767",
     "original": "Lloyd: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1767\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1768",
     "original": "You suppose that makes sense.[p/] You found the remnants of the Rod of Mending in there too...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你猜这说得通。[p/]你也在里面发现了修复之杖的残余部分……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1768\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1769",
     "original": "Celeste: ...But wouldn't that mean that the object is fully dissolved?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……但这不就意味着那个物品已经完全溶解了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1769\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1770",
     "original": "Lloyd: ...Exactly.[p/] There would be no physical evidence for you to find.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……正是如此。[p/]你可找不到任何物证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1770\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1771",
     "original": "Tyrion: That's not necessarily true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这可不一定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1771\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1772",
     "original": "Tyrion: You threw the Rod of Mending into the vat.[p/] And [i]that[/i] didn't fully dissolve.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你把修复之杖扔进了桶里，[p/]而<u>它</u>没有完全溶解掉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1772\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1773",
     "original": "Lloyd: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1773\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1774",
     "original": "Tyrion: The workers neutralized the liquid immediately after Justin fell into the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 在贾斯汀掉进桶里后，工人们迅速中和了液体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1774\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1775",
     "original": "Lloyd: What?![p/][s/] Neutralizing that liquid would have rendered it unsalvageable and useless!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 什么？！[p/][s/]中和那种液体就会让它变得一文不值！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1775\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1776",
     "original": "Lloyd: Doing that would have cost Dracogen a small fortune!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 那么做会让德拉科根损失一大笔钱！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1776\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1777",
     "original": "Tyrion: Unlike you, von Sanctus,[p/] my client values the lives of his workers over his profits.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 和你不同，冯·桑克图斯，[p/]我的委托人更看重工人的生命，而不是利润。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1777\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1778",
     "original": "Tyrion: And because of that,[p/] the Inquisition was able to find pieces of bone matter and metal within the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 正因为如此，[p/]裁判所才能在桶里找到骨头和金属的碎片。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1778\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1779",
     "original": "...Wait.[p/] The Rod didn't fully dissolve...",
-    "translation": "",
-    "stage": 0,
+    "translation": "……等等。[p/]修复之杖没有完全溶解……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1779\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1780",
     "original": "This means that it was thrown into the vat around the same time that Justin fell into it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这意味着它几乎是和贾斯汀同时掉进桶里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1780\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1781",
     "original": "Tyrion: ...You wouldn't have thrown the Rod into the vat until [i]after[/i] you were done with your sabotage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你是在破坏行为结束<u>后</u>，才把修复之杖扔进桶里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1781\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1782",
     "original": "Tyrion: And if you wanted to destroy the Rod,[p/] you would have destroyed [i]all[/i] of the evidence that you needed to get rid of.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而且如果你想毁掉修复之杖，[p/]你就会把<u>所有</u>需要销毁的证据都毁掉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1782\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1783",
     "original": "Is there anything else that von Sanctus would have needed to get rid of?",
-    "translation": "",
-    "stage": 0,
+    "translation": "还有什么冯·桑克图斯要销毁掉的东西吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce4-1783\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1786",
     "original": "No...[p/] Von Sanctus would have wanted to get rid of any evidence that would have incriminated him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]冯·桑克图斯会想把任何能给他定罪的证据都销毁掉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce5-1786\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1787",
     "original": "What was the last thing that might have connected Von Sanctus to the sabotage?",
-    "translation": "",
-    "stage": 0,
+    "translation": "还有什么可能把冯·桑克图斯和破坏行为联系起来？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce5-1787\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1788",
     "original": "Tyrion: You would have also destroyed the Arcane Construct itself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你应该也把奥术构造体销毁了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1788\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1789",
     "original": "Lloyd: T-[p/][s/]That's ridiculous![p/][s/] I-[p/]I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 这、[p/][s/]这太荒唐了！[p/][s/]我、[p/]我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1789\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1790",
     "original": "Lloyd: Lady Steelwind![p/][s/] Why aren't you-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 斯蒂尔文德女士！[p/][s/]为什么你不——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1790\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1791",
     "original": "Aria: ...I told you before, didn't I?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……我之前跟你说过，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1791\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1792",
     "original": "Aria: I will defend you to the best of my ability.[p/] But I will not fabricate an alibi for you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我会尽我所能地辩护。[p/]但我不会为你伪造不在场证明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1792\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1793",
     "original": "Tyrion: You must have ordered the Construct to throw [i]itself[/i] into the vat to hide any traces of your sabotage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你一定是命令构造体把<u>它自己</u>扔进桶里，来掩盖你破坏行为的魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1793\",\n  \"keywords\": []\n}"
   },
   {
@@ -11636,533 +11636,533 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1795",
     "original": "A machine resembling a human threw itself into the vat...",
-    "translation": "",
-    "stage": 0,
+    "translation": "一个像人类一样的机器把自己扔进了桶里……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1795\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1796",
     "original": "... This means that anyone looking at the walkway would have seen this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "……这意味着任何看着走道的人都会见到这一幕！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1796\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1797",
     "original": "Tyrion: That's it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就是这样！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1797\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1798",
     "original": "Tyrion: The [i]Arcane Construct[/i] was the second \"person\" that Aster and Morrison saw fall into the vat!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那个<u>奥术构造体</u>就是阿斯特和莫里森看到掉进桶里的第二个“人”！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1798\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1799",
     "original": "Tyrion: [i]That's[/i] why we didn't find organic matter from anyone other than Justin in there!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: <u>这就是</u>为什么我们没在里面找到除了贾斯汀之外其他来自于人身上的有机物质！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1799\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1800",
     "original": "Tyrion: The second \"body\" that Aster and Morrison saw was actually an Arcane Construct!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 阿斯特和莫里森看到的第二个“身体”其实是一个奥术构造体！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1800\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1801",
     "original": "Lloyd: H-[p/][s/]How are you...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你、[p/][s/]你是怎么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1801\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1802",
     "original": "Tyrion: Wait...[p/] Rika was sure that she saw Justin fall off of the walkway.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/]里卡很肯定她看见贾斯汀掉下了走道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1802\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1803",
     "original": "Tyrion: After she notified Aster and Morrison,[p/] they saw the Construct break the guard rail and fall into the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 在她注意到阿斯特和莫里森后，[p/]他们看见构造体破坏护栏，掉进了桶里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1803\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1804",
     "original": "Tyrion: Wouldn't that mean that the Construct disposed of itself [i]after[/i] Justin Waye fell off of the walkway...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那是不是意味着构造体是在贾斯汀·维耶从走道上掉下去<u>之后</u>再处理自己的……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1804\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1805",
     "original": "Tyrion: Why would you order it to do that...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你为什么要命令它那么做……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1805\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1806",
     "original": "Lloyd: B-[p/][s/]Because it never happened!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 因、[p/][s/]因为这一切根本就没发生过！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1806\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1807",
     "original": "Lloyd: Your logic is flawed!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你的逻辑有问题！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1807\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1808",
     "original": "He's getting stressed out...[p/] Maybe you should try using the Empowered Eye.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他开始紧张了……[p/]或许你应该试试使用强化之眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1808\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1809",
     "original": "...No.[p/] You don't need it this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……不。[p/]你现在还不需要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1809\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1810",
     "original": "You're so close to figuring this out.[p/] You can feel it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你马上就能弄明白这件事了。[p/]你能感觉到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1810\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1811",
     "original": "So, think.[p/] If he was observing the Construct using magic,[p/] he must have seen Justin fall.",
-    "translation": "",
-    "stage": 0,
+    "translation": "所以，好好想一想。[p/]如果他用魔法看着构造体，[p/]他就一定看到了贾斯汀掉下去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1811\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1812",
     "original": "And for some reason,[p/] he reacted by sabotaging the guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "而出于某种原因，[p/]他的反应是破坏护栏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1812\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1813",
     "original": "Why would he ignore seeing that happen?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他为什么会对看到的这一幕视而不见呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1813\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1814",
     "original": "...Unless he did all of this [i]because[/i] he saw Justin fall.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……除非他做这一切都是<u>因为</u>他看到贾斯汀掉下去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce6-1814\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1817",
     "original": "No...[p/] Von Sanctus saw Justin fall off of the walkway.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]冯·桑克图斯看到贾斯汀从走道上掉下去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce7-1817\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1818",
     "original": "And instead of running away,[p/] he ordered the Construct to sabotage and break the guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但他没有逃跑，[p/]而是命令构造体去破坏栏杆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce7-1818\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1819",
     "original": "Why would he do something like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他为什么要做那种事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce7-1819\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1820",
     "original": "Tyrion: ...It's because you [i]wanted[/i] it to look like an accident.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这是因为你<u>想</u>让这件事看起来像一场事故。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1820\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1821",
     "original": "Tyrion: Which means that it [i]wasn't[/i] actually an accident.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也就是说这实际上<u>不是</u>事故。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1821\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1822",
     "original": "Lloyd: O-[p/][s/]Oh,[p/][s/] now you're accusing me of [i]intentionally[/i] murdering the victim?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 噢、[p/][s/]噢，[p/][s/]现在你又指控我是<u>故意</u>谋杀受害者的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1822\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1823",
     "original": "Lloyd: Why would I [i]ever[/i] do that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 我<u>怎么可能</u>那么做呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1823\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1824",
     "original": "Lloyd: You said it yourself![p/][s/] My goal was sabotage!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你自己说过了！[p/][s/]我的目标是搞破坏！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1824\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1825",
     "original": "Lloyd: Committing murder would have brought unnecessary attention to what I'd done.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 犯下谋杀罪会给我做的事招来不必要的关注。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1825\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1826",
     "original": "Tyrion: But those Constructs [i]do[/i] have a habit of shoving people that are in their way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但那些构造体<u>确实</u>有把挡路的人推开的习惯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1826\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1827",
     "original": "Tyrion: What if the Construct pushed Justin out of the way,[p/] causing him to fall over the edge of the guard rail?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 要是构造体把挡路的贾斯汀推开，[p/]导致他从护栏边上掉下去呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1827\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1828",
     "original": "Lloyd: ... [mind=\"He's figuring out <i>everything</i> that happened from just a few clues?!\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……[mind=\"就依据这么点线索他就能搞清楚<u>所有事</u>？！\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8-1828\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1829",
     "original": "Justin: H-[p/][s/]Hey![p/] I didn't see you there...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 嘿、[p/][s/]嘿！[p/]我没看到你在那……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1829\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1830",
     "original": "Justin: I was just...[p/] Uh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 我只是……[p/]呃……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1830\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1831",
     "original": "Lloyd: Just walk past him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 从他身边走过去就是的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1831\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1832",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "",
-    "stage": 0,
+    "translation": "<size=1.5em>遵命。</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1832\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1833",
     "original": "Justin: W-[p/]What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 什、[p/]什么……?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1834",
     "original": "Justin: H-[p/][s/]Hey![p/][s/] Watch it![p/][s/] Quit shoving me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 嘿、[p/][s/]嘿！[p/][s/]小心！[p/][s/]不要再推我了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1835",
     "original": "Justin: Wait![p/][s/] Whoa!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 等等！[p/][s/]喔！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1836",
     "original": "Justin: H-[p/][s/]Holy crap![p/][s/] Pull me up!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 我的、[p/][s/]我的妈！[p/][s/]快把我拉上去！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1837",
     "original": "Justin: I can't hold on for much longer!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 我要坚持不住了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1838",
     "original": "Lloyd: Agh![p/] You idiot![p/][s/] What are you doing?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 啊！[p/]你个蠢蛋！[p/][s/]你在干什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1838\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1839",
     "original": "Justin: W-what...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 什、什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1840",
     "original": "Lloyd: Grab his arm and pull him up!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 抓住他的手把他拉起来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1841",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "",
-    "stage": 0,
+    "translation": "<size=1.5em>遵命。</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1841\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1842",
     "original": "Justin: AGGGGGH![p/][s/] My hand!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 啊啊啊！[p/][s/]我的手！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1842\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1843",
     "original": "Justin: What the hell are you doing?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 你到底在搞什么鬼！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1844",
     "original": "Lloyd: Your grip is too tight![p/] Stop that!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你抓得太紧了！[p/]停！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1845",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "",
-    "stage": 0,
+    "translation": "<size=1.5em>遵命。</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1845\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1846",
     "original": "Justin: AGGGGGGGGGH!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Justin: 啊啊啊啊啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1846\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1847",
     "original": "Lloyd: W-[p/]Wait![p/] I can still-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 等、[p/]等等！[p/]我还能-！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1848",
     "original": "Tyrion: It [i]may[/i] have been unintentional...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 它<u>可能</u>不是故意的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1848\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1849",
     "original": "Tyrion: But either way...[p/] you [i]would[/i] have been at fault for Justin's death, [i]not[/i] my client.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但是不论如何，[p/]<u>应该是</u>你为贾斯汀的死负责，<u>而不是</u>我的委托人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1849\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1850",
     "original": "Tyrion: And if the Construct fell in [i]after[/i] Justin,[p/][s/] your attuned object must be somewhere in the neutralized liquid!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而且既然构造体是在贾斯汀<u>之后</u>掉下去的，[p/][s/]你绑定的物体应该就在中和后的液体里！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1851",
     "original": "Tyrion: No...[p/] It's even better than that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不……[p/]可能情况比那还要好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1851\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1852",
     "original": "Tyrion: Constructs are made from a specific magical alloy, aren't they?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 构造体是由特定的魔法合金制成的，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1852\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1853",
     "original": "Lloyd: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1854",
     "original": "Tyrion: I'm sure with a few [b]divination[/b] spells we can identify the metal shards from the Construct [i]and[/i] your arcane focus!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很确定用几个[b]占卜术[b]，我们就能识别出构造体的金属碎片<u>和</u>你的奥术焦点！\\n",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1854\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1855",
     "original": "Tyrion: Each and every one of those pieces of evidence points directly at you, von Sanctus!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 每一份证据都径直指向你，冯·桑克图斯！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1855\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1856",
     "original": "Lloyd: ...You [i]petulant[/i] little upstart!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……你这个<u>不知好歹</u>的自以为是鬼！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1856\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1857",
     "original": "Tyrion: ...And that's checkmate, von Sanctus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这就是将军，冯·桑克图斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end1-1857\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1858",
     "original": "Tyrion: Why don't you save us all a little time, von Sanctus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你不妨节约一点我们的时间，冯·桑克图斯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1858\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1859",
     "original": "Tyrion: Admit to what you did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 承认你做的事吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1860",
     "original": "Tyrion: And while you're at it,[p/] drop your false allegations against my client.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这么做的同时，[p/]也撤销对我的委托人的虚假指控。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1861",
     "original": "Lloyd: ...I have nothing to admit to.[p/] Nor do I have anything to apologize for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……我没什么好承认的，[p/]也没有任何要负责任的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1861\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1862",
     "original": "Tyrion: Of course, not.[p/] You're [i]completely[/i] blameless, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 当然没有了。[p/]你是<u>完全</u>无辜的，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1863",
     "original": "Lloyd: Do you think you've achieved victory here today?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你以为你今天在这里胜利了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1864",
     "original": "Lloyd: No...[p/] Dissidents like you and Dracogen are absolutely deluded.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 不……[p/]像你和德拉科根这样的异端分子完全是在妄想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1865",
     "original": "Lloyd: Each and every breath you take only throws Wyverngarde further into chaos.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你们的每一次呼吸都只会让维文加德更加混乱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1865\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1866",
     "original": "Aria: You talk about these \"commoners\" as if they have even a fraction of the power that you have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你谈起这些“平民”就好像他们有你十分之一的力量一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1867",
     "original": "Lloyd: Lady Steelwind![p/][s/] You need to see reason!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 斯蒂尔文德女士！[p/][s/]你得明白事理！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1867\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1868",
     "original": "Lloyd: [i]They[/i] lack awareness of the power they truly have!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: <u>他们</u>根本不知道自己真正拥有多大的力量！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1869",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1869\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1870",
     "original": "Lloyd: These people have [i]infected[/i] you and His Majesty with these idealistic delusions!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 这些人用这些理想主义的妄想<u>感染</u>了你和陛下！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1870\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1871",
     "original": "Lloyd: I implore you...[p/][s/] I implore [i]both[/i] of you to see reality for what it is!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 我恳求你……[p/][s/]我恳求<u>你们俩</u>看清现实的真相！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1871\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1872",
     "original": "Tyrion: No, von Sanctus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不，冯·桑克图斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-end2-1872\",\n  \"keywords\": []\n}"
   },
   {
