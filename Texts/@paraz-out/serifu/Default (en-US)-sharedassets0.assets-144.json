@@ -13618,7 +13618,7 @@
     "key": "Default (en-US)-sharedassets0.assets-144-2067",
     "original": "Orym: ...",
     "translation": "Orym: ^",
-    "stage": 5,
+    "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2067\",\n  \"keywords\": []\n}"
   },
   {
@@ -19717,5 +19717,243 @@
     "translation": "Player: 返回",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2956\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1937",
+    "original": "Orym: It’s true that the sword itself isn’t magical.[p/] But magic can still be channeled through it.",
+    "translation": "Orym: 那把剑本身确实没有魔法属性，[p/]但是魔法依然可以被附在上面。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1937\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1941",
+    "original": "Orym: That defendant over there? [p/] Her [b]Spell Compendium[/b] has a spell called “[b]Mage Blade[/b]”.",
+    "translation": "Orym: 被告的[b]法术汇编[/b]证实，她会一种叫做“[b]法术剑刃[/b]”的法术。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1941\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1952",
+    "original": "Orym: She must have used it on her sword [i]before[/i] stabbing the victim.",
+    "translation": "Orym: 她一定在刺杀受害者<u>之前</u>用了这个法术给剑附魔。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1952\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1963",
+    "original": "Orym: [i]That[/i] spell is the reason why there were traces of [b]Transmutation[/b] magic on the wound.",
+    "translation": "Orym: 这就是伤口上有[b]形变术[/b]痕迹的原因。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1963\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1986",
+    "original": "Orym: You can see it right in this photo. She killed him with a stab from the front.",
+    "translation": "Orym: 如图片所示，她从正面一刀捅死了他。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1986\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1989",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1989\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-1993",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1993\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2225",
+    "original": "Orym: We got a call late at night. Someone discovered a dead body inside the McCoy Tavern.",
+    "translation": "Orym: 我们深夜时分接到报警。[p/]有人在麦考伊酒馆内发现了一具尸体。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2225\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2232",
+    "original": "Orym: When we arrived on the scene,[p/] we found Flinhart McCoy dead on the floor. The defendant’s sword was still inside of him.",
+    "translation": "Orym: 当我们赶到现场时，[p/]我们发现了地板上已经死亡的弗林哈特·麦考伊。[p/]被告的剑仍插在受害者的身上。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2232\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2242",
+    "original": "Orym: We have several witnesses who heard the victim and defendant in a loud argument before the body was discovered.",
+    "translation": "Orym: 尸体被发现之前，有几个证人听到了受害者与被告的激烈争吵。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2242\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2251",
+    "original": "Orym: Their argument must have turned ugly.[p/] Because the defendant killed the victim using her magic sword.",
+    "translation": "Orym: 他们的争吵十分激烈，以至于被告用她的魔法剑杀害了受害者。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2251\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2259",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2259\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2265",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2265\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2371",
+    "original": "Rhys: I was transporting a client in my carriage that evening.",
+    "translation": "Rhys: 那晚我正载着一位客人。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2371\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2383",
+    "original": "Rhys: We were driving by the McCoy Tavern when we heard a disturbance.[p/] This occurred at 1:28 am.",
+    "translation": "Rhys: 我们路过麦考伊的酒馆时听到了一阵骚乱，[p/]当时是凌晨 1:28。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2383\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2389",
+    "original": "Rhys: Worried that something was amiss,[p/] I walked into the establishment to see what the commotion was about.",
+    "translation": "Rhys: 由于担心会出什么事，[p/]我走进了酒馆一探究竟。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2389\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2399",
+    "original": "Rhys: There I saw the defendant.[p/] She was lit by the blue glow of the dining room lights.[p/][s/] She had stabbed Flinhart McCoy and was channeling magic into her sword!",
+    "translation": "Rhys: 就在那时我看见了被告。[p/]餐厅里蔚蓝的微光照亮了她的身影。[p/][s/]她当时正用自己附魔的剑刺向受害者！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2399\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2411",
+    "original": "Rhys: She removed her sword from Flinhart’s back,[p/] and as he slowly turned to face her,[p/][s/] she stabbed him again in the front!",
+    "translation": "Rhys: 她拔出剑，[p/] 就在弗林哈特转身看向她的时候，[p/][s/]她又从正面刺了他一剑！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2411\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2422",
+    "original": "Rhys: She soon realized that I had witnessed her heinous crime.[p/] She let the body fall to the ground and fled the scene.",
+    "translation": "Rhys: 她马上就意识到我目睹了她的暴行。[p/]她顾不上倒地的尸体，马上逃离了现场。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2422\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2429",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2429\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2436",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2436\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2493",
+    "original": "Rhys: I remember now![p/][s/] Yesterday,[p/] it was revealed that Flinhart was killed using magic!",
+    "translation": "Rhys: 我现在想起来了！[p/][s/]昨天，[p/]你们揭示弗林哈特是被魔法杀害的！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2493\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2497",
+    "original": "Rhys: I must have seen Flinhart’s daughter channeling a magic spell.",
+    "translation": "Rhys: 我看到的肯定是弗林哈特的女儿在使用某种法术。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2497\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2504",
+    "original": "Rhys: The spell was called “[b]Mage Blade[/b]”,[p/] am I correct?",
+    "translation": "Rhys: 那个法术叫“[b]法术剑刃[/b]”对吧？",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2504\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2511",
+    "original": "Rhys: That’s it![p/][s/] The blue glow that I saw must have been created by [b]Mage Blade[/b]!",
+    "translation": "Rhys: 就是那个！[p/][s/]一定是[b]法术剑刃[/b]释放出的蓝光！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2511\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2518",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2518\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2526",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2526\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2615",
+    "original": "Garrick: On the night of the murder,[p/] I found myself unable to sleep.[p/] So, I went on a leisurely carriage ride around Kornhaven.",
+    "translation": "Garrick: 案发当晚，[p/]我难以入睡。[p/]于是我乘马车在科尔哈文附近散心。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2615\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2622",
+    "original": "Garrick: I happened to be passing by the McCoy tavern when I heard a loud commotion from within the building.",
+    "translation": "Garrick: 经过麦考伊酒馆时，我恰好听到屋内一阵骚乱。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2622\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2627",
+    "original": "Garrick: Curious,[p/] I stopped my carriage and took a single step inside the establishment.[p/][s/] That is when I saw the scene inside!",
+    "translation": "Garrick: 好奇心作祟，[p/]我下车刚向里踏进一步，[p/][s/]就看到了里面的情形！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2627\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2654",
+    "original": "Garrick: I used [b]Conjure Light[/b] to illuminate the scene from the tavern entrance. From there, I clearly saw the crime unfold!",
+    "translation": "Garrick: 我在旅馆门口用了[b]祈愿光芒[/b]照亮现场。在那里，我清晰看见了犯罪的全过程！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2654\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2659",
+    "original": "Garrick: I saw the defendant stabbing that poor man twice with her sword!",
+    "translation": "Garrick: 我看见被告用她的剑捅了受害者两次！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2659\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2666",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2666\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-144-2673",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2673\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   }
 ]

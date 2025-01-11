@@ -32996,5 +32996,376 @@
     "translation": "",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-AfterLockerDeduce2-4956\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0\",\n          \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-809",
+    "original": "Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.",
+    "translation": "Orym: 事情从城市安保收到帝国学院的电话开始说起。[p/]有人受到了攻击，[p/]然后所有的设施都被封锁了。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-809\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-814",
+    "original": "Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.",
+    "translation": "Orym: 我们在区域周围设立了警戒线，等待封锁系统解除。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-814\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-822",
+    "original": "Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
+    "translation": "Orym: 当我们终于能进入大楼时，[p/]检察官本人检查了尸体并探测到上面有[b]死灵术/b]的魔法痕迹。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-822\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-831",
+    "original": "Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.",
+    "translation": "Orym: 尸体上也没有创口或者瘀伤。[p/]尸体全身都是非常干净的，[p/] 连血渍都没有。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-831\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-839",
+    "original": "Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",
+    "translation": "Orym: 依据这两个证据，[p/]我们只能认为是那个死灵法师小子干的。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-839\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-851",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-851\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-855",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-855\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-981",
+    "original": "Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.",
+    "translation": "Valentina: 我当时正和我妹妹在校园西侧散步，突然看到附近的教室里有什么东西。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-981\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-988",
+    "original": "Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!",
+    "translation": "Valentina: 好奇心作祟，我们靠近去看到底是什么，[p/][s/] 结果竟然是贝尔维瑟教授躺在血泊中！",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-988\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-994",
+    "original": "Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood…",
+    "translation": "Valentina: 我妹妹尽全力救助她，[p/]但教授已经失血过多.....",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-994\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1002",
+    "original": "Valentina: She used first aid and applied pressure to her wound to stop the bleeding.",
+    "translation": "Valentina: 她用医疗包来帮助教授止血。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1002\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1007",
+    "original": "Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",
+    "translation": "Valentina: 与此同时，[p/] 我使用学院里的紧急通讯装置来求助。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1007\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1017",
+    "original": "Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood…",
+    "translation": "Valentina: 但已经太迟了，[p/] 止住血的时候，[p/] 她已经失血太多了...",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1017\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1024",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1024\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1030",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1030\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1118",
+    "original": "Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [mind=\"I was definitely surprised when I saw her like that.\"/]",
+    "translation": "Valentina: 正如我说过的，[p/]我的妹妹和我看见贝尔维瑟女士倒在血泊之中。[p/]我们赶紧冲过去查看她。[mind=\"看到她那个样子我确实很惊讶。\"/]",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1118\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1121",
+    "original": "Valentina: N-[p/]Now that you mention it…[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [mind=\"I can’t go back on that now… I just need to play dumb.\"/]",
+    "translation": "Valentina: 既、[p/]既然你提到了……[p/]我也不知道我有没有看清她身上有伤口。[p/]但我肯定看到血了！[mind=\"这一点上没法回头了……我只好装傻了。\"/]",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1121\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1128",
+    "original": "Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [mind=\"Ugh, Valerie… You’re too kind-hearted for your own good…\"/]",
+    "translation": "Valentina: 我妹妹尝试救助她！[p/][s/]但她没使用什么魔法！[mind=\"啊, 瓦莱丽……你人太好了……\"/]",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1128\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1137",
+    "original": "Valentina: Neither of us is a mage![p/][s/] Both of us held the book the knights gave us! [mind=\"I was caught off guard when they asked us. They almost found us out.\"/]",
+    "translation": "Valentina: 我们俩都不是法师！[p/][s/]我们都碰了骑士们给我们的那本书！[mind=\"他们讯问我的时候我有点措手不及。他们差点就发现了。\"/]",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1137\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1147",
+    "original": "Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [mind=\"It’s a good thing that we’re twins… Or else that trick wouldn’t have worked.\"/]",
+    "translation": "Valentina: 指挥官全程都在监视我们！[p/][s/]他可以作证！mind=\"还好我们是双胞胎……不然这个把戏行不通的。\"/]",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1147\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1157",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1157\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1163",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1163\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1472",
+    "original": "Miriam: I was working on a research project in my dorm room when I decided to take a break.",
+    "translation": "Miriam: 我当时正在自己宿舍里进行一个研究项目，然后想休息一下。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1472\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1487",
+    "original": "Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.",
+    "translation": "Miriam: 我离开房间然后散了下步。[p/]那时我正好看到贝尔维瑟教授正从校长室出来。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1487\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1493",
+    "original": "Miriam: She was walking in my direction.[p/] So I greeted her and she responded in kind.",
+    "translation": "Miriam: 她正好向我这边走过来，[p/]所以我向她问好，她也和蔼地回应了我。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1493\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1504",
+    "original": "Miriam: She was walking towards me.[p/] So I bid her “Good morning” and she responded in kind.",
+    "translation": "Miriam: 她正好向我这边走过来，[p/]所以我向她说“早上好”，她也和蔼地回应了我。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1504\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1511",
+    "original": "Miriam: After that,[p/] she headed towards the library.",
+    "translation": "Miriam: 在那之后，[p/]她直接向图书馆走了过去。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1511\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1516",
+    "original": "Miriam: A short time after that,[p/] I went back to my room and continued my work.",
+    "translation": "Miriam: 又过了一小会儿，[p/]我回到宿舍继续做研究。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1516\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1521",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1521\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1526",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1526\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1651",
+    "original": "Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.",
+    "translation": "Jan: 我是在清理西侧走廊的时候看到教授的，[p/]当时大概是在发现尸体的20-30分钟之前。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1651\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1657",
+    "original": "Jan: She walked by me…[p/] But she looked pretty out of it.",
+    "translation": "Jan: 她从我身旁走过...[p/] 但她看起来十分不正常。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1657\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1666",
+    "original": "Jan: I heard she was undead when this happened…[p/] Pretty creepy if you ask me.",
+    "translation": "Jan: 事发后听说她当时已经是僵尸一样的生物了...[p/]真把我吓坏了。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1666\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1667",
+    "original": "Jan: I heard she was undead. Which is pretty creepy because she pushed me out of her way.",
+    "translation": "Jan: 我听说她已经是死尸了。这事真挺吓人的因为当时她把我推开了。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1667\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1668",
+    "original": "Jan: I heard she was undead. Which is pretty creepy because she knocked over a vase.",
+    "translation": "Jan: 我听说她已经是死尸了。这事真挺吓人的因为她当时撞倒了一个花瓶。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1668\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1669",
+    "original": "Jan: I heard she was undead. Which is pretty creepy because she yelled at me.",
+    "translation": "Jan: 我听说她已经是死尸了。这事真挺吓人的因为她当时朝我大吼大叫。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1669\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1670",
+    "original": "Jan: After that,[p/] she went into the empty classroom.",
+    "translation": "Jan: 在那之后，[p/] 她进了一间空教室。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1670\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1676",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1676\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1681",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1681\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1887",
+    "original": "Theodore: That day,[p/] I had a meeting scheduled with the professor at noon.",
+    "translation": "Theodore: 那天，[p/] 我和教授约好在中午见面。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1887\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1892",
+    "original": "Theodore: She showed up at the expected time,[p/] and we discussed various administrative matters.",
+    "translation": "Theodore: 她很守时，[p/] 我们一起探讨了许多管理方面的事项。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1892\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1901",
+    "original": "Theodore: Our meeting went on for an hour.[p/] After which, she left.[p/] Presumably to prepare for her next class.",
+    "translation": "Theodore: 会谈持续了一个小时，[p/]在那之后她就离开了。[p/]大概是去准备她的下一堂课了。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1901\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1908",
+    "original": "Theodore: Despite our many disagreements,[p/] we still knew how to be civil with one another.",
+    "translation": "Theodore: 虽然我们有许多分歧，[p/] 但我们都知道尊重对方。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1908\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1914",
+    "original": "Theodore: After all,[p/] I had no reason to bear a personal grudge against her.",
+    "translation": "Theodore: 毕竟，[p/] 我没有理由对她怀恨在心。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1914\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1921",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1921\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1927",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1927\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1977",
+    "original": "Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand.[p/] But I had only just learned about it.",
+    "translation": "Theodore: 没错，我[i]的确[/i]提前得知了弗雷加一族的阴谋，但也没提前多久。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1977\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1982",
+    "original": "Theodore: On the day of the murder,[p/] the professor told me about her plan.[p/] She was going to replace me as headmaster and replace the staff with her Arcane Constructs.",
+    "translation": "Theodore: 案发当日，[p/]教授对我讲述了她的计划。[p/]她想篡夺校长之位，用奥术构造体取代工作人员。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1982\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Arcane Construct\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1988",
+    "original": "Theodore: Now you might say that this would have given me the perfect motive to murder the professor.",
+    "translation": "Theodore: 各位或许会认为，这将成为我谋杀教授的完美动机。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1988\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-2000",
+    "original": "Theodore: However,[p/] the supposed murder weapon was stolen from Ms. Frega.[p/] This happened weeks before the murder.",
+    "translation": "Theodore: 然而，[p/这把据称的凶器是弗雷加女士那里偷来的。[p/] 这是谋杀案发生前的事。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2000\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-2008",
+    "original": "Theodore: I had no knowledge of their plan before she told me.[p/] And therefore,[p/] I wouldn’t have known to steal Ms. Frega’s weapon in an attempt to frame her.",
+    "translation": "Theodore: Theodore: 她告诉我之前，我并不知道他们的计划，[p/]更遑论为了陷害弗雷加女士，专门偷走她的武器了。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2008\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-2017",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2017\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-2021",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2021\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   }
 ]

@@ -29090,5 +29090,271 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4275\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1168",
+    "original": "Mosourika: That day,[p/] I was looking for Justin in the freight area.[p/] But I couldn't find him.",
+    "translation": "Mosourika: 那天，[p/]我在货运区找贾斯汀，[p/]但我找不到他。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1168\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1173",
+    "original": "Mosourika: I decided to look for him in the refinery's main building.",
+    "translation": "Mosourika: 我决定去炼油厂的主楼找他。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1173\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1180",
+    "original": "Mosourika: There was some kind of magical door leading into it,[p/] but it was unlocked.",
+    "translation": "Mosourika: 有一道通往大楼的魔法门，[p/]但它没有上锁。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1180\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1205",
+    "original": "Mosourika: Mr. Dracogen must have disabled the lock.[p/] No one else could have disabled it.",
+    "translation": "Mosourika: 一定是德拉科根先生让锁失效的，[p/]没有其他人能够做到。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1205\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1214",
+    "original": "Mosourika: Nothing really stopped me from entering the refinery building.",
+    "translation": "Mosourika: 确实没有什么阻碍我进入炼油厂。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1214\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1220",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1220\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1226",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1226\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1308",
+    "original": "Mosourika: Plenty of people could have disabled the locks.",
+    "translation": "Mosourika: 很多人都可以让锁失效。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1308\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1316",
+    "original": "Mosourika: Maybe one of the employees got lazy and forcefully broke it.",
+    "translation": "Mosourika: 可能一个员工犯懒了，用武力破坏了锁。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1316\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1322",
+    "original": "Mosourika: There was also that nobleman who was with Mr. Morrison.[p/] [i]He's[/i] a mage and he could have used magic to do it.",
+    "translation": "Mosourika: 还有那位和莫里森女士一起的贵族，[p/]<u>他</u>是一名法师，完全可以用魔法做到。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1322\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1333",
+    "original": "Mosourika: It could have also been one of the Maintenance Constructs.[p/] I saw one working on the machines.[p/] Maybe one of [i]them[/i] broke the lock.",
+    "translation": "Mosourika: 也有可能是维修构造体。[p/]我曾看到它们在维护机器,[p/]也许是<u>它们</u>中的某一个破坏了锁。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1333\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1344",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1344\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1352",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1352\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1473",
+    "original": "Lloyd: It [i]is[/i] possible to order a Construct to complete a complex list of tasks.[p/] But doing so is ill-advised.",
+    "translation": "Lloyd: <u>确实</u>有可能命令构造体去完成一系列复杂的任务。[p/]但这么做是不明智的。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1473\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1482",
+    "original": "Lloyd: I'm sure you observed this with the Nightgrave trial.[p/] Constructs are extremely prone to error when completing a long list of tasks.",
+    "translation": "Lloyd: 我肯定你在奈特格雷夫一案中也注意到了这一点。[p/]构造体在完成一长串任务时极易出错。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1482\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1494",
+    "original": "Lloyd: According to the defense,[p/] the saboteur stole a Rod of Mending and used it to sabotage very [i]specific[/i] sections of the refinery.",
+    "translation": "Lloyd: 根据辩方的说法，[p/]破坏者偷了一根修复之杖，并用它来破坏炼油厂的<u>特定</u>部分。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1494\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Rod of Mending\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1499",
+    "original": "Lloyd: I would never trust a Construct to discreetly complete such an intricate set of tasks unsupervised.",
+    "translation": "Lloyd: 我绝不会信任一个构造体在无人监督的情况下偷偷完成这样一套复杂精细的任务。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1499\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1506",
+    "original": "Lloyd: And before you ask,[p/] I was miles away from the refinery at the time of the accident.[p/] I have several associates who can confirm this alibi.",
+    "translation": "Lloyd: 而且我要告诉你，[p/]事故发生时，我离炼油厂有好几英里远。[p/]我有几个熟人可以做这个不在场证明。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1506\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1517",
+    "original": "Lloyd: Therefore,[p/] I had no way of observing this Construct from afar.[p/] Nor did I have any way to communicate with it.",
+    "translation": "Lloyd: 所以，[p/]我是没有办法在远处看着这个构造体的。[p/]我也无法与它进行沟通。",
+    "stage": 1,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1517\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1525",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1525\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-1533",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1533\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3359",
+    "original": "Noah: I was showing a visitor around the city.[p/] And for some reason,[p/] he really wanted to see the Aurinax Arcane Refinery.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3359\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3366",
+    "original": "Noah: He was inspecting the machines there.[p/] When,[p/] suddenly,[p/] Mosourika ran up to us.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3366\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3373",
+    "original": "Noah: She was desperately trying to tell us something,[p/] but there was just too much noise.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3373\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3378",
+    "original": "Noah: After a while,[p/] she just pointed at the walkway overlooking the refinery.[p/] That's where we saw someone fall into that accursed vat.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3378\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3415",
+    "original": "Noah: ...There was a guard rail that [i]should[/i] have prevented him from falling.[p/] But he broke through it as he fell.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3415\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3425",
+    "original": "Noah: Mosourika pointed it out.[p/] That's when we saw Justin fall.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3425\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3429",
+    "original": "Noah: My companion stood there with me.[p/] He also saw Justin fall.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3429\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3436",
+    "original": "Noah: It was a bit far away.[p/] So, I couldn't see if there was any rust on the guard rail.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3436\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3445",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3445\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3449",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3449\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3540",
+    "original": "Mosourika: I was at the refinery when I heard a strange sound from the walkway.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3540\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3548",
+    "original": "Mosourika: When I looked to see what it was,[p/] I saw that Justin had tumbled over the walkway's guard rail.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3548\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3557",
+    "original": "Mosourika: But he hadn't fallen into the vat yet.[p/] I saw him barely hanging onto the edge of the platform.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3557\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3563",
+    "original": "Mosourika: I didn't know how to get to the walkway from there.[p/] So I looked around for help and found Mr. Morrison.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3563\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3569",
+    "original": "Mosourika: After that, he must have seen Justin lose his grip of the ledge and fall into the vat.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3569\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3577",
+    "original": "Player: Overflow",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3577\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-146-3582",
+    "original": "Player: Objection",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3582\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   }
 ]
