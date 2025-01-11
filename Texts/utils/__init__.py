@@ -87,10 +87,13 @@ def check_underline(tgt: str) -> bool:
 
 def check_invalid_tag_format(tgt: str) -> bool:
     pats = [
-        re.compile(r"\[/p\]")
+        re.compile(r"\[/p\]"),
+        re.compile(r"[^[](p/|/p)\]"),
+        re.compile(r"\[(p/|/p)[^]]"),
     ]
     for pat in pats:
-        if pat.findall(tgt):
+        if (matches := pat.findall(tgt)):
+            print(matches)
             return False
 
     return True
@@ -105,6 +108,8 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
 
     paraz_data = TypeAdapter(List[Paratranz]).validate_python(data)
     mm = {}
+
+    Flag_error = False;
     for item in paraz_data:
         key = item.key
 
@@ -121,6 +126,7 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
+            Flag_error = True
             #  input("cnt?")
 
         if checks["speaker"] \
@@ -129,6 +135,7 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
+            Flag_error = True
             #  input("cnt?")
 
         if not check_underline(item.translation):
@@ -136,14 +143,16 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
-            input("cnt?")
+            Flag_error = True
+            # input("cnt?")
 
         if not check_invalid_tag_format(item.translation):
             logger.error("Invalid tag format")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
-            input("cnt?")
+            Flag_error = True
+            # input("cnt?")
 
 
         if item.context:
@@ -151,6 +160,9 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
 
         assert key not in mm
         mm[key] = item
+
+    if Flag_error:
+        exit(-1)
 
     return mm
 
