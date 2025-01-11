@@ -1,3 +1,4 @@
 #pragma once
+#include "windows.h"
 
-void payload_main();
+DWORD __stdcall payload_main(void*);
