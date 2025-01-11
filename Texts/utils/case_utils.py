@@ -118,13 +118,13 @@ def isRunCommand(inst: pb.Instruction) -> Tuple[bool, str] | None:
         "InterpretPrompt",
         "LoadPresent",
         "Examine",
-        "Testimony",
         "Move",
     ]
     cmds = [
         "LoadTalk",
         "Confirmation",
         "ElocutionPrompt",
+        "Testimony",
     ]
     for cmd in cmds:
         if CheckCmd(inst, cmd):

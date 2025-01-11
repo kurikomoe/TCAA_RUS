@@ -4578,6 +4578,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Courtroom1_3-808\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-809",
+    "original": "Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-809\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-810",
     "original": "TYRION: What time did this call come in?",
     "translation": null,
@@ -4600,6 +4606,12 @@
     "original": "Right…[p/] you remember that was around the time the lockdown occurred.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-813\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-814",
+    "original": "Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-814\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-815",
@@ -4642,6 +4654,12 @@
     "original": "True.[p/] For better or for worse,[p/] the kingdom will act quickly to protect a building filled with nobles.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-821\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-822",
+    "original": "Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-822\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-823",
@@ -4692,6 +4710,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-830\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-831",
+    "original": "Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-831\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-832",
     "original": "TYRION: How carefully was the body checked?",
     "translation": null,
@@ -4732,6 +4756,12 @@
     "original": "The question is…[p/] how do you prove that?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-838\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-839",
+    "original": "Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-839\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-840",
@@ -4800,6 +4830,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-850\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-851",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-851\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-852",
     "original": "CELESTE: We already investigated the crime scene.",
     "translation": null,
@@ -4816,6 +4852,12 @@
     "original": "TYRION: Right.[p/] All I have to do is present that contradiction to the court.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-854\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-855",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-855\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-858",
@@ -5532,6 +5574,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-ValTest-980\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-981",
+    "original": "Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-981\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-982",
     "original": "TYRION: Where were you two coming from?",
     "translation": null,
@@ -5568,6 +5616,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-987\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-988",
+    "original": "Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-988\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-989",
     "original": "TYRION: Did you notice anything else strange in the lecture hall?",
     "translation": null,
@@ -5596,6 +5650,12 @@
     "original": "It makes sense…[p/] It would be hard to notice anything else.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-993\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-994",
+    "original": "Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood…",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-994\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-995",
@@ -5640,6 +5700,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1001\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1002",
+    "original": "Valentina: She used first aid and applied pressure to her wound to stop the bleeding.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1002\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1003",
     "original": "TYRION: Your sister knows how to use a first aid kit?",
     "translation": null,
@@ -5662,6 +5728,12 @@
     "original": "TYRION: Hm…",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1006\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1007",
+    "original": "Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1007\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1008",
@@ -5718,6 +5790,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1016\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1017",
+    "original": "Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood…",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1017\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1018",
     "original": "TYRION: I see.[p/] That must have been a difficult experience for both of you.",
     "translation": null,
@@ -5754,6 +5832,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1023\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1024",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1024\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1025",
     "original": "CELESTE: Honestly,[p/] her testimony makes a lot of sense.",
     "translation": null,
@@ -5782,6 +5866,12 @@
     "original": "CELESTE: You should focus on the statements that describe how they both interacted with her.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1029\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1030",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val-1030\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1033",
@@ -6288,6 +6378,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Test-1117\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1118",
+    "original": "Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [mind=\"I was definitely surprised when I saw her like that.\"/]",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1118\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1119",
     "original": "That matches the details of her previous testimony.",
     "translation": null,
@@ -6298,6 +6394,12 @@
     "original": "You have no reason to doubt this.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1120\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1121",
+    "original": "Valentina: N-[p/]Now that you mention it…[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [mind=\"I can’t go back on that now… I just need to play dumb.\"/]",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1121\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1122",
@@ -6334,6 +6436,12 @@
     "original": "You'll need to look at her other statements and the thoughts that accompany them.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1127\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1128",
+    "original": "Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [mind=\"Ugh, Valerie… You’re too kind-hearted for your own good…\"/]",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1128\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1129",
@@ -6382,6 +6490,12 @@
     "original": "Maybe you should try looking at the thoughts of her other statements.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1136\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1137",
+    "original": "Valentina: Neither of us is a mage![p/][s/] Both of us held the book the knights gave us! [mind=\"I was caught off guard when they asked us. They almost found us out.\"/]",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1137\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1138",
@@ -6438,6 +6552,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1146\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1147",
+    "original": "Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [mind=\"It’s a good thing that we’re twins… Or else that trick wouldn’t have worked.\"/]",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1147\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1148",
     "original": "It's a \"good thing that they're twins\"?",
     "translation": null,
@@ -6492,6 +6612,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1156\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1157",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1157\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1158",
     "original": "Think through this.[p/] This isn’t like a normal cross-examination.",
     "translation": null,
@@ -6520,6 +6646,12 @@
     "original": "Find the thought that holds that clue and INTERPRET it to proceed.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1162\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1163",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1163\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1164",
@@ -8370,6 +8502,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Courtroom2_4-1471\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1472",
+    "original": "Miriam: I was working on a research project in my dorm room when I decided to take a break.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1472\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1473",
     "original": "TYRION: Was this research project a part of your schoolwork?",
     "translation": null,
@@ -8454,6 +8592,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1486\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1487",
+    "original": "Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1487\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1488",
     "original": "TYRION: And you’re sure that you saw her exit the Headmaster’s Office?",
     "translation": null,
@@ -8482,6 +8626,12 @@
     "original": "ARIA: Did you interact with the professor at all, Miriam?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1492\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1493",
+    "original": "Miriam: She was walking in my direction.[p/] So I greeted her and she responded in kind.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1493\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1494",
@@ -8544,6 +8694,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1503\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1504",
+    "original": "Miriam: She was walking towards me.[p/] So I bid her “Good morning” and she responded in kind.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1504\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1505",
     "original": "TYRION: And you’re certain that nothing seemed off about her.",
     "translation": null,
@@ -8580,6 +8736,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1510\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1511",
+    "original": "Miriam: After that,[p/] she headed towards the library.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1511\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1512",
     "original": "TYRION: Did you [i]see[/i] her enter the library?",
     "translation": null,
@@ -8602,6 +8764,12 @@
     "original": "ARIA: Even if she didn’t enter the library,[p/] she was still in that area for more than an hour.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1515\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1516",
+    "original": "Miriam: A short time after that,[p/] I went back to my room and continued my work.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1516\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1517",
@@ -8628,6 +8796,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1520\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1521",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1521\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1522",
     "original": "CELESTE: Her testimony seems pretty straightforward.",
     "translation": null,
@@ -8650,6 +8824,12 @@
     "original": "TYRION: We’ll just have to focus on her statements about how Bellwether acted.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1525\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1526",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Miriam-1526\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1529",
@@ -9378,6 +9558,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-MiriamObj_7-1650\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1651",
+    "original": "Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1651\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1652",
     "original": "TYRION: How are you so sure that it was 30 minutes before?",
     "translation": null,
@@ -9406,6 +9592,12 @@
     "original": "ARIA: What was the \"professor\" like, Mr. Hughes?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1656\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1657",
+    "original": "Jan: She walked by me…[p/] But she looked pretty out of it.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1657\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1658",
@@ -9456,6 +9648,36 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1665\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1666",
+    "original": "Jan: I heard she was undead when this happened…[p/] Pretty creepy if you ask me.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1666\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1667",
+    "original": "Jan: I heard she was undead. Which is pretty creepy because she pushed me out of her way.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1667\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1668",
+    "original": "Jan: I heard she was undead. Which is pretty creepy because she knocked over a vase.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1668\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1669",
+    "original": "Jan: I heard she was undead. Which is pretty creepy because she yelled at me.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1669\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1670",
+    "original": "Jan: After that,[p/] she went into the empty classroom.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1670\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1671",
     "original": "TYRION: Did you see anyone else enter that classroom?",
     "translation": null,
@@ -9486,6 +9708,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1675\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1676",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1676\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1677",
     "original": "CELESTE: He’s not giving us a lot to work with…",
     "translation": null,
@@ -9508,6 +9736,12 @@
     "original": "TYRION: Maybe we can pull more information out of him.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1680\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1681",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1681\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1684",
@@ -10698,6 +10932,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1886\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1887",
+    "original": "Theodore: That day,[p/] I had a meeting scheduled with the professor at noon.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1887\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1888",
     "original": "TYRION: What was this meeting for?",
     "translation": null,
@@ -10720,6 +10960,12 @@
     "original": "THEODORE: In an academy such as ours,[p/] it is beneficial to regularly communicate with the staff.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1891\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1892",
+    "original": "Theodore: She showed up at the expected time,[p/] and we discussed various administrative matters.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1892\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1893",
@@ -10770,6 +11016,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1900\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1901",
+    "original": "Theodore: Our meeting went on for an hour.[p/] After which, she left.[p/] Presumably to prepare for her next class.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1901\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1902",
     "original": "TYRION: So that means the professor left your office at 1:00 PM?",
     "translation": null,
@@ -10806,6 +11058,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1907\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1908",
+    "original": "Theodore: Despite our many disagreements,[p/] we still knew how to be civil with one another.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1908\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1909",
     "original": "TYRION: After hearing so much about her…[p/] I find that a little hard to believe.",
     "translation": null,
@@ -10834,6 +11092,12 @@
     "original": "Is that really true, though?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1913\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1914",
+    "original": "Theodore: After all,[p/] I had no reason to bear a personal grudge against her.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1914\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1915",
@@ -10872,6 +11136,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1920\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1921",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1921\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1922",
     "original": "CELESTE: His testimony pretty much matches what we know so far.",
     "translation": null,
@@ -10900,6 +11170,12 @@
     "original": "If you can figure out his motive,[p/] you might be able to find out how to reveal him to the court.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1926\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1927",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1927\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1930",
@@ -11178,6 +11454,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoObj_3-1976\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-1977",
+    "original": "Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand.[p/] But I had only just learned about it.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1977\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-1978",
     "original": "TYRION: So, you only learned about it recently?",
     "translation": null,
@@ -11200,6 +11482,12 @@
     "original": "Theodore: But...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1981\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1982",
+    "original": "Theodore: On the day of the murder,[p/] the professor told me about her plan.[p/] She was going to replace me as headmaster and replace the staff with her Arcane Constructs.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1982\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Arcane Construct\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1983",
@@ -11230,6 +11518,12 @@
     "original": "THEODORE: To think that the professor [i]and[/i] the board would go around my back like that.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1987\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-1988",
+    "original": "Theodore: Now you might say that this would have given me the perfect motive to murder the professor.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1988\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1989",
@@ -11298,6 +11592,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1999\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-2000",
+    "original": "Theodore: However,[p/] the supposed murder weapon was stolen from Ms. Frega.[p/] This happened weeks before the murder.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2000\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-2001",
     "original": "TYRION: As the headmaster,[p/] you’d probably have the tools available to get into her room.",
     "translation": null,
@@ -11338,6 +11638,12 @@
     "original": "THEODORE: However,[p/] there’s one flaw with your logic.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2007\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-2008",
+    "original": "Theodore: I had no knowledge of their plan before she told me.[p/] And therefore,[p/] I wouldn’t have known to steal Ms. Frega’s weapon in an attempt to frame her.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2008\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2009",
@@ -11388,6 +11694,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2016\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-145-2017",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2017\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-145-2018",
     "original": "CELESTE: He had to have known about Bellwether’s betrayal weeks ago.",
     "translation": null,
@@ -11404,6 +11716,12 @@
     "original": "CELESTE: Do we have something that proves he knew about it before the day of the murder?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2020\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-145-2021",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-2021\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2024",

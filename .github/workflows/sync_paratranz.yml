@@ -4,7 +4,7 @@ on:
     branches:
       - 'main'
   schedule:
-    - cron: "0 */2 * * *"   # Every 2h
+    - cron: "0 */1 * * *"   # Every 1h
   workflow_dispatch:
     inputs:
       logLevel:

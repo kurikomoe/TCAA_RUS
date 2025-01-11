@@ -7560,6 +7560,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-CourtroomC41_6-1325\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1326",
+    "original": "Orym: We didn't want to cause panic after the Sword was stolen.[p/] So we activated the manor's silent security system.[p/] It put an [b]Anti-Magic Field[/b] over the entire manor.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1326\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1327",
     "original": "Ruby: ...Wait, doesn't the Sword make the wielder immune to magical effects?",
     "translation": null,
@@ -7620,6 +7626,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1336\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1337",
+    "original": "Orym: We did a search of the house.[p/] And we found the stolen sword in the defendant's bedroom...[p/] That's how we knew it was her.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1337\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1338",
     "original": "Ruby: That seems like a strange conclusion to jump to.",
     "translation": null,
@@ -7654,6 +7666,12 @@
     "original": "Beatrice: Laefe...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1343\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1344",
+    "original": "Orym: It didn't look like she was going to run,[p/] and Crown Prince Aster told us to stand down.[p/] So we just kept a close eye on her.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1344\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1345",
@@ -7740,6 +7758,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1358\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1359",
+    "original": "Orym: William Frega was in a bad mood that night.[p/] So he had already locked himself inside his study.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1359\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1360",
     "original": "Ruby: Did anyone see him enter the study?",
     "translation": null,
@@ -7818,6 +7842,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1372\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1373",
+    "original": "Orym: But an hour later,[p/] we entered the Study and found him lying dead in a pool of blood.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1373\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1374",
     "original": "Ruby: Who was the person that discovered the body?",
     "translation": null,
@@ -7858,6 +7888,12 @@
     "original": "Orym: When he finally got out,[p/] he told Laefe and they went into the study accompanied by some knights.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1380\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1381",
+    "original": "Orym: The lock was still engaged,[p/] and no one teleported in.[p/] The perp must've temporarily disabled the lock using something like the Sword of Spell Eating.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1381\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1382",
@@ -7950,6 +7986,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1396\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1397",
+    "original": "Orym: We have testimonies that say the defendant was seriously in debt.[p/] She must have murdered the victim to get a part of his inheritance.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1397\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1398",
     "original": "Ruby: You have \"testimonies\"?",
     "translation": null,
@@ -8004,6 +8046,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1406\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1407",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1407\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1408",
     "original": "The prosecution's case against Beatrice is already really weak.",
     "translation": null,
@@ -8026,6 +8074,12 @@
     "original": "Once you PRESENT that to the court,[p/] this case is as good as yours.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1411\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1412",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1412\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1415",
@@ -9240,6 +9294,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1617\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1618",
+    "original": "Miriam: One day,[p/] we all woke up and discovered that Beatrice had fled from our home.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1618\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1619",
     "original": "Tyrion: That must have been a surprise for all of you.",
     "translation": null,
@@ -9268,6 +9328,12 @@
     "original": "It appears that she's sincere about what she's saying.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1623\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1624",
+    "original": "Miriam: She left a note for us.[p/] And in it,[p/] she renounced her name and denounced my father.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1624\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1625",
@@ -9318,6 +9384,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1632\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1633",
+    "original": "Miriam: My father later called me and my sister into his study.[p/] He told us that he'd completely disowned Beatrice and removed any claim she had to the Frega estate.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1633\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1634",
     "original": "Tyrion: That seems like a drastic reaction to her simply leaving her home.",
     "translation": null,
@@ -9360,6 +9432,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1640\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1641",
+    "original": "Miriam: It was probably a threat to us in case [i]we[/i] ever chose to go down the same path she did.[p/] He wanted to make an example out of her.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1641\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1642",
     "original": "Tyrion: That must have been difficult for you and Laefe.",
     "translation": null,
@@ -9388,6 +9466,12 @@
     "original": "Miriam: ...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1646\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1647",
+    "original": "Miriam: This all happened five years ago.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1647\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1648",
@@ -9444,6 +9528,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1656\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1657",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1657\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1658",
     "original": "You felt it while you were watching from the gallery.",
     "translation": null,
@@ -9460,6 +9550,12 @@
     "original": "It must have been something that Laefe told you.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1660\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1661",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1661\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1664",
@@ -9840,6 +9936,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-MiriamObjC4_4-1727\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1728",
+    "original": "Liafal: You see,[p/] Miriam was quite young when my father called us into his study five years ago.[p/] She didn't understand what he was [i]really[/i] doing.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1728\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1729",
     "original": "Tyrion: So you're saying that Miriam's testimony was based on a misunderstanding?",
     "translation": null,
@@ -9856,6 +9958,12 @@
     "original": "Liafal: He always knew just what to say to plant seeds of doubt into people's minds.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1731\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1732",
+    "original": "Liafal: My father would often lie to us.[p/] It was one of the many ways that he kept us in line.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1732\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1733",
@@ -9894,6 +10002,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1738\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1739",
+    "original": "Liafal: The encounter that Miriam described was just another one of his lies.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1739\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1740",
     "original": "Tyrion: So you really think that your father would lie about something so important?",
     "translation": null,
@@ -9922,6 +10036,12 @@
     "original": "Tyrion: But if he truly wanted to scare Miriam,[p/] why [i]wouldn't[/i] he disinherit Beatrice?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1744\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1745",
+    "original": "Liafal: Despite their disagreements,[p/] my father would never disinherit Beatrice without a good reason.[p/] He always held onto the possibility that she would become desperate enough to return home.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1745\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1746",
@@ -9960,6 +10080,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1751\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1752",
+    "original": "Liafal: The truth is that none of us knew what my father was planning for House Frega's future.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1752\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1753",
     "original": "Tyrion: If that were true,[p/] why would he tell you that he was disinheriting Beatrice?",
     "translation": null,
@@ -9990,6 +10116,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1757\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1758",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1758\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1759",
     "original": "Celeste: Did William Frega really lie to them?",
     "translation": null,
@@ -10018,6 +10150,12 @@
     "original": "Right...[p/] Was there anyone else that he would have told the truth to?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1763\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-1764",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1764\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1767",
@@ -11298,6 +11436,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-CourtroomC42_2-1989\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1990",
+    "original": "Harold: I was keeping an eye on my gallery's exhibits when I realized that my familiar hadn't returned.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-1990\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-1991",
     "original": "Tyrion: Are you referring to Eugene?",
     "translation": null,
@@ -11346,6 +11490,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-1998\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-1999",
+    "original": "Harold: I called him telepathically.[p/] But he didn't respond.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-1999\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2000",
     "original": "Tyrion: Does he typically ignore you like that?",
     "translation": null,
@@ -11368,6 +11518,12 @@
     "original": "Harold: He usually knows not to bother people.[p/] But you never know what might happen.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2003\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2004",
+    "original": "Harold: I became worried,[p/] so I went around the manor to search for him.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2004\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2005",
@@ -11418,6 +11574,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2012\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2013",
+    "original": "Harold: About an hour later,[p/] I returned to the gallery and discovered that the exhibit that held the Sword of Spell Eating was completely destroyed.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2013\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2014",
     "original": "Tyrion: If I recall correctly,[p/] the glass was completely shattered.",
     "translation": null,
@@ -11454,6 +11616,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2019\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2020",
+    "original": "Harold: The artifact was missing.[p/] So I reported the crime to the knights at the Ball and they activated a discreet lockdown.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2020\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2021",
     "original": "Tyrion: The Sword of Spell Eating makes its wielder immune to magical effects.[p/] What use would the lockdown have been?",
     "translation": null,
@@ -11476,6 +11644,30 @@
     "original": "Harold: But at that point,[p/] the Kingsguard just wanted to activate it for good measure.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2024\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2025",
+    "original": "Harold: Luckily,[p/] we found the Sword [i]and[/i] my familiar later that night.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2025\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2026",
+    "original": "Harold: As you probably know,[p/] the Kingsguard found the Sword of Spell Eating in the defendant's room.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2026\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2027",
+    "original": "Harold: Eugene finally responded to my telepathic messages.[p/] I met up with him in the gallery room before they finally found the artifact.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2027\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2028",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2028\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2029",
@@ -11506,6 +11698,12 @@
     "original": "You'll just need to poke some holes in that alibi.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2033\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2034",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2034\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2037",
@@ -13296,6 +13494,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye14-2346\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2347",
+    "original": "Eugene: Eugene explore house! Eugene look for new place to play!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2347\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2348",
     "original": "Tyrion: But Harold is an associate of House Frega.",
     "translation": null,
@@ -13330,6 +13534,12 @@
     "original": "Tyrion: Anyways,[p/] what else did you do that night, Eugene?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2353\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2354",
+    "original": "Eugene: Eugene also look for spiders! Spiders yum yum!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2354\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2355",
@@ -13374,6 +13584,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2361\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2362",
+    "original": "Eugene: You think Eugene steal Armbands of Intellect?",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2362\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Armbands of Intellect\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2363",
     "original": "Tyrion: I wasn't accusing you of anything, Eugene.",
     "translation": null,
@@ -13402,6 +13618,12 @@
     "original": "Eugene: Eugene know how important artifacts are to Harold.[p/] Eugene never take from him.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2367\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2368",
+    "original": "Eugene: Eugene never steal from Harold! Harold friend!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2368\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2369",
@@ -13458,6 +13680,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2377\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2378",
+    "original": "Eugene: Eugene always Harold's friend! Apes strong together!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2378\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2379",
     "original": "Tyrion: Do you consider yourself close to Harold?",
     "translation": null,
@@ -13512,6 +13740,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2387\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2388",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2388\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2389",
     "original": "Celeste: ...Tyrion?",
     "translation": null,
@@ -13552,6 +13786,12 @@
     "original": "Think about how Tracker spoke.[p/] Is there anything different in the way Eugene is speaking right now?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2395\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2396",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2396\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2397",
@@ -14280,6 +14520,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj8-2517\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2518",
+    "original": "Eugene: I'll admit that I took the Armbands and replaced them with a replica.[p/] But I was [i]not[/i] the crook who stole the Sword of Spell Eating.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2518\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2519",
     "original": "Tyrion: You stole the Armbands by using Harold's spoken password?[p/] Am I correct?",
     "translation": null,
@@ -14334,6 +14580,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2527\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2528",
+    "original": "Eugene: The thefts were completely different from one another.[p/] The display case for the Sword was completely shattered.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2528\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2529",
     "original": "Tyrion: How do we know that you didn't shatter the glass to cover your tracks?",
     "translation": null,
@@ -14386,6 +14638,12 @@
     "original": "Eugene: Anyways...",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2537\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2538",
+    "original": "Eugene: I spotted the Sword when I was exploring the manor.[p/] It was lying in the middle of a hallway.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2538\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2539",
@@ -14448,6 +14706,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2548\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2549",
+    "original": "Eugene: I spotted the Sword when I was heading back from the Rooftop Garden to the Gallery.[p/] It was lying in the middle of a hallway.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2549\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2550",
     "original": "Tyrion: So you were heading directly from the Rooftop Garden to the Gallery.",
     "translation": null,
@@ -14484,6 +14748,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2555\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2556",
+    "original": "Eugene: I wondered why such an important artifact would be lying there.[p/] So I took a closer look to inspect it.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2556\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2557",
     "original": "Tyrion: And [i]that's[/i] when you made contact with it?",
     "translation": null,
@@ -14514,6 +14784,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2561\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2562",
+    "original": "Eugene: That's when I heard Harold call out to me telepathically.[p/] The Sword must have protected me and Harold from the [b]Anti-Magic Field[/b].",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2562\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2563",
     "original": "Tyrion: Was this the first time he tried to contact you this night?",
     "translation": null,
@@ -14536,6 +14812,12 @@
     "original": "He was \"absorbed\" into his exploration?[p/] Would that really cause him to ignore a call from Harold?",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2566\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2567",
+    "original": "Eugene: I wanted to take the Sword and return it.[p/] But a wild dog chased me away from the scene.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2567\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2568",
@@ -14568,6 +14850,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2572\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2573",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2573\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2574",
     "original": "Celeste: His story makes sense...[p/] There's no way [i]he[/i] could have shattered the glass.",
     "translation": null,
@@ -14590,6 +14878,12 @@
     "original": "Tyrion: Which means he lied [i]somewhere[/i] in his testimony.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2577\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2578",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2578\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2581",
@@ -15090,6 +15384,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj5-2664\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2665",
+    "original": "Eugene: I discreetly made my way to that hallway through another air vent.[p/] I exited the air vent in that hallway and tried to leap to the other side.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2665\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2666",
     "original": "Tyrion: But why were you there in the first place?",
     "translation": null,
@@ -15156,6 +15456,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2676\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2677",
+    "original": "Eugene: I'm not sure if it was my waning intelligence or my desperation.[p/] But I collided with something that I didn't see.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2677\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2678",
     "original": "Tyrion: I thought monkeys were extremely dexterous.",
     "translation": null,
@@ -15186,6 +15492,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2682\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2683",
+    "original": "Eugene: I fell to the ground and found the Sword of Spell Eating laying next to me.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2683\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2684",
     "original": "Tyrion: How did you know it was the Sword of Spell Eating?",
     "translation": null,
@@ -15208,6 +15520,12 @@
     "original": "Eugene: He was clearly growing worried.[p/] So I knew I needed to move quickly.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2687\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2688",
+    "original": "Eugene: I wanted to retrieve the Sword.[p/] But that wild dog forced me to retreat.[p/] After that,[p/] I continued to make my way to the study.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2688\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2689",
@@ -15282,6 +15600,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2700\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2701",
+    "original": "Eugene: ...And that's when I found William Frega.[p/] He was dead on the floor and lying in a pool of blood.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2701\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2702",
     "original": "Ruby: It seems awfully convenient that he was murdered [i]before[/i] you arrived.",
     "translation": null,
@@ -15340,6 +15664,12 @@
     "original": "Eugene: I knew it was only a matter of time before someone discovered the body.[p/] So I quickly searched the room for something I could use.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2711\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2712",
+    "original": "Eugene: And as if I were blessed by the Scaled Lord himself,[p/] I found the will that he was drafting.[p/] So I destroyed it.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2712\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2713",
@@ -15402,6 +15732,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2722\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-2723",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2723\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-2724",
     "original": "Celeste: He seems to be telling the truth this time.",
     "translation": null,
@@ -15418,6 +15754,12 @@
     "original": "You should carefully inspect and PRESS each of his statements.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2726\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-2727",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2727\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2729",
@@ -17442,6 +17784,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B12-3068\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3069",
+    "original": "Alaric: You think Lady Frega cast magic right in front of me?[p/] Don't be a serf!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3069\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3070",
     "original": "He probably meant \"Don't be absurd\"...[p/] But there's not much to gain from correcting him.",
     "translation": null,
@@ -17470,6 +17818,12 @@
     "original": "Alaric: But I wasn't the only one watching her!",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3074\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3075",
+    "original": "Alaric: She was under the careful watch of the Kingsguard,[p/] my brother,[p/] [i]and[/i] Lord Steelwind!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3075\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3076",
@@ -17512,6 +17866,12 @@
     "original": "He's pretty knowledgeable about the Arcane Arts.[p/] But as a prince of Wyverngarde,[p/] you suppose that's to be expected.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3082\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3083",
+    "original": "Alaric: We conversed for the whole night and I didn't see her cast [i]any[/i] magic.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3083\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3084",
@@ -17574,6 +17934,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3093\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3094",
+    "original": "Alaric: She told me and my brother how \"the occult are a fascinating phenomena\".[p/] I didn't see her cast [i]any[/i] magic.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3094\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3095",
     "original": "Tyrion: Wouldn't saying \"the occult [i]is[/i] a fascinating phenomenon\" be more grammatically correct?",
     "translation": null,
@@ -17596,6 +17962,12 @@
     "original": "You feel like he [i]might[/i] be projecting a little.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3098\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3099",
+    "original": "Alaric: She's been through so much over the last few years...[p/] All because of her horrid father...",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3099\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3100",
@@ -17634,6 +18006,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3105\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3106",
+    "original": "Alaric: She'd never do something like this![p/][s/] You [i]and[/i] Lady Steelwind are just jealous!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3106\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3107",
     "original": "Tyrion: ...Well, I can't speak for Ms. Steelwind,[p/] but [i]I'm[/i] just trying to get to the truth.",
     "translation": null,
@@ -17664,6 +18042,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3111\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3112",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3112\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3113",
     "original": "Tyrion: Celeste.[p/] What do you usually need to do to cast a spell?",
     "translation": null,
@@ -17692,6 +18076,12 @@
     "original": "That [i]does[/i] sound pretty conspicuous...[p/] But she must have hidden it somehow.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3117\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3118",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3118\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3121",
@@ -18264,6 +18654,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-AlaricObj5-3216\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3217",
+    "original": "Marrunath: I provided sight to my keeper while she spoke with the princes.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3217\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3218",
     "original": "Tyrion: Is this something that you frequently do?",
     "translation": null,
@@ -18298,6 +18694,12 @@
     "original": "He took a bit of a pause before answering your question.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3223\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3224",
+    "original": "Marrunath: ...[p/][p/]I'll admit that she [i]did[/i] cast [b]Invisibility[/b] on me during their conversation.[p/] She needed to keep me hidden after all.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3224\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3225",
@@ -18336,6 +18738,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3230\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3231",
+    "original": "Marrunath: ...[p/][p/]But I never left the room where my master was.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3231\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3232",
     "original": "Tyrion: And did your master leave the room while she was with the princes?",
     "translation": null,
@@ -18372,6 +18780,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3237\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3238",
+    "original": "Marrunath: ...[p/][p/]Nor did I steal the Sword of Spell Eating.",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3238\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3239",
     "original": "Tyrion: Beatrice was one of the few mages present that could shatter the glass.",
     "translation": null,
@@ -18394,6 +18808,12 @@
     "original": "But you have a feeling...[p/] [i]He's[/i] the one that's going to give it to you.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3242\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3243",
+    "original": "Marrunath: You have nothing on me, heavensborn![p/][s/] ...[p/][p/]You don't even have proof that I entered William Frega's Study!",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3243\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3244",
@@ -18462,6 +18882,12 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3254\",\n  \"keywords\": []\n}"
   },
   {
+    "key": "Default (en-US)-sharedassets0.assets-148-3255",
+    "original": "Player: Overflow",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3255\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+  },
+  {
     "key": "Default (en-US)-sharedassets0.assets-148-3256",
     "original": "Celeste: He's definitely more direct than most witnesses.",
     "translation": null,
@@ -18490,6 +18916,12 @@
     "original": "You need to INTERPRET the statement that seems the most suspicious.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3260\",\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Default (en-US)-sharedassets0.assets-148-3261",
+    "original": "Player: Objection",
+    "translation": null,
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3261\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3262",
