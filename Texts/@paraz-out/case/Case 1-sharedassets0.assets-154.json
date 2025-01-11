@@ -23,7 +23,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-3-0",
     "original": "Start an ARGUMENT with Celeste McCoy?",
-    "translation": "是否开始说服塞莱斯特·麦考伊？",
+    "translation": "是否开始与塞莱斯特·麦考伊<size=1.5em>辩论</size>？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Celeste_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Celeste McCoy?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -366,21 +366,21 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument2-2-0",
     "original": "You’re just another crook.",
-    "translation": "你和她一样， 也是个烂到骨子里的律师。",
+    "translation": "你和她一样，也是个烂到骨子里的律师。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"You’re just another crook.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-6-0",
     "original": "Start an ARGUMENT with Orym White?",
-    "translation": "是否开始说服奥蒙·怀特？",
+    "translation": "是否开始与奥蒙·怀特<size=1.5em>辩论</size>？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Orym White?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-9-0",
     "original": "Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
-    "translation": "是否开始说服奥蒙·怀特？/n你尚未了解他的心理档案。",
+    "translation": "是否开始与奥蒙·怀特<size=1.5em>辩论</size>？/n你尚未了解他的<size=1.5em>心理档案</size>。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
   },

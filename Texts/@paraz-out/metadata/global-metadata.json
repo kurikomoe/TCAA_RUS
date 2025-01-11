@@ -26791,14 +26791,14 @@
   {
     "key": "MetaData-4027",
     "original": "Narrator: /EVIDENCE/ has been added to your NOTES.",
-    "translation": "Narrator: /EVIDENCE/ 已加入你的笔记之中。",
+    "translation": "Narrator: /EVIDENCE/ 已加入你的<size=1.5em>笔记</size>之中。",
     "stage": 1,
     "context": "{}"
   },
   {
     "key": "MetaData-4028",
     "original": "Narrator: /EVIDENCE/ has been updated in your NOTES.",
-    "translation": "Narrator: /EVIDENCE/ 已在你的笔记中更新内容。",
+    "translation": "Narrator: /EVIDENCE/ 已在你的<size=1.5em>笔记</size>中更新内容。",
     "stage": 1,
     "context": "{}"
   },
@@ -43878,8 +43878,8 @@
   {
     "key": "MetaData-6469",
     "original": "[/i]",
-    "translation": "</u>",
-    "stage": 2,
+    "translation": "",
+    "stage": 0,
     "context": "{}"
   },
   {
@@ -44228,8 +44228,8 @@
   {
     "key": "MetaData-6519",
     "original": "[i]",
-    "translation": "<u>",
-    "stage": 2,
+    "translation": "",
+    "stage": 0,
     "context": "{}"
   },
   {

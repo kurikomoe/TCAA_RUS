@@ -9,14 +9,14 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-6-0",
     "original": "What did Tracker hear when he woke up?",
-    "translation": "追迹者 醒来后 听到了 什么 ？",
+    "translation": "追追 醒来后 听到了 什么 ？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0",
     "original": "Tracker,Beatrice,Harold,The thief",
-    "translation": "追迹者,比亚特丽丝,哈罗德,窃贼",
+    "translation": "追追,比亚特丽丝,哈罗德,窃贼",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Tracker,Beatrice,Harold,The thief\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -30,7 +30,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0",
     "original": "rats running,the lockdown,glass shattering,a dog barking",
-    "translation": "通风管里,勋爵舞会期间,画廊里,威廉的书房里",
+    "translation": "通风管道里,勋爵舞会期间,画廊里,威廉的书房里",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"rats running,the lockdown,glass shattering,a dog barking\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
@@ -44,7 +44,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-13-0",
     "original": "What did Tracker hear when he woke up?",
-    "translation": "追迹者醒来后听到了什么？",
+    "translation": "追追醒来后听到了什么？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -58,7 +58,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0",
     "original": "The thief,Beatrice,Eugene,Tracker",
-    "translation": "小偷把,比亚特丽丝把,尤金把,追迹者把",
+    "translation": "小偷把,比亚特丽丝把,尤金把,追追把",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Eugene,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -191,7 +191,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0",
     "original": "Beatrice,Laefe,Tyrion,Harold",
-    "translation": "和马鲁纳斯,和追迹者,和尤金,和鲁比",
+    "translation": "和马鲁纳斯,和追追,和尤金,和鲁比",
     "stage": 1,
     "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"Beatrice,Laefe,Tyrion,Harold\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
@@ -275,14 +275,14 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-7-0",
     "original": "Start an ARGUMENT with Laefe Frega?",
-    "translation": "是否开始说服拉菲·弗雷加？",
+    "translation": "是否开始与拉菲·弗雷加<size=1.5em>辩论</size>？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Laefe Frega?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-10-0",
     "original": "Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
-    "translation": "是否开始说服拉菲·弗雷加？/n你尚未了解她的心理档案。",
+    "translation": "是否开始与拉菲·弗雷加<size=1.5em>辩论</size>？/n你尚未了解她的<size=1.5em>心理档案<size=1.5em>。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -401,14 +401,14 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-18-0",
     "original": "Why didn't Laefe answer Tracker's message?",
-    "translation": "拉菲 为什么 不回 追迹者的 消息？",
+    "translation": "拉菲 为什么 不回 追追的 消息？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why didn't Laefe answer Tracker's message?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0",
     "original": "The Familial Bond,Beatrice,Tracker,Laefe",
-    "translation": "使魔契约,比亚特丽丝,追迹者,拉菲",
+    "translation": "使魔契约,比亚特丽丝,追追,拉菲",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The Familial Bond,Beatrice,Tracker,Laefe\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -429,21 +429,21 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-25-0",
     "original": "Why didn't Laefe answer Tracker's message?",
-    "translation": "拉菲为什么不回追迹者的消息？",
+    "translation": "拉菲为什么不回追追的消息？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why didn't Laefe answer Tracker's message?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-13-0",
     "original": "Why did Tracker finally hear Laefe?",
-    "translation": "追迹者 最后 为什么 能听到 拉菲？",
+    "translation": "追追 最后 为什么 能听到 拉菲？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did Tracker finally hear Laefe?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0",
     "original": "The stick,The sword,The weapon,The will",
-    "translation": "追迹者获得的,被偷的,威廉写的,凶手用的",
+    "translation": "追追获得的,被偷的,威廉写的,凶手用的",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The stick,The sword,The weapon,The will\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -471,7 +471,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-21-0",
     "original": "Why did Tracker finally hear Laefe?",
-    "translation": "追迹者最后为什么能听到拉菲？",
+    "translation": "追追最后为什么能听到拉菲？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why did Tracker finally hear Laefe?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -492,7 +492,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0",
     "original": "The thief,Beatrice,Eugene,Tracker",
-    "translation": "窃贼,比亚特丽丝,尤金,追迹者",
+    "translation": "窃贼,比亚特丽丝,尤金,追追",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Eugene,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -569,7 +569,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-22-0",
     "original": "Who did Tracker see in the air vent?",
-    "translation": "追迹者 在 通风管里 看见了 谁？",
+    "translation": "追追 在 通风管道里 看见了 谁？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"HaroldAfterEye2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who did Tracker see in the air vent?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -583,7 +583,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-25-0",
     "original": "Who did Tracker see in the air vent?",
-    "translation": "追迹者在通风管里看见了谁？",
+    "translation": "追追在通风管道里看见了谁？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"HaroldAfterEye2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Who did Tracker see in the air vent?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -611,7 +611,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0",
     "original": "Eugene,Beatrice,William,Tracker",
-    "translation": "尤金,比亚特丽丝,威廉,追迹者",
+    "translation": "尤金,比亚特丽丝,威廉,追追",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene,Beatrice,William,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -653,7 +653,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0",
     "original": "Eugene,Tracker,Harold,Beatrice",
-    "translation": "尤金,追迹者,哈罗德,比亚特丽丝",
+    "translation": "尤金,追追,哈罗德,比亚特丽丝",
     "stage": 1,
     "context": "{\n  \"node_name\": \"HaroldAfterEye4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene,Tracker,Harold,Beatrice\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
@@ -688,7 +688,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0",
     "original": "Eugene,Tracker,Harold,Beatrice",
-    "translation": "尤金,追迹者,哈罗德,比亚特丽丝",
+    "translation": "尤金,追追,哈罗德,比亚特丽丝",
     "stage": 1,
     "context": "{\n  \"node_name\": \"HaroldAfterEye6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene,Tracker,Harold,Beatrice\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
