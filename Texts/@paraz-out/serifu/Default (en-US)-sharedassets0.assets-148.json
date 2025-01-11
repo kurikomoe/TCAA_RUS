@@ -5581,7 +5581,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-860",
     "original": ":There's only one last person to speak with:[p/] Harold Haroldson.",
-    "translation": ": 只剩最后一个人要交谈了：[p/]哈罗德·哈罗德森。",
+    "translation": ":word: 只剩最后一个人要交谈了:[p/] 哈罗德·哈罗德森。",
     "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-860\",\n  \"keywords\": []\n}"
   },
@@ -6610,22 +6610,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1019",
     "original": "Tyrion: Wait...[p/] Is [i]that[/i] why you won't allow the servants to enter it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/]<u>这就是</u>你不让仆人进房间的原因？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1020",
     "original": "Liafal: I didn't [i]want[/i] to keep him in Beatrice's room,[p/] but he was very insistent that he stay here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我也<u>不想</u>让他待在比亚特丽丝的房间里，[p/]但他坚持要待在这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1020\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1021",
     "original": "Tracker: Tracker likes the ambiance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 追迹者喜欢这里的氛围。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1021\",\n  \"keywords\": []\n}"
   },
   {
@@ -6638,29 +6638,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1023",
     "original": "Tyrion: Wait...[p/] If you live in this room,[p/][s/] did [i]you[/i] see who brought the Sword of Spell Eating here?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/]如果你在这个房间里，[p/][s/]你看到是谁把噬法之剑带来了吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1024",
     "original": "Liafal: I already asked him about that,[p/] but he didn't see anyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我已经问过他了，[p/]但是他谁也没看见。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1025",
     "original": "Liafal: He must have been taking a nap...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 他肯定是打了个盹儿……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1026",
     "original": "Liafal: Either that or he was roaming outside even though I [i]told[/i] him to stay here!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 要么就是我让他待在房间里，他却去外面闲逛了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1026\",\n  \"keywords\": []\n}"
   },
   {
@@ -6694,29 +6694,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1031",
     "original": "Right.[p/] He was roaming the manor during the Lords' Ball.[p/] He must have seen a lot of new people...",
-    "translation": "",
-    "stage": 0,
+    "translation": "嗯。[p/]勋爵舞会期间他确实在庄园里闲逛。[p/]他肯定看到了很多不认识的人……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1032",
     "original": "Wait...[p/] If he was walking around,[p/][s/] he might have seen something that the Inquisition doesn't know about!",
-    "translation": "",
-    "stage": 0,
+    "translation": "等等……[p/]如果他在四处走动，[p/][s/那]他可能看到了裁判所不知道的事情！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1032\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1034",
     "original": "Tyrion: Can you tell us what you saw on the night of the murder, Tracker?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你能告诉我们谋杀当晚你看到了什么吗，追迹者？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1034\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1035",
     "original": "Tracker: Tracker see rats.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 追迹者看到了老鼠。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1035\",\n  \"keywords\": []\n}"
   },
   {
@@ -6729,22 +6729,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1037",
     "original": "This may be more difficult than you thought...",
-    "translation": "",
-    "stage": 0,
+    "translation": "可能没你想得那么简单。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1038",
     "original": "Tyrion: I need you to be more specific.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我希望你说得再具体些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1039",
     "original": "Tyrion: Can you go in order...?[p/] Tell me about everyone that you saw that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 能按顺序来吗……？[p/]告诉我那天晚上你看到的每一个人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1039\",\n  \"keywords\": []\n}"
   },
   {
@@ -8505,13 +8505,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-CourtroomC41_6-1325\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1326",
-    "original": "Orym: We didn't want to cause panic after the Sword was stolen.[p/] So we activated the manor's silent security system.[p/] It put an [b]Anti-Magic Field[/b] over the entire manor.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1326\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1327",
     "original": "Ruby: ...Wait, doesn't the Sword make the wielder immune to magical effects?",
     "translation": "",
@@ -8582,13 +8575,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1336\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1337",
-    "original": "Orym: We did a search of the house.[p/] And we found the stolen sword in the defendant's bedroom...[p/] That's how we knew it was her.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1337\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1338",
     "original": "Ruby: That seems like a strange conclusion to jump to.",
     "translation": "",
@@ -8629,13 +8615,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1343\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1344",
-    "original": "Orym: It didn't look like she was going to run,[p/] and Crown Prince Aster told us to stand down.[p/] So we just kept a close eye on her.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1344\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1345",
@@ -8736,13 +8715,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1358\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1359",
-    "original": "Orym: William Frega was in a bad mood that night.[p/] So he had already locked himself inside his study.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1359\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1360",
     "original": "Ruby: Did anyone see him enter the study?",
     "translation": "",
@@ -8834,13 +8806,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1372\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1373",
-    "original": "Orym: But an hour later,[p/] we entered the Study and found him lying dead in a pool of blood.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1373\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1374",
     "original": "Ruby: Who was the person that discovered the body?",
     "translation": "",
@@ -8888,13 +8853,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1380\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1381",
-    "original": "Orym: The lock was still engaged,[p/] and no one teleported in.[p/] The perp must've temporarily disabled the lock using something like the Sword of Spell Eating.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1381\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1382",
@@ -9000,13 +8958,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1396\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1397",
-    "original": "Orym: We have testimonies that say the defendant was seriously in debt.[p/] She must have murdered the victim to get a part of his inheritance.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1397\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1398",
@@ -10514,13 +10465,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1617\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1618",
-    "original": "Miriam: One day,[p/] we all woke up and discovered that Beatrice had fled from our home.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1618\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1619",
     "original": "Tyrion: That must have been a surprise for all of you.",
     "translation": "",
@@ -10554,13 +10498,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1623\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1624",
-    "original": "Miriam: She left a note for us.[p/] And in it,[p/] she renounced her name and denounced my father.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1624\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1625",
@@ -10619,13 +10556,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1632\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1633",
-    "original": "Miriam: My father later called me and my sister into his study.[p/] He told us that he'd completely disowned Beatrice and removed any claim she had to the Frega estate.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1633\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1634",
     "original": "Tyrion: That seems like a drastic reaction to her simply leaving her home.",
     "translation": "",
@@ -10675,13 +10605,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1640\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1641",
-    "original": "Miriam: It was probably a threat to us in case [i]we[/i] ever chose to go down the same path she did.[p/] He wanted to make an example out of her.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1641\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1642",
     "original": "Tyrion: That must have been difficult for you and Laefe.",
     "translation": "",
@@ -10715,13 +10638,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1646\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1647",
-    "original": "Miriam: This all happened five years ago.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1647\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1648",
@@ -11249,13 +11165,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-MiriamObjC4_4-1727\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1728",
-    "original": "Liafal: You see,[p/] Miriam was quite young when my father called us into his study five years ago.[p/] She didn't understand what he was [i]really[/i] doing.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1728\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1729",
     "original": "Tyrion: So you're saying that Miriam's testimony was based on a misunderstanding?",
     "translation": "",
@@ -11275,13 +11184,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1731\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1732",
-    "original": "Liafal: My father would often lie to us.[p/] It was one of the many ways that he kept us in line.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1732\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1733",
@@ -11326,13 +11228,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1738\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1739",
-    "original": "Liafal: The encounter that Miriam described was just another one of his lies.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1739\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1740",
     "original": "Tyrion: So you really think that your father would lie about something so important?",
     "translation": "",
@@ -11366,13 +11261,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1744\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1745",
-    "original": "Liafal: Despite their disagreements,[p/] my father would never disinherit Beatrice without a good reason.[p/] He always held onto the possibility that she would become desperate enough to return home.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1745\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1746",
@@ -11415,13 +11303,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1751\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1752",
-    "original": "Liafal: The truth is that none of us knew what my father was planning for House Frega's future.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1752\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1753",
@@ -12985,13 +12866,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-CourtroomC42_2-1989\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1990",
-    "original": "Harold: I was keeping an eye on my gallery's exhibits when I realized that my familiar hadn't returned.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-1990\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-1991",
     "original": "Tyrion: Are you referring to Eugene?",
     "translation": "",
@@ -13048,13 +12922,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-1998\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1999",
-    "original": "Harold: I called him telepathically.[p/] But he didn't respond.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-1999\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2000",
     "original": "Tyrion: Does he typically ignore you like that?",
     "translation": "",
@@ -13081,13 +12948,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2003\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2004",
-    "original": "Harold: I became worried,[p/] so I went around the manor to search for him.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2004\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2005",
@@ -13146,13 +13006,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2012\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2013",
-    "original": "Harold: About an hour later,[p/] I returned to the gallery and discovered that the exhibit that held the Sword of Spell Eating was completely destroyed.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2013\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2014",
     "original": "Tyrion: If I recall correctly,[p/] the glass was completely shattered.",
     "translation": "",
@@ -13195,13 +13048,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2019\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2020",
-    "original": "Harold: The artifact was missing.[p/] So I reported the crime to the knights at the Ball and they activated a discreet lockdown.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2020\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2021",
     "original": "Tyrion: The Sword of Spell Eating makes its wielder immune to magical effects.[p/] What use would the lockdown have been?",
     "translation": "",
@@ -13228,27 +13074,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2024\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2025",
-    "original": "Harold: Luckily,[p/] we found the Sword [i]and[/i] my familiar later that night.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2025\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2026",
-    "original": "Harold: As you probably know,[p/] the Kingsguard found the Sword of Spell Eating in the defendant's room.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2026\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2027",
-    "original": "Harold: Eugene finally responded to my telepathic messages.[p/] I met up with him in the gallery room before they finally found the artifact.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2027\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2029",
@@ -15330,13 +15155,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye14-2346\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2347",
-    "original": "Eugene: Eugene explore house! Eugene look for new place to play!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2347\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2348",
     "original": "Tyrion: But Harold is an associate of House Frega.",
     "translation": "",
@@ -15377,13 +15195,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2353\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2354",
-    "original": "Eugene: Eugene also look for spiders! Spiders yum yum!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2354\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2355",
@@ -15435,13 +15246,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2361\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2362",
-    "original": "Eugene: You think Eugene steal Armbands of Intellect?",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2362\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Armbands of Intellect\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2363",
     "original": "Tyrion: I wasn't accusing you of anything, Eugene.",
     "translation": "",
@@ -15475,13 +15279,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2367\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2368",
-    "original": "Eugene: Eugene never steal from Harold! Harold friend!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2368\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2369",
@@ -15545,13 +15342,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2377\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2378",
-    "original": "Eugene: Eugene always Harold's friend! Apes strong together!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2378\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2379",
@@ -16499,13 +16289,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj8-2517\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2518",
-    "original": "Eugene: I'll admit that I took the Armbands and replaced them with a replica.[p/] But I was [i]not[/i] the crook who stole the Sword of Spell Eating.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2518\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2519",
     "original": "Tyrion: You stole the Armbands by using Harold's spoken password?[p/] Am I correct?",
     "translation": "",
@@ -16569,13 +16352,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2527\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2528",
-    "original": "Eugene: The thefts were completely different from one another.[p/] The display case for the Sword was completely shattered.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2528\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2529",
     "original": "Tyrion: How do we know that you didn't shatter the glass to cover your tracks?",
     "translation": "",
@@ -16637,13 +16413,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2537\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2538",
-    "original": "Eugene: I spotted the Sword when I was exploring the manor.[p/] It was lying in the middle of a hallway.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2538\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2539",
@@ -16716,13 +16485,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2548\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2549",
-    "original": "Eugene: I spotted the Sword when I was heading back from the Rooftop Garden to the Gallery.[p/] It was lying in the middle of a hallway.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2549\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2550",
     "original": "Tyrion: So you were heading directly from the Rooftop Garden to the Gallery.",
     "translation": "",
@@ -16765,13 +16527,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2555\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2556",
-    "original": "Eugene: I wondered why such an important artifact would be lying there.[p/] So I took a closer look to inspect it.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2556\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2557",
     "original": "Tyrion: And [i]that's[/i] when you made contact with it?",
     "translation": "",
@@ -16807,13 +16562,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2561\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2562",
-    "original": "Eugene: That's when I heard Harold call out to me telepathically.[p/] The Sword must have protected me and Harold from the [b]Anti-Magic Field[/b].",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2562\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2563",
     "original": "Tyrion: Was this the first time he tried to contact you this night?",
     "translation": "",
@@ -16840,13 +16588,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2566\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2567",
-    "original": "Eugene: I wanted to take the Sword and return it.[p/] But a wild dog chased me away from the scene.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2567\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2568",
@@ -17493,13 +17234,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj5-2664\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2665",
-    "original": "Eugene: I discreetly made my way to that hallway through another air vent.[p/] I exited the air vent in that hallway and tried to leap to the other side.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2665\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2666",
     "original": "Tyrion: But why were you there in the first place?",
     "translation": "",
@@ -17577,13 +17311,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2676\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2677",
-    "original": "Eugene: I'm not sure if it was my waning intelligence or my desperation.[p/] But I collided with something that I didn't see.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2677\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2678",
     "original": "Tyrion: I thought monkeys were extremely dexterous.",
     "translation": "",
@@ -17619,13 +17346,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2682\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2683",
-    "original": "Eugene: I fell to the ground and found the Sword of Spell Eating laying next to me.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2683\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2684",
     "original": "Tyrion: How did you know it was the Sword of Spell Eating?",
     "translation": "",
@@ -17652,13 +17372,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2687\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2688",
-    "original": "Eugene: I wanted to retrieve the Sword.[p/] But that wild dog forced me to retreat.[p/] After that,[p/] I continued to make my way to the study.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2688\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2689",
@@ -17745,13 +17458,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2700\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2701",
-    "original": "Eugene: ...And that's when I found William Frega.[p/] He was dead on the floor and lying in a pool of blood.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2701\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2702",
     "original": "Ruby: It seems awfully convenient that he was murdered [i]before[/i] you arrived.",
     "translation": "",
@@ -17820,13 +17526,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2711\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2712",
-    "original": "Eugene: And as if I were blessed by the Scaled Lord himself,[p/] I found the will that he was drafting.[p/] So I destroyed it.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2712\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2713",
@@ -20251,13 +19950,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B12-3068\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-3069",
-    "original": "Alaric: You think Lady Frega cast magic right in front of me?[p/] Don't be a serf!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3069\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-3070",
     "original": "He probably meant \"Don't be absurd\"...[p/] But there's not much to gain from correcting him.",
     "translation": "",
@@ -20291,13 +19983,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3074\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3075",
-    "original": "Alaric: She was under the careful watch of the Kingsguard,[p/] my brother,[p/] [i]and[/i] Lord Steelwind!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3075\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3076",
@@ -20347,13 +20032,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3082\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3083",
-    "original": "Alaric: We conversed for the whole night and I didn't see her cast [i]any[/i] magic.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3083\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3084",
@@ -20426,13 +20104,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3093\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-3094",
-    "original": "Alaric: She told me and my brother how \"the occult are a fascinating phenomena\".[p/] I didn't see her cast [i]any[/i] magic.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3094\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-3095",
     "original": "Tyrion: Wouldn't saying \"the occult [i]is[/i] a fascinating phenomenon\" be more grammatically correct?",
     "translation": "",
@@ -20459,13 +20130,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3098\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3099",
-    "original": "Alaric: She's been through so much over the last few years...[p/] All because of her horrid father...",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3099\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3100",
@@ -20508,13 +20172,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3105\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3106",
-    "original": "Alaric: She'd never do something like this![p/][s/] You [i]and[/i] Lady Steelwind are just jealous!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3106\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3107",
@@ -21252,13 +20909,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-AlaricObj5-3216\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-3217",
-    "original": "Marrunath: I provided sight to my keeper while she spoke with the princes.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3217\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-3218",
     "original": "Tyrion: Is this something that you frequently do?",
     "translation": "",
@@ -21299,13 +20949,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3223\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3224",
-    "original": "Marrunath: ...[p/][p/]I'll admit that she [i]did[/i] cast [b]Invisibility[/b] on me during their conversation.[p/] She needed to keep me hidden after all.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3224\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3225",
@@ -21350,13 +20993,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3230\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-3231",
-    "original": "Marrunath: ...[p/][p/]But I never left the room where my master was.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3231\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-3232",
     "original": "Tyrion: And did your master leave the room while she was with the princes?",
     "translation": "",
@@ -21399,13 +21035,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3237\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-3238",
-    "original": "Marrunath: ...[p/][p/]Nor did I steal the Sword of Spell Eating.",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3238\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-3239",
     "original": "Tyrion: Beatrice was one of the few mages present that could shatter the glass.",
     "translation": "",
@@ -21432,13 +21061,6 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3242\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3243",
-    "original": "Marrunath: You have nothing on me, heavensborn![p/][s/] ...[p/][p/]You don't even have proof that I entered William Frega's Study!",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3243\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3244",
@@ -39417,27 +39039,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WillReading.yarn-WillReading6-6010\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-213",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Examine_Ballroom1-213\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-216",
-    "original": "Player: Flowers",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Examine_Ballroom1-216\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-220",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Examine_Ballroom1-220\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-221",
     "original": "Player: The Investigation",
     "translation": "Player: 调查",
@@ -39457,160 +39058,6 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Talk_Ballroom1-276\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-277",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-277\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-283",
-    "original": "Player: Celeste McCoy",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-283\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-291",
-    "original": "Player: Aria Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-291\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-298",
-    "original": "Player: Aster de Wyverngarde",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-298\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-304",
-    "original": "Player: Jan Hughes",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-304\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-309",
-    "original": "Player: Wallace Chillgrave",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-309\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-315",
-    "original": "Player: Beatrice Frega|Beatrice's Inheritance 0|Beatrice's Blindness",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-315\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"疑似物品： Beatrice's Blindness\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-320",
-    "original": "Player: William Frega|Autopsy Report: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-320\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: William Frega\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-326",
-    "original": "Player: Lucio Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-326\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-332",
-    "original": "Player: Liafal Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-332\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-340",
-    "original": "Player: Miriam Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-340\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-344",
-    "original": "Player: Harold Haroldson",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-344\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-351",
-    "original": "Player: Sword of Spell Eating|Sword of Spell Eating 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-351\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\",\n    \"疑似物品： Sword of Spell Eating 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-357",
-    "original": "Player: Missing Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-357\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Missing Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-365",
-    "original": "Player: Celeste's Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-365\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Sword\",\n    \"疑似物品： Celeste's Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-370",
-    "original": "Player: Liafal's Engagement",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-370\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Liafal's Engagement\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-380",
-    "original": "Player: Tracker",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-380\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-390",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-390\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-394",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-394\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-442",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom2.yarn-Examine_Ballroom2-442\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-445",
-    "original": "Player: Flowers",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom2.yarn-Examine_Ballroom2-445\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-449",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom2.yarn-Examine_Ballroom2-449\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-450",
@@ -39634,53 +39081,11 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom2.yarn-Talk_Ballroom2-474\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-501",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BallroomIntro.yarn-Examine_BallroomIntro-501\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-505",
-    "original": "Player: Flowers",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BallroomIntro.yarn-Examine_BallroomIntro-505\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-508",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BallroomIntro.yarn-Examine_BallroomIntro-508\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-509",
     "original": "Player: BACK",
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BallroomIntro.yarn-Talk_BallroomIntro-509\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-510",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BallroomIntro.yarn-Present_BallroomIntro-510\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-511",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BallroomIntro.yarn-Present_BallroomIntro-511\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-512",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-Examine_Barracks-512\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-513",
@@ -39695,55 +39100,6 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-Talk_Barracks-514\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-515",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-Present_Barracks-515\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-516",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-Present_Barracks-516\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-652",
-    "original": "Player: Bed",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Examine_BeatriceRoom1-652\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-654",
-    "original": "Player: Dresser",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Examine_BeatriceRoom1-654\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-657",
-    "original": "Player: Table",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Examine_BeatriceRoom1-657\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-659",
-    "original": "Player: Detect Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Examine_BeatriceRoom1-659\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-674",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Examine_BeatriceRoom1-674\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-675",
@@ -39809,90 +39165,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-804\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-805",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-805\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-811",
-    "original": "Player: Beatrice Frega|Beatrice's Inheritance 0",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-811\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-815",
-    "original": "Player: Miriam Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-815\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-821",
-    "original": "Player: William Frega|Autopsy Report: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-821\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: William Frega\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-832",
-    "original": "Player: Beatrice's Blindness",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-832\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Blindness\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-838",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-838\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-841",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Present_BeatriceRoom1-841\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-967",
-    "original": "Player: Bed",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Examine_BeatriceRoom2-967\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-970",
-    "original": "Player: Dresser",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Examine_BeatriceRoom2-970\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-973",
-    "original": "Player: Table",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Examine_BeatriceRoom2-973\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-975",
-    "original": "Player: Detect Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Examine_BeatriceRoom2-975\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-977",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Examine_BeatriceRoom2-977\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-978",
     "original": "Player: Tracker",
     "translation": "Player: 追迹者",
@@ -39926,48 +39198,6 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-1061\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1062",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Present_BeatriceRoom2-1062\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1070",
-    "original": "Player: Liafal Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Present_BeatriceRoom2-1070\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1075",
-    "original": "Player: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Present_BeatriceRoom2-1075\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1079",
-    "original": "Player: Tracker",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Present_BeatriceRoom2-1079\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1083",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Present_BeatriceRoom2-1083\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1087",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Present_BeatriceRoom2-1087\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1129",
@@ -40010,48 +39240,6 @@
     "translation": "",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce6-1161\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0\",\n          \"The stick,The sword,The weapon,The will\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0\",\n          \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0\",\n          \"was actually,was not,was actually,was not\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0\",\n          \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1202",
-    "original": "Player: Ballroom2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1202\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1203",
-    "original": "Player: Study2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1203\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1204",
-    "original": "Player: WaitingRoom2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1204\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1205",
-    "original": "Player: BeatriceRoom2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1205\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1206",
-    "original": "Player: Hallway2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1206\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1207",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1207\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1208",
@@ -40166,146 +39354,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1223\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-1407",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1407\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1412",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1412\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1413",
-    "original": "Player: Beatrice's Inheritance",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1413\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1414",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1414\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1423",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1423\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1657",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1657\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1661",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1661\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1662",
-    "original": "Player: Beatrice's Inheritance 1",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1662\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 1\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1663",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1663\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1668",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1668\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1758",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1758\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1764",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1764\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1765",
-    "original": "Player: Liafal's Engagement",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1765\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Liafal's Engagement\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1766",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1766\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-1771",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1771\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2028",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2028\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2034",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2034\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2035",
-    "original": "Player: Lockdown System",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2035\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Lockdown System\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2036",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2036\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2041",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2041\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2231",
     "original": "Player: Eugene Haroldson",
     "translation": "Player: 尤金·哈罗德森",
@@ -40348,20 +39396,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye7-2261\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0\",\n          \"wore,stole,framed,murdered\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0\",\n          \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-2388",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2388\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2396",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2396\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-2423",
     "original": "Player: Eugene is wearing the Armbands at this moment",
     "translation": "Player: 尤金 此时此刻 穿戴着 臂章",
@@ -40374,69 +39408,6 @@
     "translation": "",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj3-2424\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0\",\n          \"Eugene,Beatrice,William,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0\",\n          \"is wearing,found,stole,hid\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0\",\n          \"the Armbands,the Sword,the murder weapon,Celeste's sword\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0\",\n          \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2573",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2573\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2578",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2578\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2579",
-    "original": "Player: Frega Manor Floor 2|Tracker's Testimony",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2579\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Frega Manor Floor 2\",\n    \"疑似物品： Tracker's Testimony\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2580",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2580\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2585",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2585\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2723",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2723\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2727",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2727\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2728",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2728\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-2733",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2733\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2766",
@@ -40465,55 +39436,6 @@
     "translation": "",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj13-2779\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0\",\n          \"was sneaking,was walking,was breaking,was tunneling\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0\",\n          \"through,on top of,outside of,under\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0\",\n          \"the air vents,William's Study,the hallway,the manor\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3112",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3112\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3118",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3118\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3119",
-    "original": "Player: Invisibility",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3119\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3120",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3120\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3125",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3125\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3255",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3255\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-3261",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3261\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3280",
@@ -40572,55 +39494,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3544\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0\",\n          \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0\",\n          \"is facilitated through,were committed by,were hidden by,were killed by\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0\",\n          \"a Pact,a weapon,an artifact,a spell\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-4096",
-    "original": "Player: Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4096\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4099",
-    "original": "Player: Earrings",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4099\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4102",
-    "original": "Player: Armbands",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4102\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4105",
-    "original": "Player: Painting 1",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4105\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4117",
-    "original": "Player: Painting 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4117\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4132",
-    "original": "Player: Detect Glass",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4132\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4137",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4137\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-4138",
     "original": "Player: The Artifacts",
     "translation": "Player: 遗物",
@@ -40663,62 +39536,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4230\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-4231",
-    "original": "Player: Beatrice's Inheritance 0|Beatrice's Inheritance 1|Beatrice's Inheritance|Beatrice's Blindness",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4231\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance 1\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"疑似物品： Beatrice's Blindness\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4235",
-    "original": "Player: Autopsy Report: William Frega|William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4235\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: William Frega\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4239",
-    "original": "Player: Harold Haroldson",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4239\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4246",
-    "original": "Player: Sword of Spell Eating|Sword of Spell Eating 2|Sword of Spell Eating 3|Armbands of Intellect|Haroldson's Security",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4246\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\",\n    \"疑似物品： Sword of Spell Eating 2\",\n    \"疑似物品： Sword of Spell Eating 3\",\n    \"疑似物品： Armbands of Intellect\",\n    \"疑似物品： Haroldson's Security\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4250",
-    "original": "Player: Earrings of Vitality",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4250\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Earrings of Vitality\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4254",
-    "original": "Player: Armbands of Intellect 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4254\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Armbands of Intellect\",\n    \"疑似物品： Armbands of Intellect 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4259",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4259\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4263",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Present_Gallery1-4263\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-4287",
     "original": "Player: The thief is a powerful mage",
     "translation": "Player: 窃贼 是一个 强大的法师",
@@ -40745,48 +39562,6 @@
     "translation": "",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4313\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0\",\n          \"William,Beatrice,Harold,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0\",\n          \"died,was arrested,planted the Sword,met Aster\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0\",\n          \"before,at the moment,after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0\",\n          \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4337",
-    "original": "Player: Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4337\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4354",
-    "original": "Player: Earrings",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4354\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4366",
-    "original": "Player: Armbands",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4366\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4374",
-    "original": "Player: Painting 1",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4374\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4381",
-    "original": "Player: Painting 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4381\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4393",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4393\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4394",
@@ -40824,62 +39599,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Talk_GalleryIntro-4439\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-4440",
-    "original": "Player: Harold Haroldson",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Present_GalleryIntro-4440\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4450",
-    "original": "Player: Sword of Spell Eating|Earrings of Vitality|Armbands of Intellect",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Present_GalleryIntro-4450\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\",\n    \"疑似物品： Earrings of Vitality\",\n    \"疑似物品： Armbands of Intellect\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4456",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Present_GalleryIntro-4456\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4460",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Present_GalleryIntro-4460\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4493",
-    "original": "Player: Vent",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Examine_Hallway2-4493\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4505",
-    "original": "Player: Crystal",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Examine_Hallway2-4505\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4508",
-    "original": "Player: Detect Vent",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Examine_Hallway2-4508\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4515",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Examine_Hallway2-4515\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-4516",
     "original": "Player: Eris Illmater",
     "translation": "Player: 厄莉斯·伊尔马特",
@@ -40894,88 +39613,11 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Talk_Hallway2-4533\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-4534",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Present_Hallway2-4534\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4541",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Present_Hallway2-4541\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4662",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/HallwayIntro.yarn-Examine_HallwayIntro-4662\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4665",
-    "original": "Player: Crystal",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/HallwayIntro.yarn-Examine_HallwayIntro-4665\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4668",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/HallwayIntro.yarn-Examine_HallwayIntro-4668\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-4669",
     "original": "Player: BACK",
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/HallwayIntro.yarn-Talk_HallwayIntro-4669\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4670",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/HallwayIntro.yarn-Present_HallwayIntro-4670\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4671",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/HallwayIntro.yarn-Present_HallwayIntro-4671\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4749",
-    "original": "Player: Air Vent",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Examine_Storage-4749\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4752",
-    "original": "Player: Ladder",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Examine_Storage-4752\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4755",
-    "original": "Player: Boxes",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Examine_Storage-4755\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4758",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Examine_Storage-4758\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4759",
@@ -41004,111 +39646,6 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Talk_Storage-4798\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4799",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4799\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4803",
-    "original": "Player: Jan Hughes",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4803\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4816",
-    "original": "Player: Rats in the Vents",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4816\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Rats in the Vents\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4821",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4821\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4827",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4827\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4854",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4854\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4857",
-    "original": "Player: Fireplace",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4857\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4861",
-    "original": "Player: Painting",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4861\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4869",
-    "original": "Player: Bookshelf",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4869\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4874",
-    "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4874\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4878",
-    "original": "Player: Books",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4878\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4881",
-    "original": "Player: Body",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4881\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4883",
-    "original": "Player: Table",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4883\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4886",
-    "original": "Player: Detect Body",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4886\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-4891",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4891\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4892",
@@ -41167,132 +39704,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5025\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-5026",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5026\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5032",
-    "original": "Player: Celeste McCoy",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5032\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5037",
-    "original": "Player: Missing Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5037\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Missing Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5044",
-    "original": "Player: Aria Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5044\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5059",
-    "original": "Player: Orym White",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5059\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5064",
-    "original": "Player: Ruby Tymora",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5064\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5074",
-    "original": "Player: Miriam Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5074\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5082",
-    "original": "Player: Wallace Chillgrave",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5082\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5094",
-    "original": "Player: Aster de Wyverngarde",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5094\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5101",
-    "original": "Player: Beatrice Frega|Beatrice's Inheritance 0|Beatrice's Inheritance",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5101\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5115",
-    "original": "Player: Beatrice's Blindness",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5115\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Blindness\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5120",
-    "original": "Player: Sword of Spell Eating|Sword of Spell Eating 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5120\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\",\n    \"疑似物品： Sword of Spell Eating 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5126",
-    "original": "Player: Haroldson's Security",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5126\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Haroldson's Security\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5131",
-    "original": "Player: William Frega|Autopsy Report: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5131\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: William Frega\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5137",
-    "original": "Player: Liafal Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5137\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5142",
-    "original": "Player: Lockdown System|Method of Entry",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5142\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Lockdown System\",\n    \"疑似物品： Method of Entry\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5146",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5146\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5149",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5149\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-5176",
     "original": "Player: The murder occurred during the lockdown",
     "translation": "Player: 谋杀发生在 封锁 之间",
@@ -41342,69 +39753,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5250\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-5253",
-    "original": "Player: Fireplace",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5253\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5255",
-    "original": "Player: Painting",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5255\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5263",
-    "original": "Player: Bookshelf",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5263\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5268",
-    "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5268\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5271",
-    "original": "Player: Books",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5271\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5274",
-    "original": "Player: Body",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5274\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5276",
-    "original": "Player: Table",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5276\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5279",
-    "original": "Player: Detect Body",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5279\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5284",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5284\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-5285",
     "original": "Player: What were you looking for?",
     "translation": "Player: 你在找什么？",
@@ -41438,125 +39786,6 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5343\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5344",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5344\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5347",
-    "original": "Player: Celeste McCoy",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5347\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5356",
-    "original": "Player: Aria Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5356\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5363",
-    "original": "Player: Liafal Frega|Liafal's Testimony|Liafal's Testimony 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5363\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Liafal's Testimony\",\n    \"疑似物品： Liafal's Testimony 2\",\n    \"疑似物品： Liafal's Testimony\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5371",
-    "original": "Player: Beatrice Frega|Beatrice's Inheritance 0|Beatrice's Inheritance 1|Beatrice's Inheritance",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5371\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance 1\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5376",
-    "original": "Player: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5376\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5382",
-    "original": "Player: William's Modified Will",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5382\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： William's Modified Will\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5386",
-    "original": "Player: Frega Manor Floor 1|Frega Manor Floor 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5386\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Frega Manor Floor 1\",\n    \"疑似物品： Frega Manor Floor 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5391",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5391\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5394",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5394\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5530",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5530\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5533",
-    "original": "Player: Painting",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5533\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5552",
-    "original": "Player: Bookshelf",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5552\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5555",
-    "original": "Player: Door",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5555\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5557",
-    "original": "Player: Chair",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5557\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5561",
-    "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5561\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5563",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5563\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5564",
@@ -41601,139 +39830,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5636\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-148-5637",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5637\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5641",
-    "original": "Player: Aria Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5641\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5646",
-    "original": "Player: Ruby Tymora",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5646\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5650",
-    "original": "Player: William Frega|Autopsy Report: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5650\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: William Frega\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5653",
-    "original": "Player: Beatrice Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5653\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5665",
-    "original": "Player: Liafal Frega|Liafal's Engagement",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5665\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Liafal's Engagement\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5674",
-    "original": "Player: Aster de Wyverngarde",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5674\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5679",
-    "original": "Player: Harold Haroldson",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5679\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5682",
-    "original": "Player: Lloyd von Sanctus",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5682\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5692",
-    "original": "Player: Beatrice's Inheritance 0",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5692\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5695",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5695\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5699",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5699\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5724",
-    "original": "Player: Chandalier",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5724\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5727",
-    "original": "Player: Painting",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5727\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5731",
-    "original": "Player: Bookshelf",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5731\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5734",
-    "original": "Player: Door",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5734\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5736",
-    "original": "Player: Chair",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5736\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5740",
-    "original": "Player: Window",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5740\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5742",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5742\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-148-5743",
     "original": "Player: Tyrion and Celeste",
     "translation": "Player: 提利昂和塞莱斯特",
@@ -41767,89 +39863,5 @@
     "translation": "Player: 返回",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5802\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5803",
-    "original": "Player: Tyrion Cuthbert|Ruby Tymora",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5803\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5812",
-    "original": "Player: Celeste McCoy",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5812\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5819",
-    "original": "Player: Aria Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5819\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5826",
-    "original": "Player: Beatrice Frega|Beatrice's Blindness|Beatrice's Alibi",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5826\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Blindness\",\n    \"疑似物品： Beatrice's Alibi\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5834",
-    "original": "Player: William Frega|Autopsy Report: William Frega",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5834\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: William Frega\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5840",
-    "original": "Player: Aster de Wyverngarde",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5840\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5848",
-    "original": "Player: Lucio Steelwind",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5848\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5854",
-    "original": "Player: Harold Haroldson",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5854\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5858",
-    "original": "Player: Beatrice's Inheritance 0|Beatrice's Inheritance 1|Beatrice's Inheritance",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5858\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Beatrice's Inheritance 0\",\n    \"疑似物品： Beatrice's Inheritance 1\",\n    \"疑似物品： Beatrice's Inheritance\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5863",
-    "original": "Player: Celeste's Sword",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5863\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Sword\",\n    \"疑似物品： Celeste's Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5869",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5869\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-148-5872",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5872\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   }
 ]

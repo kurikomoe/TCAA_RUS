@@ -12775,13 +12775,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony_Orym2-1936\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-1937",
-    "original": "Orym: It’s true that the sword itself isn’t magical.[p/] But magic can still be channeled through it.",
-    "translation": "Orym: 那把剑本身确实没有魔法属性，[p/]但是魔法依然可以被附在上面。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1937\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-1938",
     "original": "Tyrion: Are you saying that my client used a spell and channeled it through her sword?",
     "translation": "Tyrion:你是说我的委托人用法术在剑上附魔？",
@@ -12801,13 +12794,6 @@
     "translation": "Aria: [b]形变术[/b]类的法术几乎都需要物体媒介。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1940\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1941",
-    "original": "Orym: That defendant over there? [p/] Her [b]Spell Compendium[/b] has a spell called “[b]Mage Blade[/b]”.",
-    "translation": "Orym: 被告的[b]法术汇编[/b]证实，她会一种叫做“[b]法术剑刃[/b]”的法术。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1941\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1942",
@@ -12880,13 +12866,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1951\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-1952",
-    "original": "Orym: She must have used it on her sword [i]before[/i] stabbing the victim.",
-    "translation": "Orym: 她一定在刺杀受害者<u>之前</u>用了这个法术给剑附魔。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1952\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-1953",
     "original": "Tyrion: But why would she go to the trouble of doing that?",
     "translation": "Tyrion: 为什么要这么麻烦呢？",
@@ -12955,13 +12934,6 @@
     "translation": "暂时……还没有。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1962\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1963",
-    "original": "Orym: [i]That[/i] spell is the reason why there were traces of [b]Transmutation[/b] magic on the wound.",
-    "translation": "Orym: 这就是伤口上有[b]形变术[/b]痕迹的原因。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1963\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1964",
@@ -13116,13 +13088,6 @@
     "translation": "刚才她<u>这是</u>怎么了？",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1985\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1986",
-    "original": "Orym: You can see it right in this photo. She killed him with a stab from the front.",
-    "translation": "Orym: 如图片所示，她从正面一刀捅死了他。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1986\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1987",
@@ -14756,13 +14721,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Trial1_Intro7-2224\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2225",
-    "original": "Orym: We got a call late at night. Someone discovered a dead body inside the McCoy Tavern.",
-    "translation": "Orym: 我们深夜时分接到报警。[p/]有人在麦考伊酒馆内发现了一具尸体。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2225\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2226",
     "original": "Tyrion: At what time exactly did you get this call?[p/] And who discovered the body?",
     "translation": "Tyrion: 你具体是在什么时间接到报案的？[p/]是谁发现了尸体？",
@@ -14803,13 +14761,6 @@
     "translation": "Aria: 指挥官，当你赶到现场时发生了什么？",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2231\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2232",
-    "original": "Orym: When we arrived on the scene,[p/] we found Flinhart McCoy dead on the floor. The defendant’s sword was still inside of him.",
-    "translation": "Orym: 当我们赶到现场时，[p/]我们发现了地板上已经死亡的弗林哈特·麦考伊。[p/]被告的剑仍插在受害者的身上。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2232\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2233",
@@ -14875,13 +14826,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2241\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2242",
-    "original": "Orym: We have several witnesses who heard the victim and defendant in a loud argument before the body was discovered.",
-    "translation": "Orym: 尸体被发现之前，有几个证人听到了受害者与被告的激烈争吵。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2242\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2243",
     "original": "Tyrion: How did they know it was my client and the victim that were arguing?",
     "translation": "Tyrion: 他们怎么知道当晚是我的委托人和受害者在争吵？",
@@ -14936,13 +14880,6 @@
     "translation": "哎，[p/]被他们得逞了。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2250\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2251",
-    "original": "Orym: Their argument must have turned ugly.[p/] Because the defendant killed the victim using her magic sword.",
-    "translation": "Orym: 他们的争吵十分激烈，以至于被告用她的魔法剑杀害了受害者。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2251\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2252",
@@ -15743,13 +15680,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Testimony_Rhys-2370\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2371",
-    "original": "Rhys: I was transporting a client in my carriage that evening.",
-    "translation": "Rhys: 那晚我正载着一位客人。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2371\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2372",
     "original": "Tyrion: Who was the passenger in your carriage?",
     "translation": "Tyrion: 当时车上的乘客是谁？",
@@ -15827,13 +15757,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2382\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2383",
-    "original": "Rhys: We were driving by the McCoy Tavern when we heard a disturbance.[p/] This occurred at 1:28 am.",
-    "translation": "Rhys: 我们路过麦考伊的酒馆时听到了一阵骚乱，[p/]当时是凌晨 1:28。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2383\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2384",
     "original": "Tyrion: I’m assuming this “disturbance” was the argument between my client and her father.",
     "translation": "Tyrion: 我想“骚乱”是指当事人与她父亲的争吵。",
@@ -15867,13 +15790,6 @@
     "translation": "Aria: 鲁道夫先生，在那之后发生了什么？",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2388\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2389",
-    "original": "Rhys: Worried that something was amiss,[p/] I walked into the establishment to see what the commotion was about.",
-    "translation": "Rhys: 由于担心会出什么事，[p/]我走进了酒馆一探究竟。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2389\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2390",
@@ -15937,13 +15853,6 @@
     "translation": "Aria: 鲁道夫先生，[p/]请告诉我们你看见了什么。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2398\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2399",
-    "original": "Rhys: There I saw the defendant.[p/] She was lit by the blue glow of the dining room lights.[p/][s/] She had stabbed Flinhart McCoy and was channeling magic into her sword!",
-    "translation": "Rhys: 就在那时我看见了被告。[p/]餐厅里蔚蓝的微光照亮了她的身影。[p/][s/]她当时正用自己附魔的剑刺向受害者！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2399\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2400",
@@ -16023,13 +15932,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2410\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2411",
-    "original": "Rhys: She removed her sword from Flinhart’s back,[p/] and as he slowly turned to face her,[p/][s/] she stabbed him again in the front!",
-    "translation": "Rhys: 她拔出剑，[p/] 就在弗林哈特转身看向她的时候，[p/][s/]她又从正面刺了他一剑！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2411\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2412",
     "original": "Tyrion: So,[p/] you’re saying that my defendant stabbed him [i]twice[/i] with her sword?",
     "translation": "Tyrion: 所以，[p/]你是说被告用剑捅了受害人<u>两次</u>？",
@@ -16098,13 +16000,6 @@
     "translation": "你必须<u>证明</u>他在说谎，否则不会有任何进展。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2421\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2422",
-    "original": "Rhys: She soon realized that I had witnessed her heinous crime.[p/] She let the body fall to the ground and fled the scene.",
-    "translation": "Rhys: 她马上就意识到我目睹了她的暴行。[p/]她顾不上倒地的尸体，马上逃离了现场。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2422\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2423",
@@ -16562,13 +16457,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Testimony_Rhys2-2492\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2493",
-    "original": "Rhys: I remember now![p/][s/] Yesterday,[p/] it was revealed that Flinhart was killed using magic!",
-    "translation": "Rhys: 我现在想起来了！[p/][s/]昨天，[p/]你们揭示弗林哈特是被魔法杀害的！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2493\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2494",
     "original": "Tyrion: Are you changing your testimony based on yesterday’s trial?",
     "translation": "Tyrion: 你是在基于昨天的庭审修改证言吗？",
@@ -16588,13 +16476,6 @@
     "translation": "Rhys: 但是仔细考虑过后，[p/][s/]我终于<u>明白</u>自己看到了什么！",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2496\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2497",
-    "original": "Rhys: I must have seen Flinhart’s daughter channeling a magic spell.",
-    "translation": "Rhys: 我看到的肯定是弗林哈特的女儿在使用某种法术。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2497\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2498",
@@ -16639,13 +16520,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2503\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2504",
-    "original": "Rhys: The spell was called “[b]Mage Blade[/b]”,[p/] am I correct?",
-    "translation": "Rhys: 那个法术叫“[b]法术剑刃[/b]”对吧？",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2504\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2505",
     "original": "Tyrion: You seem uncertain about the spell that you saw my client use.",
     "translation": "Tyrion: 你好像不太确定我的委托人用了什么法术。",
@@ -16686,13 +16560,6 @@
     "translation": "必须证明他<u>没有</u>看见[b]法术剑刃[/b]，否则不会有任何进展。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2510\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2511",
-    "original": "Rhys: That’s it![p/][s/] The blue glow that I saw must have been created by [b]Mage Blade[/b]!",
-    "translation": "Rhys: 就是那个！[p/][s/]一定是[b]法术剑刃[/b]释放出的蓝光！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2511\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2512",
@@ -17381,13 +17248,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Testimony_Garrick-2614\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2615",
-    "original": "Garrick: On the night of the murder,[p/] I found myself unable to sleep.[p/] So, I went on a leisurely carriage ride around Kornhaven.",
-    "translation": "Garrick: 案发当晚，[p/]我难以入睡。[p/]于是我乘马车在科尔哈文附近散心。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2615\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2616",
     "original": "Tyrion: That seems like a...[p/] strange way to pass the time.",
     "translation": "Tyrion: 你散心的方式……[p/]挺有雅兴啊。",
@@ -17430,13 +17290,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2621\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2622",
-    "original": "Garrick: I happened to be passing by the McCoy tavern when I heard a loud commotion from within the building.",
-    "translation": "Garrick: 经过麦考伊酒馆时，我恰好听到屋内一阵骚乱。",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2622\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2623",
     "original": "Tyrion: I’m guessing this “commotion” was the argument between my client and the victim?",
     "translation": "Tyrion: 你听到的“骚乱”是我的委托人与受害者的争论？",
@@ -17463,13 +17316,6 @@
     "translation": "Aria: 证人路过时听到的说法并不可疑。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2626\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2627",
-    "original": "Garrick: Curious,[p/] I stopped my carriage and took a single step inside the establishment.[p/][s/] That is when I saw the scene inside!",
-    "translation": "Garrick: 好奇心作祟，[p/]我下车刚向里踏进一步，[p/][s/]就看到了里面的情形！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2627\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2628",
@@ -17654,13 +17500,6 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2653\",\n  \"keywords\": []\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-2654",
-    "original": "Garrick: I used [b]Conjure Light[/b] to illuminate the scene from the tavern entrance. From there, I clearly saw the crime unfold!",
-    "translation": "Garrick: 我在旅馆门口用了[b]祈愿光芒[/b]照亮现场。在那里，我清晰看见了犯罪的全过程！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2654\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-2655",
     "original": "Tyrion: Casting a spell seems like a pretty significant detail to forget.",
     "translation": "Tyrion: 施法这种重要细节不该忘记吧？",
@@ -17687,13 +17526,6 @@
     "translation": "你承认自己确实不知道施法是什么样的感觉。",
     "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2658\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2659",
-    "original": "Garrick: I saw the defendant stabbing that poor man twice with her sword!",
-    "translation": "Garrick: 我看见被告用她的剑捅了受害者两次！",
-    "stage": 5,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2659\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2660",
@@ -18406,1548 +18238,1324 @@
     "key": "Default (en-US)-sharedassets0.assets-144-2766",
     "original": "Aria: The very idea of that is preposterous, Your Honor.",
     "translation": "Aria: 这个想法本身就很荒谬，法官阁下。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2766\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2767",
     "original": "Damn it…[p/] You knew she was planning something.",
     "translation": "该死的……[p/]你就知道她早有谋划。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2767\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2768",
     "original": "Aria: Let’s revisit the basic facts of this case, shall we?",
     "translation": "Aria: 我们来重新回顾一下案件的基本事实，好吗？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2768\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2769",
     "original": "Aria: Flinhart McCoy was murdered using a blade with a [b]transmutation[/b] spell active on it.",
     "translation": "Aria: 弗林哈特·麦考伊是被一把附有[b]形变术[/b]的刃器杀害的。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2769\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2770",
     "original": "Aria: Mr. Cuthbert,[p/] why don’t you tell me the spells that Lord Pierce knows?",
     "translation": "Aria: 卡斯伯特先生，[p/]要不你来告诉我皮尔斯勋爵知晓的法术都有哪些吧？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2770\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2771",
     "original": "Tyrion: Um…[p/] Alright.",
     "translation": "Tyrion: 呃……[p/]好吧。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2771\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2772",
     "original": "Tyrion: His spells are: [b]Prestidigitation[/b],[p/] [b]Conjure Light[/b],[p/] [b]Conjure Water[/b],[p/] [b]Frost Wave[/b],[p/] and [b]Shape Liquid[/b].",
     "translation": "Tyrion: 他拥有的法术有: [b]魔术戏法[/b]，[p/][b]祈愿光芒[/b]，[p/][b]造水术[/b]，[p/][b]霜波[/b]，[p/]以及[b]形变液体[/b]。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2772\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2773",
     "original": "Tyrion: …",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2773\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2774",
     "original": "Tyrion: …!",
     "translation": "Tyrion: ……!",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2774\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2775",
     "original": "Aria: You’ve realized it too, haven’t you?",
     "translation": "Aria: 你也意识到了，不是吗?",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2775\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2776",
     "original": "Aria: Lord Pierce doesn’t [i]know[/i] any [b]transmutation[/b] spells that can be channeled through a solid object!",
     "translation": "Aria: 皮尔斯勋爵<u>并不知道</u>任何能用于固体的[b]形变术[/b]！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2776\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2777",
     "original": "Tyrion: What?!",
     "translation": "Tyrion: 什么？！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2777\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2778",
     "original": "Tyrion: T-[p/]that…[p/][s/] That can’t be right!",
     "translation": "Tyrion: 这、[p/]这……[p/][s/]这不可能！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2778\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2779",
     "original": "Garrick: ...!",
     "translation": "Garrick: …...！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2779\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2780",
     "original": "Garrick: Ha![p/][s/] You’re right![p/][s/] You’re absolutely right, Lady Steelwind!",
     "translation": "Garrick: 哈！[p/][s/]你说得对啊！[p/][s/]你说得完全正确，斯蒂尔文德女士！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2780\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2781",
     "original": "Garrick: I couldn’t have [b]possibly[/b] committed the murder.",
     "translation": "Garrick:我本来就[b]不可能[/b]实施这次谋杀。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2781\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2782",
     "original": "Judge: I see…",
     "translation": "Judge: 我明白了……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2782\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2783",
     "original": "Judge: With that in mind,[p/] that would leave the defendant as the only possible killer.",
     "translation": "Judge: 考虑到这一点，[p/]那被告就是唯一可能的凶手。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2783\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2784",
     "original": "Celeste: But he was the only other mage there!",
-    "translation": "Celeste: 但他是当时唯一在场的其他法师！",
-    "stage": 1,
+    "translation": "Celeste: 但他是当时除我以外在场的唯一一个法师！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2784\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2785",
     "original": "Celeste: He [i]has[/i] to be the real murderer!",
-    "translation": "Celeste: 他[i]只能是[/i]那个真凶！",
-    "stage": 1,
+    "translation": "Celeste: 真凶<u>只可能</u>是他！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2785\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2786",
     "original": "Tyrion: But he doesn’t know any [b]transmutation[/b] spells that can affect a solid object.",
-    "translation": "Tyrion: 但他确实没有习得可以影响固体的[b]形变[/b]魔法。",
-    "stage": 1,
+    "translation": "Tyrion: 但他确实不知道任何可以影响固体的[b]形变术[/b]。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2786\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2787",
     "original": "Tyrion: We can’t prove that he stabbed him while casting magic.",
     "translation": "Tyrion: 我们没法证明他在施放魔法时刺杀了被害人。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2787\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2788",
     "original": "Celeste: Wait a minute…",
     "translation": "Celeste: 等一下……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2788\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2789",
     "original": "Celeste: How did he do it then?",
     "translation": "Celeste: 那他怎么做到的呢？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2789\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2790",
     "original": "Tyrion: …!",
     "translation": "Tyrion: ……！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2790\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2791",
     "original": "She’s right![p/] How [i]did[/i] he do it?",
-    "translation": "她说到点子上了！[p/]他[i]怎么[/i]做到的?",
-    "stage": 1,
+    "translation": "她说到点子上了！[p/]他<u>怎么</u>做到的？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2791\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2792",
     "original": "If there are traces of [b]transmutation[/b] magic on the wound…[p/] then Flinhart was definitely stabbed by something magical.",
-    "translation": "如果伤口上有[b]形变[/b]魔法的痕迹的话……那么弗林哈特必然是被魔法相关的什么东西刺杀的。",
-    "stage": 1,
+    "translation": "如果伤口上有[b]形变术[/b]魔法痕迹的话……[p/]那么弗林哈特必然是被魔法相关的什么东西刺杀的。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2792\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2793",
     "original": "But none of his [b]transmutation[/b] spells can affect a steel blade…",
-    "translation": "但他没有能影响钢剑的[b]形变[/b]魔法……",
-    "stage": 1,
+    "translation": "但他没有能影响钢剑的[b]形变术[/b]魔法……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2793\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2794",
     "original": "...Does that mean that he used something else?",
-    "translation": "……是否意味着他使用了其他的东西？",
-    "stage": 1,
+    "translation": "……是否意味着他使用了其他东西？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2794\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2795",
     "original": "Judge: The defense [i]did[/i] cast some doubt on this witness’s testimony.",
-    "translation": "Judge: 辩护人[i]确实[/i]就证词提出了一些疑点。",
-    "stage": 1,
+    "translation": "Judge: 辩护人<u>确实</u>提出了一些证词的疑点。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2795\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2796",
     "original": "Judge: Nevertheless,[p/] I must conclude that he could not have possibly committed the murder.",
-    "translation": "Judge: 但无论如何，[p/]我只能作出他没有可能实施谋杀的结论。",
-    "stage": 1,
+    "translation": "Judge: 然而，[p/]我的结论还是他没有可能实施谋杀。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2796\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2797",
     "original": "Judge: With that in mind-",
     "translation": "Judge: 考虑到这一点——",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2797\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2798",
     "original": "Tyrion: Please wait, Your Honor!",
     "translation": "Tyrion: 请等一下，法官阁下！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2798\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2799",
     "original": "Tyrion: We still can’t conclude that Lord Pierce couldn’t have committed the crime.",
-    "translation": "Tyrion: 我们还不能得出皮尔斯勋爵没有能力实施谋杀这一结论！",
-    "stage": 1,
+    "translation": "Tyrion: 我们还不能得出皮尔斯勋爵没有可能实施谋杀的结论！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2799\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2800",
     "original": "Garrick: What are you on about?",
     "translation": "Garrick: 你在说什么呢？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2800\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2801",
     "original": "Garrick: Lady Steelwind said it herself, you commoner!",
     "translation": "Garrick: 斯蒂尔文德女士已经说过了，你这平民！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2801\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2802",
     "original": "Garrick: I don’t know any spells that can be channeled through a metal blade!",
     "translation": "Garrick: 我根本不知道任何能用于金属刃器的法术！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2802\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2803",
     "original": "Tyrion: …",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2803\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2804",
     "original": "He's right...[p/] Which can only mean one thing...",
     "translation": "他说得对……[p/]因此这只意味着一件事。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2804\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2805",
     "original": "Tyrion: You didn’t use a metal blade, did you?",
     "translation": "Tyrion: 你并没有使用金属刃器，不是吗？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2805\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2806",
     "original": "Garrick: …",
     "translation": "Garrick: ……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2806\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2807",
     "original": "Garrick: …!",
     "translation": "Garrick: ……！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2807\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2808",
     "original": "Aria: What nonsense is this?",
     "translation": "Aria: 这都是什么无稽之谈?",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2808\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2809",
     "original": "Aria: The autopsy report clearly states that the wound was created by a blade.",
-    "translation": "Aria: 尸检报告已经清楚地表明创伤是刃器造成的。",
-    "stage": 1,
+    "translation": "Aria: 尸检报告已经清楚地表明伤口是刃器造成的。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2809\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2810",
     "original": "Aria: If he didn’t channel magic through a blade,[p/] how could he have possibly committed the crime?",
     "translation": "Aria: 如果他没有他通过刃器施放魔法，[p/]他又怎么可能实施这次犯罪呢？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2810\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2811",
     "original": "Judge: Yes,[p/] your claim seems quite contrary to the facts thus far, Mr. Cuthbert.",
     "translation": "Judge: 是的，[p/]你的主张看起来与目前已知的事实有矛盾，卡斯伯特先生。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2811\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2812",
     "original": "Judge: Which spell could Lord Pierce have possibly used to kill the victim?",
     "translation": "Judge: 哪种法术是皮尔斯勋爵可能用于杀死被害人的？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Aria_Retort-2812\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2815",
     "original": "Judge: Um...[p/] What's this?",
     "translation": "Judge: 嗯……[p/]这是什么？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2815\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2816",
     "original": "Tyrion: [i]This[/i] is the spell that Lord Pierce used to commit the murder.",
     "translation": "Tyrion: [i]这就是[/i]皮尔斯勋爵用于事实谋杀的那个法术。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2816\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2817",
     "original": "Aria: Mr. Cuthbert,[p/] I fail to see how [i]that[/i] could have killed the victim [i]and[/i] left a trace of [b]transmutation[/b].",
-    "translation": "Aria: 卡斯伯特先生，[p/]我不明白[i]那个[/i]是怎么能杀死被害人的，[i]并且[/i]还留下了[b]形变[/b]魔法的痕迹。",
-    "stage": 1,
+    "translation": "Aria: 卡斯伯特先生，[p/]我不明白<u>这</u>是怎么杀死被害人<u>并</u>留下了[b]形变术[/b]痕迹的。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2817\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2818",
     "original": "Tyrion: You simply lack imagination, Ms. Steelwind.",
-    "translation": "Tyrion: 只是你缺乏想象力了，斯蒂尔文德女士。",
-    "stage": 1,
+    "translation": "Tyrion: 只是你缺乏想象力，斯蒂尔文德女士。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2818\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2819",
     "original": "Aria: No.[p/] [i]You[/i] just lack common sense, Mr. Cuthbert.",
-    "translation": "Aria: 并不。[p/]只是[i]你[/i]缺少常识，卡斯伯特先生。",
-    "stage": 1,
+    "translation": "Aria: 并不。[p/]只是<u>你</u>缺少常识，卡斯伯特先生。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2819\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2820",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2820\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2821",
     "original": "Looking back on it,[p/] Pierce probably used something else to kill Flinhart.",
-    "translation": "回想一下，[p/]皮尔斯极可能是用了什么东西杀死了弗林哈特。",
-    "stage": 1,
+    "translation": "回想一下，[p/]皮尔斯可能是用其他东西杀死了弗林哈特。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2821\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2822",
     "original": "...But what was it?",
     "translation": "……但到底是什么东西？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2822\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2823",
     "original": "Tyrion: You see, Your Honor.",
     "translation": "Tyrion: 你知道的，法官阁下。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2823\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2824",
     "original": "Tyrion: Garrick Pierce didn’t kill the victim using a sword…",
     "translation": "Tyrion: 加里克·皮尔斯并没有用剑杀死被害人……",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2824\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2825",
     "original": "Tyrion: He killed him using an object shaped [i]exactly[/i] like a sword!",
-    "translation": "Tyrion: 他是用一个形状和一把剑[i]恰好[/i]一样的东西杀死了被害人！",
-    "stage": 1,
+    "translation": "Tyrion: 他是用一个形状和剑<u>完全</u>一样的东西杀死了被害人！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2825\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2826",
     "original": "Garrick: …!",
     "translation": "Garrick: ……！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2826\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2827",
     "original": "Aria: What…?",
     "translation": "Aria: 什么……？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2827\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2828",
     "original": "Judge: I’m…[p/] afraid I don’t quite understand, Mr. Cuthbert.",
     "translation": "Judge: 我……[p/]可能没太明白，卡斯伯特先生。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2828\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2829",
     "original": "Tyrion: I’d like for the court to take a look at Lord Pierce’s [b]Spell Compendium[/b].",
-    "translation": "Tyrion: 各位请仔细看看皮尔斯勋爵的[b]法术汇编[/b]",
-    "stage": 1,
+    "translation": "Tyrion: 各位请仔细看看皮尔斯勋爵的[b]法术汇编[/b]。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2829\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2830",
     "original": "Tyrion: Garrick Pierce knows a seemingly insignificant spell called [b]Shape Liquid[/b].",
-    "translation": "Tyrion: 加里克·皮尔斯懂得如何释放一个叫做[b]形变液体[/b]的魔法",
-    "stage": 1,
+    "translation": "Tyrion: 加里克·皮尔斯知道如何释放一个叫做[b]形变液体[/b]的魔法。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2830\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2831",
     "original": "Tyrion: With it,[p/] he can control a body of water,[p/] and shape it into any complex shape he wants.",
-    "translation": "Tyrion: 他能用此魔法来控制任意液体并将其形变成他想要的形状",
-    "stage": 1,
+    "translation": "Tyrion: 他能用此魔法来控制任意液体，[p/]并将其形变成他想要的形状。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2831\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2832",
     "original": "Tyrion: Then he can freeze that liquid,[p/][s/] maintaining its current shape!",
-    "translation": "Tyrion: 然后他能冻住液体，[p/][s/] 保持其形变后的形状！",
-    "stage": 1,
+    "translation": "Tyrion: 然后他能冻住液体，[p/][s/]保持其形变后的形状！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2832\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2833",
     "original": "Tyrion: A shape like a sword!",
     "translation": "Tyrion: 形变成一把剑再简单不过了！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2834",
     "original": "Aria: What?!",
-    "translation": "Aria: 什…什么?!",
-    "stage": 1,
+    "translation": "Aria: 什……什么?!",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2835",
     "original": "Aria: No![p/] Is it possible that he…?",
-    "translation": "Aria: 这…！这么说来他确实有可能…？",
-    "stage": 1,
+    "translation": "Aria: 不！[p/]难道他真的……？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2836",
     "original": "Tyrion: What do you have to say for yourself, [i]\"Lord\"[/i] Pierce?",
-    "translation": "Tyrion: 你有什么要为自己辩解的吗？皮尔斯勋爵。",
-    "stage": 1,
+    "translation": "Tyrion: 你有什么要为自己辩解的吗？皮尔斯<u>“勋爵”</u>？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2837",
     "original": "Garrick: …",
-    "translation": "Garrick: …",
-    "stage": 1,
+    "translation": "Garrick: ……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2838",
     "original": "Garrick: What do I have to say?",
-    "translation": "Garrick: 我需要？“辩解”？",
-    "stage": 1,
+    "translation": "Garrick: 我需要辩解什么？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2838\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2839",
     "original": "Pierce’s breathing becomes more frantic.[p/] He’s clearly not used to being put in a corner like this.",
-    "translation": "皮尔斯的呼吸逐渐紧促，.[p/]他很显然不太习惯这种针锋相对的场面",
-    "stage": 1,
+    "translation": "皮尔斯的呼吸逐渐紧促，[p/]他很显然不太习惯这种被逼到角落的感觉。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2840",
     "original": "You can see his stress and frustration emanating through the Eye of Horus.",
-    "translation": "你能通过荷鲁斯之眼看清他的压力和紧张",
-    "stage": 1,
+    "translation": "你能通过荷鲁斯之眼看清他的压力和紧张。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2841",
     "original": "…You have him now.[p/] Time for the finishing blow.",
-    "translation": "...差不多是时候该结束这场闹剧了",
-    "stage": 1,
+    "translation": "……差不多可以最后一击了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GettingPierce-2841\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2843",
     "original": "There are some candles lighting up the hallway.",
-    "translation": "墙上的蜡烛点亮了整条走廊",
-    "stage": 1,
+    "translation": "墙上的蜡烛点亮了整条走廊。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2844",
     "original": "They look like they used to be a part of the old architecture.",
-    "translation": "看起来是自酒馆建成以来就有的内饰",
-    "stage": 1,
+    "translation": "看起来是自酒馆建成以来就有的内饰。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2846",
     "original": "Several doors lead to guest rooms.",
-    "translation": "客房的门",
-    "stage": 1,
+    "translation": "有几扇通向客房的门。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2846\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2847",
     "original": "Aside from the rooms that you and Ms. Tymora used,[p/] they don't look like they've been open for quite some time.",
-    "translation": "除了你与泰摩拉女士住的那两扇，[p/] 其他的看起来很久没有开过了",
-    "stage": 1,
+    "translation": "除了你与泰摩拉女士住的那两间，[p/]其他房门看起来很久没有开过了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2849",
     "original": "There's a door at the end of the hallway.",
-    "translation": "走廊的尽头有一个房间",
-    "stage": 1,
+    "translation": "走廊的尽头有一个房间。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2849\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2850",
     "original": "It looks like it's seen some use recently.",
-    "translation": "看起来最近经常开关",
-    "stage": 1,
+    "translation": "看起来最近经常开关。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2851",
     "original": "You try to open the door,[p/] but it seems to be locked.",
-    "translation": "试着开门，[p/]但是门被锁住了",
-    "stage": 1,
+    "translation": "你试着开门，[p/]但是门被锁住了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2851\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2852",
     "original": "Perhaps someone might have a key to open it.",
-    "translation": "别人可能有钥匙",
-    "stage": 1,
+    "translation": "别人可能有钥匙。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2852\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2857",
     "original": "Aria: If people keep seeing you here,[p/] they're going to start asking questions.",
-    "translation": "Aria: 要是人们看见你在这乱逛，[p/] 他们肯定会追着问个不停的",
-    "stage": 1,
+    "translation": "Aria: 要是人们看见你在这乱逛，[p/]他们肯定会问问题的。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2857\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2858",
     "original": "Aria: Leave the investigation to me.[p/] All you have to do is stay quiet until the trial is over.",
-    "translation": "Aria: 把调查交给我，[p/]你只需要安安静静的等到审理结束",
-    "stage": 1,
+    "translation": "Aria: 把调查交给我，[p/]你只需要审理结束前保持安静。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2858\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2859",
     "original": "While heading upstairs,[p/] you spot the prosecutor having a conversation with someone.",
-    "translation": "上楼的时候，[p/]你发现检察官在和某人谈论着什么",
-    "stage": 1,
+    "translation": "上楼的时候，[p/]你发现检察官在和某人谈论着什么。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2860",
     "original": "They seem to be in some kind of argument.",
-    "translation": "听起来在争论什么",
-    "stage": 1,
+    "translation": "听起来在争论什么。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2861",
     "original": "Garrick: Enough![p/] [i]I[/i] will do as I see fit.",
-    "translation": "Garrick: 够了！不用你来教我做事",
-    "stage": 1,
+    "translation": "Garrick: 够了！不用你来教<u>我</u>做事。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2861\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2862",
     "original": "Garrick: You may be a Steelwind,[p/] but this is [i]my[/i] land.",
-    "translation": "Garrick: 就算你是斯蒂尔文德家的人也不能在我的领地上对我指手画脚",
-    "stage": 1,
+    "translation": "Garrick: 就算你是斯蒂尔文德家的人，也不能在<u>我的</u>领地上指手画脚。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2863",
     "original": "Tyrion: O-[p/][s/]Oh,[p/] sorry.",
-    "translation": "Tyrion: 哦-[p/][s/]呃..不好意思",
-    "stage": 1,
+    "translation": "Tyrion: 哦、[p/][s/]噢，[p/][s/]不好意思。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2864",
     "original": "Garrick: Oh?[p/] You're that defense attorney from the trial.",
-    "translation": "Garrick: 哦？[p/]你是那个辩护律师",
-    "stage": 1,
+    "translation": "Garrick: 哦？[p/]你是那个辩护律师。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2865",
     "original": "Tyrion: I am...",
-    "translation": "Tyrion: 是我",
-    "stage": 1,
+    "translation": "Tyrion: 是我……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2865\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2866",
     "original": "Tyrion: I'm sorry...[p/] But who-?",
-    "translation": "Tyrion: 请问你是？",
-    "stage": 1,
+    "translation": "Tyrion: 请问你是——？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2867",
     "original": "Garrick: Ah,[p/] how rude of me.",
-    "translation": "Garrick: 啊，[p/]失礼了",
-    "stage": 1,
+    "translation": "Garrick: 啊，[p/]失礼了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2867\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2868",
     "original": "Garrick: My name is [i]Lord[/i] Garrick Pierce,[p/] the ruling noble of this land.",
-    "translation": "Garrick: 我是加里克·皮尔斯勋爵，[p/] 统治这片土地的贵族。",
-    "stage": 1,
+    "translation": "Garrick: 我是加里克·皮尔斯<u>勋爵</u>，[p/]统治这片土地的贵族。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2869",
     "original": "Garrick: [i]As[/i] the ruling noble,[p/] I suppose I should thank you for playing your role in the current trial.",
-    "translation": "Garrick: 作为这里的统治者，[p/] 我为你能在法庭上尽职尽责表示衷心的感谢",
-    "stage": 1,
+    "translation": "Garrick: <u>作为</u>这里的统治者，[p/]我大概应该感谢你在法庭上尽自己的责任。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2869\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2870",
     "original": "Garrick: ...As misguided as it may be.",
-    "translation": "Garrick: ...尽管你可能得出了错误的推断",
-    "stage": 1,
+    "translation": "Garrick: ……虽然你是向着错误的方向努力。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2870\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2871",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ...",
-    "stage": 1,
+    "translation": "Tyrion: ……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2871\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2872",
     "original": "Tyrion: ...I suppose that [i]you[/i] also think my client is guilty?",
     "translation": "Tyrion: ……我可以理解为<u>你</u>也认为我的委托人有罪吗？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2872\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2873",
     "original": "Garrick: It does not matter what [i]I[/i] think.",
-    "translation": "Garrick: 这与我的观点无关",
-    "stage": 1,
+    "translation": "Garrick: 这与<u>我的</u>观点无关。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2873\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2874",
     "original": "Garrick: This entire scandal has done nothing but rile up the commonfolk.",
-    "translation": "Garrick: 这个丑闻只会激怒平民",
-    "stage": 1,
+    "translation": "Garrick: 这个丑闻只会激怒平民。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2874\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2875",
     "original": "Garrick: Magic is a gift for the nobility and the nobility alone.",
-    "translation": "Garrick: 魔法是上天给予贵族的礼物，而且仅应只有贵族享有",
-    "stage": 1,
+    "translation": "Garrick: 魔法是上天给予贵族的礼物，而且仅应贵族享有。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2875\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2876",
     "original": "Garrick: It is a symbol of the aristocracy and our divine right to rule.",
-    "translation": "Garrick: 它是高贵的象征，是上天给予我们的神圣统治权",
-    "stage": 1,
+    "translation": "Garrick: 它是高贵的象征，是上天给予我们的神圣统治权。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2876\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2877",
     "original": "Garrick: And now that [i]bastard[/i] child has tainted that symbol in the public eye.",
-    "translation": "Garrick: 而她的所作所为显然在平民面前玷污了如此高贵的标志",
-    "stage": 1,
+    "translation": "Garrick: 那个<u>野种</u>的所作所为玷污了平民眼里的象征。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2877\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2878",
     "original": "Tyrion: All of that has nothing to do with her!",
     "translation": "Tyrion: 这和她毫无关系！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2878\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2879",
     "original": "Tyrion: She's just an innocent woman who got wrapped up in all of this!",
     "translation": "Tyrion: 她只是个不幸卷入这一切的可怜人！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2879\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2880",
     "original": "Garrick: Even if she [i]is[/i] innocent,[p/] the charges have been laid and made public.",
-    "translation": "Garrick: 即使她是无辜的，[p/]指控已经公之于众",
-    "stage": 1,
+    "translation": "Garrick: 即使她<u>是</u>无辜的，[p/]指控也已经公之于众。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2880\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2881",
     "original": "Garrick: Someone must take the fall,[p/] lest the public accuse the justice system of corruption.",
-    "translation": "Garrick: 必须有人伏法，[p/]以免公众指责司法系统的腐败",
-    "stage": 1,
+    "translation": "Garrick: 必须有人伏法，[p/]以免公众指责司法系统的腐败。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2881\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2882",
     "original": "Tyrion: So you're saying that she should be found guilty even if she's innocent?!",
-    "translation": "Tyrion: 你意思是说即便她是无辜的也要被判有罪吗？！",
-    "stage": 1,
+    "translation": "Tyrion: 你是说即便她是无辜的也要被判有罪吗？！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2882\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2883",
     "original": "Garrick: What do you suppose will happen if she's acquitted?",
-    "translation": "Garrick: 不然呢？你有想过如果她被无罪释放了会发生什么吗？",
-    "stage": 1,
+    "translation": "Garrick: 你以为她被无罪释放会有什么后果？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2883\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2884",
     "original": "Garrick: All the public will see is a mage going free despite a myriad of evidence.",
-    "translation": "Garrick: 公众只会看到一个无数证据指证的法师逃离法律的制裁",
-    "stage": 1,
+    "translation": "Garrick: 公众看到的只会是法师在无数证据指控下依然脱罪。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2884\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2885",
     "original": "Garrick: [i]That[/i] alone would be enough to cause public outrage.",
-    "translation": "Garrick: 仅此一项就足以引起众怒",
-    "stage": 1,
+    "translation": "Garrick: <u>仅此一项</u>就足以引起众怒。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2885\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2886",
     "original": "Garrick: Tensions between the aristocracy and the commonfolk are high enough as is.",
-    "translation": "Garrick: 贵族与平民之间的阶级矛盾已经足够尖锐",
-    "stage": 1,
+    "translation": "Garrick: 贵族与平民之间的阶级矛盾已经足够尖锐。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2886\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2887",
     "original": "Garrick: What is one [i]insignificant[/i] girl when compared to the stability of our great kingdom?",
-    "translation": "Garrick: 一个无关紧要的女孩和我们伟大王国的稳定比起来不值一提",
-    "stage": 1,
+    "translation": "Garrick: 一个<u>无关紧要的</u>女孩怎么能和伟大王国的稳定相比？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2887\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2888",
     "original": "Tyrion: That's-!",
-    "translation": "Tyrion: 你！！！",
-    "stage": 1,
+    "translation": "Tyrion: 你这——！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2888\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2889",
     "original": "Aria: That's enough.[p/] Stop antagonizing him, Pierce.",
-    "translation": "Aria: 够了，[p/]别再说你的大道理了，皮尔斯",
-    "stage": 1,
+    "translation": "Aria: 够了。[p/]不要继续让他敌视你了，皮尔斯。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2889\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2890",
     "original": "Garrick: ...Hmph.",
-    "translation": "Garrick: ...哼嗯…",
-    "stage": 1,
+    "translation": "Garrick: ……哼。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2890\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2891",
     "original": "Aria: ...",
-    "translation": "Aria: ...",
-    "stage": 1,
+    "translation": "Aria: ……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2891\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2892",
     "original": "Aria: I can't refute what he said,[p/] but I don't agree with it.",
-    "translation": "Aria: 我没办法反驳他的理论，[p/]但我不敢苟同",
-    "stage": 1,
+    "translation": "Aria: 我没办法反驳他的理论，[p/]但我也并不认同。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2892\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2893",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ...哈？",
-    "stage": 1,
+    "translation": "Tyrion: ……什么？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2893\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2894",
     "original": "Aria: The system should be based on truth and justice,[p/] not on public opinion.",
-    "translation": "Aria: 司法系统应基于真相和正义，[p/] 而非公众看法",
-    "stage": 1,
+    "translation": "Aria: 司法系统应基于真相和正义，[p/]而非公众看法。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2894\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2895",
     "original": "Tyrion: Then why are you working against my client?!",
-    "translation": "Tyrion: 那你为什么还在试图指控她！？",
-    "stage": 1,
+    "translation": "Tyrion: 那你为什么还在试图指控我的委托人？！",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2895\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2896",
     "original": "Tyrion: Do you honestly think she's the kind of person that would kill her father?!",
     "translation": "Tyrion: 你真的认为她是那种会杀害自己父亲的人吗？！",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2896\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2897",
     "original": "Aria: It doesn't matter what kind of person she [i]appears[/i] to be.",
-    "translation": "Aria: 她是什么样的人并不重要",
-    "stage": 1,
+    "translation": "Aria: 她<u>看起来</u>是什么样的人并不重要。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2897\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2898",
     "original": "Aria: The evidence clearly points to her as the only possible killer.",
-    "translation": "Aria: 证据清晰的证明她是唯一可能的凶手",
-    "stage": 1,
+    "translation": "Aria: 证据清晰指明她是唯一可能作案的人。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2898\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2899",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ...",
-    "stage": 1,
+    "translation": "Tyrion: ……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2899\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2900",
     "original": "Aria: But you should fight according to your own ideals.",
-    "translation": "Aria: 但你应该为自己的理想而奋斗",
-    "stage": 1,
+    "translation": "Aria: 但你应该为根据自己的原则作战。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2900\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2901",
     "original": "Aria: Just as I will fight for mine.",
-    "translation": "Aria: 就像我会为我的理想奋斗一样",
-    "stage": 1,
+    "translation": "Aria: 这也是我的作战理念。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2901\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2902",
     "original": "It's hard to get a read on that woman.",
-    "translation": "不太懂她的举措",
-    "stage": 1,
+    "translation": "你很难阅读这个女人的想法。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2902\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2904",
     "original": "Tyrion: It's a painting of a knight.",
-    "translation": "Tyrion: 一副骑士的画像",
-    "stage": 1,
+    "translation": "Tyrion: 一幅骑士的画像。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2904\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2905",
     "original": "Tyrion: There's some text under it.",
-    "translation": "Tyrion: 下面有行字",
-    "stage": 1,
+    "translation": "Tyrion: 下面写着什么。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2905\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2906",
     "original": "Tyrion: \"Sir Diogo:[p/] former Commander of the Arcane Inquisition.\"",
-    "translation": "Tyrion: \"Diogo阁下：前奥术裁判所指挥官\"",
-    "stage": 1,
+    "translation": "Tyrion: \"Diogo 阁下：前奥术裁判所指挥官。\"",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2906\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2907",
     "original": "Tyrion: \"Well-beloved by both the people and his fellow knights.\"",
-    "translation": "Tyrion: “深受人民和骑士们的爱戴。”",
-    "stage": 1,
+    "translation": "Tyrion: “深受人民和下属骑士们的爱戴。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2907\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2908",
     "original": "Tyrion: \"After many years of service,[p/] Commander Diogo retired with honors.\"",
-    "translation": "Tyrion: “经过多年的辛勤工作，[p/] Diogo指挥官光荣退休”",
-    "stage": 1,
+    "translation": "Tyrion: “经过多年的辛勤工作，[p/] Diogo指挥官光荣退休。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2908\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2909",
     "original": "Tyrion: \"With this plaque,[p/] we thank and honor him for his dedication and commitment to the kingdom of Wyverngarde.\"",
-    "translation": "Tyrion: “谨以此画像感谢他为维文加德所作出的贡献并为他献上最崇高的敬意”",
-    "stage": 1,
+    "translation": "Tyrion: “谨以此画像感谢他为维文加德所作出的贡献，并为他献上最崇高的敬意。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2909\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2911",
     "original": "Tyrion: It's a painting of a knight.",
-    "translation": "Tyrion: 一副骑士的画像",
-    "stage": 1,
+    "translation": "Tyrion: 一幅骑士的画像。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2911\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2912",
     "original": "Tyrion: There's some text under it.",
-    "translation": "Tyrion: 下面有行字",
-    "stage": 1,
+    "translation": "Tyrion: 下面写着什么。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2912\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2913",
     "original": "Tyrion: \"General David Serrano:[p/] former Chief of the Kingsguard.\"",
-    "translation": "Tyrion: “David Serrano将军：前皇家守卫首席”",
-    "stage": 1,
+    "translation": "Tyrion: “David Serrano 将军：前国王卫队队长。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2913\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2914",
     "original": "Tyrion: \"A beloved ally of House Steelwind who served during the Great Luminite War.\"",
-    "translation": "Tyrion: “一位深受爱戴的斯蒂尔文德家盟友，曾参与了大圣战”",
-    "stage": 1,
+    "translation": "Tyrion: “一位深受爱戴的斯蒂尔文德家盟友，曾参与了大圣战。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2914\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2915",
     "original": "Tyrion: \"The annals of history have countless tales of his courage,[p/] wit,[p/] and heroism.\"",
-    "translation": "Tyrion: “史记上记载了无数关于他充满勇气与智慧的英雄主义故事”",
-    "stage": 1,
+    "translation": "Tyrion: “史记上记载了无数关于他充满勇气，[p/]智慧，[p/]英雄气概的故事。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2915\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2916",
     "original": "Tyrion: \"With this plaque,[p/] we thank and honor him for coming to the defense of our kingdom in our greatest time of need.\"",
-    "translation": "Tyrion: “借此画像感谢他在我们最需要的时候保卫了我们的王国”",
-    "stage": 1,
+    "translation": "Tyrion: “借此画像感谢他在我们最需要的时候保卫了王国。”",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2916\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2918",
     "original": "Tyrion: It's a bench outside the courtroom.",
-    "translation": "Tyrion: 法庭外的长椅",
-    "stage": 1,
+    "translation": "Tyrion: 法庭外的长椅。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2918\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2919",
     "original": "Tyrion: I used to sit here as a child when Ms. Tymora was defending her clients.",
     "translation": "Tyrion: 小时候，泰摩拉女士为委托人辩护时，我会坐在这里等她。",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2919\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2921",
     "original": "Tyrion: This door leads to the courtroom.",
-    "translation": "Tyrion: 门后就是法庭",
-    "stage": 1,
+    "translation": "Tyrion: 这扇门通向法庭。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2921\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2922",
     "original": "Tyrion: The fates of countless people have been decided beyond these doors.",
-    "translation": "Tyrion: 这扇门后决定了无数人的生死",
-    "stage": 1,
+    "translation": "Tyrion: 这扇门后决定过无数人的生死。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2922\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2925",
     "original": "Ruby: ...You haven't really found out [i]anything[/i], have you?",
-    "translation": "Ruby: ...你还没找到什么有用的线索对吧？",
-    "stage": 1,
+    "translation": "Ruby: ……你还没找到<u>任何</u>线索对吧？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2925\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2926",
     "original": "Tyrion: S-[p/]Sorry...[p/] I just thought I'd check with you first.",
-    "translation": "Tyrion: 抱歉，[p/]我就想先回来和你汇报一下",
-    "stage": 1,
+    "translation": "Tyrion: 抱歉……[p/]我就想先回来和你汇报一下。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2927",
     "original": "Ruby: I can't always hold your hand, Cuthbert.",
-    "translation": "Ruby: 我没办法永远作为你的拐棍，卡斯伯特",
-    "stage": 1,
+    "translation": "Ruby: 我没办法一直把着你的手教你，卡斯伯特。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2927\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2928",
     "original": "Ruby: You need to MOVE to the crime scene and look for evidence that you can use.",
-    "translation": "Ruby: 你得去犯罪现场看看能不能找到什么有用的证据",
-    "stage": 1,
+    "translation": "Ruby: 你得<size=1.5em>移动</size>去犯罪现场，寻找用得上的证据。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2928\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2929",
     "original": "Tyrion: I found a lot of clues...[p/] But they don't really tell me what happened.",
-    "translation": "Tyrion: 我找到不少线索....[p/]但我还是不清楚到底发生了什么",
-    "stage": 1,
+    "translation": "Tyrion: 我找到不少线索……[p/]但我还是不清楚到底发生了什么。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2929\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2930",
     "original": "Ruby: Even so...[p/] Knowing the state of a crime scene is instrumental to cross-examining witnesses.",
-    "translation": "Ruby: 即使如此....[p/] 了解犯罪现场的情况对交叉询问证人至关重要",
-    "stage": 1,
+    "translation": "Ruby: 即使如此……[p/]了解犯罪现场的情况也是交叉询问的关键。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2930\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2931",
     "original": "Right...[p/] You'll probably want to make a habit of remembering what you've learned about the crime scene.",
-    "translation": "没错...[p/] 你应该养成记住犯罪现场里每一个细节的习惯",
-    "stage": 1,
+    "translation": "没错……[p/]你应该养成记住犯罪现场里每一个细节的习惯。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2931\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2932",
     "original": "Tyrion: It seems Flinhart was a complicated man...",
-    "translation": "Tyrion: 看起来弗林哈特是个扑朔迷离的男人...",
-    "stage": 1,
+    "translation": "Tyrion: 弗林哈特看起来是个扑朔迷离的男人……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2932\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2933",
     "original": "Ruby: Well, it's not uncommon for people like him to despise magic.",
-    "translation": "Ruby: 确实，他对魔法的深恶痛疾实在是不同寻常",
-    "stage": 1,
+    "translation": "Ruby: 哎，他那样的人鄙视魔法很寻常。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2933\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2934",
     "original": "Ruby: To them,[p/] magic is a symbol of the nobility and the Crown.",
-    "translation": "Ruby: 对于他们来说，[p/] 魔法是权贵与王权的象征",
-    "stage": 1,
+    "translation": "Ruby: 对于他们来说，[p/]魔法是贵族与皇室的象征。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2934\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2935",
     "original": "Tyrion: But it's as if he hates magic [i]specifically[/i].[p/] There [i]has[/i] to be an explanation for that.",
-    "translation": "Tyrion: 但是凡事必有原因，[p/]他这么痛恶魔法一定是发生过什么",
-    "stage": 1,
+    "translation": "Tyrion: 但是他的恨意<u>只针对</u>魔法。[p/]这背后<u>一定</u>有什么原因。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2935\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2936",
     "original": "Ruby: You've definitely learned a lot.",
-    "translation": "Ruby: 你成长了啊",
-    "stage": 1,
+    "translation": "Ruby: 你成长了很多。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2936\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2937",
     "original": "Ruby: You did well for your first time, Cuthbert.",
-    "translation": "Ruby: 卡斯伯特，对于第一次来说你做得很好",
-    "stage": 1,
+    "translation": "Ruby: 卡斯伯特，对于第一次来说你做得很好。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2937\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2938",
     "original": "But only time will tell if it was all worth it.",
-    "translation": "但只有时间才能证明这到底值不值得",
-    "stage": 1,
+    "translation": "但只有时间才能证明这到底值不值得。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2938\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2939",
     "original": "...And you still want to speak with Celeste before this is all over.",
-    "translation": "...在一切都结束之前你还想和塞莱斯特聊聊",
-    "stage": 1,
+    "translation": "……在一切都结束之前你还想和塞莱斯特聊聊。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2939\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2941",
     "original": "Tyrion: Where should I go next, Ms. Tymora?",
-    "translation": "Tyrion: 我该去哪？泰摩拉女士",
-    "stage": 1,
+    "translation": "Tyrion: 泰摩拉女士，我接下来该去哪里？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2941\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2942",
     "original": "Ruby: Well...[p/] You haven't really [i]gone[/i] anywhere.",
-    "translation": "Ruby: 额…[p/]你还那都没去呢…",
-    "stage": 1,
+    "translation": "Ruby: 这个……[p/]你还哪里<u>都没去</u>呢。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2942\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2943",
     "original": "Ruby: You should really head to the crime scene.",
-    "translation": "Ruby: 你应该先去犯罪现场看看",
-    "stage": 1,
+    "translation": "Ruby: 你真的应该先去犯罪现场看看。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2943\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2944",
     "original": "Tyrion: R-[p/][s/]Right...[p/] Of course.",
-    "translation": "Tyrion: 哦，对",
-    "stage": 1,
+    "translation": "Tyrion: 对、[p/][s/]对的……[p/]当然了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2944\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2945",
     "original": "Tyrion: Where should I go next, Ms. Tymora?",
-    "translation": "Tyrion: 我该去哪？泰摩拉女士",
-    "stage": 1,
+    "translation": "Tyrion: 泰摩拉女士，我接下来该去哪里？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2945\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2946",
     "original": "Ruby: The Inquisition should be done questioning Celeste by now.",
-    "translation": "Ruby: 现在这个时间裁判所应该已经盘问完塞莱斯特了",
-    "stage": 1,
+    "translation": "Ruby: 现在这个时间，裁判所对塞莱斯特的询问应该结束了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2946\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2947",
     "original": "Ruby: You'll want to talk to her and find out why she was arguing with Flinhart.",
-    "translation": "Ruby: 你应该找她谈谈，聊聊她当时和弗林哈特在吵什么",
-    "stage": 1,
+    "translation": "Ruby: 你应该找她谈谈，问问她当时和弗林哈特在吵什么。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2947\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2948",
     "original": "Tyrion: Where should I go next, Ms. Tymora?",
-    "translation": "Tyrion: 我接下来该去哪？泰摩拉女士",
-    "stage": 1,
+    "translation": "Tyrion: 泰摩拉女士，我接下来该去哪里？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2948\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2949",
     "original": "Ruby: Well...[p/] The client [i]gave[/i] you the key to her room, right?",
     "translation": "Ruby: 嗯……[p/]委托人<u>给</u>了你房间钥匙对吧？",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2949\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2950",
     "original": "Ruby: It's the only place you haven't checked.",
-    "translation": "Ruby: 那是唯一一处没调查过的地方了",
-    "stage": 1,
+    "translation": "Ruby: 那是你唯一一处没调查过的地方了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2950\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2951",
     "original": "Ruby: You might find something useful there.",
-    "translation": "Ruby: 应该能找到些有用的情报",
-    "stage": 1,
+    "translation": "Ruby: 应该能找到些有用的情报。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2951\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2952",
     "original": "Ruby: You've definitely learned a lot.",
-    "translation": "Ruby: 你真的成长了许多",
-    "stage": 1,
+    "translation": "Ruby: 你成长了很多。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2952\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2953",
     "original": "Ruby: I think you've definitely collected enough evidence for the upcoming trial.",
-    "translation": "Ruby: 我认为已经了收集足够的证据",
-    "stage": 1,
+    "translation": "Ruby: 我认为你已经了收集足够多的证据。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2953\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2954",
     "original": "But there's one last thing you need to do.",
-    "translation": "但还有件事必须去做",
-    "stage": 1,
+    "translation": "但还有件事必须去做。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2954\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2955",
     "original": "You [i]need[/i] to talk to Celeste about her father.",
-    "translation": "你得和塞莱斯特谈谈她父亲的事",
-    "stage": 1,
+    "translation": "你<u>需要</u>和塞莱斯特谈谈她父亲的事。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2955\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2958",
     "original": "Ruby: ...Don't waste my time, Cuthbert.",
-    "translation": "Ruby: ...卡斯伯特，别浪费我的时间",
-    "stage": 1,
+    "translation": "Ruby: ……卡斯伯特，别浪费我的时间。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Present_Lobby1-2958\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2959",
     "original": "Tyrion: S-[p/][s/]Sorry....",
-    "translation": "Tyrion: 抱...-[p/][s/]抱歉.....",
-    "stage": 1,
+    "translation": "Tyrion: 抱、[p/][s/]抱歉……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Present_Lobby1-2959\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2961",
     "original": "Ruby: Oh, Cuthbert.[p/] You're back already.",
-    "translation": "Ruby: 这么快就回来了？[p/] 卡斯伯特",
-    "stage": 1,
+    "translation": "Ruby: 卡斯伯特，[p/]这么快就回来了？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Check_Events_Lobby1-2961\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2962",
     "original": "Tyrion: Sorry...[p/] I guess I'm just a little lost about where to go next.",
-    "translation": "Tyrion: 抱歉，[p/] 我有点不知道该去哪了",
-    "stage": 1,
+    "translation": "Tyrion: 抱歉……[p/]我有点不知道该去哪儿了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Check_Events_Lobby1-2962\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2963",
     "original": "Ruby: Hm...[p/] Well, I suppose I can give you some guidance...[p/] [i]this[/i] time.",
-    "translation": "Ruby: 嗯…[p/]我这次应该能帮帮你",
-    "stage": 1,
+    "translation": "Ruby: 嗯……[p/]好吧，那<u>这次</u>我就提点你一下……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Check_Events_Lobby1-2963\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-424",
-    "original": "Player: Door",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Examine_Barracks-424\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-427",
-    "original": "Player: Torch",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Examine_Barracks-427\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-431",
-    "original": "Player: Window",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Examine_Barracks-431\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-434",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Examine_Barracks-434\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-435",
     "original": "Player: The Trial",
     "translation": "Player: 庭审",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-435\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-456",
     "original": "Player: Flinhart McCoy",
     "translation": "Player: 弗林哈特·麦考伊",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-456\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-470",
     "original": "Player: The Argument",
     "translation": "Player: 争执",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-470\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-496",
     "original": "Player: Locked Door",
     "translation": "Player: 上锁的门",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-496\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-510",
     "original": "Player: Celeste's Closure (ARGUMENT)",
     "translation": "Player: 封闭自己的塞莱斯特（辩论）",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-510\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-511",
     "original": "Player: BACK",
     "translation": "Player: 返回",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-511\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-512",
-    "original": "Player: Autopsy Report: Flinhart McCoy|Crime Scene Picture (Flinhart McCoy)|Shattered Bottle of Lotus Juice|Shattered Bottle of Lotus Juice 2|Shattered Bottle of Lotus Juice 3|Flinhart's Sister",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-512\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: Flinhart McCoy\",\n    \"疑似物品： Crime Scene Picture (Flinhart McCoy)\",\n    \"疑似物品： Shattered Bottle of Lotus Juice\",\n    \"疑似物品： Shattered Bottle of Lotus Juice 2\",\n    \"疑似物品： Shattered Bottle of Lotus Juice 3\",\n    \"疑似物品： Flinhart's Sister\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-515",
-    "original": "Player: Celeste's Sword",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-515\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Sword\",\n    \"疑似物品： Celeste's Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-524",
-    "original": "Player: Celeste's Spell Compendium|Mage Blade",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-524\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Spell Compendium\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-532",
-    "original": "Player: Broken Power Cell|Broken Power Cell 2",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-532\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Broken Power Cell\",\n    \"疑似物品： Broken Power Cell 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-537",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-537\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-541",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-541\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-572",
-    "original": "Player: Bed",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-572\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-580",
-    "original": "Player: Door",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-580\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-582",
-    "original": "Player: Table",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-582\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-586",
-    "original": "Player: Painting",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-586\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-594",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-594\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-595",
     "original": "Player: Flinhart McCoy",
     "translation": "Player: 弗林哈特·麦考伊",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-595\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-634",
     "original": "Player: Celeste McCoy",
     "translation": "Player: 塞莱斯特·麦考伊",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-634\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-648",
     "original": "Player: Flinhart and Celeste",
     "translation": "Player: 弗林哈特与塞莱斯特",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-648\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-684",
     "original": "Player: BACK",
     "translation": "Player: 返回",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-684\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-685",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "Player: 提利昂·卡斯伯特",
-    "stage": 1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-685\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-690",
-    "original": "Player: Celeste McCoy",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-690\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-696",
-    "original": "Player: Garrick Pierce",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-696\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-704",
-    "original": "Player: Autopsy Report: Flinhart McCoy|Crime Scene Picture (Flinhart McCoy)|Flinhart McCoy",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-704\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: Flinhart McCoy\",\n    \"疑似物品： Crime Scene Picture (Flinhart McCoy)\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-706",
-    "original": "Player: Celeste's Spell Compendium",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-706\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Spell Compendium\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-711",
-    "original": "Player: Broken Power Cell|Broken Power Cell 2",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-711\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Broken Power Cell\",\n    \"疑似物品： Broken Power Cell 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-718",
-    "original": "Player: Shattered Bottle of Lotus Juice|Shattered Bottle of Lotus Juice 2|Shattered Bottle of Lotus Juice 3",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-718\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Shattered Bottle of Lotus Juice\",\n    \"疑似物品： Shattered Bottle of Lotus Juice 2\",\n    \"疑似物品： Shattered Bottle of Lotus Juice 3\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-723",
-    "original": "Player: Flinhart's Sister",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-723\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Flinhart's Sister\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-729",
-    "original": "Player: Celeste's Occupation",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-729\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Occupation\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-736",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-736\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-739",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-739\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-757",
-    "original": "Player: Lobby1",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Move-757\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-758",
-    "original": "Player: Barracks",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Move-758\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-759",
-    "original": "Player: Tavern",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Move-759\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-760",
-    "original": "Player: Upstairs",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Move-760\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-761",
-    "original": "Player: Bedroom",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Move-761\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-762",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Move-762\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Move\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Move\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-763",
@@ -19978,535 +19586,136 @@
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-766\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
-    "key": "Default (en-US)-sharedassets0.assets-144-911",
-    "original": "Player: Painting 1",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-911\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-917",
-    "original": "Player: Painting 2",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-917\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-925",
-    "original": "Player: Candles",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-925\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-928",
-    "original": "Player: Body",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-928\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-933",
-    "original": "Player: Bottle",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-933\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-939",
-    "original": "Player: Light",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-939\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-950",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-950\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
     "key": "Default (en-US)-sharedassets0.assets-144-951",
     "original": "Player: Questions",
     "translation": "Player: 问题",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-951\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-962",
     "original": "Player: The Inquisition",
     "translation": "Player: 裁判所",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-962\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-975",
     "original": "Player: Mages",
     "translation": "Player: 法师",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-975\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-999",
     "original": "Player: Ruby Tymora",
     "translation": "Player: 鲁比·泰摩拉",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-999\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1019",
     "original": "Player: Help (ARGUMENT)",
     "translation": "Player: 帮助（辩论）",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1019\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1020",
     "original": "Player: Murder Weapon",
     "translation": "Player: 凶器",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1020\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Murder Weapon\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1032",
     "original": "Player: Orym's Mistake",
     "translation": "Player: 奥蒙的失误",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1032\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1046",
     "original": "Player: Aria Steelwind",
     "translation": "Player: 阿莉亚·斯蒂尔文德",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1046\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1057",
     "original": "Player: BACK",
     "translation": "Player: 返回",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1057\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1058",
-    "original": "Player: Ruby Tymora",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1058\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1078",
-    "original": "Player: Tyrion Cuthbert",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1078\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1087",
-    "original": "Player: Celeste McCoy",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1087\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1092",
-    "original": "Player: Aria Steelwind",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1092\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1103",
-    "original": "Player: Autopsy Report: Flinhart McCoy",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1103\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: Flinhart McCoy\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1112",
-    "original": "Player: Celeste's Sword",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1112\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Sword\",\n    \"疑似物品： Celeste's Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1118",
-    "original": "Player: Celeste's Spell Compendium",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1118\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Spell Compendium\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1124",
-    "original": "Player: Crime Scene Map (McCoy Tavern)",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1124\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Crime Scene Map (McCoy Tavern)\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1129",
-    "original": "Player: Broken Power Cell",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1129\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Broken Power Cell\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1134",
-    "original": "Player: Shattered Bottle of Lotus Juice",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1134\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Shattered Bottle of Lotus Juice\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1138",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1138\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1143",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1143\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1820",
     "original": "Player: Flinhart didn't move during the murder",
     "translation": "Player: 弗林哈特 谋杀 过程中 没有移动",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce-1820\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0\",\n          \"didn't move,attacked Flinhart,framed Celeste\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0\",\n          \"after,during,before\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0\",\n          \"the murder,the investigation,the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1821",
     "original": "Player: Fail",
     "translation": "",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce-1821\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0\",\n          \"didn't move,attacked Flinhart,framed Celeste\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0\",\n          \"after,during,before\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0\",\n          \"the murder,the investigation,the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1834",
     "original": "Player: Flinhart dropped the bottle during the attack",
     "translation": "Player: 弗林哈特 在袭击中 掉落 瓶子",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce3-1834\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0\",\n          \"dropped,threw,placed\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0\",\n          \"the bottle,the sword,the killer\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0\",\n          \"during the attack,after the attack,before the attack\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1835",
     "original": "Player: Fail",
     "translation": "",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce3-1835\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0\",\n          \"dropped,threw,placed\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0\",\n          \"the bottle,the sword,the killer\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0\",\n          \"during the attack,after the attack,before the attack\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1852",
     "original": "Player: The crime scene had no lighting during the murder",
     "translation": "Player: 谋杀 过程中 犯罪现场 没有照明",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce5-1852\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0\",\n          \"The crime scene,The town,The basement\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0\",\n          \"had no lighting,had no customers, had no witnesses\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0\",\n          \"before,during,after\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0\",\n          \"the murder,the trial,the investigation\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1853",
     "original": "Player: Fail",
     "translation": "",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce5-1853\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0\",\n          \"The crime scene,The town,The basement\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0\",\n          \"had no lighting,had no customers, had no witnesses\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0\",\n          \"before,during,after\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0\",\n          \"the murder,the trial,the investigation\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1989",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1989\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1993",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1993\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1994",
-    "original": "Player: Autopsy Report: Flinhart McCoy",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1994\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Autopsy Report: Flinhart McCoy\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-1995",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1995\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2000",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-2000\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2259",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2259\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2265",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2265\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2266",
-    "original": "Player: Celeste's Sword",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2266\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Celeste's Sword\",\n    \"疑似物品： Celeste's Sword\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2267",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2267\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2272",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2272\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2429",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2429\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2436",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2436\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2437",
-    "original": "Player: Broken Power Cell 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2437\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Broken Power Cell\",\n    \"疑似物品： Broken Power Cell 2\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2438",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2438\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2443",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2443\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2518",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2518\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2526",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2526\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2527",
-    "original": "Player: Mage Blade",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2527\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2528",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2528\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2533",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2533\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2666",
-    "original": "Player: Overflow",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2666\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2673",
-    "original": "Player: Objection",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2673\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2674",
-    "original": "Player: Conjure Light|Crime Scene Map (McCoy Tavern) 3",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2674\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Crime Scene Map (McCoy Tavern)\",\n    \"疑似物品： Crime Scene Map (McCoy Tavern) 3\",\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2675",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2675\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2680",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2680\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2842",
-    "original": "Player: Candle",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2842\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2845",
-    "original": "Player: Door",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2845\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2848",
-    "original": "Player: End Door",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2848\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2853",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Examine_Upstairs-2853\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2854",
     "original": "Player: BACK",
     "translation": "Player: 返回",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Talk_Upstairs-2854\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2855",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Present_Upstairs-2855\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2856",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Present_Upstairs-2856\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2903",
-    "original": "Player: Painting 1",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2903\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2910",
-    "original": "Player: Painting 2",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2910\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2917",
-    "original": "Player: Bench",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2917\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2920",
-    "original": "Player: Door",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2920\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2923",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2923\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Examine\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Examine\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2924",
     "original": "Player: The Investigation",
     "translation": "Player: 调查",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2924\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2940",
     "original": "Player: Next Lead",
     "translation": "Player: 下一个线索",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2940\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2956",
     "original": "Player: BACK",
     "translation": "Player: 返回",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Talk_Lobby1-2956\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2957",
-    "original": "Player: Default",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Present_Lobby1-2957\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-144-2960",
-    "original": "Player: Back",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Present_Lobby1-2960\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"LoadPresent\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadPresent\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   }
 ]
