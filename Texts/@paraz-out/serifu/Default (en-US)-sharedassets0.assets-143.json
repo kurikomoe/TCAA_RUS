@@ -5686,7 +5686,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-926",
     "original": "Tyrion: No matter [i]who[/i] the victims might've been.",
-    "translation": "Tyrion: 不管被害者是[i]谁[/i]。",
+    "translation": "Tyrion: 不管受害者是[i]谁[/i]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-926\",\n  \"keywords\": []\n}"
   },
@@ -8101,7 +8101,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1297",
     "original": "Lucio: The prosecution is ready.",
-    "translation": "Lucio: 控方已准备就绪。",
+    "translation": "Lucio: 检方已准备就绪。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Courtroom1_6a-1297\",\n  \"keywords\": []\n}"
   },
@@ -8913,7 +8913,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1417",
     "original": "Tyrion: And [i]this[/i] piece of evidence proves it!",
-    "translation": "Tyrion: 这就是相关证据！",
+    "translation": "Tyrion: <u>这个</u>就是相关证据！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1417\",\n  \"keywords\": []\n}"
   },
@@ -12651,7 +12651,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1972",
     "original": "Tyrion: And [i]this[/i] piece of evidence proves it!",
-    "translation": "Tyrion: [i]这个[/i]就是证据！",
+    "translation": "Tyrion: <u>这个</u>就是相关证据！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1972\",\n  \"keywords\": []\n}"
   },
@@ -14583,7 +14583,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2257",
     "original": "Tyrion: And [i]this[/i] piece of evidence proves it!",
-    "translation": "Tyrion: 这就是相关证据！",
+    "translation": "Tyrion: <u>这个</u>就是相关证据！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2257\",\n  \"keywords\": []\n}"
   },
@@ -16011,7 +16011,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2484",
     "original": "Rath: Order![p/][s/] Order in the court!",
-    "translation": "Rath: 肃静！注意法庭秩序！",
+    "translation": "Rath: 肃静！[p/][s/]注意法庭秩序！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj22-2484\",\n  \"keywords\": []\n}"
   },
@@ -23872,7 +23872,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3645",
     "original": "Tyrion: And [i]this[/i] piece of evidence proves it!",
-    "translation": "Tyrion: 这就是相关证据！",
+    "translation": "Tyrion: <u>这个</u>就是相关证据！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3645\",\n  \"keywords\": []\n}"
   },
@@ -33126,7 +33126,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4998",
     "original": "Aria: Perhaps you're right,[p/] and the perpetrator only wanted to murder the three victims.",
-    "translation": "Aria: 也许你说得对，[p/]犯人只想杀掉三名被害者。",
+    "translation": "Aria: 也许你说得对，[p/]犯人只想杀掉三名受害者。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue5-4998\",\n  \"keywords\": []\n}"
   },
@@ -35982,7 +35982,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5411",
     "original": "Ruby: And you force the prosecution to either accept or deny them.",
-    "translation": "Ruby: 逼着检控方承认或否认。",
+    "translation": "Ruby: 逼着检方承认或否认。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered11-5411\",\n  \"keywords\": []\n}"
   },
@@ -37410,225 +37410,225 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5621",
     "original": "FEris: I-...",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5622",
     "original": "Tyrion: Let me save you some trouble.[p/] I'll say it for you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我来给你省点功夫。[p/]我帮你说吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5622\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5623",
     "original": "Agree [d=\"If [i]you're[/i] saying that, it must be true...\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Agree [d=\"如果<u>你</u>在这么说，一定是真的……\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5623\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5624",
     "original": "Tyrion: If [i]you're[/i] saying that,[p/] it must be true...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果<u>你</u>在这么说，一定是真的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5624\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5625",
     "original": "FEris: Exactly.[p/] I could have resurrected you at that moment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 正是如此。[p/]我当时本来可以让你复活。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5626",
     "original": "FEris: You can't deny that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 你不能否认这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5627",
     "original": "...She's speaking in hypotheticals.[p/] Is she really being upfront with you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她说的是“本来可以”。[p/]真的在对你坦诚相待吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5628",
     "original": "You might want to change how you responded.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你也许该考虑改变回复方式。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5629",
     "original": "Doubt [d=\"You're [i]clearly[/i] not acting in good faith. How can I trust what you're saying?\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Doubt [d=\"你<u>明显</u>没安好心。我怎么能相信你说的话？\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5629\",\n  \"keywords\": [\n    \"选项文本\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5630",
     "original": "Tyrion: You're [i]clearly[/i] not acting in good faith.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你<u>明显</u>没安好心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5630\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5631",
     "original": "Tyrion: How can I trust what you're saying?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我怎么能相信你说的话？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5631\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5632",
     "original": "FEris: ...Did you forget?",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: ……你忘了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5632\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5633",
     "original": "FEris: The entire [i]premise[/i] of this battle is that we can't lie to each other.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 这场<u>论战</u>的前提是我们不能说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5633\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5634",
     "original": "Tyrion: R-[p/][s/]Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对、[p/][s/]对……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5634\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5635",
     "original": "You need to accept that her claim is undoubtedly true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你得接受她的话不会掺假。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5635\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5636",
     "original": "But the [i]meaning[/i] behind her words is a different thing entirely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但她话里的<u>含义</u>可能完全不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5636\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5637",
     "original": "Tyrion: So says the Word of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 荷鲁斯如是说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5637\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5638",
     "original": "FEris: ...That's not the same as saying that it was [i]impossible[/i] for me to do it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: ……这可不等于说我<u>不可能</u>这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5638\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5639",
     "original": "Tyrion: But it would require a large amount of effort on your part.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你需要耗费大量精力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5640",
     "original": "FEris: Perhaps...",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 也许……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5640\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5641",
     "original": "FEris: But recall my previous declaration.[p/] Celeste [i]was[/i] there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 但想想我之前的宣告内容。[p/]塞莱斯特<u>当时就在</u>那里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5641\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5642",
     "original": "FEris: And by all accounts,[p/] she concluded you were dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 不论怎么说，[p/]都是她认为你已经死亡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5642\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5643",
     "original": "Tyrion: How thoroughly did you check me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你检查得有多仔细？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5643\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5644",
     "original": "Celeste: I have experience in first-aid.[p/] And it was pretty bad.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我有急救经验。[p/]你的状况很糟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5644\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5645",
     "original": "Celeste: You weren't breathing and your heart was stopped.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你没有呼吸，心跳也停止了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5645\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5646",
     "original": "FEris: She tried to resuscitate you for several minutes.[p/] But to no avail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 她花了几分钟想让你恢复生机。[p/]但徒劳无功。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5646\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5647",
     "original": "Right...[p/] There's no way your body could survive that long without oxygen [i]and[/i] blood flow.",
-    "translation": "",
-    "stage": 0,
+    "translation": "是啊……[p/]那么长时间没有氧气<u>和</u>血液循环，你的身体不可能存活。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5647\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5648",
     "original": "And Eris just confirmed that Celeste spent several minutes trying to resuscitate you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯刚刚也确认塞莱斯特花了几分钟试图让你复苏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5648\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5649",
     "original": "But there has to be more to this than you're seeing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但肯定还有你没发现的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered13-5649\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5651",
     "original": "Tyrion: You may have been [i]able[/i] to resurrect me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你也许确实<u>有能力</u>让我复活。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5651\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5652",
     "original": "Tyrion: But you had a far easier way to create that scenario.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你还有更容易的方法来创造这种情况。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5652\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5653",
     "original": "Tyrion: ...And luckily for you,[p/] Beatrice was there and under your control.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你很幸运，[p/]被你控制的比亚特丽丝也在场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5653\",\n  \"keywords\": []\n}"
   },
   {
@@ -37641,92 +37641,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5655",
     "original": "Celeste: Are you saying that [i]Beatrice[/i] can resurrect people from the dead?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你的意思是<u>比亚特丽丝</u>可以让人死而复生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5655\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5656",
     "original": "Tyrion: No...[p/] The opposite is actually true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不……[p/]其实应该是反过来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5656\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5657",
     "original": "Tyrion: So says the Word of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 荷鲁斯如是说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5657\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5659",
     "original": "No...[p/] Eris is probably capable of resurrecting you from the dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]厄莉斯大概率有能力让你死而复生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5659\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5660",
     "original": "But from how she phrased it,[p/] it must be difficult for her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但从她的遣词造句来看，[p/]这一定很困难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5660\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5661",
     "original": "Is there a way she could have orchestrated that scenario with significantly less effort?",
-    "translation": "",
-    "stage": 0,
+    "translation": "有没有什么让她更轻易创造这种情况的方法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5661\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5662",
     "original": "She must've had Beatrice with her when this was all happening.",
-    "translation": "",
-    "stage": 0,
+    "translation": "发生一切时她肯定与比亚特丽丝在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered14-5662\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5663",
     "original": "Celeste: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered15-5663\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5664",
     "original": "Tyrion: I'm sorry, Celeste...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对不起, 塞莱斯特……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered15-5664\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5665",
     "original": "Tyrion: But I was never dead.[p/] She just used a spell to trick you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我根本没死。[p/]她只是用法术骗了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered15-5665\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5666",
     "original": "Celeste: N-[p/][s/]No...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不、[p/][s/]不……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered15-5666\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5667",
     "original": "Celeste: So everything I did...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 那我做的一切……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered15-5667\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5668",
     "original": "FEris: It was for nothing!",
-    "translation": "",
-    "stage": 0,
+    "translation": "FEris: 都是白费力气！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered15-5668\",\n  \"keywords\": []\n}"
   },
   {
