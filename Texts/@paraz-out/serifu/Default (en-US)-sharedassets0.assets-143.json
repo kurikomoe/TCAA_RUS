@@ -982,7 +982,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-166",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "你应该去别处看看",
+    "translation": "你应该<size=1.5em>移动</size>到其他地方。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-166\",\n  \"keywords\": []\n}"
   },
@@ -4468,7 +4468,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-739",
     "original": "Everyone has left the room now.[p/] Perhaps you should MOVE somewhere else.",
-    "translation": "大家都离开了房间。[p/]你也该去别处看看。",
+    "translation": "大家都离开了房间。[p/]你也应该<size=1.5em>移动</size>到其他地方。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Check_Events_CathedralIntro-739\",\n  \"keywords\": []\n}"
   },
@@ -6386,7 +6386,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1037",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "你应该去别处看看",
+    "translation": "你应该<size=1.5em>移动</size>到其他地方。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1037\",\n  \"keywords\": []\n}"
   },
@@ -15563,7 +15563,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2445",
     "original": "Tyrion: About a month ago,[p/] House Frega lost its head.",
-    "translation": "Tyrion: 一个月前左右，[p/]弗雷加一族的领主去世。",
+    "translation": "Tyrion: 一个月前左右，[p/]弗雷加一族的首领去世。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj18-2445\",\n  \"keywords\": []\n}"
   },
@@ -18440,7 +18440,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2860",
     "original": "Eris: The only motivation for my actions that day was to harm Tyrion Cuthbert's friends and make him suffer.",
-    "translation": "Eris: 我唯一的动机就是要伤害提利昂·卡斯伯特的朋友，使他痛苦。",
+    "translation": "Eris: 我唯一的动机就是要伤害提利昂·卡斯伯特的朋友，使他受尽痛苦。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_6-2860\",\n  \"keywords\": []\n}"
   },
@@ -19021,7 +19021,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2949",
     "original": "Tyrion: But if you really wanted to make me suffer,[p/] why wouldn't you just go after the people close to me?",
-    "translation": "Tyrion: 但如果你想让我痛苦，[p/]为什么不针对和我关系更近的人？",
+    "translation": "Tyrion: 但如果你的目的是让我受尽痛苦，[p/]为什么不针对和我关系更近的人？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2949\",\n  \"keywords\": []\n}"
   },
@@ -21856,7 +21856,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3384",
     "original": "Tyrion: She wanted you to make a deal with her.[p/] It was all so she could make [i]me[/i] suffer.",
-    "translation": "Tyrion: 她想让你和她签约。[p/]都是为了让[i]我[/i]痛苦。",
+    "translation": "Tyrion: 她想让你和她签约。[p/]这一切都是为了让[i]我[/i]痛苦。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3384\",\n  \"keywords\": []\n}"
   },
@@ -22759,7 +22759,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3525",
     "original": "Eris: What would make Tyrion suffer more than putting his love in an eternal sleep?",
-    "translation": "Eris: 有什么比所爱陷入用眠更能让提利昂痛苦的事？",
+    "translation": "Eris: 有什么比所爱陷入永眠更能让提利昂痛苦的事？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-CelObj7-3525\",\n  \"keywords\": []\n}"
   },
@@ -28401,7 +28401,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4348",
     "original": "Celeste: Remember?[p/] You [i]jumped[/i] onto the stand when Tyrion manifested my Blood Contract.",
-    "translation": "Celeste: 记得吗？[p/]你在提利昂昭示我的血契时[i]跳上[/i]了证人席。",
+    "translation": "Celeste: 记得吗？[p/]你在提利昂展示我的血契时[i]跳上[/i]了证人席。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj36-4348\",\n  \"keywords\": []\n}"
   },
@@ -28954,7 +28954,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4427",
     "original": "Celeste: Tyrion,[p/] the last time you saw her,[p/] you manifested a Blood Contract without explaining anything.",
-    "translation": "Celeste: 提利昂，[p/]上一次见到她时，[p/]你什么都不解释就昭示了一份血契。",
+    "translation": "Celeste: 提利昂，[p/]上一次见到她时，[p/]你什么都不解释就展示了一份血契。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-EndB-4427\",\n  \"keywords\": []\n}"
   },
@@ -38845,8 +38845,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5879",
     "original": "Eris: Nothing to say...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 没有……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat8-5879\",\n  \"keywords\": []\n}"
   },
   {
@@ -38859,449 +38859,449 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5881",
     "original": "Eris: Say something, damn it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你丫的倒是说点什么啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5881\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5882",
     "original": "Tyrion: ...I think all I feel for you right now is pity.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我现在只觉得可怜你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5882\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5883",
     "original": "Eris: Oh, [i]that's[/i] rich!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 哎呦，真是深奥！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5883\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5884",
     "original": "Eris: [i]You[/i] pity [i]me[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: <u>你</u>可怜<u>我</u>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5884\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5885",
     "original": "Eris: Your existence is an infinitesimal moment in my eternal existence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 和像我一样的永恒存在比，你不过是时间长河里的一粒沙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5885\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5886",
     "original": "Tyrion: And yet you put [i]all[/i] of this effort into making [i]me[/i] suffer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 然而是你<u>费劲功夫</u>想让<u>我</u>受难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5886\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5887",
     "original": "Tyrion: Well...?[p/] Was it everything you imagined it would be?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那么……？[p/]事态发展和你的预想一致吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5887\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5888",
     "original": "Tyrion: Did it satisfy you at all?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你满足了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5888\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5889",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5889\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5890",
     "original": "Tyrion: I bet you didn't feel [i]anything[/i] when you killed my mother.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我敢说你杀掉我母亲时<u>什么感觉都没有</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5890\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5891",
     "original": "Tyrion: It was just another drop of evil into your empty soul.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只不过是给你那空虚灵魂里再加上一点邪恶而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5891\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5892",
     "original": "Eris: I was...[p/] excited.[p/] I-[p/][s/]It was [i]far[/i] too simple.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我当时……[p/]很激动。[p/]实、[p/][s/]实在<u>太过</u>简单了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5892\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5893",
     "original": "Eris: I didn't [i]truly[/i] make her suffer.[p/] That's why I didn't-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我没能<u>真正</u>让她承受多少痛苦。[p/]所以我才没有——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5893\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5894",
     "original": "Tyrion: Oh, is that right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哦，是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5894\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5895",
     "original": "Tyrion: Well...[p/] What if you [i]did[/i] succeed in throwing me into despair?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好吧……[p/]那如果你<u>成功</u>让我陷入绝望呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5895\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5896",
     "original": "Tyrion: Would you have felt [i]any[/i] sort of satisfaction?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你会有<u>任何</u>满足感吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5896\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5897",
     "original": "Eris: Of course, I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我当然——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5897\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5898",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5898\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5899",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5899\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5900",
     "original": "Tyrion: Demons can't tell lies, Eris.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 厄莉斯，恶魔不能说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5900\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5901",
     "original": "Tyrion: You can't lie to us,[p/] and you can't lie to yourself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你不能对我们说谎，[p/]也不能对自己说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5901\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5902",
     "original": "Eris: N-[p/][s/]No...![p/][s/] That can't-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不、[p/][s/]不……！[p/][s/]这不可能——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5902\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5903",
     "original": "Tyrion: And [i]that's[/i] why I pity you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我就是<u>因为这一点</u>可怜你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat9-5903\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5904",
     "original": "Tyrion: You were fated to be evil from the moment of your creation, weren't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 从被创造出来的那一刻起，你就注定邪恶吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5904\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5905",
     "original": "Tyrion: That's why you hate humanity so much.[p/] You envy us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以你才会这么恨人类。[p/]你嫉妒我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5905\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5906",
     "original": "Eris: ...[i]What[/i] did you just say?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……你刚才说<u>什么</u>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5906\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5907",
     "original": "Tyrion: You're envious of humanity.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你嫉妒人类。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5907\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5908",
     "original": "Tyrion: You don't grow.[p/] You don't change.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你不会成长，[p/]不会改变。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5908\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5909",
     "original": "Tyrion: You can't become a better version of yourself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你没法成为更好的自己。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5909\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5910",
     "original": "Tyrion: You're right.[p/] Your existence probably [i]will[/i] be eternal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你说得没错。[p/]可能你确实<u>是</u>永恒存在。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5910\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5911",
     "original": "Tyrion: You'll be eternally evil.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你会永远邪恶。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5911\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5912",
     "original": "Tyrion: ...And you'll be eternally unsatisfied and eternally pitiful.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……也会永远无法满足，永远凄凉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5912\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5913",
     "original": "Tyrion: [i]That's[/i] why you envy us,[p/] because you'll never be free from that fate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你就是因为<u>这一点</u>才嫉妒我们。[p/]因为你永远无法摆脱这种命运。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5913\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5914",
     "original": "Eris: That is completely-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你说的根本——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5914\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5915",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5915\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5916",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5916\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5917",
     "original": "Tyrion: You can't say it, can you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 说不出口吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5917\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5918",
     "original": "Tyrion: You can't refute my claim,[p/] because it would be a lie.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你不能反驳我的论点，[p/]不然你就说谎了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5918\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5919",
     "original": "Eris: You-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你丫——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5919\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5920",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat10-5920\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5921",
     "original": "Eris: ...You know what?[p/] Maybe you [i]are[/i] right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……你猜怎么着？[p/]也许你<u>是</u>对的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat11-5921\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5922",
     "original": "Eris: Maybe I'll [i]never[/i] be satisfied.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 也许我<u>永远不会</u>满足。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat11-5922\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5923",
     "original": "Eris: Maybe I [i]won't[/i] feel any satisfaction from killing you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 也许杀了你也<u>无法</u>让我获得一丁点满足感。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat11-5923\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5924",
     "original": "Eris: ...But I'm still going to try!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……但我还是会尝试！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat11-5924\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5925",
     "original": "Rath: To think you would threaten violence in [i]my[/i] presence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 有<u>我</u>在场，你竟然还敢以暴力恐吓别人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat11-5925\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5926",
     "original": "Rath: ...Arrogant witch.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: ……傲慢的女巫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat11-5926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5927",
     "original": "Lucio: Well...[p/] I suppose that solves [i]that[/i] business.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 嗯……[p/]我看<u>这件事</u>是解决了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5927\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5928",
     "original": "Lucio: Although...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 虽然……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5928\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5929",
     "original": "Tyrion: ...She'll definitely be back one day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……她总有一天会回来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5929\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5930",
     "original": "Tyrion: And when she does,[p/] I'll be ready.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但那时我会做好准备。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5930\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5931",
     "original": "Rath: ...For now,[p/] let's be satisfied that we've finally discovered what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: ……至少目前有一点值得庆幸：[p/]我们终于弄清楚了实际发生的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5931\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5932",
     "original": "Tyrion: ...Oh, right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……噢，对了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5932\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5933",
     "original": "Tyrion: About that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这个嘛……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5933\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5934",
     "original": "Lucio: Are you serious?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 你逗我呢吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5934\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5935",
     "original": "Lucio: After all [i]that[/i],[p/] we [i]still[/i] don't know who the Patron is?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 闹了这么久，我们<u>还是</u>不知道签约人是谁？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5935\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5936",
     "original": "Rath: ...At this point,[p/] I'm just glad Ms. McCoy wasn't the true mastermind behind this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: ……至少现在，[p/]我很高兴麦考伊女士不是真正的罪魁祸首。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5936\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5937",
     "original": "Tyrion: Speaking of which,[p/] now that I've nullified her Contract,[p/] Celeste should finally have her true memories back.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 说到这个，[p/]现在塞莱斯特的合同已经无效化了。[p/]她应该已经取回了真实记忆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5937\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5938",
     "original": "Celeste: Ugh...[p/] I [i]do[/i] remember what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 呜呃……[p/]我<u>的确</u>记得发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5938\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5939",
     "original": "Celeste: But it's still really fuzzy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但还是很模糊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5939\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5940",
     "original": "Celeste: I've really been trying to remember what was on Aria's Contract when I caught a glimpse of it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我当时瞟了一眼阿莉亚的合同，[p/]刚才也一直在尝试回忆起其中内容。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5940\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5941",
     "original": "Celeste: But I think [i]that's[/i] the memory Eris manipulated the most.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但我认为<u>这里</u>是厄莉斯篡改记忆最厉害的部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5941\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5942",
     "original": "Rath: It's possible that she will need some time to fully recover from the Empress's demonic influence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 她有可能还需要一点时间从女皇的影响中恢复。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5942\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5943",
     "original": "Lucio: But we don't [i]have[/i] that kind of time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 但我们<u>没有</u>这么多时间了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5943\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5944",
     "original": "Lucio: That damned demon led us around for the entire morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 那个可恨的恶魔一早上都耍得我们团团转。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5944\",\n  \"keywords\": []\n}"
   },
   {
@@ -39314,372 +39314,372 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5946",
     "original": "Lucio: It's just past noon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 现在已过中午。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5946\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5947",
     "original": "Tyrion: Right...[p/] We have less than three hours before [i]every[/i] magical trace at the crime scene disappears.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是的……[p/]距离犯罪现场的<u>所有</u>魔法痕迹消失只剩不到三小时。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5947\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5948",
     "original": "Tyrion: Could you try testifying?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你能不能试试作证？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5948\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5949",
     "original": "Tyrion: Maybe reviewing everything will help jog your memory.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 回顾发生的一切也许可以帮你找回记忆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5949\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5950",
     "original": "Celeste: O-[p/]Okay...[p/] I'll do my best.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好、[p/]好的……[p/]我会尽力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5950\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5952",
     "original": "Tyrion: I see your house is still filled with chandeliers...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你家还是这么多吊灯……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5952\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5953",
     "original": "Liafal: Yes.[p/] I've been meaning to redecorate the manor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 对。[p/]我早就想重新装修庄园了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5953\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5954",
     "original": "Liafal: I've always my father's aesthetics to be somewhat tacky.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我一直觉得父亲的审美有点俗气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5954\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5956",
     "original": "Tyrion: It's a fireplace.[p/] It's probably used to keep the Study warm during the winter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一个火炉。[p/]应该是用来在冬天给书房供暖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5956\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5958",
     "original": "Tyrion: It's a painting of a man with a dog.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一幅上有牵狗男人的画。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5958\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5959",
     "original": "Liafal: That's David Ding,[p/] from House Ding.[p/] They're one of the branch families of House Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 画里的人是来自丁家的 David Ding。[p/]丁家是弗雷加的分家之一。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5959\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5960",
     "original": "Liafal: He was a dog breeder with a bit of an obsession with the dogs he owned.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 他是个犬类饲育员，很痴迷自己拥有的狗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5960\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5961",
     "original": "Liafal: As someone with a canine familiar,[p/] I feel a sort of kinship with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 作为拥有犬类使魔的人，[p/]我对他有亲近感。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5961\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5962",
     "original": "Tracker: Tracker like fellow dog.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 追追喜欢这条狗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5962\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5963",
     "original": "Tracker: He looks like the loyal type.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 他看起来忠于主人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5963\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5964",
     "original": "You're not exactly sure [i]how[/i] he's inferring that.[p/] But you suppose you can't disagree with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你不太清楚它是<u>怎么</u>看出来的。[p/]但你也不会质疑它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5964\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5966",
     "original": "Tyrion: It's a bookshelf.[p/] It was filled with fake books the last time we were here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一个书架。[p/]上次我们来的时候装满了假书。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5966\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5967",
     "original": "Celeste: Some of the books are actually real this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这次有一部分书是真的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5967\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5969",
     "original": "Tyrion: It's a window with a view of the outside.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 可以看到外面的窗户。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5969\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5971",
     "original": "Tyrion: It's various books about economics and political theory.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 各种关于经济和政治理论的书。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5971\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5972",
     "original": "Tyrion: It looks like they haven't been disturbed since Beatrice's trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 比亚特丽丝的审判以后好像就没被动过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5972\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5973",
     "original": "Liafal: ...I've been meaning to put those away.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……我本打算把这些收起来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5973\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5974",
     "original": "Liafal: But I still feel uneasy about disturbing my father's books.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 但随便动父亲的藏书还是会让我不安。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5974\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5977",
     "original": "Tyrion: It's a desk where the head of House Frega would sit.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 弗雷加一族首领用的桌子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5977\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5978",
     "original": "Liafal: I'm still getting used to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我还在习惯这种感觉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5978\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5979",
     "original": "Liafal: This chair always felt too big for me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 椅子对我来说太大了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Examine_FregaManor2-5979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5983",
     "original": "Tyrion: Laefe.[p/] I'm sure you know why I'm here...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 拉菲。[p/]你一定清楚我来这儿的原因……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5983\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5984",
     "original": "Tyrion: But I just want to preface this by saying that I highly doubt you were behind this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我想先声明，我不觉得你是幕后黑手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5984\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5985",
     "original": "Liafal: No...[p/] I perfectly understand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 没事……[p/]我完全理解。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5985\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5986",
     "original": "Liafal: Frankly,[p/] I'm also at a loss.[p/] I have no idea who did this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 坦白说，[p/]我还很茫然。[p/]我不知道是谁干了这些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5986\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5987",
     "original": "Miriam: What are you talking about?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 你在说什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5987\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5988",
     "original": "Miriam: It was clearly that [i]criminal[/i]: The Eyetaker!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 明显是那个<u>恶徒</u>：夺眼者！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5988\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5989",
     "original": "Miriam: Why don't you go interrogate [i]him[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 你为什么不去审问<u>他</u>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5989\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5990",
     "original": "Tyrion: Make no mistake.[p/] We fully intend to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别误会。[p/]我们正有此意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5990\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5991",
     "original": "Tyrion: ...But I'd like to cover everyone else before I confront him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……但我想在对上他之前先和其他人谈过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5991\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5992",
     "original": "Liafal: Let him be, Miriam.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 别针对他了，米莉亚姆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5992\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5993",
     "original": "Miriam: B-[p/][s/]But,[p/][s/] it's [i]his[/i] fault that Beatrice is-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 但、[p/][s/]但是，[p/][s/]因为<u>他</u>比亚特丽丝才会——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5993\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5994",
     "original": "Liafal: Our sister knew what she was doing when she gave her testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我们的姐姐作证时知道自己在干什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5994\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5995",
     "original": "Liafal: Don't insult her bravery by blaming Mr. Cuthbert for what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 你怪罪卡斯伯特先生也是在侮辱姐姐的勇气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5995\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5996",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5996\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5997",
     "original": "Liafal: Anyways,[p/] Mr. Cuthbert has shown many times that he's acting in good faith.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 总之，[p/]卡斯伯特先生已经多次证明他的行动是出于善意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5997\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5998",
     "original": "Liafal: ...And he's capable of convicting the criminals that even [i]we[/i] can't see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……他也有能力指控连<u>我们</u>都发现不了的罪犯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5998\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5999",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5999\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6001",
     "original": "Tyrion: You mentioned Beatrice before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你之前提到了比亚特丽丝。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6001\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6002",
     "original": "Tyrion: ...Did something happen?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……发生什么事了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6002\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6003",
     "original": "Liafal: It happened right after she gave her testimony this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 是在她今早作证之后。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6003\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6004",
     "original": "Liafal: She fell unconscious shortly after she left the Scaled Lord's Lair.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 她在离开鳞甲领主的巢穴不久后就失去了意识。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6004\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6005",
     "original": "Liafal: She hasn't woken up since then.[p/] And Marrunath has gone missing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 之后她一直没有醒来。[p/]马鲁纳斯也失踪了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6005\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6006",
     "original": "Tyrion: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6006\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6007",
     "original": "Lazarick: It must have been the Empress of Discord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 一定是无序女皇搞的鬼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6007\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6008",
     "original": "Lazarick: After you manifested Lady Steelwind's Blood Contract,[p/] we all realized why she was acting so strangely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 你展示斯蒂尔文德小姐的血契之后，[p/]我们才理解为什么她举止奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6008\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6009",
     "original": "Tyrion: Right...[p/] If it weren't for her,[p/] I would've never considered trying to issue a Divine Edict.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是了……[p/]要不是因为她，[p/]我都不会想到要发出神谕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6010",
     "original": "Liafal: She sacrificed herself to save Lady Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 她为了救斯蒂尔文德小姐牺牲自己。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6010\",\n  \"keywords\": []\n}"
   },
   {
@@ -39692,162 +39692,162 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6012",
     "original": "Miriam: I-[p/][s/]It seems our esteemed sister put her trust in you, commoner.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 看、[p/][s/]看起来我们尊敬的姐姐很信任你啊，平民。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6012\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6013",
     "original": "Liafal: So we will do the same.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我们也会这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6013\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6014",
     "original": "Liafal: If there's anything we can do to help you,[p/] please ask.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 如果有任何我们能帮上忙的事，[p/]请尽管开口。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6014\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6016",
     "original": "Tyrion: I appreciate your trust.[p/] All of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很感谢你们大家的信任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6017",
     "original": "Tyrion: But I have to ask...[p/] Where were you all between 2:00 PM and 3:00 PM that day?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我还是得问……[p/]那天下午 2:00-3:00 之间你们在哪里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6017\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6018",
     "original": "Liafal: Luckily,[p/] we were all together.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 很幸运，[p/]我们一直在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6019",
     "original": "Lazarick: Me,[p/] Laefe,[p/] Miriam,[p/] Beatrice,[p/] and her friend were all in the garden before 2:00 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 我，[p/]拉菲，[p/]米莉亚姆，[p/]比亚特丽丝，[p/]以及她的朋友下午 2:00 之前都在花园里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6020",
     "original": "Liafal: But at around 2:00 PM,[p/] my sister and Ms. Illmater both went missing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 但在下午 2:00 左右，[p/]我的姐姐与伊尔马特女士失踪了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6020\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6021",
     "original": "Miriam: I can't believe we trusted [i]her[/i] to take care of our sister.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 不敢相信我们会让<u>她</u>来照顾姐姐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6021\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6022",
     "original": "Liafal: Hush now, Miriam.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 适可而止，米莉亚姆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6022\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6023",
     "original": "Liafal: If the Empress of Discord took control of her,[p/] there was hardly anything Ms. Illmater could do to stop it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 无序女皇要是控制了她，[p/]伊尔马特女士也没法进行反抗的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6024",
     "original": "Liafal: I really [i]do[/i] hope she's okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我<u>真的希望</u>她没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6025",
     "original": "Liafal: She's been missing since the massacre.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 屠杀以来她就失去了踪迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6026",
     "original": "Tyrion: You mentioned that you all went to search for her.[p/] Did you see anything?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你提到你们一行人一起去寻找她了。[p/]途中看见什么了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6026\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6027",
     "original": "Liafal: No.[p/] We were originally planning to search the cathedral grounds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 没有。[p/]我们本来打算在大教堂内搜索。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6027\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6028",
     "original": "Liafal: But when we arrived at the Nave,[p/] we found Aster trapped in a [b]Force Cage[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 但抵达中殿时，[p/]我们得知阿斯特被[b]坚牢术[/b]所困。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6028\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6029",
     "original": "Tyrion: Did any of you lose track of each other during that time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这段时间里你们中有人和队伍分开吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6029\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6030",
     "original": "Lazarick: No...[p/] We stayed together for the entire time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 没有……[p/]我们几个一直待在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6030\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6031",
     "original": "Lazarick: But we [i]did[/i] consider splitting up to cover more ground.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 但我们<u>确实</u>考虑过分散行动以扩大搜索面积。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6032",
     "original": "Liafal: But the Kingsguard found us and asked us to stay where we were.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 但国王卫队让我们留在原地。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6032\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6033",
     "original": "Tyrion: Right...[p/] I suppose that makes sense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这样……[p/]确实说得通。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6033\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6034",
     "original": "Tyrion: And did you see Eris at all when this happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这期间你们有见过厄莉斯吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6034\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6035",
     "original": "Liafal: No...[p/] We never saw her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 不……[p/]我们完全没见过她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6035\",\n  \"keywords\": []\n}"
   },
   {
@@ -39860,1149 +39860,1149 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6037",
     "original": "Tyrion: She went missing at the same time that Beatrice did...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她和比亚特丽丝在同一时间失踪了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6038",
     "original": "Tyrion: That's...[p/] [i]really[/i] suspicious.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这……[p/]<u>真的</u>很可疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6039",
     "original": "Liafal: You don't think-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 你是想说——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6040",
     "original": "Tyrion: It's definitely possible she was involved in this somehow...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她很有可能牵涉其中……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6041",
     "original": "Tyrion: Not to mention,[p/] the Eyetaker is one of our suspects.[p/] And [i]she's[/i] his daughter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 更不要说，[p/]她的父亲夺眼者是嫌疑人之一。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6042",
     "original": "Miriam: She's his [i]what[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 她的<u>父亲</u>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6042\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6043",
     "original": "Tyrion: ...You didn't know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你不知道啊？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6043\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6044",
     "original": "Tyrion: I'd have thought that Beatrice would've told you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我以为比亚特丽丝会告诉你们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6044\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6045",
     "original": "Liafal: No...[p/] She didn't mention that at all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 不……[p/]她完全没提过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6046",
     "original": "Hm...[p/] It looks like Eris has a lot to answer for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "嗯……[p/]看来有很多问题需要厄莉斯解答。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6047",
     "original": "If you can even [i]find[/i] her, that is...",
-    "translation": "",
-    "stage": 0,
+    "translation": "不过你得先能<u>找到</u>她……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6051",
     "original": "Liafal: I envy your bravery, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我很羡慕你的勇敢，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6052",
     "original": "Liafal: In the face of demons and dragons,[p/] you still seem quite calm.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 即使面对恶魔与龙，你依然不失镇静。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6052\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6053",
     "original": "Tyrion: Regardless of who's involved,[p/] this is the same as any other trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不管有谁参与，[p/]这和其他审理都没什么不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6053\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6054",
     "original": "Tyrion: Man, king, or god...[p/] I'll save Aria,[p/] no matter what it takes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 人、王、亦或是神……[p/]不管要付出什么，[p/]我都会救出阿莉亚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6054\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6056",
     "original": "Liafal: I can't believe someone did this to Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 很难相信有人会这样对阿莉亚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6056\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6057",
     "original": "Liafal: I've had enough of these demons...[p/] They just violate the wills of those they've enslaved.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我受够这些恶魔了……[p/]他们会肆意违背奴役的意愿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6057\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6058",
     "original": "Liafal: It's absolutely abhorrent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 属实令人发指。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6058\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6059",
     "original": "Tyrion: No matter what happens...[p/] I'll save her from this fate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不管发生什么……[p/]我都不会让她走向这种命运。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6059\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6060",
     "original": "Liafal: For everyone's sake,[p/] I hope you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 为了大家，[p/]我希望你成功。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6060\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6062",
     "original": "Liafal: I wasn't sure what to make of Ms. Illmater at first.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我一开始不知道该如何看待伊尔马特女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6062\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6063",
     "original": "Liafal: But she was a friend to Beatrice during those five years...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 但这五年里她和比亚特丽丝是朋友……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6063\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6064",
     "original": "Liafal: So I [i]want[/i] to trust her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我<u>想要</u>信任她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6064\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6065",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6065\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6066",
     "original": "Liafal: She attends the Academy.[p/] Isn't that right, Miriam?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 她也在帝国学院就读。[p/]没错吧，米莉亚姆？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6066\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6067",
     "original": "Miriam: Yeah...[p/] But I never really got close to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 是的……[p/]但我们不算熟悉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6067\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6068",
     "original": "Miriam: She had a reputation for doing things to people.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 都说她喜欢对人动手动脚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6068\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6069",
     "original": "Miriam: I was always too scared to approach her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我害怕得不敢接近她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6069\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6070",
     "original": "Liafal: I see... [mind=\"As much as I hate to admit it, I feel the same.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我明白了…… [mind=\"虽然不愿承认，但我也有同感。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6070\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6072",
     "original": "Tyrion: Why [i]are[/i] you here, Lord Asclepius?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你为什么<u>在这里</u>，阿斯克勒庇俄斯勋爵？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6072\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6073",
     "original": "Liafal: We were discussing plans to lift the ban on studying [b]necromancy[/b] at the Imperial Academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我们在讨论有关解禁帝国学院[b]死灵术[/b]课程的计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6073\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6074",
     "original": "Liafal: As the head of House Frega,[p/] I inherited my father's position on the board.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 作为弗雷加家族的首领，[p/]我也继承了父亲在董事会里的位置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6074\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6075",
     "original": "Tyrion: Oh![p/][s/] That's great!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢！[p/][s/]那很棒啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6075\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6076",
     "original": "Lazarick: I appreciate the enthusiasm.[p/] But we should still approach this carefully.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 感谢你的热情。[p/]但我们依然需要小心对待此事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6076\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6077",
     "original": "Tyrion: Really?[p/] I thought [i]you[/i] of all people would be excited for this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 真的吗？[p/]我还以为<u>你</u>应该最为激动呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6077\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6078",
     "original": "Lazarick: The kingdom's ban on [b]necromancy[/b] was harsh,[p/] but it was somewhat justified.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 王国对[b]死灵术[/b]的禁令很苛刻，[p/]但这也有正当理由。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6078\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6079",
     "original": "Lazarick: The study of something like this has to be regulated and closely monitored.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 这一类学习应该被密切管控。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6079\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6080",
     "original": "Lazarick: The last thing I want is to create another mad necromancer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 我最不想看到的，[p/]就是再出现一个疯癫的死灵法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6080\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6082",
     "original": "Liafal: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6082\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6083",
     "original": "Tyrion: I don't know if I have any right to say this...[p/] But I'm sorry about what happened to Beatrice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不知道我有没有资格这么说……[p/]但我对比亚特丽丝的事深感遗憾。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6083\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6084",
     "original": "Liafal: No...[p/] For better or for worse,[p/] she's always done what she wanted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 没事……[p/]不论是好是坏，[p/]她做的一直都是自己想做的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6084\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6085",
     "original": "Liafal: She knew what she was doing.[p/] And she was well aware of the potential consequences.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 她知道自己在做什么，[p/]也清楚可能的后果。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6085\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6086",
     "original": "Liafal: I just wish there was something I could do for her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我只是希望有什么自己能为她做的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6086\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6088",
     "original": "Tyrion: ...Have you ever spoken to Beatrice's familiar?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你与比亚特丽丝的使魔说过话吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6088\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6089",
     "original": "Tracker: Tracker [i]hate[/i] flying rat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 追追<u>痛恨</u>会飞的老鼠。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6089\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6090",
     "original": "Tracker: He always says mean things to everyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 老鼠天天说别人坏话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6090\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6091",
     "original": "Tracker: He's a [i]terrible[/i] pet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: <u>糟糕</u>的宠物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6091\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6092",
     "original": "Despite his size,[p/] he's not exactly a pet though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然袖珍，[p/]但它倒也不算是宠物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6092\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6094",
     "original": "Liafal: I hope His Majesty is okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我希望国王陛下没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6094\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6095",
     "original": "Tyrion: Right...[p/] Someone basically used his former fiancée [i]and[/i] his current fiancée to commit mass murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是啊……[p/]有人利用他的前未婚妻<u>和</u>现未婚妻实施屠杀。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6095\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6096",
     "original": "Miriam: Despite being royal,[p/] he's always had a soft heart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 虽然出身皇家，[p/]但他一直很善良。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6096\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6097",
     "original": "Miriam: I'm sure this whole ordeal is affecting him the most.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 他肯定是被这次事件影响最深的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6097\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6099",
     "original": "Tyrion: Have any of you ever seen this symbol before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你们有人见过这个符号吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6099\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6100",
     "original": "Liafal: ...No.[p/] I can't say I have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……我没有见过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6100\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6101",
     "original": "Lazarick: Me neither...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 我也没有……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6101\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6102",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6102\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6103",
     "original": "Miriam: I think I've seen it at the Imperial Academy before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我觉得我在帝国学院看到过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6103\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6104",
     "original": "Tyrion: What...?[p/] Where?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么……？[p/]在哪里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6104\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6105",
     "original": "Miriam: It was scratched onto the desk in the Imperial Library.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 帝国图书馆的桌子上刻着这个符号。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6105\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6106",
     "original": "Miriam: But it was only there for a day.[p/] The faculty probably noticed it and removed it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 但符号只存在了一天。[p/]可能被教职工移除了吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6107",
     "original": "Hm...[p/] Well, that hardly points you in any direction.",
-    "translation": "",
-    "stage": 0,
+    "translation": "嗯……[p/]哎，这没什么帮助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6107\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6109",
     "original": "Tyrion: What can you tell me about this, Lady Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 弗雷加小姐，你能告诉我些什么吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6109\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6110",
     "original": "Liafal: My apologies.[p/] I don't think I'll be of much help with that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 抱歉。[p/]我恐怕帮不上忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Present_FregaManor2-6110\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6112",
     "original": "You arrive at Frega Manor,[p/] hoping to speak with Laefe and Miriam.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你抵达了弗雷加庄园，[p/]希望能与拉菲和米莉亚姆交谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6112\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6113",
     "original": "After some asking around,[p/] one of the servants mentions that they appear to be entertaining guests in the Study.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在周围打听了一下之后，[p/]侍从之一提到，她们正在书房接待客人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6113\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6114",
     "original": "You normally wouldn't interrupt them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一般你不会打扰她们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6114\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6115",
     "original": "But you've already eaten up a lot of time traveling here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但来这儿的路途已经耗费你不少时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6115\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6116",
     "original": "Whatever they're discussing can wait.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她们可以之后再讨论。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6117",
     "original": "Tracker: ARF[p/][s/] ARF[p/][s/] ARF[p/][s/] ARF!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: <size=1.5em>汪[p/][s/]汪[p/][s/]汪[p/][s/]汪[p/][s/]汪！</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6117\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6118",
     "original": "Celeste: A-[p/][s/]Ah!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哎、[p/][s/]哎呀！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6118\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6119",
     "original": "As you enter the Study,[p/] Tracker runs up to you and begins barking.",
-    "translation": "",
-    "stage": 0,
+    "translation": "进入书房时，[p/]追追跑到你身边狂吠。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6119\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6120",
     "original": "But once he sees who you are,[p/] he calms down.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一看清楚你是谁，[p/]他就冷静了下来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6120\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6121",
     "original": "Tracker: Oh.[p/] Hello, friends.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 噢。[p/]你好，朋友们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6121\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6122",
     "original": "Tracker: Sorry for borks.[p/] Tracker thought he smell something...[p/] bad.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 吼你们对不起。[p/]追追以为闻到了……[p/]坏东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6122\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6123",
     "original": "Liafal: Oh, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 噢，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6123\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6124",
     "original": "You scan the room and see that Miriam is there too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你扫视屋内，发现米莉亚姆也在。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6124\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6125",
     "original": "...And they appear to be speaking with Lord Asclepius.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她们似乎正在与阿斯克勒庇俄斯勋爵交谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6125\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6126",
     "original": "Tyrion: Sorry for barging in, Laefe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 抱歉打扰你们，拉菲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6126\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6127",
     "original": "Liafal: N-[p/][s/]No...[p/] It's no problem at all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 不、[p/][s/]不……[p/][s/]完全没有问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6127\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6128",
     "original": "Her emotions imply that she already knows why you're here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "情感表明她已经知道你为何来此。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6128\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6129",
     "original": "Tyrion: I'll skip the pleasantries...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我就不说客套话了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6129\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6130",
     "original": "Tyrion: Do you mind if I ask you a few questions about what happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你介意我们就发生了什么事情问几个问题吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6130\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6131",
     "original": "Liafal: Of course...[p/] I'll do anything to help with Lady Steelwind's...[p/] situation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 当然不……[p/]我会尽可能帮助斯蒂尔文德小姐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6131\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6132",
     "original": "Lazarick: ...Should I leave?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: ……我是不是该告辞？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6132\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6133",
     "original": "Liafal: No...[p/] You were there with me when everything happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 不……[p/]事件发生时你也和我在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6133\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6134",
     "original": "Liafal: ...And your testimony will substantiate my alibi.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……你的证言可以巩固我的不在场证明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6134\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6135",
     "original": "Lazarick: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6135\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6136",
     "original": "Tyrion: I suppose I'll stop beating around the bush.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那我就直言不讳了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6136\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6137",
     "original": "Tyrion: ...Have any of you made a Blood Contract with a demon lately?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你们之中有人最近与恶魔签过血契吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6137\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6138",
     "original": "Miriam: How dare you?! [mind=\"This arrogant little peasant!\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 你怎么敢？！ [mind=\"这个傲慢的小贱民！\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6138\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6139",
     "original": "Liafal: ...No,[p/] I understand where he's coming from. [mind=\"I [i]want[/i] to understand... But the very idea is infuriating...\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……没事，[p/]我理解他为什么这么做。[mind=\"我想<u>理解</u>……但这还是让人愤怒……\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6139\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6140",
     "original": "Liafal: Of everyone present,[p/] our sister was the only person with [i]known[/i] ties to a demon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 在场所有人里，[p/]唯一<u>已知</u>与恶魔有联系的就是我们的姐姐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6140\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6141",
     "original": "Liafal: ...If she were to share that secret with anyone,[p/] it would've been with us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: ……她最有可能与之分享这一秘密的人就是我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6141\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6142",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6142\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6143",
     "original": "You didn't catch any incriminating thoughts from them through the Eye.",
-    "translation": "",
-    "stage": 0,
+    "translation": "荷鲁斯之眼没有发现任何可能成为罪证的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6143\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6144",
     "original": "But you've been misled by it before...",
-    "translation": "",
-    "stage": 0,
+    "translation": "但你之前也被误导过……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6144\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6145",
     "original": "Tyrion: Nevertheless,[p/] we still have no idea who the Patron is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总之，[p/]我们还是不知道签约人是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6145\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6146",
     "original": "Lazarick: I was actually meaning to ask you during the trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 审理中我其实就想问你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6146\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6147",
     "original": "Lazarick: Can't you just use this \"Divine Edict\" of yours to figure out who the Patron is?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 你就不能用那个“神谕”找出签约人身份吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6147\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6148",
     "original": "Tyrion: No.[p/] To manifest a Blood Contract,[p/] I need the title of the demon and the name of the human they made that contract with.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不行。[p/]要展示血契，[p/]我需要恶魔的头衔与签约之人的名字。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6148\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6149",
     "original": "Lazarick: I understand that,[p/] but why not just apply brute force?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 这我明白，[p/]那为什么不采用暴力破解法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6149\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6150",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt-6150\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6151",
     "original": "Lazarick: Due to the King's funeral,[p/] the Kingsguard has a detailed list of everyone who was present during the massacre.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 由于国王的葬礼，[p/]国王卫队有一份记载了屠杀发生时所有在场人士的名单。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6151\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6152",
     "original": "Lazarick: Whoever this Patron is,[p/] they were working together with the Empress of Discord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 不管这个签约人是谁，[p/]他都在与无序女皇合作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6152\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6153",
     "original": "Lazarick: That must mean they made a Blood Contract with her, yes?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 所以和签约人签订血契的也肯定是无序女皇吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6154",
     "original": "Tyrion: ...That's right!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……对啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6154\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6155",
     "original": "Tyrion: I could just keep issuing Divine Edicts until a Blood Contract appears!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我可以在血契出现前重复发出神谕！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6155\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6156",
     "original": "Celeste: W-[p/][s/]Wait...[p/] I-[p/][s/]Is that safe?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等、[p/][s/]等下……[p/]这、[p/][s/]这安全吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6156\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6157",
     "original": "Tyrion: There's only one way to find out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只有试试看了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6157\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6158",
     "original": "You take out your notes and begin looking at your list of suspects.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你拿出笔记，看向嫌疑人列表。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6158\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6159",
     "original": "You might be at this for a while.[p/] So you might as well go in order.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这要花上一些时间。[p/]最好按顺序来试。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6159\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6160",
     "original": "You clear your throat in preparation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你清了清嗓子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6160\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6161",
     "original": "Tyrion: Empress of Discord![p/][s/] Wherever you may hide!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 无序女皇！[p/][s/]不管你藏身何处！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6161\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6162",
     "original": "Tyrion: Release thy guards and manifest your Blood Contract with Aster de Wyverngarde!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 放下防备，展示你和阿斯特·维文加德的血契！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt2-6162\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6163",
     "original": "Tyrion: AGGGGGGGGGH!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: <size=1.5em>啊啊啊啊啊啊啊啊啊！</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6164",
     "original": "Celeste: ...Tyrion?![p/][s/] What's wrong?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……提利昂？！[p/][s/]你怎么了？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6165",
     "original": "You collapse to the ground as you suddenly find yourself overcome in immense pain.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你突然被强烈的痛苦包围，瘫倒在地。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6165\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6166",
     "original": "Miriam: W-[p/][s/]What...?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 什、[p/][s/]什么……？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6166\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6167",
     "original": "Miriam: What's happening to him?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 他出什么事了？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6167\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6168",
     "original": "Liafal: Lazarick![p/][s/] Use your magic to heal him!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 拉扎瑞克！[p/][s/]用你的魔法治疗他！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6168\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6169",
     "original": "Lazarick: R-[p/][s/]Right!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 好、[p/][s/]好的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6169\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6170",
     "original": "Eris: Oh, you silly, silly boy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 哎哟，你这个小笨蛋。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6170\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6171",
     "original": "Eris: You may be half-human.[p/] But you can't just go around declaring [i]lies[/i] like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 虽然是个半人类，但你也不能随便宣告<u>谎言</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6171\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6172",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6172\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6173",
     "original": "Eris: *sigh*[p/] And I was [i]really[/i] looking forward to bringing you to the end of this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: *叹气* [p/]我本来还<u>挺期待</u>让你走向末路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6173\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6174",
     "original": "Eris: I haven't even [i]started[/i] to have my fun yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 好戏<u>还没开始</u>呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6174\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6175",
     "original": "Tyrion: Who...[p/] Who are you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你……[p/]你是谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6175\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6176",
     "original": "Eris: Actually...[p/] I suppose [i]that[/i] contract is still in effect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 其实……[p/]我猜<u>那份</u>契约还有效。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6176\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6177",
     "original": "Eris: I guess my hands are tied.[p/] I'll save you,[p/] just this once.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 看来我无法不从。[p/]只有这次，[p/]我会救你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6177\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6178",
     "original": "Celeste: ...rion...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……利昂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6178\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6179",
     "original": "Celeste: Tyrion![p/][s/] Please, wake up!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂！[p/][s/]求你了，快醒来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6179\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6180",
     "original": "Tyrion: ...Celeste?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……塞莱斯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6180\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6181",
     "original": "Celeste: Y-[p/][s/]You're okay!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你、[p/][s/]你没事！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6181\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6182",
     "original": "You most certainly don't [i]feel[/i] \"okay\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "你完全<u>不觉得</u>自己“没事”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6182\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6183",
     "original": "You can feel every part of your body aching.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你全身上下每一处都在隐隐作痛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6183\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6184",
     "original": "It's painful for you to even sit up like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "就连这么做起来都使你痛苦不堪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6184\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6185",
     "original": "Tracker: Are you okay, friend?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 你没事吧，朋友？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6185\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6186",
     "original": "Tyrion: Y-[p/][s/]Yeah...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 嗯、[p/][s/]嗯……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6186\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6187",
     "original": "Tyrion: What...[p/] happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 怎么……[p/]回事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6187\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6188",
     "original": "Lazarick: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6188\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6189",
     "original": "Lazarick: You died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 你死了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6189\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6190",
     "original": "Tyrion: W-[p/][s/]What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什、[p/][s/]什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6190\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6191",
     "original": "Lazarick: I've never brought anyone back from something like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 我从没成功救过陷入那种危机的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6191\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6192",
     "original": "Lazarick: That was my strongest spell too.[p/] You have no idea how lucky you are.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 我用的也是自己最强力的法术。[p/]你都不知道自己有多幸运。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6192\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6193",
     "original": "Lazarick: If [i]I[/i] wasn't here,[p/] who knows what might've happened...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 如果<u>我</u>不在，[p/]谁知道会怎么样……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt4-6193\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6194",
     "original": "Tyrion: I don't understand...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不明白……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt5-6194\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6195",
     "original": "Tyrion: The last thing I remember was issuing my Divine Edict...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我能想起来的最后一件事就是发出神谕……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt5-6195\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6196",
     "original": "Tyrion: Wait...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt5-6196\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6197",
     "original": "Liafal: Was [i]that[/i] the cause?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: <u>那</u>就是原因？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt5-6197\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6198",
     "original": "Tyrion: But I've done it before without any problems.[p/] I [i]just[/i] used it this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我以前发出神谕时没有问题啊。[p/]我今早还<u>刚刚</u>用过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt5-6198\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6201",
     "original": "No...[p/] That pain came [i]after[/i] you attempted to issue a Divine Edict.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]痛苦是在你尝试发出神谕<u>之后</u>产生的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt6-6201\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6202",
     "original": "You started at the top of your list of suspects.[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "你从嫌疑人列表最上方试起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt6-6202\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6203",
     "original": "Which means you tried to manifest the Blood Contract between the Empress of Discord and Aster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也就是说你尝试展示无序女皇与阿斯特的血契。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt6-6203\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6204",
     "original": "Tyrion: ...It [i]might[/i] be because Aster [i]doesn't[/i] have a Blood Contract with the Empress.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……<u>也许</u>是因为阿斯特与女皇<u>没有</u>签约血契。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6204\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6205",
     "original": "Tyrion: If demons are unable to lie,[p/] the same might hold true for angels as well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果恶魔不能说谎，[p/]天使可能也受到同样的规则限制。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6205\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6206",
     "original": "Tyrion: The Divine Edict is clearly some sort of divine magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 神谕很明显是某种神圣魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6206\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6207",
     "original": "Tyrion: So asking for a Blood Contract that doesn't exist might be considered a lie.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 要求展示不存在的血契可能会被判断为说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6207\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6208",
     "original": "Lazarick: S-[p/][s/]Sorry...[p/] It's my fault for suggesting it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lazarick: 抱、[p/][s/]抱歉……[p/]我不该这么建议的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6208\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6209",
     "original": "Tyrion: No...[p/] I was being reckless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没有……[p/]是我太鲁莽了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6209\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6210",
     "original": "Celeste: Please be more careful...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 求你小心点……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6210\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6211",
     "original": "Celeste: I don't think my heart can take this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我的心脏承受不了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6211\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6212",
     "original": "Tyrion: Well...[p/] At least we know [i]Aster[/i] wasn't behind this...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哎……[p/]至少我们知道了幕后黑手不是<u>阿斯特</u>……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6212\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6213",
     "original": "Celeste: He was the most obvious one!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 最不可能的就是他啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6213\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6214",
     "original": "Either way,[p/] you should still make note of this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不管怎样，[p/]你还是应该把这一点记下来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6214\",\n  \"keywords\": []\n}"
   },
   {
@@ -41015,15 +41015,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6216",
     "original": "Tyrion: Ugh...[p/] Anyways,[p/] it's clear that I can't just issue these edicts without thinking.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呜呃……[p/]总之，[p/]我不能不过大脑就随便发出神谕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6216\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6217",
     "original": "Tyrion: I'll just have to wait until I'm certain of the Patron's identity.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 必须等到我确认签约人身份之后才行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6217\",\n  \"keywords\": []\n}"
   },
   {
@@ -41036,218 +41036,218 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6219",
     "original": "Celeste: ...Just please be careful.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我只求你小心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6219\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6220",
     "original": "Anyways,[p/] it looks like you've found everything you can here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "总之，[p/]你应该已经找全所有有用的线索了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6220\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6221",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你应该<size=1.5em>移动</size>到其他地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6221\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6223",
     "original": "Tyrion: What goes through the mind of such a tortured creature?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这受尽折磨的生物平常会思考什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Examine_Garden1-6223\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6224",
     "original": "Celeste: ...What is with you and this statue?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……你跟这雕像认识？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Examine_Garden1-6224\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6225",
     "original": "Tyrion: I don't know...[p/] But I can feel its emotions as if they were my own.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不认识……[p/]但我能感知到他的情绪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Examine_Garden1-6225\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6226",
     "original": "Celeste: It's an inanimate object, Tyrion!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，这都不是个生物！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Examine_Garden1-6226\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6229",
     "original": "Aster: You said that you two were investigating the murders.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 你说你们两个在调查这些谋杀案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6229\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6230",
     "original": "Aster: You weren't planning to defend Ms. Steelwind, were you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 你们是打算为斯蒂尔文德女士辩护吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6230\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6231",
     "original": "Tyrion: If she would have me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果她允许。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6231\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6232",
     "original": "Tyrion: She may be a competent prosecutor.[p/] But I have far more experience defending clients.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她作为检察官实力强悍，[p/]但辩护这方面我更有经验。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6232\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6233",
     "original": "Aster: Unfortunately,[p/] I think the situation is more complicated than that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 不幸的是，[p/]我认为现况要更加复杂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6233\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6234",
     "original": "Tyrion: What do you mean?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你是什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6234\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6235",
     "original": "Aster: Several House leaders died today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 今天多位家族领主死了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6235\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6236",
     "original": "Aster: We can't release this information to the public.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我们不能把这些信息公之于众。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6236\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6237",
     "original": "Aster: Not after the news of William Frega's death has already spread.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 至少不是在威廉·弗雷加之死已经传开的情况下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6237\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6238",
     "original": "Aster: In the course of two months,[p/] we've lost not one,[p/] but [i]three[/i] members of the Pillar Families.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 两个月的时间里，[p/]我们失去了整整<u>三位</u>四大支柱家族的领主。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6238\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6239",
     "original": "Tyrion: But the trial [i]has[/i] to happen soon.[p/] Or else the magical traces left will disappear.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但审理<u>必须</u>马上开始。不然魔法痕迹会消失的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6239\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6240",
     "original": "Aster: From what I've heard,[p/] we [i]will[/i] be holding a trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 就我所知，[p/]审理是<u>会</u>举行的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6240\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6241",
     "original": "Aster: But it will be handled privately and internally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 但将是私下在内部举行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6241\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6242",
     "original": "Aster: ...And I'm sorry to say that,[p/] you won't be permitted to serve in such a trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: ……很抱歉这么说，[p/]但你不会被允许参加这种审理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6242\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6243",
     "original": "Tyrion: Right...[p/] A majority of the nobility hates me after all...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 确实……[p/]毕竟恨我的贵族已经有一大把了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6243\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6244",
     "original": "Tyrion: ...You wouldn't be able to pull some strings, would you Aster?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……阿斯特你能不能帮我想想办法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6244\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6245",
     "original": "Aster: I-[p/][s/] I'm sorry.[p/] I'd like nothing more than to give you the opportunity to represent her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我、[p/][s/]我很抱歉。[p/]我也很想给你机会为她辩护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6245\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6246",
     "original": "Aster: But I clearly have a personal attachment to this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 但我显然与这案子利益相关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6246\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6247",
     "original": "Aster: If I try to tip the trial in her favour,[p/] it will only harm her chances more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 即使我尝试让审理对她有利，[p/]也只会帮倒忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6247\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6248",
     "original": "Tyrion: Right...[p/] I see what you mean.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也是……[p/]我明白你的意思。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6248\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6249",
     "original": "Tyrion: But even if we can't help her during the trial,[p/] we can still investigate the crimes on her behalf.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但即使不能在审理期间帮助她，[p/]我们也还是可以代表她调查案件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6249\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6250",
     "original": "Aster: ...Yes.[p/] I would really appreciate that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: ……对。[p/]我很感激。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6250\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6251",
     "original": "Aster: If new evidence is found,[p/] perhaps we can exonerate Ms. Steelwind of the charges against her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 如果找到了新证据，[p/]也许我们能为斯蒂尔文德女士沉冤昭雪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6251\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6253",
     "original": "Tyrion: After everything that's happened,[p/] I really need to know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 发生这么多以后，[p/]我很想知道一件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6253\",\n  \"keywords\": []\n}"
   },
   {

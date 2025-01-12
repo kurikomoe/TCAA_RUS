@@ -20708,7 +20708,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3210",
     "original": "TYRION: Do you mind if we ask you some questions about what happened?",
-    "translation": "TYRION: 你介意我们就发生了什么事情问你几个问题吗？",
+    "translation": "TYRION: 你介意我们就发生了什么事情问几个问题吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3210\",\n  \"keywords\": []\n}"
   },
@@ -23235,8 +23235,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3598",
     "original": "Eris: I assumed that his research had [i]something[/i] to do with the supernatural.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我想他的研究和超自然力量<u>有点关系</u>吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start_2-3598\",\n  \"keywords\": []\n}"
   },
   {
