@@ -5511,8 +5511,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-838",
     "original": "Celeste: You barely even [i]knew[/i] him!",
-    "translation": "Celeste: 你甚至刚认识他没几天！",
-    "stage": 5,
+    "translation": "Celeste: 你甚至刚<u>认识</u>他没几天！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Celeste Argument.yarn-Celeste_Present3-838\",\n  \"keywords\": []\n}"
   },
   {
@@ -5798,8 +5798,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-879",
     "original": "Celeste: But is everything [i]really[/i] going to be okay?",
-    "translation": "Celeste: 但庭审的事怎么办呢？",
-    "stage": 5,
+    "translation": "Celeste: 但庭审<u>真的</u>会没事吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Celeste Argument.yarn-Celeste_Present3-879\",\n  \"keywords\": []\n}"
   },
   {
@@ -8451,8 +8451,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1288",
     "original": "Tyrion: And how,[p/] pray tell,[p/] did you see “everything”?",
-    "translation": "Tyrion: 哦？[p/] 是吗？[p/]请问你是怎么看到<u>一切</u>的？",
-    "stage": 5,
+    "translation": "Tyrion: 哦？[p/]是吗？[p/]请问你是怎么看到<u>一切</u>的？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-Garrick_Present-1288\",\n  \"keywords\": []\n}"
   },
   {
@@ -8752,8 +8752,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1334",
     "original": "Garrick: This is a complete travesty of our justice system!",
-    "translation": "Garrick: 这完全是对我们司法系统的嘲弄！",
-    "stage": 5,
+    "translation": "Garrick: 这完全是对我们司法体系的嘲弄！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-GarrickCornered3-1334\",\n  \"keywords\": []\n}"
   },
   {
@@ -9074,8 +9074,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1382",
     "original": "It’s the same expression you made every time you defeated her.",
-    "translation": "你每次下棋击败她的表情一模一样。",
-    "stage": 5,
+    "translation": "和你每次下棋击败她的表情一模一样。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-GarrickCornered4-1382\",\n  \"keywords\": []\n}"
   },
   {
@@ -10397,15 +10397,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1587",
     "original": "She looks like she’s…[p/] focusing.",
-    "translation": "她看起来像是在……[p/]集中。",
-    "stage": 5,
+    "translation": "她看起来像是在……[p/]集中注意力。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Empowered Eye.yarn-Ending-1587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1588",
     "original": "…Almost as if to protect herself from a certain Eye.",
-    "translation": "……仿佛是在从某种“眼”中保护自己……",
-    "stage": 5,
+    "translation": "……仿佛是在从某种“眼”中保护自己。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Empowered Eye.yarn-Ending-1588\",\n  \"keywords\": []\n}"
   },
   {
@@ -10558,8 +10558,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1610",
     "original": "Tyrion: Wait...[p/] Do [i]we[/i] have enough gold?",
-    "translation": "Tyrion: 等下……[p/]我们钱够吗？",
-    "stage": 5,
+    "translation": "Tyrion: 等下……[p/]<u>我们</u>钱够吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Empowered Eye.yarn-Ending-1610\",\n  \"keywords\": []\n}"
   },
   {
@@ -13267,8 +13267,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2017",
     "original": "It didn't matter how corrupt the justice system was.",
-    "translation": "不管司法系统多么腐败。",
-    "stage": 5,
+    "translation": "不管司法体系多么腐败。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj-2017\",\n  \"keywords\": []\n}"
   },
   {
@@ -15283,8 +15283,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2314",
     "original": "So, [i]that’s[/i] her plan...",
-    "translation": "所以，[i]这就是[/i]她的计划……",
-    "stage": 5,
+    "translation": "所以，<u>这就是</u>她的计划……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Trial2_CourtIntro-2314\",\n  \"keywords\": []\n}"
   },
   {
@@ -15353,8 +15353,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2324",
     "original": "Aria: He [i]means[/i] to say that he’s a carriage driver.",
-    "translation": "Aria: 他[i]意思是[/i]说他是一名马车司机。",
-    "stage": 5,
+    "translation": "Aria: 他<u>意思是</u>说他是一名马车司机。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Trial2_CourtIntro-2324\",\n  \"keywords\": []\n}"
   },
   {
@@ -15619,8 +15619,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2362",
     "original": "But it [i]was[/i] pretty dark.",
-    "translation": "但当时伸手不见五指。",
-    "stage": 5,
+    "translation": "但<u>当时</u>伸手不见五指。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Testimony_Rhys-2362\",\n  \"keywords\": []\n}"
   },
   {
@@ -16221,8 +16221,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2459",
     "original": "Tyrion: The dining room lights [i]had[/i] no energy,[p/][s/] and the room would’ve been pitch black!",
-    "translation": "Tyrion: 就餐区的灯当时<u>没有</u>电力，屋内会是一片漆黑！",
-    "stage": 5,
+    "translation": "Tyrion: 就餐区的灯<u>当时</u>没有电力，屋内会是一片漆黑！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj-2459\",\n  \"keywords\": []\n}"
   },
   {
@@ -16599,8 +16599,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2517",
     "original": "Not that you [i]actually[/i] believe him.",
-    "translation": "你并不相信他。",
-    "stage": 5,
+    "translation": "你<u>并</u>不相信他。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2517\",\n  \"keywords\": []\n}"
   },
   {
@@ -16725,8 +16725,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2540",
     "original": "Tyrion: Mr. Rudolf.[p/] If you [i]were[/i] aware of how [b]Mage Blade[/b] works,[p/] then you would know that the spell emits a [i]yellow[/i] radiant glow.",
-    "translation": "Tyrion: 鲁道夫先生，[p/]如果你了解[b]法术剑刃[/b]的原理，[p/]就会知道这种法术只会释放出<u>黄光</u>。",
-    "stage": 5,
+    "translation": "Tyrion: 鲁道夫先生，[p/]如果你<u>了解过</u>[b]法术剑刃[/b]的原理，[p/]就会知道这种法术只会释放出<u>黄光</u>。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj2-2540\",\n  \"keywords\": []\n}"
   },
   {
@@ -16809,8 +16809,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2552",
     "original": "Tyrion: So, what did you [i]really[/i] see, Mr. Rudolf?!",
-    "translation": "Tyrion: 那么，你当晚到底看到了什么，鲁道夫先生？！",
-    "stage": 5,
+    "translation": "Tyrion: 那么，你当晚<u>实际</u>看到了什么，鲁道夫先生？！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj2-2552\",\n  \"keywords\": []\n}"
   },
   {
@@ -17005,8 +17005,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2580",
     "original": "Garrick: I’m afraid that these…[p/] misunderstandings are entirely my fault.",
-    "translation": "Garrick: 这些误解完全是我的错。",
-    "stage": 5,
+    "translation": "Garrick: 我不得不承认……[p/]这些误会都是我的错。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj2-2580\",\n  \"keywords\": []\n}"
   },
   {
@@ -17124,8 +17124,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2597",
     "original": "Judge: This is highly irregular,[p/] but I believe the court [i]will[/i] benefit from hearing your testimony.",
-    "translation": "Judge: 这种情况史无前例，[p/]但我相信你的证言会对<u>法庭</u>有助益。",
-    "stage": 5,
+    "translation": "Judge: 这种情况史无前例，[p/]但我相信你的证言<u>会对</u>法庭有助益。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj2-2597\",\n  \"keywords\": []\n}"
   },
   {
@@ -17250,8 +17250,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2616",
     "original": "Tyrion: That seems like a...[p/] strange way to pass the time.",
-    "translation": "Tyrion: 你散心的方式……[p/]挺有雅兴啊。",
-    "stage": 5,
+    "translation": "Tyrion: 你散心的方式……[p/]有点奇怪啊。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2616\",\n  \"keywords\": []\n}"
   },
   {
@@ -17278,8 +17278,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2620",
     "original": "Garrick: …I wouldn’t [i]quite[/i] put it that way.",
-    "translation": "Garrick: ……我可不会<u>这么</u>形容自己……",
-    "stage": 5,
+    "translation": "Garrick: ……我可不会<u>这么</u>形容自己。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2620\",\n  \"keywords\": []\n}"
   },
   {
@@ -17859,8 +17859,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2712",
     "original": "Tyrion: And [b]which[/b] spell would that be, Pierce?",
-    "translation": "Tyrion: 那是什么法术，皮尔斯？",
-    "stage": 5,
+    "translation": "Tyrion: 那是[b]什么[/b]法术，皮尔斯？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-GarrickObj-2712\",\n  \"keywords\": []\n}"
   },
   {
@@ -18573,8 +18573,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2816",
     "original": "Tyrion: [i]This[/i] is the spell that Lord Pierce used to commit the murder.",
-    "translation": "Tyrion: [i]这就是[/i]皮尔斯勋爵用于事实谋杀的那个法术。",
-    "stage": 5,
+    "translation": "Tyrion: <u>这就是</u>皮尔斯勋爵用于实施谋杀的那个法术。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Present_ShapeLiquid-2816\",\n  \"keywords\": []\n}"
   },
   {
@@ -18979,8 +18979,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2881",
     "original": "Garrick: Someone must take the fall,[p/] lest the public accuse the justice system of corruption.",
-    "translation": "Garrick: 必须有人伏法，[p/]以免公众指责司法系统的腐败。",
-    "stage": 5,
+    "translation": "Garrick: 必须有人伏法，[p/]以免公众指责司法体系的腐败。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2881\",\n  \"keywords\": []\n}"
   },
   {
@@ -19070,8 +19070,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2894",
     "original": "Aria: The system should be based on truth and justice,[p/] not on public opinion.",
-    "translation": "Aria: 司法系统应基于真相和正义，[p/]而非公众看法。",
-    "stage": 5,
+    "translation": "Aria: 司法体系应基于真相和正义，[p/]而非公众看法。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2894\",\n  \"keywords\": []\n}"
   },
   {

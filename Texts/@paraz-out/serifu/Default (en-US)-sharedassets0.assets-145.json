@@ -14457,7 +14457,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2245",
     "original": "Trying PROJECTING something related to the Construct's actions.",
-    "translation": "尝试“投影”与构造体的行动有关的事物。",
+    "translation": "尝试<size=1.5em>“投射”</size>与构造体的行动有关的事物。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoEye-2245\",\n  \"keywords\": []\n}"
   },
@@ -21324,7 +21324,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3308",
     "original": "TYRION: O-[p/][s/]Oh…[p/][s/] Thanks!",
-    "translation": "TYRION: 哦、[p/][s/]噢……[p/][s/]谢谢你！",
+    "translation": "TYRION: 噢、[p/][s/]噢……[p/][s/]谢谢你！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3308\",\n  \"keywords\": []\n}"
   },
@@ -23879,7 +23879,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3700",
     "original": "ERIS ILLMATER: Can you think of an arcane spell that can produce something like that?",
-    "translation": "ERIS ILLMATER: 你认为奥术魔法可以产生那样的效果吗？",
+    "translation": "ERIS ILLMATER: 你想得出能像他的力量一样，创造魔力的奥术吗？",
     "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3700\",\n  \"keywords\": []\n}"
   },
@@ -25804,8 +25804,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3978",
     "original": "TYRION: Celeste,[p/] this room was close to the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 塞莱斯特，[p/]厨房离犯罪现场很近。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3978\",\n  \"keywords\": []\n}"
   },
   {
