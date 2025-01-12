@@ -3537,15 +3537,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-517",
     "original": "Celeste: Do you like it?[p/] It's a souvenir I got while I was traveling the Eastern Kingdoms.",
-    "translation": "Celeste: 你喜欢吗？[p/]这是我在东边的国家时得到的纪念品。",
-    "stage": 5,
+    "translation": "Celeste: 你喜欢吗？[p/]这是我在东方古国游历时得到的纪念品。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-517\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-518",
     "original": "Tyrion: Wait...[p/][s/] You've [i]been[/i] to the Eastern Kingdoms?!",
-    "translation": "Tyrion: 等下…….[p/][s/]你去过东方古国？！",
-    "stage": 5,
+    "translation": "Tyrion: 等下…….[p/][s/]你<u>去过</u>东方古国？！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-518\",\n  \"keywords\": []\n}"
   },
   {
@@ -3558,8 +3558,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-520",
     "original": "Celeste: Well...[p/] I didn't [i]exactly[/i] enter legally.",
-    "translation": "Celeste: 嗯……[p/]我确实不是合法去那边的。",
-    "stage": 5,
+    "translation": "Celeste: 嗯……[p/]我<u>确实</u>不是合法去那边的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-520\",\n  \"keywords\": []\n}"
   },
   {
@@ -4636,8 +4636,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-688",
     "original": "Tyrion: Defending people like your daughter is the [i]exact[/i] reason why I became a defense attorney.",
-    "translation": "Tyrion: 我决定成为辩护律师的理由，就是要为向您女儿的一样弱势群体辩护。",
-    "stage": 5,
+    "translation": "Tyrion: 我决定成为辩护律师的理由，<u>就是</u>要为向您女儿的一样弱势群体辩护。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-688\",\n  \"keywords\": []\n}"
   },
   {
@@ -5000,8 +5000,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-750",
     "original": "So [i]this[/i] is Celeste’s mother.",
-    "translation": "原来她是塞莱斯特的母亲。",
-    "stage": 5,
+    "translation": "原来<u>她就是</u>塞莱斯特的母亲。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Check_Events_Bedroom-750\",\n  \"keywords\": []\n}"
   },
   {
@@ -5028,8 +5028,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-754",
     "original": "Alright.[p/] You think you’ve investigated everything you can for now…",
-    "translation": "好了[p/]感觉你已经充分调查过了……",
-    "stage": 5,
+    "translation": "好了，[p/]感觉你已经充分调查过了……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Check_Events_Bedroom-754\",\n  \"keywords\": []\n}"
   },
   {
@@ -7268,8 +7268,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1111",
     "original": "If what he's saying is true,[p/] it will be that much harder to figure out what kind of weapon originally killed him.",
-    "translation": "如果他说的没错，[p/]想要找出原本的凶器会变得十分困难。",
-    "stage": 5,
+    "translation": "如果他说得没错，[p/]想要找出原本的凶器会变得十分困难。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1111\",\n  \"keywords\": []\n}"
   },
   {
@@ -8976,8 +8976,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1368",
     "original": "He’s right![p/][s/] If he used an ice blade to kill Flinhart,[p/][s/] it would have evaporated by now!",
-    "translation": "他说的没错！[p/][s/]如果他用一把冰刃杀害了弗林哈特，[p/][s/]那真正的凶器早就蒸发了！",
-    "stage": 5,
+    "translation": "他说得没错！[p/][s/]如果他用一把冰刃杀害了弗林哈特，[p/][s/]那真正的凶器早就蒸发了！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-GarrickCornered4-1368\",\n  \"keywords\": []\n}"
   },
   {
@@ -18853,8 +18853,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2863",
     "original": "Tyrion: O-[p/][s/]Oh,[p/] sorry.",
-    "translation": "Tyrion: 哦、[p/][s/]噢，[p/][s/]不好意思。",
-    "stage": 5,
+    "translation": "Tyrion: 噢、[p/][s/]噢，[p/][s/]不好意思。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Upstairs.yarn-Check_Events_Upstairs-2863\",\n  \"keywords\": []\n}"
   },
   {
