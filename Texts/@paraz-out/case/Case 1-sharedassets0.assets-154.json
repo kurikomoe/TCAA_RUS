@@ -37,7 +37,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-14-0",
     "original": "How did the bottle shatter?",
-    "translation": "这瓶子 是 怎么 碎的？",
+    "translation": "这瓶子\\u200B是\\u200B怎么\\u200B碎的\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the bottle shatter?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -135,7 +135,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-18-0",
     "original": "What can we infer about the state of the crime scene?",
-    "translation": "据此 能推断出 犯罪现场 是种什么 状态？",
+    "translation": "据此\\u200B能推断出\\u200B犯罪现场\\u200B是种\\u200B什么\\u200B状态\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we infer about the state of the crime scene?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -247,7 +247,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-86-0",
     "original": "What can we tell about how Flinhart died?",
-    "translation": "弗林哈特 的 死法 暗示了 什么？",
+    "translation": "弗林哈特\\u200B的\\u200B死法\\u200B暗示了\\u200B什么\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we tell about how Flinhart died?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -453,5 +453,12 @@
     "translation": "奥蒙·怀特",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Orym White\",\n    \"3\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-psychComplete-Orym White",
+    "original": "Orym White",
+    "translation": "奥蒙·怀特",
+    "stage": 0,
+    "context": "{\n  \"node_name\": \"Present_Tavern\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   }
 ]

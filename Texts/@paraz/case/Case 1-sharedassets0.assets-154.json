@@ -72,10 +72,10 @@
     "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the bottle shatter?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
-    "key": "Case 1-sharedassets0.assets-154.json-Present_Tavern-psychComplete-Orym White",
+    "key": "Case 1-sharedassets0.assets-154.json-psychComplete-Orym White",
     "original": "Orym White",
     "translation": null,
-    "context": null
+    "context": "{\n  \"node_name\": \"Present_Tavern\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-OrymArgument_Fail-5-0",

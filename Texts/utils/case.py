@@ -13,9 +13,9 @@ from .case_utils import (CheckCmd, GetOpXAsString, Key, ParseProtoFromCase,
 
 def Key_psychComplete(*args) -> str:
     case_name = args[0]
-    node_name = args[1]
+    args[1]
     tag = args[2]
-    return f"{case_name}-{node_name}-psychComplete-{tag}"
+    return f"{case_name}-psychComplete-{tag}"
 
 def File(*args) -> Path:
     case_name = args[0]
@@ -51,6 +51,11 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                         tmp.append(Paratranz(
                             key=Key_psychComplete(case_name, node_name, name),
                             original=name,
+                            context=json.dumps({
+                                "node_name": node_name,
+                                "cmd": str(inst).replace("\n", " "),
+                                "keywords": "psychComplete",
+                            }, ensure_ascii=False, indent=2),
                         ))
 
 
@@ -129,23 +134,26 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         paraz_acc = GetParazAcc(paraz_file)
 
         for node_name, node in program.nodes.items():
-            pass
-
+            last_insts = []
             for inst_idx, inst in enumerate(node.instructions):
                 # Process the psychComplete
-                # last_insts.append(inst)
-                # if len(last_insts) > 5: last_insts.pop(0)
+                last_insts.append(inst)
+                if len(last_insts) > 5: last_insts.pop(0)
 
-                # if CheckCmd(inst, "psychComplete"):
-                #     name_inst = last_insts[-3]
-                #     assert name_inst.opcode == pb.Instruction.PUSH_STRING, name_inst
-                #     name = GetOpXAsString(name_inst, 0)
+                if CheckCmd(inst, "psychComplete"):
+                    name_inst = last_insts[-3]
+                    assert name_inst.opcode == pb.Instruction.PUSH_STRING, name_inst
+                    name = GetOpXAsString(name_inst, 0)
 
-                #     key_name = Key_psychComplete(case_name, node_name, name)
-                #     assert key_name in paraz_acc, key_name
-                #     assert name_inst.operands[0].string_value == paraz_acc[key_name].original
-                #     name_inst.operands[0].string_value = paraz_acc[key_name].translation
+                    key_name = Key_psychComplete(case_name, node_name, name)
+                    assert key_name in paraz_acc, key_name
+                    assert name_inst.operands[0].string_value == paraz_acc[key_name].original
+                    print("="*40)
+                    print("psychComplete: ", str(name_inst).replace("\n", " "))
+                    name_inst.operands[0].string_value = paraz_acc[key_name].translation
+                    print("psychComplete: ", str(name_inst).replace("\n", " "))
 
+                # RUN_COMMAND
                 if inst.opcode != pb.Instruction.RUN_COMMAND:  #type: ignore[attr-defined]
                     continue
 

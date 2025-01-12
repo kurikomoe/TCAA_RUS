@@ -2,7 +2,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-6-0",
     "original": "Which spell do they think Wallace used?",
-    "translation": "对方 认为 华莱士 用了 什么 法术？",
+    "translation": "对方\\u200B认为\\u200B华莱士\\u200B用了\\u200B什么\\u200B法术\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"WallaceDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Which spell do they think Wallace used?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -51,7 +51,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-53-0",
     "original": "Why doesn’t Valentina know that the spell was necromancy?",
-    "translation": "为什么 瓦伦蒂娜 不知道 这是 死灵术 的 一种？",
+    "translation": "为什么\\u200B瓦伦蒂娜\\u200B不知道\\u200B这是\\u200B死灵术\\u200B的\\u200B一种\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why doesn’t Valentina know that the spell was necromancy?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -121,7 +121,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-6-0",
     "original": "Why does Steelwind trust us this time?",
-    "translation": "为什么 斯蒂尔文德 这次 相信我们？",
+    "translation": "为什么\\u200B斯蒂尔文德\\u200B这次\\u200B相信我们\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why does Steelwind trust us this time?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -163,7 +163,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-9-0",
     "original": "How did the twins trick the Inquisition?",
-    "translation": "双子 怎么 骗过 裁判所 的？",
+    "translation": "双子\\u200B怎么\\u200B骗过\\u200B裁判所\\u200B的\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the twins trick the Inquisition?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -212,7 +212,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-7-0",
     "original": "How does the evidence implicate Wallace?",
-    "translation": "这一证据 为何 能表明 华莱士 有罪？",
+    "translation": "这一证据\\u200B为何\\u200B能表明\\u200B华莱士\\u200B有罪\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How does the evidence implicate Wallace?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -261,7 +261,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-13-0",
     "original": "What is wrong with the crime scene?",
-    "translation": "犯罪现场 有 什么 问题？",
+    "translation": "犯罪现场\\u200B有\\u200B什么\\u200B问题\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is wrong with the crime scene?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -352,7 +352,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-13-0",
     "original": "What is motivating Steelwind to keep secrets?",
-    "translation": "是什么 导致 斯蒂尔文德 保密？",
+    "translation": "是什么\\u200B导致\\u200B斯蒂尔文德\\u200B保密\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"LockerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is motivating Steelwind to keep secrets?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -380,7 +380,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-4-0",
     "original": "Whose locker had the most suspicious evidence?",
-    "translation": "谁的 储物柜里 有 最可疑的 证据？",
+    "translation": "谁的\\u200B储物柜里\\u200B有\\u200B最可疑的\\u200B证据\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"AfterLockerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Whose locker had the most suspicious evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -436,7 +436,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-9-0",
     "original": "Who has Steelwind trusted for this case?",
-    "translation": "斯蒂尔文德 在 这个案子里 选择 相信谁 ？",
+    "translation": "斯蒂尔文德\\u200B在\\u200B这个案子里\\u200B选择\\u200B相信谁\\u200B ？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"LockerDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who has Steelwind trusted for this case?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -457,7 +457,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-2-0",
     "original": "How did the lockdown affect the Construct's actions?",
-    "translation": "封锁 如何 影响了 构造体的 行动？",
+    "translation": "封锁\\u200B如何\\u200B影响了\\u200B构造体的\\u200B行动\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the lockdown affect the Construct's actions?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -499,7 +499,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-5-0",
     "original": "What can you infer about the secret witness?",
-    "translation": "你 能推断出 什么 与 秘密目击证人 相关的 事？",
+    "translation": "你\\u200B能推断出\\u200B什么\\u200B与\\u200B秘密目击证人\\u200B相关的\\u200B事\\u200B？",
     "stage": 1,
     "context": "{\n  \"node_name\": \"LockerDeduce7\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can you infer about the secret witness?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -600,5 +600,19 @@
     "translation": "阿莉亚·斯蒂尔文德",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Aria Steelwind\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Valentina Ianus",
+    "original": "Valentina Ianus",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Aria Steelwind",
+    "original": "Aria Steelwind",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"node_name\": \"Check_Events_Library2\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   }
 ]

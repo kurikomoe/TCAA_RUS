@@ -84,10 +84,10 @@
     "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why doesn’t Valentina know that the spell was necromancy?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
-    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-psychComplete-Valentina Ianus",
+    "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Valentina Ianus",
     "original": "Valentina Ianus",
     "translation": null,
-    "context": null
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye-7-0",
@@ -108,10 +108,10 @@
     "context": "{\n  \"node_name\": \"OrymObj\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Which spell would leave a trace of [i]necromancy[/i]?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
-    "key": "Case 2-sharedassets0.assets-155.json-Check_Events_Library2-psychComplete-Aria Steelwind",
+    "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Aria Steelwind",
     "original": "Aria Steelwind",
     "translation": null,
-    "context": null
+    "context": "{\n  \"node_name\": \"Check_Events_Library2\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument3-1-0",
