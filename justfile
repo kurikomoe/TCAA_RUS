@@ -79,7 +79,7 @@ import:
 sync:
     python3 ./scripts/downParatranz.py
 
-sync_native:
+native:
     ./scripts/sync_native.sh
 
 [windows]

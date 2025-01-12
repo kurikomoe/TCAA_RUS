@@ -5,21 +5,14 @@
 #include <cstdint>
 #include <cstdlib>
 #include <cstring>
+#include <iostream>
+#include <format>
+#include <windows.h>
 
-struct __declspec(align(4)) System_String_Fields // sizeof=0x8
-{
-    int32_t _stringLength;
-    uint16_t _firstChar;
-    // padding byte
-    // padding byte
-};
+#include <MinHook.h>
 
-struct System_String_o // sizeof=0x10
-{
-    void *klass;
-    void *monitor;
-    System_String_Fields fields;
-};
+#include "game_def.h"
+
 
 System_String_o* new_sep = nullptr;
 
@@ -31,7 +24,7 @@ void* orig_TypewriterSplitText = nullptr;
 using SystemStringSplitFnT = void*(void* This, void* sep, int32_t options, void* method);
 
 
-extern "C" void* new_System_String_Split(void* This, void* sep, int32_t options, void* method) {
+extern "C" void* new_System_String_Split(System_String_o* This, void* sep, int32_t options, void* method) {
     if (new_sep == nullptr) {
         new_sep = (System_String_o*)malloc(sizeof(System_String_o));
         memcpy(new_sep, sep, sizeof(System_String_o));
@@ -48,4 +41,27 @@ void __declspec(naked) hook_TypewriterSplitText() {
         call new_System_String_Split
         jmp orig_TypewriterSplitText
     };
+}
+
+namespace Typewriter {
+    int init(DWORD base) {
+        System_String_Split += base;
+        std::cout << std::format("System_String_Split: {}\n", System_String_Split);
+
+        tgt_TypewriterSplitText += base;
+        std::cout << std::format("tgt_TypewriterSplitText: {}\n", tgt_TypewriterSplitText);
+
+        auto ret = MH_CreateHook((LPVOID)tgt_TypewriterSplitText, &hook_TypewriterSplitText, (LPVOID*)&orig_TypewriterSplitText);
+        if (ret != MH_OK) {
+            std::cout << std::format("MH_CreateHook Failed: {:#x} {}\n", (DWORD)tgt_TypewriterSplitText, (int)ret);
+            return 0;
+        }
+
+        if (MH_EnableHook((LPVOID)tgt_TypewriterSplitText) != MH_OK) {
+            std::cout << std::format("MH_EnableHook Failed\n");
+            return 0;
+        }
+
+        return 1;
+    }
 }
