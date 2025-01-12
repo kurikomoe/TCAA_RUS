@@ -3460,7 +3460,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-576",
     "original": "Celeste: But considering the people who were here,[p/] [i]that[/i] hardly narrows it down.",
-    "translation": "Celeste: 但考虑到在场的人，[p/] [i]这一点[/i]也没法缩小范围。",
+    "translation": "Celeste: 但考虑到在场的人，[p/][i]这一点[/i]也没法缩小范围。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Present_Cathedral2-576\",\n  \"keywords\": []\n}"
   },
@@ -3481,7 +3481,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-580",
     "original": "Aster: If there's [i]some[/i] silver lining to this,[p/] it's that he can no longer harm people with his negligence.",
-    "translation": "Aster: 要说有什么积极之处的话，[p/]他再也不能祸害民众了。",
+    "translation": "Aster: 要说有什么积极之处的话，[p/]就是他再也不能祸害民众了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Present_Cathedral2-580\",\n  \"keywords\": []\n}"
   },
@@ -41463,148 +41463,148 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6285",
     "original": "Aster: ...But what possible reason would she have to be involved in something like this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: ……可她有什么理由要参与这种事呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6285\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6286",
     "original": "Tyrion: I'm not sure yet.[p/] But I plan to find that out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我现在还不确定。[p/]但我会找出原因的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6288",
     "original": "Tyrion: By the way,[p/] where were [i]you[/i] during the murders?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 顺便问一下，[p/]谋杀发生时<u>你</u>在哪里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6288\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6289",
     "original": "Tyrion: I remember you left with Steelwind when Celeste and I arrived at the Cathedral.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 记得我和塞莱斯特抵达大教堂时，你和斯蒂尔文德一起离开了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6290",
     "original": "Aster: Ah, yes.[p/] Steelwind and I left to speak with High Speaker Archeus in his quarters.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 啊，是的。[p/]斯蒂尔文德和我去了大主教阿契厄斯的住处和他谈话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6290\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6291",
     "original": "Tyrion: What was your meeting about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你们谈的内容是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6292",
     "original": "Aster: ...It was actually about our wedding.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: ……是关于我们的婚礼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6292\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6293",
     "original": "Aster: With my father's death,[p/] Lord Steelwind wanted to finally make our union official.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我父亲已死，[p/]斯蒂尔文德勋爵希望让我们正式结为连理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6294",
     "original": "Tyrion: Oh...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6294\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6295",
     "original": "Tyrion: I [i]would[/i] congratulate you two,[p/] but considering the circumstances-...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 虽然我很想恭喜你们两个，[p/]但考虑到现况——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6295\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6296",
     "original": "Aster: I understand.[p/] And I appreciate your words nonetheless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我理解。[p/]我也很感谢你的祝福。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6296\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6297",
     "original": "Tyrion: Anyways,[p/] how long did this meeting last?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总之，[p/]你们的面会持续了多久？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6297\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6298",
     "original": "Aster: I believe we spoke with him until 1:40 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我们和他一直谈到下午 1:40。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6298\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6299",
     "original": "Tyrion: ...But von Sanctus died at 2:05 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……但冯·桑克图斯的死亡时间是下午 2:05。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6299\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6300",
     "original": "Tyrion: That means that she began her rampage less than half an hour after that meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 意味着她在会议结束之后半小时不到就开始了自己的狂暴行为。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6300\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6301",
     "original": "Tyrion: Was there anything off about her behaviour?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她当时举止有什么奇怪的地方吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6301\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6302",
     "original": "Aster: Now that you mention it,[p/] something about her demeanor changed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 你这么一提，[p/]她的行动确实有些古怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6302\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6303",
     "original": "Aster: We were speaking of the wedding when she abruptly left.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 她在我们谈论婚礼中途突然离场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6303\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6304",
     "original": "Aster: I asked her where she was going,[p/] but she ignored me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我问她要去哪里，[p/]但被无视了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6304\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6305",
     "original": "Tyrion: ...That sounds similar to what happened when Celeste fought her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……听起来和塞莱斯特与她搏斗时的样子大差不差。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6305\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6306",
     "original": "Tyrion: There's no way she was affected by Mageblight...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她不可能感染法师之疫……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6306\",\n  \"keywords\": []\n}"
   },
   {
@@ -41617,85 +41617,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6308",
     "original": "Aster: I honestly didn't think much of it at the time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我当时没想那么多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6308\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6309",
     "original": "Aster: I'm quite used to her giving me the cold shoulder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我已经习惯她对我冷眼相待了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6309\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6310",
     "original": "Celeste: ...Right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6310\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6311",
     "original": "It's possible that the \"Steelwind\" the witnesses saw wasn't actually real.",
-    "translation": "",
-    "stage": 0,
+    "translation": "目击者看到的“斯蒂尔文德”可能是个假货。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6311\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6312",
     "original": "Does that mean the \"Steelwind\" that attended the meeting was [i]also[/i] a fake?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那参加面会的“斯蒂尔文德”会不会<u>也是</u>假的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6312\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6314",
     "original": "Tyrion: Anyways,[p/] what happened after your meeting with the High Speaker?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总之，[p/]你们与大主教的面会之后怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6314\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6315",
     "original": "Tyrion: Did you see Steelwind after that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你在那之后见过斯蒂尔文德吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6315\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6316",
     "original": "Aster: Actually,[p/] [i]I[/i] found myself caught up in something else entirely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 事实上，[p/]<u>我</u>自己也遇到了大麻烦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6316\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6317",
     "original": "Aster: At 2:00 PM,[p/] I went to pay my respects at my father's coffin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 下午 2:00，[p/]我去父亲的遗棺那里悼念他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6317\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6318",
     "original": "Aster: But apparently,[p/] someone had set a magical trap there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 但那里被人设下了魔法陷阱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6318\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6319",
     "original": "Celeste: ...What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6319\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6320",
     "original": "Aster: It was a [b]Glyph of Contingency[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 是[b]有备无患[/b]法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6320\",\n  \"keywords\": []\n}"
   },
   {
@@ -41708,36 +41708,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6322",
     "original": "Celeste: I have...[p/] heard of that spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我……[p/]听说过这种法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6323",
     "original": "Celeste: It's like a trap you can set.[p/] And you can infuse [i]any[/i] spell into it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你可以在这种法术里输入一个[b]任意[/b]法术，[p/]借此设下陷阱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6324",
     "original": "Tyrion: But it requires a second,[p/] \"contingent\" spell to [i]place[/i] that trap.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也就意味着陷阱里有一个以备不时之需的法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6324\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6325",
     "original": "Tyrion: Which spell was it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这个法术是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6325\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6326",
     "original": "Aster: It was a [b]Force Cage[/b]...[p/] targeting [i]me[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 是[b]坚牢术[/b]……专门针对[b]我[/b]的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6326\",\n  \"keywords\": []\n}"
   },
   {
@@ -41750,64 +41750,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6328",
     "original": "Celeste: ...Was the murderer trying to attack Aster too?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……凶手也想攻击阿斯特吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6329",
     "original": "Tyrion: I don't think so...[p/] They would have used a more lethal spell if they wanted to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不觉得……[p/]不然他们就会在陷阱里设下更为致命的法术了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6330",
     "original": "Tyrion: But from the sounds of it,[p/] [b]Force Cage[/b] can't be dispelled.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 从描述看来，[p/][b]坚牢术[/b]无法被驱散。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6331",
     "original": "Tyrion: So Aster would have been trapped inside of it for that full hour.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 阿斯特在里面被关了整整一个小时。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6332",
     "original": "Aster: We think the murderer used this as a distraction.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我们认为这是凶手的调虎离山之计。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6332\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6333",
     "original": "Aster: Because of that trap,[p/] the Kingsguard consolidated most of their attention and forces on my location.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 由于这个陷阱，[p/]国王卫队将大部分力量集中在了我的位置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6333\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6334",
     "original": "Aster: As a result,[p/] there were fewer people guarding von Sanctus, Sibyl, and Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 结果就是，[p/]可以保卫冯·桑克图斯，希比尔和皮尔斯的人变少了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6334\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6335",
     "original": "Aster: And the ones that [i]were[/i] there all fell comatose.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 能保卫他们的人最终也都陷入昏迷。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6336",
     "original": "Aster: They can't tell us what happened to them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 也因此无法告诉我们发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6336\",\n  \"keywords\": []\n}"
   },
   {
@@ -41820,232 +41820,232 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6340",
     "original": "Aster: This whole situation is quite a mess.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 整个局面都是一团乱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6341",
     "original": "Aster: I do consider myself lucky that [i]you're[/i] here, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: <u>你</u>在这里让我感到庆幸，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6341\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6342",
     "original": "Tyrion: I appreciate your trust.[p/] But I still can't make sense of what I've found so far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我对你的信任表示感激。[p/]但我目前还无法解读自己发现的线索背后有什么意义。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6343",
     "original": "Aster: Well, if anyone can find out what happened,[p/] it's you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 哎，能找出真相的人只有你了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6343\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6345",
     "original": "Aster: I'm glad you were with Mr. Cuthbert when the assailant struck, Ms. McCoy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我也很高兴袭击发生时你和卡斯伯特先生在一起，麦考伊女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6346",
     "original": "Aster: Who knows what would have happened if you weren't there...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我都不敢想象如果你不在，事情会怎样发展……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6347",
     "original": "Celeste: No...[p/] I failed completely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不……[p/]我彻头彻尾失败了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6347\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6348",
     "original": "Celeste: I let the murderer get past me.[p/] They could have [i]killed[/i] Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我让凶手逃离了我。[p/]提利昂当时有可能<u>被杀</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6348\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6349",
     "original": "Tyrion: You can't keep blaming yourself for what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你不能把发生的事都怪在自己身上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6350",
     "original": "Tyrion: And we're both safe now.[p/] That's what matters.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 重要的是我们现在都安全了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6351",
     "original": "Celeste: Yeah...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6353",
     "original": "Aster: I can't believe Ms. Steelwind is being blamed for this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我不敢相信他们会把这怪到斯蒂尔文德女士身上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6353\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6354",
     "original": "Aster: Although,[p/] I can't fault the Kingsguard for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 虽然我也不能因此指责国王卫队。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6354\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6355",
     "original": "Tyrion: Right...[p/] There were several witnesses who saw her.[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是啊……[p/]好几名目击者看到了她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6356",
     "original": "Tyrion: And Celeste's testimony shows it wasn't someone [i]else[/i] magically disguised as her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特的证言也表明，并不是<u>其他人</u>用魔法伪装成她的样子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6357",
     "original": "Aster: I hope she's doing okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我希望她没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6359",
     "original": "Tyrion: Is [b]Glyph of Contingency[/b] common for mages to know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 会[b]有备无患[/b]的法师很多吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6360",
     "original": "Aster: No.[p/] It's extremely useful.[p/] But it's also very advanced.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 不。[p/]这法术很有用。[p/]但也十分高深。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6360\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6361",
     "original": "Aster: It essentially involves casting two spells at the same time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 简单来说，施法者需要同时施展两个法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6362",
     "original": "Tyrion: So whoever set that trap was a powerful mage...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以设下陷阱的肯定是个强力法师……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6363",
     "original": "Celeste: But considering the people who were here,[p/] [i]that[/i] hardly narrows it down.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但考虑到在场的人，[p/][i]这一点[/i]也没法缩小范围。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6363\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6365",
     "original": "Aster: Lloyd von Sanctus is actually dead...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 洛伊德·冯·桑克图斯死了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6366",
     "original": "Aster: And I just saw him this morning too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我今早才见过他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6366\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6367",
     "original": "Tyrion: Yeah...[p/] Despite my feelings about him,[p/] no one deserves to be killed in cold blood.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是啊……[p/]虽然我不喜欢他，[p/]但没人该被这样冷血谋杀。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6368",
     "original": "Aster: If there's [i]some[/i] silver lining,[p/] it's that he can no longer harm people with his negligence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 要说有什么积极之处的话，[p/]就是他再也不能祸害民众了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6369",
     "original": "He must still be thinking about what happened to Justin Waye.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他大概还在想贾斯汀·维耶的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6371",
     "original": "Aster: I can't believe someone killed Lady Sibyl.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 不敢相信有人杀了希比尔小姐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6371\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6372",
     "original": "Tyrion: Did you know her well?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你很了解她？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6372\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6373",
     "original": "Aster: Quite well.[p/] We had many debates about how her family ran the judicial system.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 相当了解。[p/]就希比尔家如何运营司法系统这点，我们辩论过多次。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6373\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6374",
     "original": "Aster: I found them quite...[p/] frustrating.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 这些辩论都很……[p/]令人沮丧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6374\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6375",
     "original": "Tyrion: ...After speaking to her,[p/] I can kind of understand what you mean.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……和她交谈过后，[p/]我多少理解你的意思。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6375\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6377",
     "original": "Tyrion: What do you think about this, Aster?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 阿斯特，你怎么看？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6378",
     "original": "Aster: My apologies, Mr. Cuthbert.[p/] I don't have much to say about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 很抱歉，卡斯伯特先生。[p/]我没有什么能说的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6378\",\n  \"keywords\": []\n}"
   },
   {
@@ -42058,134 +42058,134 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6381",
     "original": "...It's just you,[p/] Celeste,[p/] and the statue.[p/] The horrible statue.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……这里只有你，[p/]塞莱斯特，[p/]雕像。[p/]可怕的雕像。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6381\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6382",
     "original": "Tyrion: ...I don't feel safe here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: .……我觉得这里不安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6382\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6383",
     "original": "Celeste: Why is that statue freaking you out so much?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你怎么这么害怕一个雕像啊？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6383\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6384",
     "original": "Celeste: That pegasus is [i]literally[/i] a celestial like you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这天马可是你的天界老乡！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6384\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6385",
     "original": "Tyrion: I don't know.[p/] But I can feel its suffering through the Eye.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不知道。[p/]但我能通过荷鲁斯之眼感受到它在承受痛苦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6385\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6386",
     "original": "Celeste: It's an [i]inanimate[/i] object, Tyrion!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，这都不是个生物！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6386\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6387",
     "original": "Tyrion: ...Let's MOVE somewhere else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我们<size=1.5em>移动</size>到其他地方吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6387\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6388",
     "original": "Celeste: Alright.[p/] Whatever it takes to get you to stop acting so weird.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好吧。[p/]只要能让你别这么举止可疑就行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6388\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6389",
     "original": "You arrive back at the cathedral's garden and come across that accursed statue again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你们回到了大教堂的花园，又遇上了那受诅咒的雕像。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6389\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6390",
     "original": "Tyrion: ...It's staring into my soul.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这雕像盯得我肝颤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6390\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6391",
     "original": "Celeste: Then stop looking at it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 那你不要看它了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6391\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6392",
     "original": "As you move your attention away from the grotesque sculpture,[p/] you spot the crown prince.",
-    "translation": "",
-    "stage": 0,
+    "translation": "把视线从可怖的雕像上移开后，[p/]你看到了王储殿下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6392\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6393",
     "original": "He's sitting on a bench,[p/] guarded by some knights from the Kingsguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他正坐在长椅上，身边有数名国王卫队的骑士保卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6393\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6394",
     "original": "His brow is furrowed,[p/] and he seems to be deep in thought.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他眉头紧皱，[p/]看起来陷入沉思。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6394\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6395",
     "original": "Aster: O-[p/][s/]Oh, Mr. Cuthbert.[p/] And Ms. McCoy too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 噢、[p/]噢，卡斯伯特先生。[p/]还有麦考伊女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6395\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6396",
     "original": "Aster: What are you still doing here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 你们怎么还在这儿？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6396\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6397",
     "original": "Tyrion: We're trying to investigate what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们在调查案件详情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6397\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6398",
     "original": "Tyrion: We were looking around when we just happened to find you here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 四处搜查的过程中恰好在这里遇到了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6398\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6399",
     "original": "Aster: I see...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 原来如此……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6399\",\n  \"keywords\": []\n}"
   },
   {
@@ -42198,316 +42198,316 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6401",
     "original": "Tyrion: ...Are you okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你没事吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6401\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6402",
     "original": "Aster: Yes...[p/] I was just thinking how unfortunate this ordeal has been.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 没事……[p/]我只是在想这整起事件多么不幸。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6402\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6403",
     "original": "Aster: I do hope Ms. Steelwind is taking this well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我希望斯蒂尔文德女士没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6403\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6404",
     "original": "Right...[p/] She is his fiancée after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "是啊……[p/]毕竟她是他的未婚妻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6404\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6405",
     "original": "He must be extremely worried about her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他肯定非常担心她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6405\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6406",
     "original": "Tyrion: We're trying to find out what exactly happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们在试图弄清楚发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6406\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6407",
     "original": "Tyrion: Do you mind if we ask you some questions?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 介意回答我们几个问题吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6407\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6408",
     "original": "Aster: I...[p/] see.[p/] Well, I'll do whatever I can to help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我……[p/]明白了。[p/]好的，我会尽力帮忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6408\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6409",
     "original": "...And yet [i]another[/i] inexplicable event is added to the list.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……现在<u>又多了一个</u>未解之谜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6409\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6410",
     "original": "After everything you've learned,[p/] you highly doubt that Steelwind was affected by Mageblight.",
-    "translation": "",
-    "stage": 0,
+    "translation": "根据现在你所了解的内容，[p/]斯蒂尔文德不太可能感染了法师之疫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6410\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6411",
     "original": "So someone must be behind what happened...[p/] But who?",
-    "translation": "",
-    "stage": 0,
+    "translation": "罪魁祸首一定另有其人……[p/]但会是谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6411\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6412",
     "original": "...",
-    "translation": "",
-    "stage": 0,
+    "translation": "……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6412\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6413",
     "original": "Anyways,[p/] it seems he's told you everything he knows.",
-    "translation": "",
-    "stage": 0,
+    "translation": "总之，[p/]他应该已经把知道的一切都告诉你了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6413\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6414",
     "original": "He probably didn't witness much after he was trapped by that [b]Force Cage[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "被[b]坚牢术[/b]困住以后他也应该没有看到多少东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6414\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6415",
     "original": "You should MOVE somewhere else and follow your other leads.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你应该<size=1.5em>移动</size>到别处，追查其他线索。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6415\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6417",
     "original": "Tyrion: This statue...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这雕像……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6417\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6418",
     "original": "Tyrion: What [i]is[/i] this thing, by the way?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这到底是什么啊？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6418\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6419",
     "original": "Tyrion: You called it a \"pegasus\" earlier.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你之前管这叫“天马”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6419\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6420",
     "original": "Beatrice: It's a creature of divine origin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 是来自神圣领域的生物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6420\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6421",
     "original": "Beatrice: Many people believe that the angels of the Upper Planes rode these creatures into battle.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 很多人相信上层位面的天使会骑着这些生物征战沙场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6421\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6422",
     "original": "Tyrion: I see...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我明白了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6422\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6423",
     "original": "Beatrice: Do you feel some kinship to it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 你对它有亲近感吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6423\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6424",
     "original": "Tyrion: ...I can only feel its suffering.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我只能感受到它在受苦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6424\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6425",
     "original": "Celeste: What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6426",
     "original": "Tyrion: Its face is contorted into an expression of pure agony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 它的面部表情因极度痛苦而扭曲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6426\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6427",
     "original": "Tyrion: It screams out in terror.[p/] Yet no one can hear its pleas for mercy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 它因恐惧而发出哀嚎。[p/]但没人能听见他乞求慈悲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6427\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6428",
     "original": "Tracker: Queen...[p/] I think he's broken.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tracker: 女皇……[p/]我觉得他疯掉了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6428\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6429",
     "original": "Tyrion: Someone ignorant of its plight has placed some sort of vain party hat upon its head.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不知它身处何种困境的人给它戴了一顶派对帽。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6429\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6430",
     "original": "Tyrion: It's as if they are mocking its torment.[p/] Like some kind of demon torturing a poor soul in the fields of Avernus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 仿佛是在嘲讽它所受的折磨。就像是恶魔在地狱第一层阿佛纳斯折磨可怜的灵魂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6430\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6431",
     "original": "Celeste: What are you even saying...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你说什么玩意儿呢……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6431\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6432",
     "original": "Tyrion: I'm sorry...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 抱歉……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6433",
     "original": "Tyrion: I need to take a moment to think about what I've just witnessed here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我需要花时间好好消化一下自己看到的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6433\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6434",
     "original": "Tyrion: We all should.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们都应该这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6434\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6435",
     "original": "Celeste: Alright, Tyrion.[p/] You go do that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好吧，提利昂。[p/]你去吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Examine_GardenIntro-6435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6438",
     "original": "Tyrion: So...[p/] You seem to be doing well...[p/] All things considered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那么……[p/]虽然发生了这么多事……[p/]但你看起来过得不错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6439",
     "original": "Beatrice: You mean how a [i]demon[/i] now has ownership of my soul?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 你是指我的灵魂被[b]恶魔[/b]所有这一点“不错”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6440",
     "original": "Tyrion: Y-[p/][s/]Yeah...[p/] [i]that[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃、[p/][s/]对……[p/]<u>这一点</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6441",
     "original": "Miriam: How can you be so calm about this?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 你怎么能这么冷静？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6442",
     "original": "Liafal: I must agree with Miriam.[p/] It's a little unnerving how nonchalantly you're treating this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我不得不赞同米莉亚姆。[p/]你若无其事的态度有点吓人了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6443",
     "original": "Beatrice: I suppose it's the knowledge that everything is out of my hands now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 可能是因为我知道事情已经超出我的掌控吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6444",
     "original": "Beatrice: There's something peaceful about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 反而使我冷静下来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6445",
     "original": "Eris: ...[i]That's[/i] certainly a positive way to look at it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……这确实是种乐观的态度。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6446",
     "original": "Tyrion: You know...[p/] My offer still stands.[p/] I can try to help you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 记得吗……[p/]我的提议依然有效。[p/]我可以帮你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6447",
     "original": "Beatrice: At the risk of your [i]own[/i] life?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 以<u>你自己的</u>生命冒险？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6448",
     "original": "Tyrion: I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6448\",\n  \"keywords\": []\n}"
   },
   {
@@ -42520,36 +42520,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6450",
     "original": "The Divine Edict made you aware of every element in her Blood Contract.",
-    "translation": "",
-    "stage": 0,
+    "translation": "神谕让你能够了解她的血契内容。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6451",
     "original": "There was very little room for interpretation.[p/] It was airtight.",
-    "translation": "",
-    "stage": 0,
+    "translation": "内容严谨，[p/]没有多少解读空间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6452",
     "original": "Beatrice: ...The demon I signed that contract with was very meticulous about the details.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: ……与我签约的恶魔非常注重细节。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6453",
     "original": "Beatrice: I've spent the last five years looking for any possible loopholes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 我过去五年都一直在尝试找出漏洞。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6454",
     "original": "Beatrice: But I didn't find anything substantial I could use.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 但没有找到任何我可以利用的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6454\",\n  \"keywords\": []\n}"
   },
   {
@@ -42569,57 +42569,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6457",
     "original": "Tyrion: ...I'm sorry.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……抱歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6457\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6458",
     "original": "Beatrice: Don't be.[p/] You defeated me.[p/] I won't suffer your pity.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 不用。[p/]你打败了我。[p/]不需要可怜我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6458\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6459",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6461",
     "original": "Tyrion: I feel like we always end up randomly meeting like this, Eris.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 感觉我们的碰面总是这么突然，厄莉斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6461\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6462",
     "original": "Tyrion: What brings you here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么在这儿？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6462\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6463",
     "original": "Eris: I requested to accompany Beatrice to this...[p/] event.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我要求陪同比亚特丽丝参加这个……[p/]活动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6463\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6464",
     "original": "Eris: After all,[p/] I don't have many opportunities to enter a church like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 毕竟我很少有机会进入这样的教堂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6465",
     "original": "Beatrice: ...I can imagine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: ……能想象。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6465\",\n  \"keywords\": []\n}"
   },
   {
@@ -42632,71 +42632,71 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6467",
     "original": "Tyrion: By the way,[p/] is your father still-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 另外，[p/]你的爸爸还是——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6468",
     "original": "Eris: Oh,[p/] if you're worried about him,[p/] we've already had a conversation about you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 噢，[p/]如果你担心的是他，[p/]我们之前已经谈过你的事了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6468\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6469",
     "original": "Eris: I don't think he'll be accosting you any time soon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 他不会再来骚扰你了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6469\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6470",
     "original": "Tyrion: O-[p/][s/]Oh...[p/] Thank you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢、[p/][s/]噢……[p/]谢谢你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6470\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6471",
     "original": "Celeste: ...That seems too good to be true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……好得不像真的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6471\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6472",
     "original": "Celeste: How'd you pull something like [i]that[/i] off?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你是怎么做到这种事的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6472\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6473",
     "original": "Eris: He may look like a hardened criminal,[p/] but he's always had a soft spot for his family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 他看起来可能是个凶狠暴徒，[p/]但他心里一直很重视家人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6473\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6474",
     "original": "Eris: He also owed me.[p/] And I have a way of making people see things my way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 也是他欠我的。[p/]我也有法子让人们从我的角度出发看问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6474\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6475",
     "original": "Beatrice: She's right about that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: 这点她说的没错……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6477",
     "original": "Tyrion: Wait...[p/] If [i]you're[/i] here,[p/] does that mean Marrunath is also...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/]如果<u>你</u>在这里，[p/]那马鲁纳斯也……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6477\",\n  \"keywords\": []\n}"
   },
   {
