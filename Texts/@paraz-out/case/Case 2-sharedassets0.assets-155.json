@@ -604,15 +604,15 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Valentina Ianus",
     "original": "Valentina Ianus",
-    "translation": "",
-    "stage": 0,
+    "translation": "瓦伦蒂娜·伊努斯",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Aria Steelwind",
     "original": "Aria Steelwind",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Check_Events_Library2\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   }
 ]
