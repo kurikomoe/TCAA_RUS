@@ -5581,8 +5581,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-860",
     "original": ":There's only one last person to speak with:[p/] Harold Haroldson.",
-    "translation": ":word: 只剩最后一个人要交谈了:[p/] 哈罗德·哈罗德森。",
-    "stage": 2,
+    "translation": ": 只剩最后一个人要交谈了:[p/] 哈罗德·哈罗德森。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-860\",\n  \"keywords\": []\n}"
   },
   {
@@ -39917,14 +39917,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1407",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1407\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1412",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1412\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -39966,14 +39966,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1657",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1657\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1661",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1661\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40015,14 +40015,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1758",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1758\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1764",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_LiafalC4-1764\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40085,14 +40085,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2028",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2028\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2034",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2034\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40134,14 +40134,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2388",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2388\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2396",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene-2396\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40197,14 +40197,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2573",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2573\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2578",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene2-2578\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40253,14 +40253,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2723",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2723\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2727",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2727\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40309,14 +40309,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-3112",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3112\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3118",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Alaric-3118\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -40358,14 +40358,14 @@
     "key": "Default (en-US)-sharedassets0.assets-148-3255",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3255\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3261",
     "original": "Player: Objection",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3261\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   }
 ]
