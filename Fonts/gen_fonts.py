@@ -4,13 +4,27 @@ import json
 import logging
 import os
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Dict, Optional, TypedDict
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger()
 
+class WeigthMappingEntry(TypedDict):
+    bold: Optional["FontDef"]
+    italic: Optional["FontDef"]
+
+fileid_mapping = {
+    "sharedassets0": {
+        "sharedassets0": 0,
+        "resources": 0,
+    },
+    "resources": {
+        "sharedassets0": 3,
+        "resources": 0,
+    },
+}
 @dataclass
 class FontDef:
     sdf: str
@@ -18,21 +32,22 @@ class FontDef:
     material: str
     shader_base: str | None = None
     ref: Optional["FontDef"] = None
+    refWeight: Dict[int, Dict[str, "FontDef"]] = field(default_factory=dict)
 
+    @property
+    def pathid(self) -> int:
+        pat = re.compile(r".+-.+-(\d+)\.json")
+        gp = pat.match(self.sdf)
+        assert gp, "sdf pathid not found"
+        return int(gp[1])
 
-ref = FontDef(
-    sdf="OpenSans-Regular SDF-sharedassets0.assets-8.json",
-    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-4.json",
-    material="OpenSans-Regular Atlas Material-sharedassets0.assets-2.json",
-    # shader_base = "Shader #6-sharedassets0.assets-6.json",
-)
+    @property
+    def file(self) -> str:
+        pat = re.compile(r".+-(.+)\..+-\d+\.json")
+        gp = pat.match(self.sdf)
+        assert gp, "sdf file not found"
+        return gp[1]
 
-refOutline = FontDef(
-    sdf="Typewriter-Regular SDF-sharedassets0.assets-9.json",
-    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-5.json",
-    material="OpenSans-Regular Atlas Material-sharedassets0.assets-3.json",
-    # shader_base = "Shader #6-sharedassets0.assets-6.json",
-)
 
 shader_idx = 100000
 @dataclass
@@ -75,6 +90,36 @@ def SearchAndAddShader(file: Path, search_path: Path):
 
     return tmp
 
+ref = FontDef(
+    sdf="OpenSans-Regular SDF-sharedassets0.assets-13.json",
+    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-6.json",
+    material="OpenSans-Regular Atlas Material-sharedassets0.assets-4.json",
+)
+
+refOutline = FontDef(
+    sdf="Typewriter-Regular SDF-sharedassets0.assets-15.json",
+    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-7.json",
+    material="OpenSans-Regular Atlas Material-sharedassets0.assets-5.json",
+)
+
+refBold = FontDef(
+    sdf="SourceHanSansCN-Bold SDF-sharedassets0.assets-14.json",
+    atlas="SourceHanSansCN-Bold SDF Atlas-sharedassets0.assets-8.json",
+    material="SourceHanSansCN-Bold Atlas Material-sharedassets0.assets-2.json",
+)
+
+ralewayBold = FontDef(
+    sdf="Raleway-SemiBold SDF-sharedassets0.assets-138.json",
+    atlas="Raleway-SemiBold Atlas-sharedassets0.assets-34.json",
+    material="Raleway-SemiBold Atlas Material-sharedassets0.assets-3.json",
+    ref = refBold,
+)
+
+weight_mapping = {
+    7: {
+        "regularTypeface": ralewayBold,
+    },
+}
 
 mapping = [
     FontDef(
@@ -88,43 +133,51 @@ mapping = [
         atlas="Merriweather-Regular Atlas-resources.assets-762.json",
         material="Merriweather-Regular Atlas Material-resources.assets-106.json",
         ref = refOutline,
+        refWeight = weight_mapping,
     ),
     FontDef(
         sdf="NotoSerifHK-Regular SDF-resources.assets-12435.json",
         atlas="NotoSerifHK-Regular Atlas-resources.assets-110.json",
         material="NotoSerifHK-Regular Atlas Material-resources.assets-1.json",
         ref = ref,
+        refWeight = weight_mapping,
     ),
     FontDef(
         sdf="OpenSans-Medium SDF-sharedassets0.assets-134.json",
         atlas="OpenSans-Medium Atlas-sharedassets0.assets-16.json",
         material="OpenSans-Medium Atlas Material-sharedassets0.assets-12.json",
         ref = ref,
+        refWeight = weight_mapping,
     ),
     FontDef(
         sdf="OpenSans-Regular SDF-sharedassets0.assets-135.json",
         atlas="OpenSans-Regular Atlas-sharedassets0.assets-36.json",
         material="OpenSans-Regular Atlas Material-sharedassets0.assets-14.json",
         ref = ref,
+        refWeight = weight_mapping,
     ),
     FontDef(
         sdf="Raleway-Italic SDF-sharedassets0.assets-136.json",
         atlas="Raleway-Italic Atlas-sharedassets0.assets-17.json",
         material="Raleway-Italic Atlas Material-sharedassets0.assets-2.json",
         ref = ref,
+        refWeight = weight_mapping,
     ),
     FontDef(
         sdf="Raleway-Regular SDF-sharedassets0.assets-137.json",
         atlas="Raleway-Regular Atlas-sharedassets0.assets-15.json",
         material="Raleway-Regular Atlas Material-sharedassets0.assets-11.json",
         ref = ref,
+        refWeight = weight_mapping,
     ),
-    FontDef(
-        sdf="Raleway-SemiBold SDF-sharedassets0.assets-138.json",
-        atlas="Raleway-SemiBold Atlas-sharedassets0.assets-34.json",
-        material="Raleway-SemiBold Atlas Material-sharedassets0.assets-3.json",
-        ref = ref,
-    ),
+
+    ralewayBold,
+    # FontDef(
+    #     sdf="Raleway-SemiBold SDF-sharedassets0.assets-138.json",
+    #     atlas="Raleway-SemiBold Atlas-sharedassets0.assets-34.json",
+    #     material="Raleway-SemiBold Atlas Material-sharedassets0.assets-3.json",
+    #     ref = refBold,
+    # ),
 
     # 打字机特效
     FontDef(
@@ -132,6 +185,7 @@ mapping = [
         atlas="OpenSans-Medium Atlas-resources.assets-109.json",
         material="OpenSans-Medium Atlas Material-resources.assets-105.json",
         ref = refOutline,
+        refWeight = weight_mapping,
     ),
 
     FontDef(
@@ -139,6 +193,7 @@ mapping = [
         atlas="Title Atlas-resources.assets-763.json",
         material="Merriweather-Regular Atlas Material-resources.assets-107.json",
         ref = refOutline,
+        refWeight = weight_mapping,
     ),
 ]
 
@@ -202,7 +257,7 @@ def DictCopyAttr(key, dst, src):
     return
 
 
-def process_sdf(old_root: Path, old_sdf, new_root: Path, new_sdf, output: Path):
+def process_sdf(font_def: FontDef, old_root: Path, old_sdf, new_root: Path, new_sdf, output: Path):
     old_file_path = old_root / old_sdf
     new_file_path = new_root / new_sdf
 
@@ -219,6 +274,18 @@ def process_sdf(old_root: Path, old_sdf, new_root: Path, new_sdf, output: Path):
     DictCopyAttr("m_FaceInfo.m_FamilyName", new_file_data, old_file_data)
     DictCopyAttr("m_FaceInfo.m_StyleName", new_file_data, old_file_data)
     DictCopyAttr("m_AtlasTextures", new_file_data, old_file_data)
+
+    # reset the data
+    for idx, item in enumerate(old_file_data["m_FontWeightTable"]["Array"]):
+        new_file_data["m_FontWeightTable"]["Array"][idx] = item;
+
+    # font weight 7, aka bold
+    for weight, weight_def in font_def.refWeight.items():
+        for k, v in weight_def.items():
+            new_file_data["m_FontWeightTable"]["Array"][weight][k]["m_PathID"] = v.pathid
+            if font_def.file != v.file:
+                new_file_data["m_FontWeightTable"]["Array"][weight][k]["m_FileID"] = \
+                    fileid_mapping[font_def.file][v.file]
 
     # out: Path = output / "sdf"
     out: Path = output
@@ -323,13 +390,21 @@ def process_atlas(old_root: Path, old_atlas, new_root: Path, new_atlas, output: 
     return
 
 
-output = Path(args.out_dir) / "resources"
+output_resource = Path(args.out_dir) / "resources"
+output_sharedassets0 = Path(args.out_dir) / "sharedassets0"
+
+output_resource.mkdir(parents=True, exist_ok=True)
+output_sharedassets0.mkdir(parents=True, exist_ok=True)
 
 for font_def in mapping:
     print(font_def)
+    if "resources" in font_def.sdf:
+        output = output_resource
+    else:
+        output = output_sharedassets0
 
     assert font_def.ref
-    process_sdf(old_root, font_def.sdf, new_root, font_def.ref.sdf, output)
+    process_sdf(font_def, old_root, font_def.sdf, new_root, font_def.ref.sdf, output)
     process_material(
         old_root, font_def.material, new_root, font_def.ref.material, output,
         shader=font_def.ref.shader_base)
