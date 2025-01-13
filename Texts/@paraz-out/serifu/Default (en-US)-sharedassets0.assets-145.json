@@ -2445,7 +2445,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-402",
     "original": "Tyrion: I mean...[p/] She can be a pain sometimes.",
-    "translation": "Tyrion: 呃....[p/] 她有时候确实挺讨人厌的。",
+    "translation": "Tyrion: 呃……[p/]她有时候确实挺讨人厌的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-402\",\n  \"keywords\": []\n}"
   },
@@ -2760,7 +2760,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-452",
     "original": "Tyrion: Um...[p/] Okay?",
-    "translation": "Tyrion: 呃...[p/] 好吧...？",
+    "translation": "Tyrion: 呃……[p/]好吧？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-452\",\n  \"keywords\": []\n}"
   },
@@ -5378,7 +5378,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-850",
     "original": "Ugh…[p/] Having that spell is [i]not[/i] doing Wallace any favors.",
-    "translation": "呃...[p/] 那种法术确实会给华莱士造成负面影响。",
+    "translation": "呃……[p/]那种法术确实会给华莱士造成负面影响。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-850\",\n  \"keywords\": []\n}"
   },
@@ -16298,7 +16298,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2518",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "Arcane: <size=1.5em>遵命。</size>",
+    "translation": "Arcane: <size=1.5em>遵命</size>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2518\",\n  \"keywords\": []\n}"
   },
@@ -17068,7 +17068,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2634",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "<size=1.5em>遵命。</size>",
+    "translation": "<size=1.5em>遵命</size>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2634\",\n  \"keywords\": []\n}"
   },
@@ -17677,7 +17677,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2734",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "Arcane: <size=1.5em>遵命。</size>",
+    "translation": "Arcane: <size=1.5em>遵命</size>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Check_Events_Dorm-2734\",\n  \"keywords\": []\n}"
   },
@@ -17768,7 +17768,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2747",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "Arcane: <size=1.5em>遵命。</size>",
+    "translation": "Arcane: <size=1.5em>遵命</size>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Check_Events_Dorm-2747\",\n  \"keywords\": []\n}"
   },
@@ -24530,7 +24530,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3796",
     "original": "Arcane: ACKNOWLEDGED!",
-    "translation": "Arcane: <size=1.5em>遵命！</size>",
+    "translation": "Arcane: <size=1.5em>遵命</size>！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-LookTBooks_1-3796\",\n  \"keywords\": []\n}"
   },
@@ -24621,7 +24621,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3809",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "Arcane: <size=1.5em>遵命。</size>",
+    "translation": "Arcane: <size=1.5em>遵命</size>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-LookTBooks_1-3809\",\n  \"keywords\": []\n}"
   },
@@ -27463,64 +27463,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4241",
     "original": "MIRIAM: It’s a precious family heirloom and I want it back!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MIRIAM: 那可是把及其贵重的传家宝，我想拿回来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4241\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4242",
     "original": "ARIA: …It’s evidence in the current case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……目前来说这是此案的物证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4242\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4243",
     "original": "Miriam: Evidence?![p/][s/] The professor was killed with [b]necromancy[/b]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 物证？！[p/][s/] 教授死于[b]死灵术[/b]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4243\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4244",
     "original": "ARIA: …Was she, though?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……真的，吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4244\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4245",
     "original": "Miriam: Why are you asking me?![p/][s/] [i]You’re[/i] the one who’s investigating this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 为什么你在向我提问？！[p/][s/]<u>你</u>才是负责调查这些事的人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4245\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4246",
     "original": "ARIA: …I suppose it doesn’t matter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……我觉得无所谓。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4246\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4247",
     "original": "ARIA: Just know that I [i]will[/i] bring her murderer to justice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我<u>会</u>还她一个正义的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4247\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4248",
     "original": "ARIA: …No matter who it may be.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……无论真凶是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4248\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4249",
     "original": "Miriam: Hmph…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 哼……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce4-4249\",\n  \"keywords\": []\n}"
   },
   {
