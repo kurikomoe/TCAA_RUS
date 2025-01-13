@@ -1843,7 +1843,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-268",
     "original": "Tyrion: There's still one last person we should speak with:[p/] Harold Haroldson.",
-    "translation": "Tyrion: 最后我们还需要和一个人交谈：[p/]哈罗德·哈罗德森。",
+    "translation": "Tyrion: 最后，[p/]我们还需要和哈罗德·哈罗德森谈谈。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Talk_Ballroom1-268\",\n  \"keywords\": []\n}"
   },
@@ -5581,7 +5581,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-860",
     "original": ":There's only one last person to speak with:[p/] Harold Haroldson.",
-    "translation": ": 只剩最后一个人要交谈了:[p/] 哈罗德·哈罗德森。",
+    "translation": "最后，[p/]只需要和哈罗德·哈罗德森谈谈了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-860\",\n  \"keywords\": []\n}"
   },
@@ -9116,15 +9116,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1425",
     "original": "Ruby: And the prosecution's proposed \"motive\" is the largest among them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 尤其是检方提出的“动机”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-OrymC4Obj-1425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1426",
     "original": "Judge: What do you mean, Ms. Tymora?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 泰摩拉女士，这是什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-OrymC4Obj-1426\",\n  \"keywords\": []\n}"
   },
   {
