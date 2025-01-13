@@ -15738,7 +15738,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2472",
     "original": "Garrick: I [i]did[/i] send that letter,[p/] but not to [i]you[/i] two.",
-    "translation": "Garrick: 我[i]确实[/i]寄了信，[p/]但不是给[i]你们[/i]。",
+    "translation": "Garrick: 我<u>确实</u>寄了信，[p/]但不是给<u>你们</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj19-2472\",\n  \"keywords\": []\n}"
   },
@@ -45670,57 +45670,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6948",
     "original": "Aria: D-[p/][s/]Don't stop on my account.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 别、[p/][s/]别在意我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6948\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6949",
     "original": "Aria: I-[p/][s/]I'll just get out of your way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我、[p/][s/]我会给你们独处的空间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6949\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6950",
     "original": "As she awkwardly skitters away,[p/] you see something fall out of her pocket.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在她尴尬地试图溜之大吉时，[p/]你看到她口袋里掉了什么东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6950\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6951",
     "original": "Celeste: Oh, Aria![p/][s/] You dropped your runestone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 噢、阿莉亚！[p/][s/]你的符石掉了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6951\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6952",
     "original": "As Celeste picks up the runestone,[p/] she accidentally activates it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特捡起符石时不小心将之激活。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6952\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6953",
     "original": "An image of a piece of evidence appears for a brief moment,[p/] but Aria quickly hides it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "某件证据的图像出现了一瞬，[p/]但阿莉亚迅速把它隐藏了起来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6953\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6954",
     "original": "...But not before Celeste sneaks a peek at it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但塞莱斯特已经看到内容了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6954\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6955",
     "original": "Aria: O-[p/][s/]Oh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 噢、[p/][s/]噢……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6955\",\n  \"keywords\": []\n}"
   },
   {
@@ -45733,15 +45733,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6957",
     "original": "Celeste: ...Oh, I see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……噢，我懂了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6957\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6958",
     "original": "Tyrion: Celeste... Don't just invade her privacy like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特……不要这么侵犯她的个人隐私。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6958\",\n  \"keywords\": []\n}"
   },
   {
@@ -45754,50 +45754,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6960",
     "original": "Celeste: Don't be like that.[p/] I'm really happy for you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别这样嘛。[p/]我真的为你高兴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6960\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6961",
     "original": "Aria: T-[p/][s/]Thank you...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 谢、[p/][s/]谢谢你……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6961\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6962",
     "original": "Aria: Um...[p/] Good luck...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 呃……[p/]祝你们好运……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6962\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6963",
     "original": "...A part of you [i]really[/i] wants to know what she saw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……你心里有一部分<u>很想</u>知道她看见了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6963\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6964",
     "original": "But [i]one[/i] of you has to exercise some self-restraint.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但你们俩至少<u>一个人</u>得克制自己。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6964\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6965",
     "original": "Tyrion: Anyways,[p/] let's go meet with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总之，[p/]我们去见他吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6965\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6966",
     "original": "Celeste: Yeah...[p/] Let's do this. [mind=\"I can tell him after.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊……[p/]我们走吧。 [mind=\"我可以之后再告诉他。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan2-6966\",\n  \"keywords\": []\n}"
   },
   {
@@ -45817,85 +45817,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6969",
     "original": "Garrick: Wait...[p/][s/] [i]You[/i] two?",
-    "translation": "Garrick: 等等……[p/][s/]你们两个？",
+    "translation": "Garrick: 等等……[p/][s/]<u>你们</u>两个？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6969\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6970",
     "original": "Celeste: We got your letter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们收到了你的信。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6970\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6971",
     "original": "Garrick: Letter?[p/][s/] What letter?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 信？[p/][s/]什么信？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6971\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6972",
     "original": "Tyrion: You...[p/] sent us a letter, Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你……[p/]寄的信。皮尔斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6972\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6973",
     "original": "Tyrion: It said that you knew who Celeste's parents were.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 信里说你知道塞莱斯特的父母是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6973\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6974",
     "original": "Garrick: I [i]did[/i] send that letter,[p/] but not to [i]you[/i] two.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我<u>确实</u>寄了信，[p/]但不是给<u>你们</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6974\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6975",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6975\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6976",
     "original": "Celeste: I don't like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不喜欢这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6976\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6977",
     "original": "Eris: ...And so the [i]final[/i] act begins.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……<u>最后</u>一幕终于开始。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6977\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6978",
     "original": "Eris: I've been waiting for this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我等的就是这一刻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6978\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6979",
     "original": "Lloyd: What the hell are you doing?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你在搞什么鬼？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6980",
     "original": "Lloyd: Have you gone mad?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 你疯了吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6980\",\n  \"keywords\": []\n}"
   },
   {
@@ -45908,29 +45908,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6982",
     "original": "Lloyd: N-[p/][s/]No...![p/][s/] What are you doing?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 不、[p/][s/]不……！[p/][s/]你干什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3-6982\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6983",
     "original": "Lloyd: Stop!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 住手！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6983\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6984",
     "original": "Coraline: L-[p/][s/]Lady Steelwind...?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 斯、[p/][s/]斯蒂尔文德小姐……？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6984\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6985",
     "original": "Coraline: What are you-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 你这是——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6985\",\n  \"keywords\": []\n}"
   },
   {
@@ -45943,106 +45943,106 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6987",
     "original": "Coraline: Is [i]this[/i] also the will of the Cosmic Balance...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 难道<u>这</u>也是宇宙平衡的意愿……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6987\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6988",
     "original": "Celeste: Come on![p/][s/] Just tell us the truth, Pierce!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 拜托！[p/][s/]把真相告诉我们，皮尔斯！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6988\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6989",
     "original": "Garrick: You are the [i]last[/i] person I would give this information to!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我<u>最</u>不想告诉的人就是你！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6989\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6990",
     "original": "He's getting more and more stressed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他越来越紧张了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6990\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6991",
     "original": "Just a little more and you'll-",
-    "translation": "",
-    "stage": 0,
+    "translation": "只差一点你就——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6991\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6992",
     "original": "As you interrogate him,[p/] you suddenly hear a loud crash outside the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "审问他的途中，你突然听到外面传来巨大的撞击声。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6992\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6993",
     "original": "Tyrion: What was that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 刚才是怎么回事？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan3a-6993\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6994",
     "original": "Celeste: ...I'm going to take a look and see what's going on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我去外面看看怎么回事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-6994\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6995",
     "original": "Garrick: What?![p/][s/] Are you just going to [i]leave[/i] us here?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 什么？！[p/][s/]你要把我们两个<u>留在</u>这儿？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-6995\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6996",
     "original": "Tyrion: H-[p/][s/]He's right.[p/] We don't know what's going on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他、[p/][s/]他说得对。[p/]我们不知道这是怎么回事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-6996\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6997",
     "original": "Tyrion: We should stay together.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们应该待在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-6997\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6998",
     "original": "Celeste: Don't worry.[p/] There were two guards outside.[p/] And they're from the Kingsguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别担心，[p/]外面有两个国王卫队的人看着。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-6998\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6999",
     "original": "Celeste: You'll be fine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你们很安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-6999\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7000",
     "original": "Tyrion: ...That's not what I'm worried about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我不是担心这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7000\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7001",
     "original": "Tyrion: But...[p/] I'll trust your judgment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但是……[p/]我会相信你的判断。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7001\",\n  \"keywords\": []\n}"
   },
   {
@@ -46055,120 +46055,120 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7003",
     "original": "It's been almost ten minutes since Celeste went to investigate the noise.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特出去调查噪音已经过了十分钟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7003\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7004",
     "original": "Pierce seems extremely on edge.",
-    "translation": "",
-    "stage": 0,
+    "translation": "皮尔斯看起来极度焦躁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7004\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7005",
     "original": "He's sitting at one of the tables and impatiently tapping its surface with his finger.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他站在一张桌子旁，不耐烦地用手指敲击桌面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7005\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7006",
     "original": "Tyrion: So,[p/] you never intended to send that letter to me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以，[p/]你从没打算把那封信寄给我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7006\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7007",
     "original": "Tyrion: Who [i]did[/i] you send it to, then?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那你<u>寄给了谁</u>？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7007\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7008",
     "original": "Garrick: Oh,[p/] as if I would ever tell [i]you[/i] that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 嚯，[p/]说得像我会告诉<u>你</u>一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7008\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7009",
     "original": "Luckily for you,[p/] he [i]should[/i] have accumulated enough stress by now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你很幸运，[p/]他现在<u>应该</u>已经积攒了足够多的压力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7010",
     "original": "Garrick: W-[p/][s/]What?[p/] Why are you looking at me like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 什、[p/][s/]什么？[p/]为什么这么看着我？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7010\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7011",
     "original": "Tyrion: Even if I wasn't the intended recipient,[p/] you said that you [i]knew[/i] who Celeste's biological parents are.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就算收信人不是我，[p/]你也确实提到自己<u>知道</u>塞莱斯特的亲生父母是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7011\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7012",
     "original": "Tyrion: Who are they?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他们是谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7012\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7013",
     "original": "Garrick: A-[p/][s/]Are you seriously focused on that [i]now[/i]?! [mind=\"It's far too important. It's my only bargaining chip.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 你，[p/][s/]你<u>现在</u>还在想这些？！ [mind=\"这太重要了。是我唯一的筹码。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7013\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7014",
     "original": "Tyrion: Answer the question, Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 回答问题，皮尔斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7014\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7015",
     "original": "Garrick: ...What was that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……什么动静？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7015\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7016",
     "original": "Beatrice: [b]Somniah[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Beatrice: [b]Somniah[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7017",
     "original": "Tyrion: W-[p/][s/]What...?[p/] What is this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什、[p/][s/]什么……？[p/]这是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7017\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7018",
     "original": "A blue luminous vapor enters the room.[p/] As soon as it makes contact with you,[p/] you suddenly feel extremely fatigued.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一股散发着蓝色荧光的气体窜进了房间。[p/]你一接触到这股气体，[p/]就突然感到极度疲劳。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7019",
     "original": "Garrick: Damn it![p/][s/] It's a [b]Sleep[/b] spell!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 该死！[p/][s/]是[b]睡眠术[/b]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7019\",\n  \"keywords\": []\n}"
   },
   {
@@ -46181,50 +46181,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7021",
     "original": "Garrick: I-[p/][s/]I...[p/] I miscalculated...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我、[p/][s/]我……[p/]我失算了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7021\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7022",
     "original": "Tyrion: N-[p/][s/]No...[p/] If they got here,[p/] that means...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不、[p/][s/]不……[p/]如果那些人在这儿，[p/]就意味着……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7022\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7023",
     "original": "Tyrion: Ce...[p/]leste...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞……[p/]莱斯特……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7024",
     "original": "You try your hardest to stay conscious,[p/] but the spell is too powerful.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你拼命尝试保持意识清醒，[p/]但法术效力太强了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7025",
     "original": "You feel your body slowly dropping to the ground.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你感到自己的身体慢慢倒在地上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7026",
     "original": "Tyrion: N-[p/][s/]No...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不、[p/][s/]不……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7026\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7027",
     "original": "Tyrion: Bea...[p/]trice?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 比亚……[p/]特丽丝？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan6-7027\",\n  \"keywords\": []\n}"
   },
   {
@@ -46237,78 +46237,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7029",
     "original": "Celeste: ...rion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7029\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7030",
     "original": "Celeste: ...Tyrion...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……提利昂……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7030\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7031",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7032",
     "original": "Tyrion: ...Celeste?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……塞莱斯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7032\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7033",
     "original": "Celeste: Tyrion![p/][s/] I'm so sorry![p/][s/] I should have listened to you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂！[p/][s/]真对不起！[p/][s/]我本该听你的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7033\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7034",
     "original": "Celeste: I should have never left you alone with him![p/] I-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不该留你和他一个人！[p/]我——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7034\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7035",
     "original": "Tyrion: Hey, it's okay...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 嘿，没事的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7035\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7036",
     "original": "Tears are streaming down her eyes.[p/] She was clearly worried about you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她正泪如泉涌，[p/]明显非常担心你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7036\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7037",
     "original": "You try your best to comfort her as you look around the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你尽可能尝试安抚她，并环顾四周。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7038",
     "original": "Tyrion: What...[p/] happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 怎么……[p/]回事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7039",
     "original": "How long were you knocked out?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你昏迷了多久？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder2-7039\",\n  \"keywords\": []\n}"
   },
   {
@@ -52216,42 +52216,42 @@
     "key": "Default (en-US)-sharedassets0.assets-143-174",
     "original": "Player: Dungeon1",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-174\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-175",
     "original": "Player: Cathedral1",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-175\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-176",
     "original": "Player: CommonRoom1",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-176\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-177",
     "original": "Player: Garden1",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-177\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-178",
     "original": "Player: PrayerRoom1",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-178\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-179",
     "original": "Player: Balcony1",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-179\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52265,28 +52265,28 @@
     "key": "Default (en-US)-sharedassets0.assets-143-181",
     "original": "Player: CathedralIntro",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-181\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-182",
     "original": "Player: CommonRoomIntro",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-182\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-183",
     "original": "Player: GardenIntro",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-183\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-184",
     "original": "Player: PrayerRoomIntro",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Case5Main.yarn-Move-184\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53287,7 +53287,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-7393",
     "original": "Player: Default",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Present_TymoraOffice2-7393\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53399,7 +53399,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-1409",
     "original": "Player: Overflow",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1409\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
