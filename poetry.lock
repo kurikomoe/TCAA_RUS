@@ -203,6 +203,17 @@ type = "directory"
 url = "third/openapi-python"
 
 [[package]]
+name = "pangu"
+version = "4.0.6.1"
+description = "Paranoid text spacing for good readability, to automatically insert whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols)."
+optional = false
+python-versions = "*"
+files = [
+    {file = "pangu-4.0.6.1-py3-none-any.whl", hash = "sha256:5023dced34b48da7ec61a2847efcbb8cf4fb748f8e589e1e7dfb008b7ad00206"},
+    {file = "pangu-4.0.6.1.tar.gz", hash = "sha256:f799d127709fe5ecff5d476945ac63d4be758b7bda02efb95715f1dc24472a2f"},
+]
+
+[[package]]
 name = "protobuf"
 version = "5.29.2"
 description = ""
@@ -498,4 +509,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "f417b8bdaad496a0df52a026a1cc9ee66208cff41cb6069d74d557c2370a6ea5"
+content-hash = "63d977f701cc05d631fcb826618d3b586ec2b43266f15d96e17d047bc5fa6263"

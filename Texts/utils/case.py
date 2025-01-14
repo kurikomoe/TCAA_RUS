@@ -115,6 +115,15 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
 
 def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
+    checks = {
+        "marks": False,
+        "speaker": True,
+        "underline": True,
+        "tags": True,
+        "punctuations": True,
+        "pangu": True,
+    }
+
     proto_bin_path = raw_root / "case"
 
     ret = {}
@@ -131,7 +140,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
         # Read corresponding Paratranz file
         paraz_file = paraz_root / File(case_name)
-        paraz_acc = GetParazAcc(paraz_file)
+        paraz_acc = GetParazAcc(paraz_file, checks=checks)
 
         for node_name, node in program.nodes.items():
             last_insts = []
@@ -194,7 +203,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         # Extra Steps deal with alias:
         #! FIXME(kuriko)
         paraz_file = paraz_root / Path(f"{proto_json.stem}-alias.json")
-        paraz_acc = GetParazAcc(paraz_file)
+        paraz_acc = GetParazAcc(paraz_file, checks=checks)
 
         pat_alias = re.compile(r"alias:([\w_]+)")
         line_ids = data["lineMetadata"]["_lineMetadata"]["keys"]["Array"]

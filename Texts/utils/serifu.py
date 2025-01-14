@@ -125,6 +125,15 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
 
 
 def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
+    checks = {
+        "marks": False,
+        "speaker": True,
+        "underline": True,
+        "tags": True,
+        "punctuations": True,
+        "pangu": True,
+    }
+
     proto_bin_path = raw_root / "case"
     # ==================================================================
 
@@ -151,7 +160,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         sp_case: SpecialCase = GetSpecialCase(case_file, program)
 
         paraz_file = paraz_root / File(serifu_file.name)
-        paraz_acc = GetParazAcc(paraz_file)
+        paraz_acc = GetParazAcc(paraz_file, checks=checks)
 
         for idx, (line_id, line) in enumerate(zip(line_ids, lines)):
             try:
