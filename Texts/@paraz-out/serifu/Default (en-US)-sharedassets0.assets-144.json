@@ -149,8 +149,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-21",
     "original": "Ruby Tymora: Supposedly,[p/] the McCoy Tavern should be north of here.",
-    "translation": "Ruby Tymora: 照理说，[p/] 麦考伊的酒馆就在北边。",
-    "stage": 5,
+    "translation": "Ruby Tymora: 照理说，[p/]麦考伊的酒馆就在北边。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice2-21\",\n  \"keywords\": []\n}"
   },
   {
@@ -2711,8 +2711,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-387",
     "original": "Tyrion: S-[p/][s/]Sorry![p/] I know it’s none of my business,[p/] but I just-!",
-    "translation": "Tyrion: 抱、[p/][s/]抱歉！[p/]我知道这不关我的事，[p/] 但我就是——！",
-    "stage": 5,
+    "translation": "Tyrion: 抱、[p/][s/]抱歉！[p/]我知道这不关我的事，[p/]但我就是——！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/AfterArgument.yarn-AfterJuice28-387\",\n  \"keywords\": []\n}"
   },
   {
@@ -4580,8 +4580,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-678",
     "original": "Tyrion: Really?[p/] When was the last time you saw it?",
-    "translation": "Tyrion: 真的吗？[p/] 你最后一次看见它是在什么时候？",
-    "stage": 5,
+    "translation": "Tyrion: 真的吗？[p/]你最后一次看见它是在什么时候？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-678\",\n  \"keywords\": []\n}"
   },
   {
@@ -6057,8 +6057,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-919",
     "original": "Tyrion: \"Somala Daghlian:[p/] a legendary practitioner of the Arcane Arts.[p/] He mysteriously disappeared one day.\"",
-    "translation": "Tyrion: “Somala Daghlian：[p/] 传奇奥术实践者。[p/]他突然有一天人间蒸发了。”",
-    "stage": 5,
+    "translation": "Tyrion: “Somala Daghlian：[p/]传奇奥术实践者。[p/]他突然有一天人间蒸发了。”",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-919\",\n  \"keywords\": []\n}"
   },
   {
@@ -6946,8 +6946,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1061",
     "original": "Orym: What are you?[p/] Her lackey or something?",
-    "translation": "Orym: 你是啥？[p/] 她的小跟班？",
-    "stage": 5,
+    "translation": "Orym: 你是啥？[p/]她的小跟班？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1061\",\n  \"keywords\": []\n}"
   },
   {
@@ -8668,7 +8668,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1321",
     "original": "Garrick: W-[p/][s/]What?![p/] I…",
-    "translation": "Garrick: 什、[p/][s/]什么？！[p/] 我……",
+    "translation": "Garrick: 什、[p/][s/]什么？！[p/]我……",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-Garrick_Present2-1321\",\n  \"keywords\": []\n}"
   },
@@ -11650,15 +11650,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1770",
     "original": "Defend [d=\"You have no right to throw baseless accusations against me or Ms. Tymora!\"/]",
-    "translation": "Defend [d=\"你无权对我或泰摩拉女士进行毫无依据的指控。\"/]",
-    "stage": 5,
+    "translation": "Defend [d=\"你无权对我或泰摩拉女士进行毫无依据的指控！\"/]",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1770\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1771",
     "original": "Tyrion: You have no right to throw baseless accusations against me [i]or[/i] Ms. Tymora!",
-    "translation": "Tyrion: 你无权对我或泰摩拉女士进行毫无依据的指控。",
-    "stage": 5,
+    "translation": "Tyrion: 你无权对我或泰摩拉女士进行毫无依据的指控！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1771\",\n  \"keywords\": []\n}"
   },
   {
@@ -12308,8 +12308,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1870",
     "original": "Tyrion: Why would his back be turned though?[p/] Was he distracted by something?",
-    "translation": "Tyrion: 那他为什么背对着别人呢？[p/] 他是被什么东西分散注意力了吗？",
-    "stage": 5,
+    "translation": "Tyrion: 那他为什么背对着别人呢？[p/]他是被什么东西分散了注意力吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce6-1870\",\n  \"keywords\": []\n}"
   },
   {
@@ -13148,8 +13148,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1999",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
-    "stage": 5,
+    "translation": "Tyrion: 啊、[p/]哦……[p/]好像是这样的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1999\",\n  \"keywords\": []\n}"
   },
   {
@@ -13652,8 +13652,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2072",
     "original": "Tyrion: M-[p/][s/]Ms. Tymora?![p/] You’re…[p/][s/] here?!",
-    "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士？！[p/] 你在……[p/][s/]旁听？！",
-    "stage": 5,
+    "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士？！[p/]你在……[p/][s/]旁听？！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2072\",\n  \"keywords\": []\n}"
   },
   {
@@ -14989,8 +14989,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2271",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
-    "stage": 5,
+    "translation": "Tyrion: 啊、[p/]哦……[p/]好像是这样的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2271\",\n  \"keywords\": []\n}"
   },
   {
@@ -15577,8 +15577,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2356",
     "original": "Rhys: She removed her sword from Flinhart’s back,[p/] and as he slowly turned to face her,[p/][s/] she stabbed him again in the front!",
-    "translation": "Rhys: 她拔出剑，[p/] 就在弗林哈特转身看向她的时候，[p/][s/]她又从正面刺了他一剑！",
-    "stage": 5,
+    "translation": "Rhys: 她拔出剑，[p/]就在弗林哈特转身看向她的时候，[p/][s/]她又从正面刺了他一剑！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Testimony_Rhys-2356\",\n  \"keywords\": []\n}"
   },
   {
@@ -16109,8 +16109,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2442",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
-    "stage": 5,
+    "translation": "Tyrion: 啊、[p/]哦……[p/]好像是这样的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2442\",\n  \"keywords\": []\n}"
   },
   {
@@ -16242,8 +16242,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2462",
     "original": "Rhys: W-[p/]Wait![p/][s/] I can explain!",
-    "translation": "Rhys: 等、[p/] 等下！[p/][s/] 我可以解释！",
-    "stage": 5,
+    "translation": "Rhys: 等、[p/]等下！[p/][s/]我可以解释！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj-2462\",\n  \"keywords\": []\n}"
   },
   {
@@ -16676,8 +16676,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2532",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
-    "stage": 5,
+    "translation": "Tyrion: 啊、[p/]哦……[p/]好像是这样的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys2-2532\",\n  \"keywords\": []\n}"
   },
   {
@@ -17635,8 +17635,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2679",
     "original": "Tyrion: O-[p/]Oh...[p/] I guess you're right.",
-    "translation": "Tyrion: 啊、[p/]哦……[p/] 好像是这样的。",
-    "stage": 5,
+    "translation": "Tyrion: 啊、[p/]哦……[p/]好像是这样的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Garrick-2679\",\n  \"keywords\": []\n}"
   },
   {
@@ -19161,8 +19161,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2908",
     "original": "Tyrion: \"After many years of service,[p/] Commander Diogo retired with honors.\"",
-    "translation": "Tyrion: “经过多年的辛勤工作，[p/] Diogo指挥官光荣退休。”",
-    "stage": 5,
+    "translation": "Tyrion: “经过多年的辛勤工作，[p/]Diogo指挥官光荣退休。”",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Courthouse.yarn-Examine_Lobby1-2908\",\n  \"keywords\": []\n}"
   },
   {
@@ -19840,7 +19840,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2411",
     "original": "Rhys: She removed her sword from Flinhart’s back,[p/] and as he slowly turned to face her,[p/][s/] she stabbed him again in the front!",
-    "translation": "Rhys: 她拔出剑，[p/] 就在弗林哈特转身看向她的时候，[p/][s/]她又从正面刺了他一剑！",
+    "translation": "Rhys: 她拔出剑，[p/]就在弗林哈特转身看向她的时候，[p/][s/]她又从正面刺了他一剑！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2411\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
