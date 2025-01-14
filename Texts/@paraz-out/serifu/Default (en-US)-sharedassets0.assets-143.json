@@ -2137,7 +2137,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-372",
     "original": "Alaric: Hmph...[p/] You should know your place, knave.",
-    "translation": "Alaric:哼……[p/]你应该清楚自己的立场，痞子。",
+    "translation": "Alaric: 哼……[p/]你应该清楚自己的立场，痞子。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-372\",\n  \"keywords\": []\n}"
   },
@@ -2424,7 +2424,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-419",
     "original": "Lucio: I'd heard that such senses are heightened when in the presence of \"extraplanar\" entities.",
-    "translation": "Lucio: 我听说这种能力在“异界”体存在时更为强化。",
+    "translation": "Lucio: 我听说这种能力在“跨位面”体存在时更为强化。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-419\",\n  \"keywords\": []\n}"
   },
@@ -5525,7 +5525,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-902",
     "original": "Orym: So even [i]if[/i] she was telling the truth,[p/] very few people would've actually [i]seen[/i] her.",
-    "translation": "Orym:[i]即使[/i]她说了实话，[p/]真能[i]看见[/i]她的也没几个人。",
+    "translation": "Orym: <u>即使</u>她说了实话，[p/]真能<u>看见</u>她的也没几个人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-902\",\n  \"keywords\": []\n}"
   },
@@ -7212,7 +7212,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1168",
     "original": "Tyrion: ...I have no idea.",
-    "translation": "Theon: ……不懂。",
+    "translation": "Tyrion: ……不懂。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1168\",\n  \"keywords\": []\n}"
   },
@@ -7478,7 +7478,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1208",
     "original": "Lucio: Please.[p/] What kind of dishonorable cretin do you take me for?",
-    "translation": "卢西奥：拜托。[p/]你们把我当成什么不端小人了？",
+    "translation": "Lucio: 拜托。[p/]你们把我当成什么不端小人了？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Courtroom1-1208\",\n  \"keywords\": []\n}"
   },
@@ -8521,7 +8521,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1358",
     "original": "Tyrion: ...She's been missing since the massacre happened.",
-    "translation": "Tyrion: ……屠杀开始后厄莉斯就失踪了。",
+    "translation": "Tyrion: ……屠杀发生以后厄莉斯就失踪了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1358\",\n  \"keywords\": []\n}"
   },
@@ -9123,7 +9123,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1454",
     "original": "MBeatrice: ...[p/][s/]Ugh.",
-    "translation": "MBeatrice：……[p/][s/]唉。",
+    "translation": "MBeatrice: ……[p/][s/]唉。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj3-1454\",\n  \"keywords\": []\n}"
   },
@@ -15493,7 +15493,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2435",
     "original": "Tyrion: The Patron [i]wanted[/i] people to suspect House Steelwind for the murders.",
-    "translation": "Tyrion:签约人[i]想让[/i]别人怀疑斯蒂尔文德家犯案。",
+    "translation": "Tyrion: 签约人<u>想让</u>别人怀疑斯蒂尔文德家犯案。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj18-2435\",\n  \"keywords\": []\n}"
   },
@@ -17369,7 +17369,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2707",
     "original": "Gallery: Who is this woman?!",
-    "translation": "Gallery：这个女的是谁？！",
+    "translation": "Gallery: 这个女的是谁？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2707\",\n  \"keywords\": []\n}"
   },
@@ -19966,7 +19966,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3098",
     "original": "Eris: You're refusing to see [i]who[/i] I made a Contract with that day.",
-    "translation": "Tyrion: 不愿承认我那天和[i]谁[/i]签了契约。",
+    "translation": "Eris: 不愿承认我那天和[i]谁[/i]签了契约。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj8-3098\",\n  \"keywords\": []\n}"
   },
@@ -21884,7 +21884,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3388",
     "original": "Celeste: I...",
-    "translation": "Tyrion: 我……",
+    "translation": "Celeste: 我……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3388\",\n  \"keywords\": []\n}"
   },
@@ -25314,7 +25314,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3905",
     "original": "Aster: I hear you're very skilled at ARGUING, Tyrion.",
-    "translation": "Aster:我听说你很擅长“辩论”，提利昂。",
+    "translation": "Aster: 我听说你很擅长<size=1.5em>“辩论”</size>，提利昂。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj15a-3905\",\n  \"keywords\": []\n}"
   },
@@ -27148,7 +27148,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4169",
     "original": "You check your satchel...[p/] And sure enough,[p/] Aria's Blood Contract has completely disintegrated.",
-    "translation": "Tyrion: 你检查了自己的包……[p/]理所应当的，[p/]阿莉亚的血契已经完全解体。",
+    "translation": "你检查了自己的包……[p/]理所应当的，[p/]阿莉亚的血契已经完全解体。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj28-4169\",\n  \"keywords\": []\n}"
   },
@@ -28611,7 +28611,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4378",
     "original": "Celeste: ...I'm sorry.",
-    "translation": "Aria: ……我很抱歉。",
+    "translation": "Celeste: ……我很抱歉。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj37-4378\",\n  \"keywords\": []\n}"
   },
@@ -40427,7 +40427,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6130",
     "original": "Tyrion: Do you mind if I ask you a few questions about what happened?",
-    "translation": "TYRION: 你介意我们就发生了什么事情问几个问题吗？",
+    "translation": "Tyrion: 你介意我们就发生了什么事情问几个问题吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Check_Events_FregaManor2-6130\",\n  \"keywords\": []\n}"
   },
@@ -43031,7 +43031,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6527",
     "original": "Tyrion: I see...",
-    "translation": "TYRION: 我知道了。",
+    "translation": "Tyrion: 我知道了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6527\",\n  \"keywords\": []\n}"
   },
@@ -47294,71 +47294,71 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7189",
     "original": "Tyrion: That might help me finally put things together.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也许这能帮助我推理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Check_Events_TownSquare2-7189\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7190",
     "original": "Knight: Each of the nobles has returned to their respective homes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: 贵族们都已经返回各自住处。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Check_Events_TownSquare2-7190\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7191",
     "original": "Knight: But our teleportation network should help you travel around Wyverngarde.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: 但我们的传送通路可以帮你们在维文加德境内移动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Check_Events_TownSquare2-7191\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7193",
     "original": "Tyrion: It's starting to get dark outside.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 外面天已经开始黑了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7193\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7194",
     "original": "Tyrion: We don't have much time left...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 留给我们的时间不多了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7194\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7196",
     "original": "It's Ruby's desk.[p/] It's made out of pure mahogany.",
-    "translation": "",
-    "stage": 0,
+    "translation": "鲁比的桌子，[p/]纯桃花心木制成。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7196\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7197",
     "original": "As much as you hate to admit it,[p/] the Eyetaker clearly pays her really well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然不愿承认，[p/]但夺眼者支付的薪资不低。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7197\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7198",
     "original": "...But there's obviously a cost to that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……虽然挣这些钱也有代价。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7198\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7199",
     "original": "Tyrion: ...I always wondered how you could afford these things...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我一直在想你怎么能花得起这个钱……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7199\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7200",
     "original": "Tyrion: I guess I finally know now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……现在我终于明白了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7200\",\n  \"keywords\": []\n}"
   },
   {
@@ -47371,162 +47371,162 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7203",
     "original": "It's a chair for guests.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一张给客人用的椅子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7203\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7204",
     "original": "You used to sit here for hours while Ruby would do the paperwork for her clients.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你以前会连续几小时坐在这里，等鲁比完成委托人的文书工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7204\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7205",
     "original": "You used to sit here for hours while Tymora would do the paperwork for her clients.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你以前会连续几小时坐在这里，等泰摩拉完成委托人的文书工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7205\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7207",
     "original": "It's a bookshelf.[p/] There are several books about law and national history.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一个书架。[p/]上面摆着关于法律与国家历史的书籍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7207\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7208",
     "original": "You read a lot of these books front to back while studying to be an attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "为了考取律师资格，很多书你之前都从头到尾读过一遍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7208\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7210",
     "original": "It's a seat for Ruby's clients.",
-    "translation": "",
-    "stage": 0,
+    "translation": "给鲁比的委托人用的座位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7210\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7211",
     "original": "It's a seat for Tymora's clients.",
-    "translation": "",
-    "stage": 0,
+    "translation": "给泰摩拉的委托人用的座位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7211\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7212",
     "original": "It looks extremely comfortable.[p/] But she never let you sit in them when you were a child.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来非常舒适。[p/]但由于她不允许，你小时候从没坐在上面过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7212\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7214",
     "original": "Tyrion: It's a painting of a...[p/] noblewoman?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这幅画上的是……[p/]贵族女性？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7214\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7215",
     "original": "Ruby: Not quite.[p/] That's Eliza Tantivy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不全对。[p/]这是 Eliza Tantivy。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7215\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7216",
     "original": "Ruby: She was a commonfolk professor at the Imperial Academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 她是平民出身的帝国学院教授。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7216\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7217",
     "original": "Ruby: And this portrait was commissioned by one of her noble patrons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 这幅画像是她的贵族赞助人之一委托绘制。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7217\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7218",
     "original": "Ruby: It really just shows off their wealth, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不过确实只是在展示他们的财力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7218\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7219",
     "original": "Ruby: It doesn't celebrate anything noteworthy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 没有什么其他值得一提的纪念意义。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7219\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7220",
     "original": "Tyrion: ...Why do you have this then?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……那你干嘛还留着这幅画？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7220\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7221",
     "original": "Ruby: ...I like her.[p/] And she's a good reminder that the commonfolk are just as competent as the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……我很喜欢她。[p/]她也能证明平民和贵族的竞争力基本没有差距。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7221\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7223",
     "original": "Tyrion: It's a painting of some sort of pirate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一幅关于某个海盗的画像。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7223\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7224",
     "original": "Ruby: He was a pirate that was famous for ruthlessly destroying the ships of anyone who stood in his way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他是个以无情摧毁任何拦路船只而出名的海盗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7224\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7225",
     "original": "Ruby: During the Great Luminite war,[p/] the Wyverngarde Crown hired him as a privateer to protect Aurinax from the Theocracy's navy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 大圣战期间，[p/]维文加德皇室雇佣他为私兵，从神权的海军手中保护欧奥耐克斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7225\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7226",
     "original": "Tyrion: He sailed near my hometown?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他在我家乡附近航行？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7226\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7227",
     "original": "Ruby: During the Great War,[p/] Aurinax was a vital foothold for Wyverngarde's navy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 大战期间，[p/]欧奥耐克斯是维文加德海军的重要据点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7227\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7228",
     "original": "Ruby: Unfortunately,[p/] he was captured by the Theocracy and executed for his crimes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不幸的是，[p/]他被神权抓获，因罪被处死。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7228\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7229",
     "original": "Ruby: But I hear he gave them the runaround for eight years before he was captured.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但我听说在被捕获之前，他与神权斗智斗勇足足八年。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Examine_TymoraOffice2-7229\",\n  \"keywords\": []\n}"
   },
   {
@@ -47539,57 +47539,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7233",
     "original": "Ruby: ...Is Celeste okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……塞莱斯特还好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7233\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7234",
     "original": "Ruby: She seems a bit on edge right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 她现在看起来有点紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7234\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7235",
     "original": "Tyrion: Yeah...[p/] I think she's just been overprotective lately.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是……[p/]最近她只是有点过度保护我了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7235\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7236",
     "original": "Tyrion: I don't really blame her...[p/] I [i]did[/i] almost die a few times in the last few days.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我也不怪她……[p/]我最近<u>确实</u>好几次都差点死了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7236\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7237",
     "original": "Ruby: W-[p/][s/]What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 什、什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7237\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7238",
     "original": "Tyrion: ...It's a long story.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……说来话长。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7238\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7239",
     "original": "Tyrion: And I don't think I'm even allowed to talk about it.[p/] Especially not with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我也不觉得自己可以谈论这些。[p/]尤其不能和你谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7239\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7240",
     "original": "That last part came out with a little more disdain than you intended.",
-    "translation": "",
-    "stage": 0,
+    "translation": "后半部分的语气比你想得更轻蔑一些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7240\",\n  \"keywords\": []\n}"
   },
   {
@@ -47602,57 +47602,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7242",
     "original": "You take a deep breath.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你深吸一口气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7242\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7243",
     "original": "Tyrion: ...I received your letters.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我收到了你的信。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7243\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7244",
     "original": "Ruby: O-[p/][s/]Oh...[p/] Did you-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 噢、[p/][s/]噢……[p/]那你——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7244\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7245",
     "original": "Tyrion: ...I haven't gotten the chance to read them yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我还没读过那些信。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7245\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7246",
     "original": "Ruby: Of course...[p/] Whenever you're not busy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 当然……[p/]等你有空的时候再说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7246\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7247",
     "original": "This is...[p/] [i]really[/i] awkward.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这……[p/]<u>真的</u>很尴尬。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7247\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7248",
     "original": "But you were going to have this conversation sooner or later.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但你们迟早要好好谈谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7248\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7249",
     "original": "Perhaps it would be best to just be direct.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也许直言不讳才是最好的选择。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7249\",\n  \"keywords\": []\n}"
   },
   {
@@ -47665,15 +47665,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7252",
     "original": "Tyrion: Ms. Tymora...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7252\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7253",
     "original": "Tyrion: I...[p/] trusted you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……[p/]信任过你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7253\",\n  \"keywords\": []\n}"
   },
   {
@@ -47686,78 +47686,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7255",
     "original": "Ruby: ...I know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……我知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7255\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7256",
     "original": "Tyrion: I trusted you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我信任过你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7256\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7257",
     "original": "Tyrion: I told you [i]everything[/i] about myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我把<u>所有</u>关于自己的事情都告诉了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7257\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7258",
     "original": "Tyrion: I put all of my hopes into you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我将所有希望寄托于你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7258\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7259",
     "original": "Tyrion: And you...[p/] [i]lied[/i] to me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 可你……[p/]对我<u>撒了谎</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7259\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7260",
     "original": "Tyrion: You told a [i]criminal[/i] about the Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你把荷鲁斯之眼的事告诉了一个<u>罪犯</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7260\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7261",
     "original": "Tyrion: It took me years before I was comfortable enough to tell [i]you[/i] about it.[p/] And you [i]knew[/i] that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我做了好几年心理准备，才敢告诉<u>你</u>这件事。[p/]你也<u>清楚</u>这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7261\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7262",
     "original": "Ruby: I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7262\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7263",
     "original": "Tyrion: ...Why did you even adopt me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你一开始为什么领养我？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7263\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7264",
     "original": "Tyrion: You could have just left me in Aurinax and moved on with your life.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你本可以把我留在欧奥耐克斯，然后继续自己的人生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7264\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7265",
     "original": "Tyrion: Why would you pull me into this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为什么要把我卷入这些事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7265\",\n  \"keywords\": []\n}"
   },
   {
@@ -47770,8 +47770,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7267",
     "original": "It sounds like she's trying to look for an answer.[p/] But nothing comes to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她似乎是在试图回答，[p/]但没有想出任何答案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7267\",\n  \"keywords\": []\n}"
   },
   {
@@ -47784,22 +47784,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7269",
     "original": "Tyrion: I've started thinking about what my life could have been like.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我开始思考自己的人生原本会如何发展。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7270",
     "original": "Tyrion: I could have done so many things.[p/] I might have been able to move on from losing my mother.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我有那么多事可以做。[p/]也许还能走出失去母亲的阴影。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7271",
     "original": "Tyrion: But you adopted me...[p/] You made my entire life focused around that [i]one[/i] moment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你领养了我……[p/]你让我的整个人生都聚焦于<u>那一瞬</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7271\",\n  \"keywords\": []\n}"
   },
   {
@@ -47819,57 +47819,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7275",
     "original": "Ruby: I had a son once...[p/] [i]Before[/i] you,[p/] I mean.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我曾经有个儿子……[p/]我是说，在你<u>之前</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7275\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7276",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7276\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7277",
     "original": "Ruby: I wasn't [i]always[/i] a city-person.[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我并非<u>一直</u>住在城里。[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7277\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7278",
     "original": "Ruby: I used to live in an old farm town,[p/] just like McCoy's.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我曾经住在农家里，[p/]就像麦考伊家一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7278\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7279",
     "original": "Ruby: My son and I used to run an old tea shop,[p/] just the two of us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我和儿子经营着一家老茶叶店，[p/]员工只有我们两个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7279\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7280",
     "original": "Tyrion: Wait...[p/][s/] [i]You[/i] ran a tea shop?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/][s/]<u>你</u>卖过茶？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7280\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7281",
     "original": "Ruby: I know...[p/] It's ridiculous now that I think about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我知道……[p/]现在回想起来挺荒唐的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7281\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7282",
     "original": "Ruby: But I was really happy back then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但那时我真的很开心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7282\",\n  \"keywords\": []\n}"
   },
   {
@@ -47882,29 +47882,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7284",
     "original": "Tyrion: What...[p/] happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 出了……[p/]什么事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7284\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7285",
     "original": "Ruby: One night,[p/] a local nobleman had too much to drink at the local tavern.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 有天晚上，[p/]当地有个贵族在酒馆喝多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7285\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7286",
     "original": "Ruby: He barged into our shop and started destroying it with his magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他闯进我们的商店，开始用魔法肆意搞破坏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7287",
     "original": "Ruby: My son tried to stop him...[p/] But...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我儿子试图阻止他……[p/]但是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7287\",\n  \"keywords\": []\n}"
   },
   {
@@ -47917,29 +47917,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7289",
     "original": "Ruby: ...The Inquisition swept that entire case under the rug,[p/] [i]obviously[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……<u>显而易见</u>，裁判所把整个案件都掩盖了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7290",
     "original": "Ruby: They said that the nobleman felt \"threatened\" and acted in self-defense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他们说那个贵族<u>感到有威胁</u>，属于正当防卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7290\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7291",
     "original": "She...[p/] never told you about this before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她……[p/]以前从没告诉你这件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7292",
     "original": "Tyrion: ...What was his name?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……他叫什么名字？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7292\",\n  \"keywords\": []\n}"
   },
   {
@@ -47952,15 +47952,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7294",
     "original": "Ruby: It was Ryan.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他叫莱恩。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7294\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7295",
     "original": "Tyrion: ...Oh.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……噢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7295\",\n  \"keywords\": []\n}"
   },
   {
@@ -47973,64 +47973,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7298",
     "original": "Tyrion: What did you do after Ryan died?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 莱恩死后你做了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7298\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7299",
     "original": "Ruby: I thought long and hard about what I wanted to do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我仔细思考了很久自己想做什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7299\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7300",
     "original": "Ruby: I was hurt and blinded by rage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我很受伤，被愤怒冲昏了头脑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7300\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7301",
     "original": "Ruby: So I decided I would take justice into my own hands.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 于是我决定自己执行正义。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7301\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7302",
     "original": "Tyrion: Wait...[p/] You didn't-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/]你该不会——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7302\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7303",
     "original": "Ruby: No...[p/] At the time,[p/] I thought that killing him would be too easy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不……[p/]那个时候，[p/]我觉得死亡太便宜他了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7303\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7304",
     "original": "Ruby: I broke into his manor,[p/] and found [i]every[/i] incriminating document I could find.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我闯入他的庄园，[p/]找到了<u>每一份</u>会让他获罪的文件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7304\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7305",
     "original": "Ruby: I found everything,[p/] from records of illegitimate children,[p/] to plots he was making against other noble houses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 从私生子女到针对其他贵族的阴谋，[p/]我挖出了他家里的一切文件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7305\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7306",
     "original": "Ruby: I released [i]everything[/i] to the public.[p/] It absolutely ruined him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 然后我把<u>这一切</u>都公之于众。让他毁于一旦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7306\",\n  \"keywords\": []\n}"
   },
   {
@@ -48043,120 +48043,120 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7308",
     "original": "Ruby: That's when I realized that there [i]was[/i] a way to make them pay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 也就是这时，我意识到<u>确实有</u>一种方法能让他们付出代价。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7308\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7309",
     "original": "Ruby: You didn't have to harm or kill anyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 这个方法不需要伤人或者杀人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7309\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7310",
     "original": "Ruby: You could just beat them at their own game.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 只需要以其人之道还治其人之身。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7310\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7311",
     "original": "Ruby: You could use the rules and laws [i]they[/i] made against them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你可以用<u>他们</u>制订的法律法规反将一军。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7311\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7312",
     "original": "Tyrion: ...Just like an attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……就像律师一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7312\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7313",
     "original": "Ruby: Yeah...[p/] Just like an attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 对……[p/]就像律师一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7313\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7314",
     "original": "Ruby: When I realized that,[p/] I moved to the city and started studying law.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 意识到这一点后，[p/]我搬到城里，开始学习法律。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7314\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7315",
     "original": "Ruby: I read every book there was to read about Wyverngarde's laws.[p/] And I learned how to work the system.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 有关维文加德法律的书都被我翻了个遍。[p/]同时我也学会如何利用体系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7315\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7316",
     "original": "Ruby: I started representing clients who were clearly being framed by the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我开始替明显是被贵族陷害的委托人们辩护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7316\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7317",
     "original": "Ruby: But I really didn't care about saving them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但我在乎的并不是拯救他们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7317\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7318",
     "original": "Ruby: I just wanted to see the look on each noble's face when I implicated them with \"irrefutable\" evidence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我只是想看到，[p/]当我用“不可辩驳”的证据让他们认罪伏法时，那些贵族脸上的表情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7318\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7319",
     "original": "Ruby: But it got more difficult.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但难度越来越高。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7319\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7320",
     "original": "Ruby: As I started punching higher,[p/] the nobles got smarter and more influential.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 越是身处上层的贵族，[p/]影响力越大，也越聪明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7320\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7321",
     "original": "Ruby: I continued to acquit my clients.[p/] But the trials got closer and closer each time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我依然能让委托人获得无罪判决。[p/]但审理每次都愈发惊险。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7321\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7322",
     "original": "Ruby: But I was arrogant.[p/] And I felt invincible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但我很傲慢，[p/]感觉自己无人能敌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7323",
     "original": "Ruby: I thought that no matter what happened,[p/] justice would prevail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我以为不管发生什么，[p/]正义都会笑到最后。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7324",
     "original": "Ruby: ...And then your mother's case happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……紧接着就是你母亲的案子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7324\",\n  \"keywords\": []\n}"
   },
   {
@@ -48169,50 +48169,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7326",
     "original": "Ruby: I've never met someone that remarkable before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我从没遇见过这么卓越的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7326\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7327",
     "original": "Ruby: She had this way of making you feel happy...[p/] no matter what kind of mood you were in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不管你当时是什么心情……[p/]她都有办法让你开心起来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7328",
     "original": "Tyrion: Yeah...[p/] I remember.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是啊……[p/]我也记得。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7329",
     "original": "Ruby: But I failed her.[p/] And I failed you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但我辜负了她。[p/]也辜负了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7330",
     "original": "Tyrion: ...Ms. Tymora.[p/] I never [i]once[/i] blamed you for what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……泰摩拉女士。[p/]我<u>从来没有</u>把发生的事怪在你身上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7331",
     "original": "Ruby: I know.[p/] But that doesn't change the fact that I [i]couldn't[/i] acquit her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我知道。[p/]但这改变不了我<u>没能</u>证明她无罪的事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7332",
     "original": "Ruby: She was executed because I didn't do enough.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 她是因为我能力不够才被处决的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7332\",\n  \"keywords\": []\n}"
   },
   {
@@ -48225,113 +48225,113 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7335",
     "original": "Ruby: When you asked me to train you to be an attorney,[p/] I was blinded by my desperation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你要我把你培养成律师时，[p/]我被自己的急迫迷了双眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7336",
     "original": "Ruby: I felt so alone and helpless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我感到孤独无助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7337",
     "original": "Ruby: I wanted someone,[p/] [i]anyone[/i] to carry this burden with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我想要什么人，[p/]任何人，[p/]来和我一起承受这重担。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7337\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7338",
     "original": "Ruby: So how pathetic must [i]I[/i] have been?[p/] That I'd look for that in a grieving ten-year-old child.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: <u>我</u>当时是有多可悲啊？[p/]居然要让一个正在承受丧母之痛的十岁孩童承受这些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7338\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7339",
     "original": "Tyrion: I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7340",
     "original": "Ruby: When I looked at you,[p/] all I wanted to see was myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 看着你的时候，[p/]可能我只是想看见自己。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7341",
     "original": "Ruby: I saw a hurt and broken person who wanted revenge on the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我看到了一个伤痕累累，满心要对贵族复仇的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7341\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7342",
     "original": "Ruby: But I was too self-centered to realize that you were [i]nothing[/i] like me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但我当时太过自我中心，没有意识到你和我<u>完全不同</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7343",
     "original": "Ruby: You [i]care[/i] about people.[p/] And you cared more about saving your clients than harming the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你<u>关心</u>他人。[p/]比起伤害贵族，你更在乎拯救自己的委托人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7343\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7344",
     "original": "Ruby: I think I knew all along,[p/] but I just refused to see it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我觉得自己一直都明白，[p/]只是拒绝承认而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7344\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7345",
     "original": "Ruby: ...Maybe you were right about me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……也许你对我的评价没有错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7346",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7347",
     "original": "Ruby: Maybe I was just using you to make myself feel better.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 也许我只是在利用你，让我自己好过一些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7347\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7348",
     "original": "Ruby: I took you from your home and forced you to dedicate your life to [i]my[/i] dream.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我让你背井离乡，逼用自己的人生来实现<u>我的</u>梦想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7348\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7349",
     "original": "Ruby: Maybe I never really cared.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 也许我真的从没在乎过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7350",
     "original": "Ruby: If I [i]did[/i] care about you,[p/] I would have never pulled you into a life like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 如果我<u>在乎过</u>你，[p/]就不会让你走这样的人生道路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7350\",\n  \"keywords\": []\n}"
   },
   {
@@ -48344,57 +48344,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7352",
     "original": "Ruby: I'm sorry.[p/] And I can't begin to apologize for doing that to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 对不起。[p/]我知道道歉多少遍都没有用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7352\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7353",
     "original": "The Eye shows that her feelings are genuine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "荷鲁斯之眼证明她的感情真诚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7353\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7354",
     "original": "...But does that even matter at this point?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但事到如今还有什么意义？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7354\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7355",
     "original": "Tyrion: I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7356",
     "original": "Tyrion: I've been thinking long and hard about this...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我仔细思考了很久……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7357",
     "original": "Tyrion: I [i]want[/i] to forgive you, Ms. Tymora.[p/] But I don't know if I can.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我<u>想要</u>原谅你，泰摩拉女士。[p/]但我不知道自己能否做到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7358",
     "original": "Ruby: ...I don't blame you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……我不会怪你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7359",
     "original": "Tyrion: ...But I want to try.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……但我想尝试。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7359\",\n  \"keywords\": []\n}"
   },
   {
@@ -48407,281 +48407,281 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7361",
     "original": "Ruby: I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7362",
     "original": "She looks away from you for a moment as she wipes a single tear.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她把视线偏开了一瞬，擦去一滴眼泪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7363",
     "original": "Tyrion: Ms. Tymora...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7363\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7364",
     "original": "Ruby: No...[p/] Don't call me that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不……[p/]不要这么叫我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7364\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7365",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7366",
     "original": "Ruby: If you can truly find it in your heart to forgive me,[p/] I want things to be different this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 如果你真的愿意原谅我，[p/]我希望这次能做出改变。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7366\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7367",
     "original": "Ruby: I'm not your superior nor your mentor anymore.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我不再是你的上级或导师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7368",
     "original": "Ruby: We're equals now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我们平起平坐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7369",
     "original": "Ruby: So call me by my first name.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 用名字称呼我就好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7370",
     "original": "Tyrion: O-[p/][s/]Oh, okay.[p/] Um...[p/] Ruby.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢、[p/][s/]噢，好的。[p/]呃……[p/]鲁比。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7370\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7371",
     "original": "Saying it feels really strange after all these years...",
-    "translation": "",
-    "stage": 0,
+    "translation": "这么多年后这么叫感觉怪怪的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7371\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7372",
     "original": "...But you hope you can get used to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但你希望自己能习惯这种感觉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7372\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7374",
     "original": "Tyrion: R-[p/][s/]Right...[p/] I almost forgot the entire reason why I came here...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对、[p/][s/]对了……[p/]我差点儿忘了自己来这儿的理由……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7374\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7375",
     "original": "Ruby: What is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 什么理由？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7375\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7376",
     "original": "Tyrion: I...[p/] didn't [i]just[/i] come here to reconcile.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……[p/]<u>不只是</u>来修复关系的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7376\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7377",
     "original": "Tyrion: I actually need your help with something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 其实我有点事需要你帮忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7378",
     "original": "Ruby: ...Okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……好的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7378\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7379",
     "original": "Tyrion: I need you to help me speak to the Eyetaker.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我需要你帮我联系上夺眼者。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7379\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7380",
     "original": "Ruby: Tyrion...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7380\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7381",
     "original": "Tyrion: I know...[p/] Considering the circumstances,[p/] it would probably strain your partnership with him even more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我知道……[p/]考虑到现况，[p/]这么做大概会让你和他的合伙关系更紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7381\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7382",
     "original": "Ruby: Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7382\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7383",
     "original": "Tyrion: But if you just tell me where he is,[p/] I'll do my best to make sure it doesn't get traced back to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你只需要告诉我他身在何处，[p/]我会尽可能确保你不会被查出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7383\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7384",
     "original": "Ruby: Tyrion.[p/] The Eyetaker is dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂。[p/]夺眼者死了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7384\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7385",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7385\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7386",
     "original": "Ruby: He died right after you convicted Beatrice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你让比亚特丽丝被判有罪之后他就死了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7386\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7387",
     "original": "Ruby: He was lynched by a mob of civilians.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他被一群暴民用了私刑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7387\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7388",
     "original": "Tyrion: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7388\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7389",
     "original": "Ruby: Everyone's saying that it was some sort of retaliation from House Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 大家都说这是弗雷加家的报复手段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7389\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7390",
     "original": "Ruby: Didn't you notice that he didn't send anyone after you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 没发现他没派人来骚扰你吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7390\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7391",
     "original": "Tyrion: But Eris said-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但是厄莉斯说——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7391\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7394",
     "original": "This isn't really the time to PRESENT things to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "现在不是<size=1.5em>出示</size>证物的时候。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Present_TymoraOffice2-7394\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7395",
     "original": "And you can't really tell her about the case anyways.",
-    "translation": "",
-    "stage": 0,
+    "translation": "反正你也不能告诉她案件详情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Present_TymoraOffice2-7395\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7397",
     "original": "You arrive at the office of Tymora's law firm.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你抵达了泰摩拉法律事务所的办公室。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7397\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7398",
     "original": "According to Aria,[p/] Tymora is still practicing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "据阿莉亚所言，泰摩拉仍在从业。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7398\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7399",
     "original": "So it looks like she hasn't gone into hiding like the Eyetaker apparently did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看来她没有像夺眼者一样藏起来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7399\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7400",
     "original": "And if anyone knows where he currently is,[p/] she will.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她也是最有可能知道夺眼者身在何处的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7400\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7401",
     "original": "You bring your hand up to knock on the door,[p/] but you stop for a moment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你抬起手准备敲门，[p/]但停顿了一瞬。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7401\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7402",
     "original": "Knight: ...Sir?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: ……先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7402\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7403",
     "original": "After everything that's happened,[p/] you still don't feel ready to face her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然发生了这么多，[p/]你还是没准备好和她再会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7403\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7404",
     "original": "For the past month,[p/] all those things you said to her keep replaying in your mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "过去一个月里，[p/]你一直在反复回想自己对她说过的那些话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7404\",\n  \"keywords\": []\n}"
   },
   {
@@ -48694,8 +48694,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7406",
     "original": "You feel the familiar warmth of Celeste's hand again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你感到塞莱斯特手上熟悉的温暖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7406\",\n  \"keywords\": []\n}"
   },
   {
@@ -48708,36 +48708,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7408",
     "original": "You take a deep breath and steel your resolve.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你深吸一口气，下定决心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev-7408\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7409",
     "original": "You knock on the door.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你敲响了门。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7409\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7410",
     "original": "Every moment of silence thereafter fills you with anxiety and dread.",
-    "translation": "",
-    "stage": 0,
+    "translation": "之后的每秒寂静都在增添你的不安与焦虑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7410\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7411",
     "original": "Ruby: *sigh*[p/] I'm sorry for the inconvenience.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: *叹气*[p/]我对带来不便深感抱歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7411\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7412",
     "original": "Ruby: But I'm not currently accepting clients at-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但我现在暂时不接受委托——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7412\",\n  \"keywords\": []\n}"
   },
   {
@@ -48750,8 +48750,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7414",
     "original": "Ruby: C-[p/][s/]Cuthbert...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 卡、[p/][s/]卡斯伯特……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7414\",\n  \"keywords\": []\n}"
   },
   {
@@ -48764,29 +48764,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7416",
     "original": "She looks completely frozen for a while.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她僵住了一小会儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7416\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7417",
     "original": "But her gaze narrows as she notices the legion of knights escorting you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看到身后护送你的骑士，她眯起了眼睛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7417\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7418",
     "original": "Ruby: Are you...[p/] here to arrest me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你是来……[p/]逮捕我的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7418\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7419",
     "original": "Tyrion: N-[p/][s/]No...![p/][s/] Of course, not![p/][s/] I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不、[p/][s/]不是……！[p/][s/]当然不是！[p/][s/]我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7419\",\n  \"keywords\": []\n}"
   },
   {
@@ -48799,92 +48799,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7421",
     "original": "Tyrion: Ugh...[p/] Can we come in?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/]我们能进去说吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7421\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7422",
     "original": "Ruby: Y-[p/][s/]Yes...[p/] Of course.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 好、[p/][s/]好的……[p/]没问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev2-7422\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7423",
     "original": "You take a seat inside the office,[p/] but you can't really think of anything to say.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你在办公室里找了张椅子坐下，[p/]但想不出要说什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7423\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7424",
     "original": "...And the knights aren't really helping to alleviate the tension.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……在场的骑士也导致气氛一直很紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7424\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7425",
     "original": "Tyrion: ...Hey, Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……嘿，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7426",
     "original": "Tyrion: Could you take the knights outside and do a perimeter of the building?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你能带骑士去外面，绕着这栋大楼待命吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7426\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7427",
     "original": "Celeste: What?[p/] But-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什么？[p/]但是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7427\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7428",
     "original": "Celeste: ...Are you sure?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……你确定吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7428\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7429",
     "original": "Tyrion: I am.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我确定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7429\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7430",
     "original": "Celeste: B-[p/][s/]But what if something happens?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但、[p/][s/]但万一发生什么事呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7430\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7431",
     "original": "Tyrion: Celeste...[p/] We're in a populated building in the capital city of Wyverngarde.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特……我们身处维文加德首都满是人的大楼里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7431\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7432",
     "original": "Tyrion: I think I'll be fine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我会没事的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7433",
     "original": "Celeste: N-[p/][s/]No...[p/] But...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不、[p/]不是……[p/]但是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7433\",\n  \"keywords\": []\n}"
   },
   {
@@ -48897,183 +48897,183 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7435",
     "original": "Celeste: S-[p/][s/]Sorry...[p/] You're right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 抱、[p/][s/]抱歉……[p/]你说得对……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7436",
     "original": "Celeste: I'll just-...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 那我就——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7437",
     "original": "With a motion of her hand,[p/] the knights follow her out of the office.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她摆了摆手，骑士们都跟着她出了办公室。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7438",
     "original": "Right before she leaves she waits at the door and looks at you for a while.",
-    "translation": "",
-    "stage": 0,
+    "translation": "离开之前，她停在门口看了你一会儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7439",
     "original": "...But after a while,[p/] she realizes how long she's been staring and quickly closes the door.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但这之后，[p/]她意识到自己已经盯了你很久，迅速关上了门。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7440",
     "original": "...Now then.[p/] Let's get this over with.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……那么，[p/]是时候了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-TymoraRev3-7440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7441",
     "original": "Wait a minute...",
-    "translation": "",
-    "stage": 0,
+    "translation": "等一下……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7442",
     "original": "Tyrion: By the way,[p/] is your father still-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 另外，[p/]你的爸爸还是——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7443",
     "original": "Eris: Oh,[p/] if you're worried about him,[p/] we've already had a conversation about you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 噢，[p/]如果你担心的是他，[p/]我们之前已经谈过你的事了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7444",
     "original": "Eris: I don't think he'll be accosting you any time soon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 他不会再来骚扰你了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7445",
     "original": "Tyrion: O-[p/][s/]Oh...[p/] Thank you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢、[p/][s/]噢……[p/]谢谢你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7446",
     "original": "Tyrion: Then why would Eris say that...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那厄莉斯为什么会说这种话……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7447",
     "original": "Ruby: ...Eris?[p/] Who's Eris?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 厄莉斯？[p/]厄莉斯是谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7448",
     "original": "Tyrion: What?[p/] You've [i]met[/i] her before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 啥？[p/]你以前<u>见过</u>她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7448\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7449",
     "original": "Tyrion: She has long black hair and she wears a black dress.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她有一头黑色长发，穿黑裙子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7450",
     "original": "Tyrion: ...I suppose she really likes black.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……看起来就是一身黑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7451",
     "original": "Tyrion: B-[p/][s/]But anyways,[p/] she's the Eyetaker's daughter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但、[p/][s/]但总之，[p/]她是夺眼者的女儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal-7451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7452",
     "original": "Ruby: Tyrion...[p/] The Eyetaker's daughter has [i]red[/i] hair.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂……[p/]夺眼者的女儿是<u>红</u>头发。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7453",
     "original": "Tyrion: What?[p/][s/] She was [i]there[/i] when we spoke to him during Beatrice's trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么？[p/][s/]比亚特丽丝审判期间，我们和夺眼者对话时她也<u>在场</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7454",
     "original": "Ruby: ...That's right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……是的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7455",
     "original": "Ruby: What are you talking about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你在说什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7455\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7456",
     "original": "Ruby: She was never [i]at[/i] that meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 她根本<u>不在</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7456\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7457",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7457\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7458",
     "original": "What is going on?[p/] She was [i]clearly[/i] there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "怎么回事？[p/]她<u>显而易见</u>在场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7458\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7459",
     "original": "If it weren't for her intervention,[p/] the Eyetaker would've attacked at that very moment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "要不是她的介入，[p/]夺眼者那时就会发起攻击了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7460",
     "original": "Why are you remembering things differently?",
-    "translation": "",
-    "stage": 0,
+    "translation": "难道你们两个的记忆有区别？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7460\",\n  \"keywords\": []\n}"
   },
   {
@@ -49086,29 +49086,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7462",
     "original": "Rath: I'm sorry, Lucio...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 我很抱歉，卢西奥……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7462\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7463",
     "original": "Rath: But whoever this \"Patron\" is,[p/] they have full ownership of her mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 但不管这个“签约人”是谁，[p/]她的意识都完全被这个人掌控。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7463\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7464",
     "original": "Rath: They could have easily commanded her to forget signing the contract in the first place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 签约人可以轻而易举命令她忘掉签订契约一事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7465",
     "original": "Rath: That's probably [i]why[/i] she can't remember what happened during the massacre.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rath: 这也很可能就是她没有屠杀期间记忆的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7465\",\n  \"keywords\": []\n}"
   },
   {
@@ -49121,232 +49121,232 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7467",
     "original": "Tyrion: No...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7468",
     "original": "Ruby: Tyrion?[p/] What's wrong?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂？[p/]怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7468\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7469",
     "original": "Ruby: Why are you looking at me like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 为什么要这么看着我？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal3-7469\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7470",
     "original": "A part of you really hopes that you're wrong about this...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你心里希望自己是错的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal3-7470\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7473",
     "original": "No...[p/] Ruby doesn't remember that Eris was at that meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]鲁比不记得厄莉斯也参加了会面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal3a-7473\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7474",
     "original": "That doesn't make sense.[p/] [i]Eris[/i] was the one who got you out of that situation in the first place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这不合情理。[p/]<u>厄莉斯</u>是帮助你脱离险境的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal3a-7474\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7475",
     "original": "...There's only one reason why she wouldn't remember.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她会想不起来只有一个原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal3a-7475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7476",
     "original": "That's the only explanation you can think of...[p/][s/] But why?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "也是你唯一能想到的解释……[p/][s/]但为什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4-7476\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7477",
     "original": "...Her memories seem intact,[p/] [i]except[/i] for her memories of Eris.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她的记忆看起来很完整，[p/]<u>除了</u>有关厄莉斯的部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4-7477\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7478",
     "original": "Since her disappearance,[p/] you've highly suspected that she was involved in this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "自她消失以来，[p/]你就一直怀疑厄莉斯与事件有关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4-7478\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7479",
     "original": "Not only was she at the scene of the crime,[p/] she went missing at the same time that Beatrice did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她不仅身处犯罪现场，还与比亚特丽丝同一时间失踪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4-7479\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7480",
     "original": "But you never thought to ask one question.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但你一直没想过要问一个问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4-7480\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7483",
     "original": "No...[p/] Ruby signed a Blood Contract with a demon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]鲁比和某个恶魔签约了血契。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4a-7483\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7484",
     "original": "And that demon changed Ruby's memories of Eris Illmater.",
-    "translation": "",
-    "stage": 0,
+    "translation": "那个恶魔还篡改了鲁比关于厄莉斯·伊尔马特的记忆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4a-7484\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7485",
     "original": "Eris Illmater was present at the crime scene during the massacre.",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯·伊尔马特屠杀期间也在犯罪现场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4a-7485\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7486",
     "original": "And in addition to that,[p/] she's been missing since everything happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "除此之外，她还在事件发生后失踪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4a-7486\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7487",
     "original": "A flood of memories come back to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "海量的记忆浮现于脑海之中。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7487\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7488",
     "original": "Lucio: Warriors such as I must hone and develop our senses to survive in battle.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 但我这样的勇士必须时刻磨砺感知能力，才能在战场生还。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7488\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7489",
     "original": "Lucio: Eventually,[p/] we develop the ability to sense enemies and anticipate danger.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 最终，[p/]我们拥有了可以感知暗敌与察觉危险的能力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7489\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7490",
     "original": "Lucio: I'd heard that such senses are heightened when in the presence of \"extraplanar\" entities.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我听说这种能力在“跨位面”体存在时更为强化。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7490\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7491",
     "original": "Lucio: I thought those stories were complete hogwash until I met you and Beatrice Frega's familiar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 遇到你和比亚特丽丝·弗雷加的使魔之前，[p/]我都以为这只是天方夜谭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7491\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7492",
     "original": "CELESTE: Tyrion.[p/] I’ve fought literal monsters and barely escaped with my life.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 提利昂。[p/]我与字面意义上的怪物们战斗过，好不容易才捡回一条命。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7492\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7493",
     "original": "CELESTE: But when I’m near Eris,[p/] none of those creatures come even close.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但我在厄莉斯附近的时候，[p/]那些怪物与她相比甚至不值一提。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7493\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7494",
     "original": "CELESTE: I get this…[p/] feeling.[p/] It's like I’m in front of a predator that I couldn’t ever hope to beat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我就是有这种……[p/]感觉。[p/]就好像站在一个根本没希望打败的捕食者面前。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7494\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7495",
     "original": "CELESTE: Every instinct I have tells me to run whenever she’s close by.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 只要她在附近，我的所有直觉都在说快跑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7495\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7496",
     "original": "Liafal: I-[p/][s/]I'm terribly sorry![p/][s/] He's not usually like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我、[p/][s/]我真的很抱歉！[p/][s/]他平常不会这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7496\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7497",
     "original": "Eris: Ah, it's to be expected.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 啊，意料之中。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7497\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7498",
     "original": "ERIS: I'm not sure why but animals have always disliked me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 我也不确定动物们为什么一般都不喜欢我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4b-7498\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7499",
     "original": "There's still very little you know about demons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你对恶魔依然知之甚少。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7499\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7500",
     "original": "So what's to say that one can't take the appearance of a human?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他们也有可能伪装成人类。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7500\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7501",
     "original": "But it's still a long shot.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然希望渺茫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7501\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7502",
     "original": "...But there [i]is[/i] one way to find out for sure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但还<u>有</u>一个办法找出答案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7502\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7503",
     "original": "Ruby: Tyrion, talk to me.[p/] What's wrong?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂，跟我说话呀。[p/]怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7503\",\n  \"keywords\": []\n}"
   },
   {
@@ -49359,141 +49359,141 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7505",
     "original": "Tyrion: Ruby...[p/] I'm about to do something stupid...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 鲁比……[p/]我即将做些很蠢的事……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7505\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7506",
     "original": "Tyrion: If I fall unconscious,[p/] I need you to call Celeste and tell her to contact Lord Asclepius or the Archduke.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果我失去意识了，[p/]请你叫来塞莱斯特，让她联络阿斯克勒庇俄斯勋爵或大公爵。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7506\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7507",
     "original": "Ruby: W-[p/][s/]What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 什、什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7507\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7508",
     "original": "If you're wrong about this,[p/] there's no way either of them will get here in time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果你是错的，[p/]这两个人都不可能及时赶到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7508\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7509",
     "original": "...But it's already late and the trial resumes tomorrow.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但时间已晚，审理明天还会继续。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7509\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7510",
     "original": "You can't waste any more time traveling to either of their locations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你现在分秒必争，没时间去他们其中一个人所在的位置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7510\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7511",
     "original": "Tyrion: Eris Illmater![p/][s/] Wherever and [i]whatever[/i] you are!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 厄莉斯·伊尔马特！[p/][s/]不管你在哪里，是<u>什么</u>！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7511\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7512",
     "original": "Tyrion: By the Eye of Horus,[p/][s/] I issue upon you a divine edict!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 借荷鲁斯之眼之力，[p/][s/]我对你发出神谕！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7512\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7513",
     "original": "Tyrion: Release thy guards and manifest your Blood Contract with Ruby Tymora!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 放下防备，展示你和鲁比·泰摩拉的血契！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7513\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7514",
     "original": "Eris: So...[p/] You finally figured it out, my dearest Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 所以……[p/]你终于明白了，我亲爱的提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7514\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7515",
     "original": "Tyrion: This entire time...[p/][s/] I've been chasing [i]you[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我一直……[p/][s/]一直在追查<u>你</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7515\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7516",
     "original": "Eris: You have...[p/] It's been so entertaining watching you scramble around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 的确……[p/]看你四处乱窜太有娱乐效果了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7516\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7517",
     "original": "Tyrion: You've been making contracts with people across Wyverngarde.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你在维文加德各处与人签订契约。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7517\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7518",
     "original": "Tyrion: You took control of Aria [i]and[/i] Beatrice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你控制了阿莉亚<u>和</u>比亚特丽丝。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7518\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7519",
     "original": "Tyrion: But...[p/] Why?![p/][s/] Why would you want to do any of this?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但是……[p/]为什么？！[p/][s/]为什么你会想做这些？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7519\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7520",
     "original": "Eris: Oh,[p/] I can't possibly reveal [i]all[/i] my secrets.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 喔，[p/]我可不能把自己的秘密对你<u>和盘托出</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7520\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7521",
     "original": "Eris: This isn't the proper stage to have our final battle.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 现在还不是最后一战的阶段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7521\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7522",
     "original": "Tyrion: You...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7522\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7523",
     "original": "Eris: But I suppose that you've come this far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 但既然你都查到这里了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7523\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7524",
     "original": "Eris: So how about I give you a little gift?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不如我给你一份小礼物吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4c-7524\",\n  \"keywords\": []\n}"
   },
   {
@@ -49506,169 +49506,169 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7526",
     "original": "Ruby: What was that...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 那是什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7526\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7527",
     "original": "Tyrion: Ruby...[p/] Eris Illmater is a demon...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 鲁比……[p/]厄莉斯·伊尔马特是个恶魔……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7527\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7528",
     "original": "Tyrion: And she's not just [i]any[/i] demon.[p/] She's the Empress of Discord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她不是<u>普通的</u>恶魔。[p/]她是无序女皇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7528\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7529",
     "original": "Tyrion: ...And [i]you[/i] signed a Blood Contract with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……而<u>你</u>和她签了血契。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7529\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7530",
     "original": "Tyrion: [i]That's[/i] why you can't remember anything about her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: <u>所以</u>你才不记得关于她的任何事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7530\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7531",
     "original": "Ruby: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7531\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7532",
     "original": "Ruby: T-[p/][s/]Tyrion![p/] I-I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提、[p/][s/]提利昂！[p/]我、我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7532\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7533",
     "original": "Ruby: I swear on my life that I didn't know anything about this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我对天发誓自己什么都不知道！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7533\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7534",
     "original": "Tyrion: I know...[p/] She probably tricked you into signing this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我知道……[p/]她很可能是用计让你签约。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7534\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7535",
     "original": "Tyrion: Just like she tricked Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就像骗阿莉亚那样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7536",
     "original": "Ruby: \"Aria\"?![p/][s/] What does the prosecutor have to do with this?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: “阿莉亚”？！[p/][s/]检察官和这些有什么关系？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7537",
     "original": "Celeste: Come on, you two.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好了，你们俩。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7537\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7538",
     "original": "Celeste: I know things are kind of tense,[p/] but there's no need to-.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我知道你们关系比较紧张，[p/]但也没有必要——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7539",
     "original": "Celeste: ...What are you holding?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……你拿着什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7539\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7540",
     "original": "Celeste: I-[p/][s/]Is that a Blood Contract?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是、[p/][s/]是血契吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7540\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7541",
     "original": "Tyrion: Celeste...[p/] Eris is the Empress of Discord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特……[p/]厄莉斯就是无序女皇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7542",
     "original": "Celeste: W-[p/][s/]What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什、[p/][s/]什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7543",
     "original": "Tyrion: It was [i]her[/i] the entire time!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一直都是<u>她</u>！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7543\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7544",
     "original": "Tyrion: She [i]tricked[/i] Aria into signing a Blood Contract with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 厄莉斯<u>欺骗</u>阿莉亚与她签约血契。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7544\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7545",
     "original": "Tyrion: And she probably controlled her [i]and[/i] Beatrice to orchestrate the entire massacre!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 大概率也是她控制阿莉亚<u>和</u>比亚特丽丝实施屠杀！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7546",
     "original": "Ruby: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7546\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7547",
     "original": "Celeste: T-[p/][s/]Tyrion![p/][s/] This is crazy!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提、[p/][s/]提利昂！[p/][s/]这太疯狂了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7547\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7548",
     "original": "Celeste: I-[p/][s/]I know I was scared of her that [i]one[/i] time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我，[p/][s/]我确实之前<u>有一次</u>很害怕她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7549",
     "original": "Celeste: But how could [i]Eris[/i] be a demon?![p/][s/] She looks nothing [i]like[/i] Marrunath!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但<u>厄莉斯</u>怎么可能是恶魔？！[p/][s/]她和马鲁纳斯<u>一点也不像</u>！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7549\",\n  \"keywords\": []\n}"
   },
   {
@@ -49681,155 +49681,155 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7551",
     "original": "Tyrion: I know how unbelievable it is.[p/] But I used my Divine Edict with her name.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我明白这有多难以置信。[p/]但我用她的名字发出了神谕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7551\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7552",
     "original": "Tyrion: That wouldn't have worked unless she [i]was[/i] a demon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只有她<u>是</u>恶魔的情况下才可能成功。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7553",
     "original": "Celeste: Y-[p/][s/]Yeah...[p/] I guess I can't disagree with that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好、[p/][s/]好的……[p/]这一点我没法争辩。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7554",
     "original": "Knight: ...We'll need to contact the Grand General immediately.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: ……我们需要立刻联系大将军。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7555",
     "original": "Tyrion: Ugh...[p/] But if she's really a demon,[p/] is it even possible to arrest her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/]可如果她真的是恶魔，[p/]那还有可能逮捕她吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7555\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7556",
     "original": "It's already been a day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "已经过去一天了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7557",
     "original": "For someone like her,[p/] that would be [i]more[/i] than enough time to skip town.",
-    "translation": "",
-    "stage": 0,
+    "translation": "对她那种人来说，[p/]这些时间用来逃离城镇已经<u>绰绰有余</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7557\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7558",
     "original": "Tyrion: We'll need to speak with the Scaled-[p/] the Archduke about this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们需要和鳞甲——[p/]大公爵探讨此事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7559",
     "original": "Tyrion: Thank you...[p/] Ruby.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 谢谢你……[p/]鲁比。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7559\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7560",
     "original": "Tyrion: You've helped us more than you could ever know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你对我们的帮助远超你的想象。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7560\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7561",
     "original": "Ruby: Y-[p/][s/]Yeah, of course...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不、[p/][s/]不用客气……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7561\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7562",
     "original": "Tyrion: Celeste,[p/] let's meet up with everyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特，[p/]我们去找大家吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7563",
     "original": "Tyrion: We'll need to discuss our next course of action.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们需要讨论下一步行动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7563\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7564",
     "original": "Celeste: Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 对……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7564\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7565",
     "original": "You're about to leave Ruby's office when she stops you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "正要离开鲁比的办公室时，她拦住了你们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7565\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7566",
     "original": "Ruby: Tyrion...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7567",
     "original": "Ruby: Have you been using the Eye of Horus lately?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你最近用过荷鲁斯之眼吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7568",
     "original": "Tyrion: Uh...[p/] Yeah.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/]用过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7569",
     "original": "Tyrion: I can't say much about what I'm doing right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我现在做的事不能透露详情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7570",
     "original": "Tyrion: But I [i]am[/i] in the middle of a case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我<u>正在</u>调查某个案子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7570\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7571",
     "original": "Ruby: It's just that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我只是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7571\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7572",
     "original": "Tyrion: ...What's wrong?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7572\",\n  \"keywords\": []\n}"
   },
   {
@@ -49842,57 +49842,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7574",
     "original": "Ruby: Never mind...[p/] I don't think it's my place to say anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 别在意……[p/]我知道自己没资格说这些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7574\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7575",
     "original": "Ruby: I think I'm just being my usual paranoid self.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 大概只是我的被害妄想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7575\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7576",
     "original": "Ruby: [i]I'm[/i] not the one with the ability to read minds anyways.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 毕竟<u>我</u>没有读心能力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7577",
     "original": "Ruby: So if [i]you're[/i] not seeing it,[p/] it's probably nothing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 如果<u>你</u>都没看见，那应该没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7578",
     "original": "Tyrion: ...Okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……好的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7578\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7579",
     "original": "Ruby: ...I know you can't tell me about what you're doing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……我知道你不能透露具体内容。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7579\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7580",
     "original": "Ruby: And I have no idea what could possibly involve the Kingsguard,[p/] Steelwind, [i]and[/i] the Empress of Discord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我也不知道什么事会同时涉及国王卫队，斯蒂尔文德，<u>还有</u>无序女皇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7580\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7581",
     "original": "Ruby: But...[p/] Just stay safe, okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但……[p/]注意安全，好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7581\",\n  \"keywords\": []\n}"
   },
   {
@@ -49905,8 +49905,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7583",
     "original": "Ruby: You're...[p/] the only family I have left.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你是……[p/]我仅剩的家人了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7583\",\n  \"keywords\": []\n}"
   },
   {
@@ -49919,134 +49919,134 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7585",
     "original": "Tyrion: I will.[p/] I promise.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 会的，[p/]我保证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7585\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7586",
     "original": "Ruby: ...Thank you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……谢谢你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7587",
     "original": "You've finally found the lead you've been looking for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你终于找到了苦苦寻找的线索。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7588",
     "original": "But you're not sure where this will take you...",
-    "translation": "",
-    "stage": 0,
+    "translation": "但你不确定这会让你走向何方……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7588\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7589",
     "original": "Knowing what you know now,[p/] you're almost a little afraid of what might happen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "了解这些以后，[p/]你几乎都有点害怕事态会如何进展。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal7-7589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7590",
     "original": "Who [i]is[/i] Eris?",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯<u>是</u>谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7590\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7591",
     "original": "Why would she go to the trouble of orchestrating [i]any[/i] of this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她为什么要费工夫策划<u>这些事</u>？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7591\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7592",
     "original": "She not only impersonated the Eyetaker's daughter.[p/] She also pretended to be your friend.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她不仅冒充夺眼者的女儿，[p/]还假装成你的朋友。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7592\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7593",
     "original": "What's [i]her[/i] goal in all of this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "<u>她的</u>目的是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7594",
     "original": "...Hopefully,[p/] tomorrow will finally bring you the answers you're looking for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……希望明天的审判可以带来答案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7595",
     "original": "Orym: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7596",
     "original": "Eris: Is something wrong, commander?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 怎么了，指挥官？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7597",
     "original": "Orym: ...Don't play dumb with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……别跟我装傻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7598",
     "original": "Orym: They told me what you [i]really[/i] are.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 他们告诉我你的<u>真实</u>身份了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7599",
     "original": "Orym: What's your game, demon?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你搞什么鬼，恶魔？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7600",
     "original": "Orym: Why would you just deliver yourself to our doorstep?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 为什么要自己送上门来？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7601",
     "original": "Eris: Oh, Orym.[p/] I've put far too much work into this story to [i]miss[/i] the final act.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 喔唷，奥蒙。[p/]我准备了这么多，可不能错过好戏的最后一幕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7602",
     "original": "Eris: I can't wait to see how this ends.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我等不及看事情怎么收场了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7603",
     "original": "Orym: You [i]killed[/i] three people and enslaved an innocent girl!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你<u>杀了</u>三个人，还奴役了一个无辜的女孩！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7603\",\n  \"keywords\": []\n}"
   },
   {
@@ -50108,8 +50108,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7612",
     "original": "Orym: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal9-7612\",\n  \"keywords\": []\n}"
   },
   {
