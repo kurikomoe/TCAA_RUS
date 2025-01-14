@@ -2,7 +2,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-CelesteArgument_Fail-5-0",
     "original": "You lost the argument...",
-    "translation": "你输掉了辩论...",
+    "translation": "你输掉了辩论……",
     "stage": 1,
     "context": "{\n  \"node_name\": \"CelesteArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -79,7 +79,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-OrymArgument_Fail-5-0",
     "original": "You lost the argument...",
-    "translation": "你输掉了辩论...",
+    "translation": "你输掉了辩论……",
     "stage": 1,
     "context": "{\n  \"node_name\": \"OrymArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -107,7 +107,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-MerchantArgument_Fail-3-0",
     "original": "You lost the argument...",
-    "translation": "你输掉了辩论...",
+    "translation": "你输掉了辩论……",
     "stage": 1,
     "context": "{\n  \"node_name\": \"MerchantArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -303,7 +303,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered_Fail-4-0",
     "original": "You lost the argument...",
-    "translation": "你输掉了辩论...",
+    "translation": "你输掉了辩论……",
     "stage": 1,
     "context": "{\n  \"node_name\": \"GarrickCornered_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -345,7 +345,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Trial1_Intro7-13-1",
     "original": "You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.",
-    "translation": "你正在交叉询问一位证人，仔细审查他所做的每一句证词并寻找是否存在与笔记中的线索、法术、或人物相悖的证言。一旦找到你认为的错误陈述，点击出示按钮并出示相矛盾的证据来继续。",
+    "translation": "你正在交叉询问一位证人，仔细审查他所做的每一句证词，并寻找是否存在与笔记中的线索、法术、或人物相悖的证言。找到错误陈述后，点击出示按钮，并出示与之矛盾的证据来继续。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Trial1_Intro7\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\",\n    \"Cross-Examinations\",\n    \"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -359,7 +359,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-TownIntroScene4-12-1",
     "original": "Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.",
-    "translation": "提利昂会在脑中记录下游历世界的过程中值得记录的线索。这些笔记对于解决游戏进程中的谜团起到至关重要的作用。 你可以随时打开屏幕左上角的工具栏查阅这些笔记。",
+    "translation": "游历世界的过程中，提利昂会在脑中记录下可能有用的线索。这些笔记对于解决游戏进程中的谜团有着至关重要的作用。 你可以随时打开屏幕左上角的工具栏查阅这些笔记。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"TownIntroScene4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\",\n    \"Notes\",\n    \"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -408,7 +408,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-43-1",
     "original": "ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.",
-    "translation": "辩论并不是只用确凿的证据来进行。有事你需要声明你的立场和观点来说服对手的主张是错误的。当出现声称环节时，从三项回应中选择一项。阅读对手的心理档案来推断那一个回应是最合适的。",
+    "translation": "辩论并不是只用确凿的证据来进行。有时你需要声明自己的立场和观点，来说服对手他们的主张是错误的。当出现声张环节时，从三项回应中选择一项。阅读对手的心理档案来推断哪一个回应是最合适的。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\",\n    \"Elocutions in Arguments\",\n    \"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -422,7 +422,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-0-1",
     "original": "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
-    "translation": "对于一些特别的主张，你需要观察对手的想法和情绪来选择正确的回应。/n/n逻辑：当对手的主张与你所有的证据相悖时选择此项。/n直觉：当你对手的想法与他们的主张相矛盾时选择此项。/n同情：当你的对手的情绪与他们的主张相矛盾时选择此项。",
+    "translation": "对于一些特别的主张，你需要观察对手的想法和情绪来选择正确的回应。/n/n逻辑：当对手的主张与你所持的证据相悖时选择此项。/n直觉：当对手的想法与他们的主张相矛盾时选择此项。/n同情：当对手的情绪与他们的主张相矛盾时选择此项。",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Merchant_Interpret\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\",\n    \"Interpreting During Arguments\",\n    \"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\"\n  ],\n  \"keywords\": []\n}"
   },

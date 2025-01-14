@@ -5581,7 +5581,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-860",
     "original": ":There's only one last person to speak with:[p/] Harold Haroldson.",
-    "translation": "最后，[p/]只需要和哈罗德·哈罗德森谈谈了。",
+    "translation": ":最后，[p/]只需要和哈罗德·哈罗德森谈谈了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-860\",\n  \"keywords\": []\n}"
   },
@@ -7569,7 +7569,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1170",
     "original": "Celeste: ...What?",
-    "translation": "Celeste: .……什么？",
+    "translation": "Celeste: ……什么？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce7-1170\",\n  \"keywords\": []\n}"
   },
@@ -9459,7 +9459,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1474",
     "original": "Miriam: One day,[p/] we all woke up and discovered that Beatrice had fled from our home.",
-    "translation": "Miriam: 一天，[p/]大家醒来后发现比亚特丽丝·弗雷加离家出走了。",
+    "translation": "Miriam: 一天，[p/]大家醒来后发现比亚特丽丝离家出走了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-OrymC4Obj_4-1474\",\n  \"keywords\": []\n}"
   },
@@ -10299,386 +10299,386 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1594",
     "original": "Judge: With [i]that[/i] out of the way.[p/] Let's resume proceedings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 既然<u>这个</u>问题解决了。[p/]我们就继续审理吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1595",
     "original": "Judge: ...Assuming that we're all at our preferred spots.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……大家都站在自己中意的位置上了吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1596",
     "original": "Tyrion: We are, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是的，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1597",
     "original": "As much as you hate to admit it,[p/] you [i]are[/i] more comfortable here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然不愿承认，[p/]但站在这边确实更<u>舒适</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1598",
     "original": "Not that you want to encourage her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你并不是想鼓励她这么做……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1599",
     "original": "Judge: With all of these interruptions,[p/] I think it best to review the proceedings up until now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 由于突发事件较多，[p/]我们最好回顾一下迄今为止的审理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1600",
     "original": "Judge: The prosecution proposed that Beatrice Frega's motive for the murder was to claim the victim's inheritance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 检方认为，比亚特丽丝·弗雷加的杀人动机是获得继承受害者遗产的权力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1601",
     "original": "Judge: However,[p/] the defense brought forth a witness who testified that Beatrice was disinherited by her father five years ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 然而，[p/]辩方提出的目击证人作证称，比亚特丽丝五年前就被其父剥夺了继承权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1602",
     "original": "Judge: Am I correct, Ms. Tymora?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我说得没错吧，泰摩拉女士？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1603",
     "original": "Ruby: You are, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 没错，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1603\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1604",
     "original": "Judge: Very well.[p/] Considering the circumstances,[p/] I think it's best to have Lady Frega repeat her testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 很好。[p/]考虑到现况，[p/]我认为最好让弗雷加小姐重复一遍她的证言。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1605",
     "original": "Judge: Bailiff.[p/] Please escort Lady Frega to the stand once more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 法警。[p/]请再次护送弗雷加小姐到证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1605\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1606",
     "original": "Tyrion: Ms. Frega,[p/] could you please give your testimony to the court once more?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 弗雷加女士，[p/]能否请你再次作出证言？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1606\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1607",
     "original": "Miriam: Of course.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 当然了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_3-1607\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1608",
     "original": "Miriam: One day,[p/] we all woke up and discovered that Beatrice had fled from our home.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 一天，[p/]大家醒来后发现比亚特丽丝离家出走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1609",
     "original": "Miriam: She left a note for us.[p/] And in it,[p/] she renounced her name and denounced my father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 她留下了一张字条。[p/]上面写着，[p/]她放弃了自己的姓氏并且告发了父亲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1609\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1610",
     "original": "Miriam: My father later called me and my sister into his study.[p/] He told us that he'd completely disowned Beatrice and removed any claim she had to the Frega estate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 父亲晚些时候把我和姐姐叫到了他的书房。[p/]他告诉我们，他已经和比亚特丽丝·弗雷加完全断绝了关系，并且取消了她对弗雷加名下财产的任何继承权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1610\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1611",
     "original": "Miriam: It was probably a threat to us in case [i]we[/i] ever chose to go down the same path she did.[p/] He wanted to make an example out of her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 那大概是对<u>我们</u>的威胁，以防我们再走上和她一样的道路。[p/]他这是杀鸡儆猴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1612",
     "original": "Miriam: This all happened five years ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 这一切都是五年前的事情了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1612\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1613",
     "original": "Tyrion: So your father disinherited Beatrice shortly after her departure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也就是说你父亲在比亚特丽丝离家出走后，剥夺了她的继承权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1613\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1614",
     "original": "Miriam: Y-[p/][s/]Yes...[p/] He did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 是、[p/][s/]是的……[p/]他是这么做的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1614\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1615",
     "original": "Ruby: As such,[p/] Beatrice would have no motive to murder her father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 正因如此，[p/]比亚特丽丝没有杀害自己父亲的动机。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1615\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1616",
     "original": "Ruby: Any inheritance she could have received would be long gone by the night of the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 谋杀那晚之前，她的继承权已经消失许久。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1616\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1617",
     "original": "Is that really true, though?",
-    "translation": "",
-    "stage": 0,
+    "translation": "但这是真的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_4-1617\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1619",
     "original": "Tyrion: That must have been a surprise for all of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你们应该都没想到吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1619\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1620",
     "original": "Tyrion: Did she tell anyone else about her plan?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她对别人说过自己的计划吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1620\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1621",
     "original": "Miriam: No...[p/] She didn't.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 不……[p/]她没说过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1622",
     "original": "Miriam: She left without a word to anyone. [mind=\"She should have spoken with us first...\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 她一句话不留就走了。 [mind=\"她应该先和我们谈谈的……\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1622\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1623",
     "original": "It appears that she's sincere about what she's saying.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来她说的都是真的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1623\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1625",
     "original": "Tyrion: From what I've heard about your father,[p/] I don't find that surprising.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 根据我听过的有关你父亲的事，[p/]她会这么做也不意外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1626",
     "original": "Miriam: T-[p/][s/]That's-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 这、[p/][s/]这是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1627",
     "original": "Ruby: It's clear to everyone involved that my client was not treated well by her father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 此案所有相关人士都知道，我的委托人没有被父亲善待。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1628",
     "original": "Ruby: That's what drove her to sacrifice her claim to the Frega estate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 所以她才会放弃继承弗雷加地产的权力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1629",
     "original": "Miriam: My father...[p/] had many responsibilities.[p/] He had much to consider.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我父亲……[p/]承担着许多重大责任。[p/]他要考虑很多事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1630",
     "original": "Ruby: And that justified his treatment of your sister?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 这就能正当化他对待你姐姐的态度？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1630\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1631",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1631\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1632",
     "original": "Despite being [i]her[/i] witness,[p/] Ms. Tymora really isn't holding back against Miriam.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然是<u>她那边的</u>证人，[p/]但泰摩拉女士对米莉亚姆也不怎么客气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1632\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1634",
     "original": "Tyrion: That seems like a drastic reaction to her simply leaving her home.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他对女儿离家出走的反应似乎太激烈了一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1634\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1635",
     "original": "Miriam: My father and sister already had many disagreements before this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我的父亲和姐姐在这之前已经有过多次不合。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1635\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1636",
     "original": "Miriam: He'd made it clear that he wouldn't tolerate her many acts of insubordination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 他已经明确表示，不会再容忍她的不服从。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1636\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1637",
     "original": "Miriam: I imagine that [i]this[/i] was the last straw for him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我猜<u>这是</u>压垮骆驼的最后一根稻草。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1637\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1638",
     "original": "While that sounds in character for him,[p/] would William Frega really do something so extreme?",
-    "translation": "",
-    "stage": 0,
+    "translation": "听起来像是他会干的事，[p/]但威廉·弗雷加真的会做到这么极端？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1638\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1639",
     "original": "Regardless of his personal feelings,[p/] House Frega holds a lot of financial and political power.",
-    "translation": "",
-    "stage": 0,
+    "translation": "先不管他的个人感受，[p/]弗雷加家拥有傲人的财力与政治影响力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1640",
     "original": "Would he really change his inheritance so haphazardly?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他真的会这么胡乱修改继承权吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1640\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1642",
     "original": "Tyrion: That must have been difficult for you and Laefe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你和拉菲一定很难受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1642\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1643",
     "original": "Miriam: ...It was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……是的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1643\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1644",
     "original": "Miriam: My father wanted everything to be his way,[p/] and anyone who didn't comply was punished.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我的父亲希望所有事都依着他来，[p/]不服从的人就会受罚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1644\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1645",
     "original": "Tyrion: That's a terrible way to treat [i]anyone[/i], much less his own family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这么对待<u>任何人</u>都很糟糕，更别提是对待他自己的家人了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1645\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1646",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1646\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1648",
     "original": "Tyrion: If this happened shortly after Beatrice fled,[p/] you must have been less than thirteen years old at the time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果这是发生在比亚特丽丝离开不久后的事，[p/]那你当时还不满 13 岁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1648\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1649",
     "original": "Tyrion: I can't imagine how that must have been.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很难想象会有多难受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1649\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1650",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1650\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1651",
     "original": "Tyrion: But can we really trust your testimony if you were only a child at the time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但如果你当时还是个孩子，那我们真能相信你的证言吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1651\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1652",
     "original": "Miriam: ...I remember it vividly.[p/] My father's words,[p/] the look on Laefe's face when she realized Beatrice was gone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……我记得很清楚。[p/]我父亲的言辞，[p/]拉菲意识到比亚特丽丝已经离开后的表情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1652\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1653",
     "original": "Miriam: I even remember the way the sun was shining through the window that morning... [mind=\"It was all my fault...\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: 我甚至记得那天早上阳光是怎么照进窗户的…… [mind=\"都是我的错……\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-Cross-Examination_MiriamC4-1653\",\n  \"keywords\": []\n}"
   },
   {
@@ -10768,8 +10768,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1671",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-MiriamObjC4-1671\",\n  \"keywords\": []\n}"
   },
   {
@@ -19511,8 +19511,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3006",
     "original": "Ruby: Unbeknownst to everyone at the time,[p/] William Frega was attacked by the murderer at 3:12 AM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 当时，没人知道，[p/]威廉·弗雷加在下午 3:12 遭到了凶手的攻击。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B8-3006\",\n  \"keywords\": []\n}"
   },
   {
@@ -34505,8 +34505,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5301",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5301\",\n  \"keywords\": []\n}"
   },
   {
@@ -34533,8 +34533,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5305",
     "original": "Miriam: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5305\",\n  \"keywords\": []\n}"
   },
   {
@@ -34561,8 +34561,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5309",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5309\",\n  \"keywords\": []\n}"
   },
   {
@@ -34729,8 +34729,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5335",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5335\",\n  \"keywords\": []\n}"
   },
   {
@@ -34820,8 +34820,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5351",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5351\",\n  \"keywords\": []\n}"
   },
   {
@@ -34995,8 +34995,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5380",
     "original": "Miriam: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Miriam: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5380\",\n  \"keywords\": []\n}"
   },
   {

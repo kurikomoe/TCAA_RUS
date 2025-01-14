@@ -72,7 +72,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-15",
     "original": "WALLACE: But why do they still think I’m the murderer? [mind=\"It makes no sense… unless.\"/]",
-    "translation": "WALLACE: 为什么他们觉得我是凶手？ [mind=\"这就是胡闹… 除非.\"/]",
+    "translation": "WALLACE: 为什么他们觉得我是凶手？ [mind=\"这就是胡闹……除非……\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-15\",\n  \"keywords\": []\n}"
   },
@@ -86,7 +86,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-17",
     "original": "WALLACE: Did you tell them that I’m innocent?! [mind=\"Did they frame me?!\"/]",
-    "translation": "WALLACE: 你一定告诉了他们我是无辜的对吧？！ [mind=\"难不成有人陷害我?!\"/]",
+    "translation": "WALLACE: 你一定告诉了他们我是无辜的对吧？！ [mind=\"难不成有人陷害我？！\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-17\",\n  \"keywords\": []\n}"
   },
@@ -1262,7 +1262,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-199",
     "original": "WALLACE: W-what…? [mind=\"Do they seriously want to help me…?\"/]",
-    "translation": "WALLACE: 什、什么……？[mind=\"他们是真的想帮助我吗……?\"/]",
+    "translation": "WALLACE: 什、什么……？[mind=\"他们是真的想帮助我吗……？\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Check_Events_Barracks-199\",\n  \"keywords\": []\n}"
   },
@@ -1493,7 +1493,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-238",
     "original": "No...[p/] Steelwind will probably argue that Wallace used [b]Necrotic Blight[b/].",
-    "translation": "不对……[p/]斯蒂尔文德很可能主张华莱士施放了[b]索命咒[b/]。",
+    "translation": "不对……[p/]斯蒂尔文德很可能主张华莱士施放了[b]索命咒[/b]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce6-238\",\n  \"keywords\": []\n}"
   },
@@ -1507,7 +1507,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-240",
     "original": "Tyrion: [b]Necrotic Blight[/b] is a spell that doesn’t inflict any visible wounds.",
-    "translation": "Tyrion: [b]索命咒[b/]这个法术不会造成任何可见的创伤。",
+    "translation": "Tyrion: [b]索命咒[/b]这个法术不会造成任何可见的创伤。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce7-240\",\n  \"keywords\": []\n}"
   },
@@ -1577,7 +1577,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-250",
     "original": "Tyrion: ...Which can only mean that there's a magical trace on her.",
-    "translation": "Tyrion: ...这只能意味着她身上有法术痕迹。",
+    "translation": "Tyrion: ……这只能意味着她身上有法术痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce7-250\",\n  \"keywords\": []\n}"
   },
@@ -1717,7 +1717,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-291",
     "original": "TYRION: “Entertaining”?",
-    "translation": "TYRION: “有趣”?",
+    "translation": "TYRION: “有趣”？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-291\",\n  \"keywords\": []\n}"
   },
@@ -1731,7 +1731,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-293",
     "original": "CELESTE: You see the odds are stacked against him…",
-    "translation": "CELESTE: 虽然提利昂他胜算不大...",
+    "translation": "CELESTE: 虽然提利昂他胜算不大……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-293\",\n  \"keywords\": []\n}"
   },
@@ -1745,7 +1745,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-295",
     "original": "TYRION: I’ve…[p/] never really thought of it like that…",
-    "translation": "TYRION: 我...[p/] 从没那么想过....",
+    "translation": "TYRION: 我……[p/]从没那么想过……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-295\",\n  \"keywords\": []\n}"
   },
@@ -1794,7 +1794,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-302",
     "original": "ERIS: Don’t you find the experience even the least bit entertaining, {0}?",
-    "translation": "ERIS: 真的没有感到哪怕一丝愉悦吗, {0}?",
+    "translation": "ERIS: 真的没有感到哪怕一丝愉悦吗， {0}？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-302\",\n  \"keywords\": []\n}"
   },
@@ -1829,7 +1829,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-307",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ...哈？",
+    "translation": "Tyrion: ……哈？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-307\",\n  \"keywords\": []\n}"
   },
@@ -1871,7 +1871,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-314",
     "original": "TYRION: ...Yes, actually.[p/] How did you know?",
-    "translation": "TYRION: ...对的，[p/] 你怎么知道我要问什么？",
+    "translation": "TYRION: ……对的，[p/] 你怎么知道我要问什么？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-314\",\n  \"keywords\": []\n}"
   },
@@ -1913,7 +1913,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-320",
     "original": "TYRION: Yeah…[p/] We know that Wallace didn’t animate and disguise the professor’s corpse.",
-    "translation": "TYRION: 对啊...[p/] 华莱士没有复活并伪装教授的尸体。",
+    "translation": "TYRION: 对啊……[p/] 华莱士没有复活并伪装教授的尸体。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-320\",\n  \"keywords\": []\n}"
   },
@@ -1934,7 +1934,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-323",
     "original": "ERIS: For something like that,[p/] one would probably use [b]Major Illusion[/b].",
-    "translation": "ERIS: 要达到那种效果的话，[p/] 大概率会用 [b]高等幻象术[/b].",
+    "translation": "ERIS: 要达到那种效果的话，[p/] 大概率会用 [b]高等幻象术[/b]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-323\",\n  \"keywords\": []\n}"
   },
@@ -1983,7 +1983,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-331",
     "original": "JAN: Bellwether knocked over a vase…[p/] And there were shards and dirt everywhere.",
-    "translation": "JAN: 贝尔维瑟她撞倒了一个花瓶...，[p/]到处都是花瓶碎片和土。",
+    "translation": "JAN: 贝尔维瑟她撞倒了一个花瓶……[p/]到处都是花瓶碎片和土。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-331\",\n  \"keywords\": []\n}"
   },
@@ -2032,7 +2032,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-338",
     "original": "CELESTE: So that means that someone disguised…[p/] [i]something[/i] to make it look like Bellwether.",
-    "translation": "CELESTE: 那也就是说有人假扮...[p/] 让某种东西看起来像贝尔维瑟。",
+    "translation": "CELESTE: 那也就是说有人假扮……[p/]让某种东西看起来像贝尔维瑟。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-338\",\n  \"keywords\": []\n}"
   },
@@ -2088,8 +2088,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-346",
     "original": "TYRION: …Anyways,[p/] this [i]does[/i] tell us one important thing.",
-    "translation": "TYRION: ...不管怎样，[p/]我们确实明白了一件事。",
-    "stage": 1,
+    "translation": "TYRION: ……不管怎样，[p/]我们确实明白了一件事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-346\",\n  \"keywords\": []\n}"
   },
   {
@@ -2109,8 +2109,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-349",
     "original": "TYRION: It wasn’t a freestanding illusion.[p/] It was someone…[p/] or something disguised as Bellwether.",
-    "translation": "TYRION: 那并非是一个独立的幻觉。[p/]一定是某人....[p/]或者说是某物假扮成了贝尔维瑟。",
-    "stage": 1,
+    "translation": "TYRION: 那并非是一个独立的幻觉。[p/]一定是某人……[p/]或者说是某物假扮成了贝尔维瑟。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-349\",\n  \"keywords\": []\n}"
   },
   {
@@ -2123,8 +2123,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-352",
     "original": "ERIS: Hm…[p/] It’s quite a shame, isn’t it?",
-    "translation": "ERIS: 嗯…[p/] 真是遗憾....",
-    "stage": 1,
+    "translation": "ERIS: 嗯……[p/] 真是遗憾，不是吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-352\",\n  \"keywords\": []\n}"
   },
   {
@@ -2151,7 +2151,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-356",
     "original": "TYRION: S-[p/]Sorry for interrupting you…[p/] Was she someone you knew?",
-    "translation": "TYRION: 抱-[p/][s/]抱歉我打扰....[p/] 你认识她吗？",
+    "translation": "TYRION: 抱-[p/][s/]抱歉我打扰……[p/]你认识她吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-356\",\n  \"keywords\": []\n}"
   },
@@ -2200,7 +2200,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-363",
     "original": "CELESTE: Wow…[p/] That must have been an amazing opportunity for them.",
-    "translation": "CELESTE: 哇哦.....[p/] 那对他们来说一定机会难得。",
+    "translation": "CELESTE: 哇哦……[p/]那对他们来说一定机会难得。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-363\",\n  \"keywords\": []\n}"
   },
@@ -2270,7 +2270,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-373",
     "original": "ERIS: Emily’s condition only got worse over the years.[p/] And eventually…[p/] she succumbed to her illness.",
-    "translation": "ERIS: 艾梅莉的身体每况愈下，[p/]最后...她没能挺过去。",
+    "translation": "ERIS: 艾梅莉的身体每况愈下，[p/]最后……她没能挺过去。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-373\",\n  \"keywords\": []\n}"
   },
@@ -2312,7 +2312,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-379",
     "original": "CELESTE: So, that’s why…",
-    "translation": "CELESTE: 原来...是这样...",
+    "translation": "CELESTE: 原来……是这样……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-379\",\n  \"keywords\": []\n}"
   },
@@ -2326,21 +2326,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-381",
     "original": "ERIS: …But I’m sure you know how that turned out.",
-    "translation": "ERIS: …但....保密的结果如何自然也就不用多说了。",
+    "translation": "ERIS: ……但……保密的结果如何自然也就不用多说了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-381\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-382",
     "original": "ERIS: …But I’m sure you know how that turned out.",
-    "translation": "ERIS: …但....保密的结果如何自然也就不用多说了。",
+    "translation": "ERIS: ……但……保密的结果如何自然也就不用多说了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-382\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-383",
     "original": "ERIS: …But I’m sure you know how that turned out.",
-    "translation": "ERIS: …但....保密的结果如何自然也就不用多说了。",
+    "translation": "ERIS: ……但……保密的结果如何自然也就不用多说了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-383\",\n  \"keywords\": []\n}"
   },
@@ -2354,7 +2354,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-387",
     "original": "Tyrion: Thanks...[p/] I think?",
-    "translation": "Tyrion: 你过誉了...",
+    "translation": "Tyrion: 多谢夸奖……[p/]这算夸奖吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-387\",\n  \"keywords\": []\n}"
   },
@@ -2459,7 +2459,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-404",
     "original": "It's strange...[p/] You would have never seen yourself holding such high respect for a noble.",
-    "translation": "真是件怪事....[p/]你自己都没想到自己会对一个贵族有如此高的评价。",
+    "translation": "真是件怪事……[p/]你自己都没想到自己会对一个贵族有如此高的评价。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-404\",\n  \"keywords\": []\n}"
   },
@@ -2480,7 +2480,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-408",
     "original": "Tyrion: We know that Wallace was accepted through Redmond's program...",
-    "translation": "Tyrion: 既然华莱士是通过雷德蒙的项目入学的....",
+    "translation": "Tyrion: 既然华莱士是通过雷德蒙的项目入学的……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-408\",\n  \"keywords\": []\n}"
   },
@@ -2494,14 +2494,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-410",
     "original": "Eris: Are you trying to ask me if I'm a noble?",
-    "translation": "Eris: 想问我是不是贵族...是吗？",
+    "translation": "Eris: 想问我是不是贵族……是吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-410\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-411",
     "original": "Tyrion: S-[p/]Sorry, I didn't mean-",
-    "translation": "Tyrion: 抱-[p/]抱歉，我没那个意...",
+    "translation": "Tyrion: 抱-[p/]抱歉，我没那个意……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-411\",\n  \"keywords\": []\n}"
   },
@@ -2564,7 +2564,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-421",
     "original": "Tyrion: T-[p/]That's extremely blunt,[p/] Eris...",
-    "translation": "Tyrion: 这-[p/]再怎么说也有点太过分了...[p/]厄莉斯...",
+    "translation": "Tyrion: 这-[p/]再怎么说也有点太过分了……[p/]厄莉斯……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-421\",\n  \"keywords\": []\n}"
   },
@@ -2627,7 +2627,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-431",
     "original": "Eris: And he could even raise them as undead using [b]Animate Corpse[/b].",
-    "translation": "Eris: 在这之后还能用[b活化死尸[/b]把这些尸体变成他的忠诚手下。",
+    "translation": "Eris: 在这之后还能用[b]活化死尸[/b]把这些尸体变成他的忠诚手下。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-431\",\n  \"keywords\": []\n}"
   },
@@ -2718,7 +2718,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-445",
     "original": "Eris: But teaching one of them [b]necromancy[/b]...",
-    "translation": "Eris: 更别说传授[b]死灵术[/b]这种禁术了...",
+    "translation": "Eris: 更别说传授[b]死灵术[/b]这种禁术了……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Present_Cemetery-445\",\n  \"keywords\": []\n}"
   },
@@ -2767,14 +2767,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-454",
     "original": "CELESTE: Tyrion…?[p/] What are we doing here?",
-    "translation": "CELESTE: 提利昂...？[p/]我们来这干嘛？",
+    "translation": "CELESTE: 提利昂……？[p/]我们来这干嘛？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-455",
     "original": "TYRION: I’m…[p/] not sure.",
-    "translation": "TYRION: 我...[p/]我也不太清楚..",
+    "translation": "TYRION: 我……[p/]我也不太清楚……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-455\",\n  \"keywords\": []\n}"
   },
@@ -2788,7 +2788,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-457",
     "original": "CELESTE: Wait…[p/][s/] Is that Eris?!",
-    "translation": "CELESTE: 等下....[p/][s/]那是厄莉斯吧？！",
+    "translation": "CELESTE: 等下……[p/][s/]那是厄莉斯吧？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-457\",\n  \"keywords\": []\n}"
   },
@@ -2816,14 +2816,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-461",
     "original": "CELESTE: Well…[p/] We found her.",
-    "translation": "CELESTE: 总之....[p/] 我们找到她了。",
+    "translation": "CELESTE: 总之……[p/] 我们找到她了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-461\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-462",
     "original": "TYRION: We…[p/] should probably talk to her later.",
-    "translation": "TYRION: 我们还是....[p/] 待会再打扰她比较好。",
+    "translation": "TYRION: 我们还是……[p/] 待会再打扰她比较好。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-462\",\n  \"keywords\": []\n}"
   },
@@ -2858,14 +2858,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-467",
     "original": "TYRION: S-[p/]Sorry.[p/] We [i]were[/i] looking for you…",
-    "translation": "TYRION: 抱-[p/]抱歉[p/] 我们确实在找你...",
+    "translation": "TYRION: 抱-[p/]抱歉[p/]我们确实在找你……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-468",
     "original": "TYRION: But we understand if you’d rather talk later...",
-    "translation": "TYRION: 我们能理解你需要些时间...",
+    "translation": "TYRION: 我们能理解你需要些时间……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-468\",\n  \"keywords\": []\n}"
   },
@@ -2886,7 +2886,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-471",
     "original": "TYRION: Well…[p/] We wanted to ask you some questions about the case.",
-    "translation": "TYRION: 是的...[p/] 我们想问你一些关于此案的细节。",
+    "translation": "TYRION: 是的……[p/] 我们想问你一些关于此案的细节。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Check_Events_Cemetery-471\",\n  \"keywords\": []\n}"
   },
@@ -2914,14 +2914,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-475",
     "original": "TYRION: Okay…[p/] What is it?",
-    "translation": "TYRION: 好...[p/]你新学到了什么呢？",
+    "translation": "TYRION: 好……[p/]你新学到了什么呢？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-476",
     "original": "CELESTE: ...[i]REPERIO…[p/][s/] ARCANUM[i]!",
-    "translation": "CELESTE: ...[i]REPERIO…[p/][s/] ARCANUM[i]！",
+    "translation": "CELESTE: ……[i]REPERIO…[p/][s/] ARCANUM[i]！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-476\",\n  \"keywords\": []\n}"
   },
@@ -2942,14 +2942,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-479",
     "original": "CELESTE: [i]That[/i] is the incantation for the [b]Detect Magic[/b] spell.",
-    "translation": "CELESTE: 那是[b]法术探测/b]的咒语。",
+    "translation": "CELESTE: 那是[b]法术探测[/b]的咒语。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-479\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-480",
     "original": "TYRION: [b]Detect Magic[/b]...?[p/] Wait…[p/][s/] Does that mean-?!",
-    "translation": "TYRION:  [b]法术探测[/b]...？[p/] 等下....[p/][s/]你该不会...？！",
+    "translation": "TYRION:  [b]法术探测[/b]……？[p/] 等下……[p/][s/]你该不会……？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-480\",\n  \"keywords\": []\n}"
   },
@@ -3012,7 +3012,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-491",
     "original": "CELESTE: I can’t believe the professor is dead…",
-    "translation": "CELESTE: 我还是接受不了教授已经死了的事实....",
+    "translation": "CELESTE: 我还是接受不了教授已经死了的事实……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-491\",\n  \"keywords\": []\n}"
   },
@@ -3054,7 +3054,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-497",
     "original": "TYRION: There’s a lot of blood in this puddle…[p/] but there’s no trail leading to it.",
-    "translation": "TYRION: 这个坑里有很多血...[p/] 但没有指向那的痕迹。",
+    "translation": "TYRION: 这个坑里有很多血……[p/] 但没有指向那的痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-497\",\n  \"keywords\": []\n}"
   },
@@ -3082,7 +3082,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-501",
     "original": "TYRION: Maybe…[p/] But it’s hard to say for certain.",
-    "translation": "TYRION: 可能是...[p/]很难确定。",
+    "translation": "TYRION: 可能是……[p/]很难确定。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-501\",\n  \"keywords\": []\n}"
   },
@@ -3117,7 +3117,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-507",
     "original": "Celeste: Ugh...[p/] I just can't spend hours sitting in one place.",
-    "translation": "Celeste: 呃啊...[p/]我只是坐不住而已。",
+    "translation": "Celeste: 呃啊……[p/]我只是坐不住而已。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-507\",\n  \"keywords\": []\n}"
   },
@@ -3138,21 +3138,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-510",
     "original": "Aria: ...How have you learned so many spells if you're so distractible?",
-    "translation": "Aria: ...既然你这么容易分心，那你是怎么学会这么多法术的？",
+    "translation": "Aria: ……既然你这么容易分心，那你是怎么学会这么多法术的？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-510\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-511",
     "original": "Celeste: I don't know.[p/] I just learn the spell formula and...[p/] cast stuff.",
-    "translation": "Celeste: 我自己也不太清楚。[p/] 我就记住了公式然后就...能施法。",
+    "translation": "Celeste: 我自己也不太清楚。[p/] 我就记住了公式然后就……能施法。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-511\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-512",
     "original": "Aria: I...[p/] see.",
-    "translation": "Aria: 行....[p/]吧。",
+    "translation": "Aria: 行……[p/]吧。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-512\",\n  \"keywords\": []\n}"
   },
@@ -3222,8 +3222,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-524",
     "original": "Celeste: Aw...[p/] Lame.",
-    "translation": "Celeste: 啊呜...[p/]",
-    "stage": 1,
+    "translation": "Celeste: 啊呜……[p/]",
+    "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-524\",\n  \"keywords\": []\n}"
   },
   {
@@ -3236,7 +3236,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-527",
     "original": "Celeste: Ugh...[p/] I can't imagine sitting in one place all day.",
-    "translation": "Celeste: 唔....[p/] 我可受不了在这坐一整天。",
+    "translation": "Celeste: 唔……[p/]我可受不了在这坐一整天。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-527\",\n  \"keywords\": []\n}"
   },
@@ -3271,7 +3271,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-532",
     "original": "Tyrion: ...I used to attend a public school in my hometown.",
-    "translation": "Tyrion: ...我在家乡那边上过公立学校。",
+    "translation": "Tyrion: ……我在家乡那边上过公立学校。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-532\",\n  \"keywords\": []\n}"
   },
@@ -3306,7 +3306,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-538",
     "original": "CELESTE: ...What?!",
-    "translation": "CELESTE: ...什么？！",
+    "translation": "CELESTE: ……什么？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-538\",\n  \"keywords\": []\n}"
   },
@@ -3432,14 +3432,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-556",
     "original": "ARIA: So…[p/] I’m here to make sure that nothing…[p/] [i]unholy[/i] happens to the body.",
-    "translation": "ARIA: 所以说....[p/]我得在这守着确保不会有什么....[p/]危险的事发生。",
+    "translation": "ARIA: 所以说……[p/]我得在这守着确保不会有什么……[p/]危险的事发生。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-557",
     "original": "You can’t believe it…[p/] You’ve heard stories of necromancers before.",
-    "translation": "难以置信....[p/] 你曾听说过一些关于死灵术士的故事。",
+    "translation": "难以置信……[p/]你曾听说过一些关于死灵术士的故事。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-557\",\n  \"keywords\": []\n}"
   },
@@ -3488,7 +3488,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-564",
     "original": "Celeste: I can see why...",
-    "translation": "Celeste: 我可能知道为什么...",
+    "translation": "Celeste: 我可能知道为什么……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-564\",\n  \"keywords\": []\n}"
   },
@@ -3516,21 +3516,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-568",
     "original": "Normally,[p/] you can only see thoughts from people who are stressed or excited…",
-    "translation": "通常来说，[p/]人会在疲惫或兴奋的状态下流露出内心的想法...",
+    "translation": "通常来说，[p/]人会在疲惫或兴奋的状态下流露出内心的想法……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-569",
     "original": "You doubt that Ms. Steelwind is excited…[p/] So, is something causing her to be stressed?",
-    "translation": "她是不是很兴奋....[p/] 还是说有什么事导致她很疲惫？",
+    "translation": "她是不是很兴奋……[p/]还是说有什么事导致她很疲惫？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-570",
     "original": "TYRION: ...Is there something you’re not telling us, Steelwind?",
-    "translation": "TYRION: 斯蒂尔文德...你还知道些什么别的吗？",
+    "translation": "TYRION: 斯蒂尔文德……你还知道些什么别的吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-570\",\n  \"keywords\": []\n}"
   },
@@ -3579,7 +3579,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-577",
     "original": "But she's clearly hiding something.",
-    "translation": "但她一定有什么没说...",
+    "translation": "但她一定有什么没说……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-577\",\n  \"keywords\": []\n}"
   },
@@ -3600,7 +3600,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-582",
     "original": "TYRION: H-[p/][s/]Hey![p/][s/] Isn’t that too personal of a question?!",
-    "translation": "TYRION: 欸、[p/][s/]喂！[p/][s/]这问的再怎么说也太....",
+    "translation": "TYRION: 欸、[p/][s/]喂！[p/][s/]这问的再怎么说也太……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-582\",\n  \"keywords\": []\n}"
   },
@@ -3614,7 +3614,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-584",
     "original": "TYRION: B-[p/][s/]But,[p/] I didn’t think you meant-",
-    "translation": "TYRION: 话-[p/][s/]话是这么说，[p/]但是我没想到你..",
+    "translation": "TYRION: 话-[p/][s/]话是这么说，[p/]但是我没想到你-",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-584\",\n  \"keywords\": []\n}"
   },
@@ -5077,7 +5077,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-802",
     "original": "Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
-    "translation": "Orym: 当我们终于能进入大楼时，[p/]检察官本人检查了尸体并探测到上面有[b]死灵术/b]的魔法痕迹。",
+    "translation": "Orym: 当我们终于能进入大楼时，[p/]检察官亲自检查了尸体并探测到上面有[b]死灵术[/b]的魔法痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Courtroom1_3-802\",\n  \"keywords\": []\n}"
   },
@@ -10733,7 +10733,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1655",
     "original": ":Right…[p/] The body was discovered at 3:04 PM.",
-    "translation": ":没错...[p/] 尸体被发现的时间是在下午3:04。",
+    "translation": ":没错...[p/] 尸体被发现的时间是在下午 3:04。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Jan-1655\",\n  \"keywords\": []\n}"
   },
@@ -14401,7 +14401,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2236",
     "original": "Theodore: Plant the body in Lecture Hall 2-B.",
-    "translation": "Theodore: 把尸体放到2-B教室里。",
+    "translation": "Theodore: 把尸体放到 2-B 教室里。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoEye-2236\",\n  \"keywords\": []\n}"
   },
@@ -14919,7 +14919,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2315",
     "original": "Arcane: COMMAND 5:[p/] MOVE TO CLASSROOM 2-B. REPLY TO ANY INQUIRIES WITH VOICE LINE #3",
-    "translation": "Arcane: <size=1.5em>命令5:[p/]移动至2-B教室，过程中使用预设声音#3回复一切询问。</size>",
+    "translation": "Arcane: <size=1.5em>命令5:[p/]移动至 2-B 教室，过程中使用预设声音#3回复一切询问。</size>",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_8-2315\",\n  \"keywords\": []\n}"
   },
@@ -18727,7 +18727,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2890",
     "original": "Tyrion: Ms. Tymora said that the body was found in Lecture Hall 2-B.",
-    "translation": "Tyrion: 泰摩拉女士说了，尸体是在教室2-B被找到的。",
+    "translation": "Tyrion: 泰摩拉女士说了，尸体是在教室 2-B 被找到的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Talk_Foyer1-2890\",\n  \"keywords\": []\n}"
   },
@@ -19287,7 +19287,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2983",
     "original": "CELESTE: Ruby said that the body was found in Lecture Hall 2-B.",
-    "translation": "CELESTE: 鲁比说过尸体是在教室2-B被找到的。",
+    "translation": "CELESTE: 鲁比说过尸体是在教室 2-B 被找到的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Check_Events_Foyer1-2983\",\n  \"keywords\": []\n}"
   },
@@ -19567,7 +19567,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3028",
     "original": "Tyrion: The door says that it's Lecture Hall 2-B.",
-    "translation": "Tyrion: 门上写着教室2-B。",
+    "translation": "Tyrion: 门上写着教室 2-B。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Examine_Hallway-3028\",\n  \"keywords\": []\n}"
   },
@@ -19672,7 +19672,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3049",
     "original": "TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.",
-    "translation": "TYRION: 瓦莱丽提到她们找到贝尔维瑟之前你就在2-B教室附近。",
+    "translation": "TYRION: 瓦莱丽提到她们找到贝尔维瑟之前你就在 2-B 教室附近。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3049\",\n  \"keywords\": []\n}"
   },
@@ -19826,7 +19826,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3071",
     "original": "Jan: Not really...[p/] But the only thing in that direction is Lecture Hall 2-B.",
-    "translation": "Jan: 不太清楚……[p/]但是那个方向只有2-B教室。",
+    "translation": "Jan: 不太清楚……[p/]但是那个方向只有 2-B 教室。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3071\",\n  \"keywords\": []\n}"
   },
@@ -20078,7 +20078,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3112",
     "original": "Tyrion: Are you aware of the foul smell in Lecture Hall 2-B?",
-    "translation": "Tyrion: 你有注意到2-B教室里恶臭味吗？",
+    "translation": "Tyrion: 你有注意到 2-B 教室里恶臭味吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3112\",\n  \"keywords\": []\n}"
   },
@@ -22472,7 +22472,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3486",
     "original": "Tyrion: Steelwind told us that you had a bit of a mishap in Lecture Hall 2-B.",
-    "translation": "Tyrion: 斯蒂尔文德告诉我们您曾在2-B教室出了一个小事故。",
+    "translation": "Tyrion: 斯蒂尔文德告诉我们您曾在 2-B 教室出了一个小事故。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3486\",\n  \"keywords\": []\n}"
   },
@@ -27981,7 +27981,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4319",
     "original": "Tyrion: And [i]this[/i] proves it!",
-    "translation": "Tyrion: <u>这<u>就是证据！",
+    "translation": "Tyrion: <u>这</u>就是证据！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument6-4319\",\n  \"keywords\": []\n}"
   },
@@ -28100,7 +28100,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4337",
     "original": "Celeste: I guess that makes sense.",
-    "translation": "CELESTE: 确实有道理。",
+    "translation": "Celeste: 确实有道理。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4337\",\n  \"keywords\": []\n}"
   },
@@ -31649,7 +31649,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4895",
     "original": "TYRION: And she’s worked with the Inquisition on plenty of cases that we weren’t even involved in.",
-    "translation": "TYRION:她跟裁判所合作解决过不知多少起案子了。那些案子我们甚至都没参与过。",
+    "translation": "TYRION: 她跟裁判所合作解决过不知多少起案子了。那些案子我们甚至都没参与过。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce5-4895\",\n  \"keywords\": []\n}"
   },

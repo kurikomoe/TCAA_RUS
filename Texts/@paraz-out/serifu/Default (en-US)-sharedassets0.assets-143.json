@@ -240,7 +240,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-46",
     "original": "Wait...[p/] He was heading to the [i]Prayer Room[/i]?",
-    "translation": "等等……[p/] 他当时要去[i]祷告室[/i]?",
+    "translation": "等等……[p/]他当时要去<u>祷告室</u>？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-46\",\n  \"keywords\": []\n}"
   },
@@ -422,7 +422,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-73",
     "original": "Tyrion: Wait,[p/][s/] [i]Steelwind[/i] was there too?!",
-    "translation": "Tyrion: 等等，[p/][s/] [i]斯蒂尔文德[/i]也在?!",
+    "translation": "Tyrion: 等等，[p/][s/]<u>斯蒂尔文德</u>也在？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-73\",\n  \"keywords\": []\n}"
   },
@@ -534,7 +534,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-90",
     "original": "...That does sound [i]awfully[/i] convenient.[p/] But you doubt that he'd lie about something you could so easily verify.",
-    "translation": "...听起来可有点[i]过于[/i]方便了。[p/]但这么容易验证的事情上他不太可能撒谎。",
+    "translation": "……听起来可有点<u>过于</u>方便了。[p/]但这么容易验证的事情上他不太可能撒谎。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-90\",\n  \"keywords\": []\n}"
   },
@@ -877,7 +877,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-151",
     "original": "Theon: Oh...[p/] Hello, there.",
-    "translation": "Theon: 噢...[p/]你好。",
+    "translation": "Theon: 噢……[p/]你好。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-151\",\n  \"keywords\": []\n}"
   },
@@ -2501,7 +2501,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-430",
     "original": "Celeste: ...What?",
-    "translation": "Celeste: ……什么?",
+    "translation": "Celeste: ……什么？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-430\",\n  \"keywords\": []\n}"
   },
@@ -2956,7 +2956,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-498",
     "original": "Lucio: Her \"[i]own[/i] path\"?",
-    "translation": "Lucio: 她\"[i]自己的[/i]路\"？",
+    "translation": "Lucio: 她“<u>自己的</u>路”？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-498\",\n  \"keywords\": []\n}"
   },
@@ -6330,7 +6330,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1029",
     "original": "Orym: Hmph...[p/] You and me both.",
-    "translation": "Orym: Hmph...[p/]同感同感。",
+    "translation": "Orym: 嗯……[p/]同感同感。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1029\",\n  \"keywords\": []\n}"
   },
@@ -13113,7 +13113,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2058",
     "original": "Lucio: [b]Force Cage[/b] is one of the most powerful [b]abjuration[b/] spells in existence.",
-    "translation": "Lucio: [b]坚牢术[/b]是现有最强的[b]防护[b/]法术之一。",
+    "translation": "Lucio: [b]坚牢术[/b]是现有最强的[b]防护[/b]法术之一。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-OrymObj3-2058\",\n  \"keywords\": []\n}"
   },
@@ -14604,7 +14604,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2291",
     "original": ":The High Speaker testified that he saw Aria dumping the body before 2:15 PM.",
-    "translation": "大主教说他看见阿莉亚弃尸是在下午 2:15 [i]之前[/i]。",
+    "translation": ":大主教说他看见阿莉亚弃尸是在下午 2:15 [i]之前[/i]。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2291\",\n  \"keywords\": []\n}"
   },
@@ -14618,14 +14618,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2293",
     "original": ":No...[p/] Celeste began fighting Aria at 2:20 PM.",
-    "translation": "不对……[p/]塞莱斯特和阿莉亚开始对战是在下午 2:20。",
+    "translation": ":不对……[p/]塞莱斯特和阿莉亚开始对战是在下午 2:20。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2294",
     "original": ":If the High Speaker saw her dumping Sibyl at 2:18 PM,[p/] he would have been close enough to hear the fight break out.",
-    "translation": "如果大主教目击弃尸是在下午 2:18，[p/]肯定也能听到争斗的声音。",
+    "translation": ":如果大主教目击弃尸是在下午 2:18，[p/]肯定也能听到争斗的声音。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2294\",\n  \"keywords\": []\n}"
   },
@@ -15059,7 +15059,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2369",
     "original": "Tyrion: Her [b]Stone Skin[b/] lessened the impact of the fall.[p/] But it also made her drop like a literal rock.",
-    "translation": "Tyrion: 她的[b]岩石护甲[b/]减缓了坠落冲击。[p/]但这也让她像岩石那样在湖中下沉。",
+    "translation": "Tyrion: 她的[b]岩石护甲[/b]减缓了坠落冲击。[p/]但这也让她像岩石那样在湖中下沉。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj14-2369\",\n  \"keywords\": []\n}"
   },
@@ -20162,7 +20162,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3128",
     "original": ":That's how she was able to knock you and Pierce out with a [b]Sleep[/b] spell at 2:30 PM.",
-    "translation": "还在下午 2:30 用[b]睡眠术[/b]放倒了你和皮尔斯。",
+    "translation": ":还在下午 2:30 用[b]睡眠术[/b]放倒了你和皮尔斯。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj9-3128\",\n  \"keywords\": []\n}"
   },
@@ -24292,7 +24292,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3755",
     "original": "Even if it's against you,[p/] he raised a lot of good points.",
-    "translation": "即使对你不利，[p/]他的话也没什么问题.",
+    "translation": "即使对你不利，[p/]他的话也没什么问题。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj8-3755\",\n  \"keywords\": []\n}"
   },
@@ -30179,7 +30179,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4602",
     "original": "Celeste: ...Mom!",
-    "translation": "Celeste: .……妈！",
+    "translation": "Celeste: ……妈！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Credits.yarn-Credits6-4602\",\n  \"keywords\": []\n}"
   },
@@ -33231,7 +33231,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5064",
     "original": "Tyrion: ...I think we've known each other long enough.",
-    "translation": "Tyrion: .……我们认识彼此挺久了吧。",
+    "translation": "Tyrion: ……我们认识彼此挺久了吧。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5064\",\n  \"keywords\": []\n}"
   },
@@ -34722,7 +34722,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5277",
     "original": ":Is there something else that proves Laefe didn't begin her search until 2:00 PM?",
-    "translation": "有没有什么拉菲下午 2:00 之前都没有开始搜索的证据？",
+    "translation": ":有没有什么拉菲下午 2:00 之前都没有开始搜索的证据？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered4-5277\",\n  \"keywords\": []\n}"
   },
@@ -36164,14 +36164,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5486",
     "original": ":When she gave her testimony,[p/] Celeste said that Eris and Beatrice entered the Prayer Room at 1:40 PM.",
-    "translation": "在她给出证言时，塞莱斯特说厄莉斯和比亚特丽丝是下午 1:40 进入祷告室。",
+    "translation": ":在她给出证言时，塞莱斯特说厄莉斯和比亚特丽丝是下午 1:40 进入祷告室。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered-5486\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5487",
     "original": ":But from the AXIOM you declared,[p/] you know Beatrice didn't disappear until 2:00PM.",
-    "translation": "但根据你刚刚陈述的<size=1.5em>公理</size>，[p/]比亚特丽丝下午 2:00 之前没有失踪。",
+    "translation": ":但根据你刚刚陈述的<size=1.5em>公理</size>，[p/]比亚特丽丝下午 2:00 之前没有失踪。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered-5487\",\n  \"keywords\": []\n}"
   },
@@ -36290,7 +36290,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5508",
     "original": ":No...[p/] Eris [i]wanted[/i] you to believe that Celeste signed the Contract with her at 1:40 PM.",
-    "translation": "不对……[p/]厄莉斯<u>想要</u>你相信，塞莱斯特与她签约是在下午 1:40。",
+    "translation": ":不对……[p/]厄莉斯<u>想要</u>你相信，塞莱斯特与她签约是在下午 1:40。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered4-5508\",\n  \"keywords\": []\n}"
   },
@@ -36304,7 +36304,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5510",
     "original": ":But you now know that Eris used Beatrice to attack the Prayer Room [i]no later[/i] than 2:00 PM.",
-    "translation": "但你现在知道，厄莉斯操控比亚特丽丝攻击祷告室的时间<u>不晚于</u>下午 2:00。",
+    "translation": ":但你现在知道，厄莉斯操控比亚特丽丝攻击祷告室的时间<u>不晚于</u>下午 2:00。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered4-5510\",\n  \"keywords\": []\n}"
   },
@@ -42065,7 +42065,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6382",
     "original": "Tyrion: ...I don't feel safe here.",
-    "translation": "Tyrion: .……我觉得这里不安全。",
+    "translation": "Tyrion: ……我觉得这里不安全。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6382\",\n  \"keywords\": []\n}"
   },
@@ -45089,7 +45089,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6851",
     "original": ":You regained consciousness at 3:12 PM.[p/] That means that you were knocked out for more than forty minutes.",
-    "translation": "你下午 3:12 恢复了意识。[p/]也就是说你昏迷了超过 40 分钟。",
+    "translation": ":你下午 3:12 恢复了意识。[p/]也就是说你昏迷了超过 40 分钟。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6851\",\n  \"keywords\": []\n}"
   },
@@ -46608,7 +46608,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7082",
     "original": ":It's 3:12 PM.",
-    "translation": "下午 3:12。",
+    "translation": ":下午 3:12。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder4-7082\",\n  \"keywords\": []\n}"
   },
@@ -51760,7 +51760,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7865",
     "original": "Celeste: And it'll be worth it if we can finally get the answers I'm looking for.",
-    "translation": "Celeste:如果能获得我们想要的答案，这么做也值得。",
+    "translation": "Celeste: 如果能获得我们想要的答案，这么做也值得。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-LetterGet4-7865\",\n  \"keywords\": []\n}"
   },
