@@ -27526,50 +27526,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4250",
     "original": "Valentina: L-[p/]Look...[p/]I [i]really[/i] don't know what you're talking about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 听、[p/]听着……[p/]我<u>确实</u>不明白你们在说什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValArgument_Fail-4250\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4251",
     "original": "Valentina: I didn't see anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我什么都没看到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValArgument_Fail-4251\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4252",
     "original": "You'll have to do a better job ARGUING against her point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你需要努力与她<size=1.5em>辩论</size>，让她改变观点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValArgument_Fail-4252\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4253",
     "original": "OK",
-    "translation": "",
-    "stage": 0,
+    "translation": "OK",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValArgument_Fail-4253\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4254",
     "original": "Valentina clearly knows more than she's letting on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "瓦伦蒂娜显然有所隐瞒。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4254\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4255",
     "original": "She found the body alongside her sister,[p/] and reacted strangely when you mentioned someone may have used magic on the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她和妹妹一起发现了尸体，[p/]而且在你提起可能有人对尸体用过魔法之后，表现得很反常。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4255\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4256",
     "original": "What is she hiding?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她在隐瞒什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4256\",\n  \"keywords\": []\n}"
   },
   {
