@@ -2,7 +2,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1",
     "original": "There's only one locked door that leads into the cell.",
-    "translation": "仅有一扇门通向牢房",
+    "translation": "仅有一扇门通向牢房。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-1\",\n  \"keywords\": []\n}"
   },
@@ -79,7 +79,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-16",
     "original": "WALLACE: Y-[p/][s/]You told the Inquisition, right?!",
-    "translation": "WALLACE: 你-[p/][s/]你和裁判所的人说了对不对？！",
+    "translation": "WALLACE: 你、[p/][s/]你和裁判所的人说了对不对？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-16\",\n  \"keywords\": []\n}"
   },
@@ -93,7 +93,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-18",
     "original": "TYRION: W-[p/]We did.[p/] But as we said before,[p/] there are traces of [b]necromancy[/b] on the body.",
-    "translation": "TYRION: 我-[p/]我们替你辩解了，[p/] 我们之前也谈到过，[p/] 尸体上有[b]死灵术[/b]的痕迹",
+    "translation": "TYRION: 我、[p/]我们替你辩解了，[p/]我们之前也谈到过，[p/]尸体上有[b]死灵术[/b]的痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-18\",\n  \"keywords\": []\n}"
   },
@@ -6947,7 +6947,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-1093",
     "original": "TYRION: T-[p/][s/]There’s one key element of her testimony that the court is overlooking!",
     "translation": "TYRION: 她、[p/][s/]她的证词里还有一个关键点是在之前的庭审里忽略了的！",
-    "stage": 3,
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-ValObj_3-1093\",\n  \"keywords\": []\n}"
   },
   {
@@ -25272,7 +25272,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3902",
     "original": "TYRION: I-[p/][s/]I’ve been looking all over for you!",
-    "translation": "TYRION: 我、[p/][s/]我到处在找你！",
+    "translation": "TYRION: 我、[p/][s/]我在到处找你！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-MurderReveal_2-3902\",\n  \"keywords\": []\n}"
   },
@@ -26476,7 +26476,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4093",
     "original": "Valentina: A-[p/]Ah,[p/][s/] she's even scarier than that necromancer!",
-    "translation": "Valentina: 啊-[p/]啊，[p/][s/]她比那死灵法师小子更吓人！",
+    "translation": "Valentina: 啊、[p/]啊，[p/][s/]她比那死灵法师小子更吓人！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4093\",\n  \"keywords\": []\n}"
   },
@@ -27589,239 +27589,239 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4259",
     "original": "TYRION: Ms. Ianus.[p/] From the very beginning,[p/] I’ve felt like you’ve been hiding something from us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 伊努斯小姐。[p/]从最开始，[p/]我就感觉你对我们隐瞒了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4259\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4260",
     "original": "TYRION: There's something that you’re not telling us about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你有什么事没告诉我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4260\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4261",
     "original": "VALENTINA: W-[p/][s/]What are you talking about?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 你-[p/][s/]你在瞎说什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4261\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4262",
     "original": "VALENTINA: I’ve told you and the knights everything I know.[p/][s/] I’ve got nothing to hide!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我已经把我知道都都告诉你和那些骑士了。[p/][s/]我没有隐瞒任何事！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument-4262\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4264",
     "original": "Tyrion: Ms. Ianus,[p/] it’s clear to anyone how nervous you are.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 瓦伦蒂娜女士，[p/]你也太紧张了，大家一眼就能看出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4264\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4265",
     "original": "Tyrion: I can practically [i]see[/i] the fear you’re emanating right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我几乎都能<u>看</u>到你那快溢出来的恐惧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4265\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4266",
     "original": "Valentina: U-[p/][s/]Um…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 唔-[p/][s/]唔……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4266\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4268",
     "original": "TYRION: Ms. Ianus.[p/][s/] What you’re saying and what you’re thinking are clearly different!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 伊努斯女士。[p/][s/]你的陈述与你心里想的截然不同！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4268\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4269",
     "original": "VALENTINA: What…[p/] does that even mean?",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 什……[p/]你什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4270",
     "original": "TYRION: …O[p/][s/]-Oh,[p/][s/] w-[p/][s/]well-",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……啊[p/][s/]-哦，[p/][s/] 呃-[p/][s/]诶-",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4271",
     "original": "VALENTINA: I don’t really know what you’re talking about,[p/] b-[p/][s/]but I’m telling the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我不知道你在说什么，[p/]但-[p/][s/]但我所说的都是实话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4271\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4272",
     "original": "Use the Eye and look at her thoughts and emotions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "用荷鲁斯之眼观察她的思绪与情绪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4273",
     "original": "Find out which one is inconsistent with the claim and choose the correct approach.",
-    "translation": "",
-    "stage": 0,
+    "translation": "找出与声明失调的部分并选择正确的方式。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4273\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4274",
     "original": ">",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument2-4274\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4275",
     "original": "TYRION: Just tell us the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 请说实话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument3-4275\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4276",
     "original": "TYRION: It’ll be a lot easier…[p/] for the both of us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这样会很好办……[p/]对于我们彼此都是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument3-4276\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4277",
     "original": "VALENTINA: Let’s say I [i]were[/i] hiding something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 那就假设我在隐瞒什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument3-4277\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4278",
     "original": "VALENTINA: Which I’m [i]not[/i],[p/][s/] by the way!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 顺便强调一下我<u>没有</u>隐瞒任何事！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument3-4278\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4279",
     "original": "VALENTINA: Why should I tell you anything?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我为什么要告诉你任何事？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument3-4279\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4280",
     "original": "VALENTINA: I know my rights!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我很清楚我自己的权利！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument3-4280\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4281",
     "original": "Threaten [d=\"You’ve already given your statement to the Inquisition. If the truth comes out, what do you think they’ll do when they realize you lied to them?\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Threaten [d=\"你已经向裁判所提供了证言。如果真相与你所述的不同，你觉得裁判所会怎么处置说谎话的你？\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4281\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4282",
     "original": "TYRION: You’ve already given your statement to the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你已经向裁判所提供了证言。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4282\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4283",
     "original": "TYRION: If the truth comes out,[p/] what do you think they’ll do when they realize you lied to them?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果真相与你所述的不同，[p/] 你觉得裁判所会怎么处置说谎话的你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4283\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4284",
     "original": "VALENTINA: …!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4284\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4285",
     "original": "Appeal [d=\"My client is innocent. By withholding your testimony, you’re condemning him to a wrongful conviction.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Appeal [d=\"我的委托人是无辜的。基于你现有的证言，你这是在宣判他有罪。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4285\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4286",
     "original": "TYRION: My client is innocent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我的委托人是无辜的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4287",
     "original": "TYRION: By withholding your testimony,[p/] you’re condemning him to a wrongful conviction.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 基于你现有的证言，[p/]你这是在宣判他有罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4287\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4288",
     "original": "VALENTINA: Y-[p/][s/]Yeah![p/][s/] So, what?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 对-[p/][s/]对啊！[p/][s/]那又怎样？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4288\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4289",
     "original": "VALENTINA: Why should I care about what happens to that necromancer?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 为什么我要关心那个死灵法师的下场？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4290",
     "original": "She clearly doesn't empathize with Wallace's situation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她显然并不对华莱士的处境感到同情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4290\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4291",
     "original": ">",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4292",
     "original": "Rationalize [d=\"You have nothing to lose by telling us what happened. I know that you’re not the murderer. I’ll make sure you’re protected.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rationalize [d=\"告诉我们真相不会害了你。我知道你不是凶手，我会保证你的安全。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4292\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4293",
     "original": "TYRION: You have nothing to lose by telling us what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 告诉我们真相不会害了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4294",
     "original": "TYRION: I know that you’re not the murderer.[p/] And I’ll make sure that you’re protected.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我知道你不是凶手，[p/]而且我会保证你的安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4294\",\n  \"keywords\": []\n}"
   },
   {
@@ -27849,7 +27849,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4298",
     "original": ">",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument4-4298\",\n  \"keywords\": []\n}"
   },
   {
@@ -28017,7 +28017,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4324",
     "original": ">",
     "translation": "",
-    "stage": 0,
+    "stage": -1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Val_Argument6-4324\",\n  \"keywords\": []\n}"
   },
   {
