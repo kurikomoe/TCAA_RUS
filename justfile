@@ -69,12 +69,18 @@ import:
     python3 ../third/il2cpp-stringliteral-patcher/patch.py \
         -i @old/metadata/global-metadata.dat \
         -p @dist/global-metadata.patch.json \
-        -o @dist/il2cpp_data/Metadata/global-metadata.dat.stage1
+        -o @dist/global-metadata.dat.stage1
 
     python3 ../scripts/patchMetaData.py \
         -t @dist/global-metadata.name.json \
-        -i @dist/il2cpp_data/Metadata/global-metadata.dat.stage1 \
-        -o @dist/il2cpp_data/Metadata/global-metadata.dat
+        -i @dist/global-metadata.dat.stage1 \
+        -o @dist/il2cpp_data/Metadata/global-metadata.dat.chs
+
+    # cleanup
+    rm -rf \
+        @dist/global-metadata.name.json \
+        @dist/global-metadata.patch.json \
+        @dist/global-metadata.dat.stage1
 
 sync:
     python3 ./scripts/downParatranz.py

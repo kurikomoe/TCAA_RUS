@@ -4,6 +4,7 @@
 #include <iostream>
 #include <windows.h>
 
+#include "version_check.h"
 #include "payload.h"
 #include "version.h"
 
@@ -14,6 +15,7 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call,
                       LPVOID lpReserved) {
   switch (ul_reason_for_call) {
   case DLL_PROCESS_ATTACH:
+
     if (!Initialized.test_and_set()) {
       version.dll = LoadLibraryW(LR"(C:\Windows\SysWOW64\version.dll)");
       setupFunctions();
@@ -28,19 +30,23 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call,
                   stderr); // Redirect stderr
       }
 
-      HANDLE mainHandle =
-          CreateThread(NULL, 0, payload_main, 0, CREATE_SUSPENDED, 0);
+      check_version();
 
-      if (mainHandle) {
-        SetThreadPriority(mainHandle, THREAD_PRIORITY_TIME_CRITICAL);
-        ResumeThread(mainHandle);
-        CloseHandle(mainHandle);
-      }
+      payload_main(nullptr);
+
+      // HANDLE mainHandle =
+      //     CreateThread(NULL, 0, payload_main, 0, CREATE_SUSPENDED, 0);
+
+      // if (mainHandle) {
+      //   SetThreadPriority(mainHandle, THREAD_PRIORITY_TIME_CRITICAL);
+      //   ResumeThread(mainHandle);
+      //   CloseHandle(mainHandle);
+      // }
     }
     break;
   case DLL_PROCESS_DETACH:
-    FreeLibrary(version.dll);
     FreeConsole();
+    FreeLibrary(version.dll);
     break;
   }
   return 1;
