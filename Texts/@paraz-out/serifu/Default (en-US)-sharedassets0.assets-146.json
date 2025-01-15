@@ -4328,7 +4328,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-645",
     "original": "Mosourika: That's when I suddenly heard a strange sound from the walkway.",
-    "translation": "Mosourika: 就在那时我突然听见步道上有声怪响。",
+    "translation": "Mosourika: 就在那时我突然听见走道上有声怪响。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-645\",\n  \"keywords\": []\n}"
   },
@@ -17285,8 +17285,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2665",
     "original": "OK",
-    "translation": "",
-    "stage": 0,
+    "translation": "OK",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-RikaArgument_Fail-2665\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -17313,15 +17313,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2669",
     "original": "Yes",
-    "translation": "",
-    "stage": 0,
+    "translation": "是",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-Rika_Argument-2669\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2670",
     "original": "No",
-    "translation": "",
-    "stage": 0,
+    "translation": "否",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-Rika_Argument-2670\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -18608,7 +18608,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2866",
     "original": "You don't want to reveal the traces of [b]transmutation[/b] that you found on the walkway.[p/] At least not yet.",
-    "translation": "至少现在，[p/]你暂时不想透露步道上发现的[b]形变术[/b]痕迹。",
+    "translation": "至少现在，[p/]你暂时不想透露走道上发现的[b]形变术[/b]痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2866\",\n  \"keywords\": []\n}"
   },
@@ -28681,7 +28681,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2009",
     "original": "Player: The Walkway",
-    "translation": "Player: 步道",
+    "translation": "Player: 走道",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2009\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },

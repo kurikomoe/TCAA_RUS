@@ -3,91 +3,91 @@
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument3-10-0",
     "original": "I was not involved in this!",
     "translation": "我\\u200B和\\u200B这事儿\\u200B没关系\\u200B！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"LiafalArgument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I was not involved in this!\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-6-0",
     "original": "What did Tracker hear when he woke up?",
     "translation": "追追\\u200B醒来后\\u200B听到了\\u200B什么\\u200B？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0",
     "original": "Tracker,Beatrice,Harold,The thief",
     "translation": "追追,比亚特丽丝,哈罗德,窃贼",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Tracker,Beatrice,Harold,The thief\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0",
     "original": "heard,saw,hid,caused",
     "translation": "听见,看见,藏起,造成",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"heard,saw,hid,caused\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0",
     "original": "rats running,the lockdown,glass shattering,a dog barking",
     "translation": "通风管道里,勋爵舞会期间,画廊里,威廉的书房里",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"rats running,the lockdown,glass shattering,a dog barking\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0",
     "original": "in the vents,during the Lords' Ball,from the gallery,in William's Study",
     "translation": "有老鼠,封锁,玻璃破碎,狗叫",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-13-0",
     "original": "What did Tracker hear when he woke up?",
     "translation": "追追醒来后听到了什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-16-0",
     "original": "How did the Sword of Spell Eating end up in that hallway?",
     "translation": "噬法之剑\\u200B怎么\\u200B跑到\\u200B走廊里\\u200B的\\u200B？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the Sword of Spell Eating end up in that hallway?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0",
     "original": "The thief,Beatrice,Eugene,Tracker",
     "translation": "小偷把,比亚特丽丝把,尤金把,追追把",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Eugene,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0",
     "original": "dropped,hid,stole,nullified",
     "translation": "剑,遗嘱草稿,臂章,抗魔力场",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"dropped,hid,stole,nullified\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0",
     "original": "the Sword,the drafted will,the Armbands,the Anti-Magic Field",
     "translation": "掉到了,藏到了,偷走了,无效化了",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0",
     "original": "in the hallway,from the gallery,in William's Study,in the Ballroom",
     "translation": "走廊里,画廊里,威廉的书房里,舞厅里",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-23-0",
     "original": "How did the Sword of Spell Eating end up in that hallway?",
     "translation": "噬法之剑怎么跑到走廊里的？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the Sword of Spell Eating end up in that hallway?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
