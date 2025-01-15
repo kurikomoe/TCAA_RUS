@@ -65,9 +65,13 @@ def check_marks(a: str, b: str) -> bool:
 
 pat_speaker = re.compile(r"^[^:]+: ")
 def check_speaker(a: str, b: str) -> bool:
+    if a.startswith(":") and b.startswith(":"):
+        return True
+
     ignored_texts = [
         "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
         "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
+        '[character name=""][/character]You arrive at the harbour,[p/] in search of Morrison: the harbourmaster.',
     ]
 
     for ignored_text in ignored_texts:
@@ -86,15 +90,31 @@ def check_speaker(a: str, b: str) -> bool:
 
     return flag
 
-def check_underline(tgt: str) -> bool:
+def check_pair(tgt: str) -> bool:
     if tgt == "<u>": return True;
     if tgt == "</u>": return True;
+    if tgt == "[b]": return True;
+    if tgt == "[/b]": return True;
+
+    flag = True
+
     pat1 = re.compile(r"<u>")
     pat2 = re.compile(r"</u>")
+
     gp1 = pat1.findall(tgt)
     gp2 = pat2.findall(tgt)
 
-    return len(gp1) == len(gp2)
+    flag = flag and len(gp1) == len(gp2)
+
+    pat1 = re.compile(r"\[b\]")
+    pat2 = re.compile(r"\[/b\]")
+
+    gp1 = pat1.findall(tgt)
+    gp2 = pat2.findall(tgt)
+
+    flag = flag and len(gp1) == len(gp2)
+
+    return flag
 
 def check_invalid_tag_format(tgt: str) -> bool:
     pats = [
@@ -112,6 +132,10 @@ def check_invalid_tag_format(tgt: str) -> bool:
         # [/p?  [p/?
         re.compile(r"<u[^>]"),
 
+        re.compile(r"[^\[\/]b\]"),
+        re.compile(r"\[b/\]"),
+        re.compile(r"\[b[^\]]"),
+
         re.compile(r"\[mind\s*=\s*[^\"]"),
     ]
     for pat in pats:
@@ -123,8 +147,9 @@ def check_invalid_tag_format(tgt: str) -> bool:
 
 def check_punctuations(tgt: str) -> bool:
     pats = [
-        re.compile(r"\.\.\."),
-        re.compile(r"(\?|!|\.)"),
+        re.compile(r"\.\."),
+        re.compile(r"(\?|!)"),
+        re.compile(r"[^\d]\."),
         re.compile(r"[^\d\w]-[^\d\w]"),
     ]
     for pat in pats:
@@ -134,7 +159,17 @@ def check_punctuations(tgt: str) -> bool:
 
     pat = re.compile(r"\"")
     if matches := pat.findall(tgt):
-        if "mind" in matches:
+        if "mind" in tgt \
+            or "Doubt" in tgt \
+            or "Agree" in tgt \
+            or "Interpret" in tgt \
+            or "Deflect" in tgt \
+            or "Defend" in tgt \
+            or "Rationalize" in tgt \
+            or "Appeal" in tgt \
+            or "Threaten" in tgt \
+            or "character" in tgt \
+        :
             if len(matches) > 2:
                 return False
         else:
@@ -157,14 +192,11 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
         checks = {
             "marks": False,
             "speaker": False,
-            "underline": False,
+            "pair": True,
             "tags": False,
             "punctuations": False,
             "pangu": False,
         }
-
-    checks["punctuations"] = False
-    checks["pangu"] = False
 
     paraz_data = TypeAdapter(List[Paratranz]).validate_python(data)
     mm = {}
@@ -198,8 +230,8 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
             Flag_error = True
             #  input("cnt?")
 
-        if checks["underline"] \
-            and not check_underline(item.translation):
+        if checks["pair"] \
+            and not check_pair(item.translation):
             logger.error("Mismatch underline")
             logger.error(item.original)
             logger.error(item.translation)
@@ -242,8 +274,8 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
         mm[key] = item
 
     if Flag_error:
-        # exit(-1)
         pass
+        # exit(-1)
 
     return mm
 
@@ -251,6 +283,30 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
 def GetParazAcc(paraz_file: Path, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz]:
     assert paraz_file.exists(), str(paraz_file)
     paraz_data = json.load(open(paraz_file, "r", encoding="utf-8"))
+
+    checks = {
+        "marks": False,
+        "speaker": False,
+        "pair": True,
+        "tags": False,
+        "punctuations": False,
+        "pangu": False,
+    }
+
+    if "Case " in paraz_file.name \
+        or "Default" in paraz_file.name \
+    :
+        checks["speaker"] = True
+        checks["pair"] = True
+        checks["punctuations"] = True
+        checks["pangu"] = False
+
+    # print(paraz_file.name)
+    # if "-143" in paraz_file.name:
+    #     checks["punctuations"] = True
+    # else:
+    #     checks["punctuations"] = False
+
     paraz_acc = GenParazAcc(paraz_data, checks=checks)
     return paraz_acc
 
