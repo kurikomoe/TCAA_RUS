@@ -274,8 +274,7 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
         mm[key] = item
 
     if Flag_error:
-        pass
-        # exit(-1)
+        exit(-1)
 
     return mm
 
