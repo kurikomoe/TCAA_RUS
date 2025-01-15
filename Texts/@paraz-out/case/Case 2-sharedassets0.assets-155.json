@@ -548,71 +548,71 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-32-0",
     "original": "Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.",
-    "translation": "斯蒂尔文德逻辑性很强，不会采纳没有证据支持的言论。不过，她最近遮遮掩掩，行为似乎是源于对什么东西的恐惧。/n/n她对本次案件和米莉亚姆·弗雷加相关的事感到不安。也倾向于不惜一切代价，对法庭隐藏弗雷加有所牵扯一事。",
-    "stage": 1,
+    "translation": "斯蒂尔文德逻辑性很强，不会采纳没有证据支持的言论。不过，她最近行为遮遮掩掩，似乎是由于惧怕什么东西的影响。/n/n她对本次案件和米莉亚姆·弗雷加相关的事感到不安。也倾向于不惜一切代价，对法庭隐藏弗雷加有所牵扯一事。",
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-39-0",
     "original": "Nothing about my behavior has changed.",
     "translation": "我的\\u200B行为\\u200B毫无\\u200B变化",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Nothing about my behavior has changed.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-TheoCornered-6-0",
     "original": "I was alone and had nothing to overpower Bellwether with.",
     "translation": "我\\u200B孤身\\u200B一人，\\u200B也没法\\u200B以蛮力\\u200B制服\\u200B贝尔维瑟",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TheoCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I was alone and had nothing to overpower Bellwether with.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Val_Argument2-0-0",
     "original": "I need to stay calm.",
     "translation": "我需要保持冷静。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Val_Argument2\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"I need to stay calm.\",\n    \"Fear\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument7-7-0",
     "original": "You can’t prove that piece of evidence exists.",
     "translation": "你\\u200B没法\\u200B证明\\u200B这件\\u200B证据\\u200B确实\\u200B存在",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Aria_Argument7\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"You can’t prove that piece of evidence exists.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-TheoCornered9-11-0",
     "original": "There's no evidence of my orders!",
     "translation": "没有\\u200B我\\u200B下了\\u200B命令\\u200B的\\u200B证据\\u200B！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"TheoCornered9\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"There's no evidence of my orders!\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-26-0",
     "original": "Valentina Ianus",
     "translation": "瓦伦蒂娜·伊努斯",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Val_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Valentina Ianus\",\n    \"3\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-25-0",
     "original": "Aria Steelwind",
     "translation": "阿莉亚·斯蒂尔文德",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Aria Steelwind\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Valentina Ianus",
     "original": "Valentina Ianus",
     "translation": "瓦伦蒂娜·伊努斯",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   },
   {
     "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Aria Steelwind",
     "original": "Aria Steelwind",
     "translation": "阿莉亚·斯蒂尔文德",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"node_name\": \"Check_Events_Library2\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
   }
 ]
