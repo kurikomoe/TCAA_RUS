@@ -114,7 +114,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-9-0",
     "original": "the vat,the killer,Justin Waye,the refinery",
-    "translation": "桶里,杀手,贾斯汀·维耶,炼油厂",
+    "translation": "桶里,杀手,贾斯汀·维耶,精炼厂",
     "stage": 3,
     "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the vat,the killer,Justin Waye,the refinery\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
@@ -191,7 +191,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-21-0",
     "original": "of volatile liquid,of Von Sanctus,owned by Dracogen",
-    "translation": "桶里,庄园里,炼油厂里",
+    "translation": "桶里,庄园里,精炼厂里",
     "stage": 3,
     "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"of volatile liquid,of Von Sanctus,owned by Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
@@ -282,7 +282,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-9-0",
     "original": "was neutralized,died,fell into the vat,called for help",
-    "translation": "在事故通报,在莫苏里卡到场,在炼油厂开门,在奥蒙抵达",
+    "translation": "在事故通报,在莫苏里卡到场,在精炼厂开门,在奥蒙抵达",
     "stage": 3,
     "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was neutralized,died,fell into the vat,called for help\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
