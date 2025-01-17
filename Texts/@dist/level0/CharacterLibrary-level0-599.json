@@ -435,7 +435,7 @@
         "name": "Orym White",
         "displayName": "奥蒙·怀特",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Orym.png",
-        "description": "不耐烦又有点愤世嫉俗的奥术裁判所指挥官。除开他对法师和贵族的偏见，他还算是个务实严肃的人。",
+        "description": "大大咧咧又有点愤世嫉俗的奥术裁判所指挥官。除开他对法师和贵族的偏见，他还算是个务实严肃的人。",
         "altDescriptions": {
           "Array": []
         },
@@ -504,7 +504,7 @@
         "name": "Ruby Tymora",
         "displayName": "鲁比·泰摩拉",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Ruby.png",
-        "description": "臭名昭著的为平民出身的法师所进行辩护的律师。她痛恨贵族。与此同时，她一直身处伪造证据、贿赂、勒索等谣言的中心。",
+        "description": "臭名昭著的为平民法师辩护的律师。她痛恨贵族。与此同时，她一直身处伪造证据、贿赂、勒索等谣言的中心。",
         "altDescriptions": {
           "Array": []
         },
@@ -759,7 +759,7 @@
         "name": "Valentina Ianus",
         "displayName": "瓦伦蒂娜·伊努斯",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valentina.png",
-        "description": "帝国学院厨房的工作人员之一。瓦莱丽的同胞姐妹，看起来一模一样。",
+        "description": "帝国学院厨房的工作人员之一。瓦莱丽的同胞姐妹，两人看起来一模一样。",
         "altDescriptions": {
           "Array": []
         },
@@ -782,7 +782,7 @@
         "name": "Valerie Ianus",
         "displayName": "瓦莱丽·伊努斯",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valerie.png",
-        "description": "帝国学院厨房的工作人员之一。瓦伦蒂娜的同胞姐妹，看起来一模一样。",
+        "description": "帝国学院厨房的工作人员之一。瓦伦蒂娜的同胞姐妹，两人看起来一模一样。",
         "altDescriptions": {
           "Array": [
             "帝国学院厨房的工作人员之一。瓦伦蒂娜的同胞姐妹，看起来一模一样。\n\n隐藏了自己其实是法师的事。这一点违反维文加德法律。"
@@ -807,7 +807,7 @@
         "name": "Theodore Redmond",
         "displayName": "西奥多·雷德蒙",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Theodore.png",
-        "description": "帝国学院校长。已经在位数十年。\n\n对平民法师态度和善，允许他们免费入学。但贵族和支持者对他的做法并不认同。",
+        "description": "帝国学院校长。已经在位数十年。\n\n对平民法师态度和善，允许他们免费入学。但贵族和其支持者对他的做法并不认同。",
         "altDescriptions": {
           "Array": []
         },
@@ -931,7 +931,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Lloyd von Sanctus Variant.prefab",
         "occupation": "贵族",
         "age": "45",
-        "arcaneArt": "防护",
+        "arcaneArt": "防护术",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Lloyd.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -954,7 +954,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Mosourika Tudor Variant.prefab",
         "occupation": "商人",
         "age": "19",
-        "arcaneArt": "塑能",
+        "arcaneArt": "塑能术",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Mosourika.png",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -1067,7 +1067,7 @@
           "Array": []
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Marrunath Variant.prefab",
-        "occupation": "恶魔使魔",
+        "occupation": "恶魔类使魔",
         "age": "???",
         "arcaneArt": "无",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Marrunath.png",
@@ -1230,7 +1230,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Lucio Steelwind Variant.prefab",
         "occupation": "大将军",
         "age": "76",
-        "arcaneArt": "塑能",
+        "arcaneArt": "塑能术",
         "witnessImg": "",
         "voiceHigh": 0,
         "demonVoice": 0,
