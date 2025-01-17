@@ -20442,7 +20442,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3150",
     "original": "Tyrion: She said,[p/] \"The [b]occult are a[/b] fascinating phenomena\".[p/] The pronunciation of that one phrase is identical to the incantation!",
-    "translation": "Tyrion: 她说，[p/]“玄学是一门[b]非常极度[/b]引人入胜的学问”。[p/]“非常极度”的发音与咒语完全一致！",
+    "translation": "Tyrion: 她说，[p/]“玄学是一门[b]非常极度[/b]引人入胜的学问”。[p/]“非常极度”中“常极”的发音与咒语完全一致！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-AlaricObj2-3150\",\n  \"keywords\": []\n}"
   },
@@ -21485,22 +21485,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3310",
     "original": "Ruby: ...Your Honor.[p/] Cuthbert is clearly making trivial requests to stall for time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……法官阁下。[p/]卡斯伯特只是在用琐事拖延时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj5-3310\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3311",
     "original": "Ruby: His request is not worth a response from the witness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他的要求不值得证人回应。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj5-3311\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3312",
     "original": "Tyrion: That's not what I'm doing, Tymora,[p/] and I think you [i]know[/i] that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我没有拖延时间，泰摩拉，[p/]我觉得你也<u>清楚</u>这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj5-3312\",\n  \"keywords\": []\n}"
   },
   {
@@ -21513,22 +21513,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3314",
     "original": "Tyrion: Marrunath.[p/] We truly don't know much about demons aside from the stories told in myths.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马鲁纳斯。[p/]除了神话故事，我们没听说过多少恶魔的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj5-3314\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3315",
     "original": "Tyrion: So is it possible...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有没有可能……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj5-3315\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3316",
     "original": "Tyrion: ...that demons are physically unable to lie?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 恶魔生理上不能撒谎？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj5-3316\",\n  \"keywords\": []\n}"
   },
   {
@@ -21541,43 +21541,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3318",
     "original": "Ruby: Damn it...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 该死……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3318\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3319",
     "original": "Judge: I'm sorry, Mr. Cuthbert,[p/] but that seems quite ridiculous.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 很抱歉，卡斯伯特先生，[p/]但这有点太荒谬了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3319\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3320",
     "original": "Judge: Why [i]wouldn't[/i] the witness be capable of lying?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 为什么证人会<u>无法说谎</u>？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3320\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3321",
     "original": "Tyrion: I genuinely don't know, Your Honor,[p/] but his testimony speaks for itself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我也不清楚，法官阁下，[p/]但他的证言说明了一切。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3321\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3322",
     "original": "Tyrion: He can [i]easily[/i] refute it by granting my request.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只要答应我的要求，他就能<u>轻易</u>驳斥这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3323",
     "original": "Tyrion: Say \"Tyrion Cuthbert's hair is green\", witness!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 证人！说“提利昂·卡斯伯特的头发是绿色的”！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3323\",\n  \"keywords\": []\n}"
   },
   {
@@ -21590,57 +21590,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3325",
     "original": "Marrunath: You said it yourself.[p/] \"Tyrion Cuthbert's hair is green\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: 你自己说了，[p/]“提利昂·卡斯伯特的头发是绿色的”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3325\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3326",
     "original": "Tyrion: That's [i]not[/i] what I asked for, witness!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这<u>不是</u>我的要求，证人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3326\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3327",
     "original": "Tyrion: Repeat the statement I told you,[p/] word for word![p/][s/] Nothing after [i]or[/i] before it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 重复我刚才说的那句话，[p/]要一字不差！[p/][s/]之前与之后都不能添加内容！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3328",
     "original": "Ruby: Your Honor![p/][s/] The prosecution's argument is absurd!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 法官阁下！[p/][s/]检方的争论属实荒唐！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3329",
     "original": "Ruby: The witness is not obligated to fulfill such an outrageous request.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 证人没有义务满足这么离奇的要求。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3330",
     "original": "Judge: I might be compelled to agree with you, Ms. Tymora.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 也许我会同意你，泰摩拉女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3331",
     "original": "Judge: ...If the witness wasn't [i]clearly[/i] avoiding fulfilling that request.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……但证人<u>明显</u>是在回避问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj6-3331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3332",
     "original": "Tyrion: Well?[p/][s/] We're all waiting, Marrunath!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那么？[p/][s/]我们都等着呢，马鲁纳斯！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3332\",\n  \"keywords\": []\n}"
   },
   {
@@ -21653,78 +21653,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3334",
     "original": "Tyrion: You can easily prove me wrong by repeating my statement plainly!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只要重复我说的话，你就可以证明我是错的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3334\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3335",
     "original": "Marrunath: Agh![p/][s/] You filthy heavensborn!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: 啊！[p/][s/]你这肮脏的天诞之物！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3336",
     "original": "Tyrion: Say it, Marrunath!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 说啊，马鲁纳斯！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3337",
     "original": "Marrunath: \"Tyrion...[p/] Cuthbert's\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: “提利昂……[p/]卡斯伯特的”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3337\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3338",
     "original": "Marrunath: \"Tyrion Cuthbert's hair is...\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: “提利昂·卡斯伯特的头发是……”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3338\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3339",
     "original": "Marrunath: \"TYRION[p/][s/] CUTHBERT'S[p/][s/] HAIR[p/][s/] IS\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: <size=1.5em>“提利昂·[p/][s/]卡斯伯特的[p/][s/]头发[p/][s/]是”</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3340",
     "original": "Marrunath: ...blond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: ……金色的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3341",
     "original": "Tyrion: [i]Technically[/i], it's a dirty blond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: <u>准确地说</u>，是深金色。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3341\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3342",
     "original": "Marrunath: Oh, [i]shut[/i] up!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: 干，<u>闭嘴</u>！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3343",
     "original": "Judge: Is Mr. Cuthbert correct, Marrunath?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生说得没错吗，马鲁纳斯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3343\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3344",
     "original": "Judge: Are you [i]actually[/i] unable to lie?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 你<u>真的</u>不能撒谎？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj7-3344\",\n  \"keywords\": []\n}"
   },
   {
@@ -21737,22 +21737,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3346",
     "original": "Tyrion: I think his silence speaks for itself, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他的沉默不言自明，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3347",
     "original": "Judge: Remarkable...[p/] I would have never imagined.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 太神奇了……[p/]我根本不会这么想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3347\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3348",
     "original": "Tyrion: And with [i]that[/i],[p/] proving my case becomes a [i]much[/i] simpler matter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 既然<u>如此</u>，[p/]证明我的推论就<u>更加</u>简单了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3348\",\n  \"keywords\": []\n}"
   },
   {
@@ -21765,99 +21765,99 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3350",
     "original": "Tyrion: Marrunath.[p/] Did you murder William Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马鲁纳斯。[p/]是你杀害了威廉·弗雷加吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3351",
     "original": "Marrunath: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Marrunath: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3352",
     "original": "Tyrion: I'm sure you understand, witness.[p/] Under [i]these[/i] circumstances,[p/] staying silent is basically an admission of guilt.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 证人，你肯定能理解。[p/]现在的情况下，[p/]保持沉默相当于承认有罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3352\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3353",
     "original": "MBeatrice: You have no reason to stay quiet, Marrunath.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 马鲁纳斯，你没有理由保持沉默。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3353\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3354",
     "original": "MBeatrice: Tell him the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 告诉他真相。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj8-3354\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3355",
     "original": "MBeatrice: Lady Beatrice,[p/] what are you-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 比亚特丽丝小姐，[p/]你这是——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3356",
     "original": "MBeatrice: I believe it's time to come clean,[p/] don't you Marrunath?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 是时候坦白一切了，[p/]不是吗，马鲁纳斯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3357",
     "original": "MBeatrice: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3358",
     "original": "MBeatrice: I see...[p/] So [i]that's[/i] your play.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我明白了……[p/]<u>这</u>就是你的打算。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3359",
     "original": "Tyrion: Don't think you can just stall for time, Ms. Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 可别想着拖延时间，弗雷加女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3360",
     "original": "Tyrion: Marrunath has no choice but to answer the question.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马鲁纳斯必须回答问题，没有其他选择。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3360\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3361",
     "original": "MBeatrice: Do it, Marrunath.[p/] Tell the court the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 马鲁纳斯，[p/]告诉法庭真相吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3362",
     "original": "MBeatrice: ...To answer your question,[p/] yes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: ……来回答你的问题，[p/]是的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3363",
     "original": "MBeatrice: I [i]did[/i] murder William Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我<u>确实</u>杀害了威廉·弗雷加。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunatObj9-3363\",\n  \"keywords\": []\n}"
   },
   {
