@@ -157,7 +157,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-30",
     "original": "Tyrion: It must have broken off from something else.",
     "translation": "Tyrion: 肯定是从什么东西上掉下来的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-30\",\n  \"keywords\": []\n}"
   },
   {
@@ -171,21 +171,21 @@
     "key": "Default (en-US)-sharedassets0.assets-143-33",
     "original": "Tyrion: I can see a military stronghold in the distance.",
     "translation": "Tyrion: 我能看到远处有个军事要塞。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-33\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-34",
     "original": "Celeste: They must be able to see a lot from that high up.",
-    "translation": "Celeste: 这么高的地方看下来一定一览无余吧。",
-    "stage": 1,
+    "translation": "Celeste: 那么高的地方看下来一定一览无余吧。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-34\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-36",
     "original": "Tyrion: This balcony provides a perfect view of Lake Galakrond.",
     "translation": "Tyrion: 阳台这里可以欣赏迦拉克隆湖。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-36\",\n  \"keywords\": []\n}"
   },
   {
@@ -205,35 +205,35 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-41",
     "original": "Tyrion: Could you tell us more about what you saw?",
-    "translation": "Tyrion: 能不能给我们详细分享一下？",
-    "stage": 1,
+    "translation": "Tyrion: 能不能跟我们详细分享一下？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-41\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-42",
     "original": "Tyrion: Did it look like she was having a psychotic episode?",
-    "translation": "Tyrion: 她当时看起来疾病发作？",
-    "stage": 1,
+    "translation": "Tyrion: 她当时看起来像是疾病发作了吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-42\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-43",
     "original": "Theon: I wouldn't go [i]that[/i] far.[p/] But she was certainly acting strangely.",
-    "translation": "Theon: 我不想<u>过度解读</u>。[p/]但她的确是举止可疑。",
-    "stage": 1,
+    "translation": "Theon: 我不想<u>过度解读</u>。[p/]但她的确举止可疑。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-43\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-44",
     "original": "Tyrion: How did you come across her?",
-    "translation": "Tyrion: 你怎么碰见她的？",
-    "stage": 1,
+    "translation": "Tyrion: 您是怎么碰见她的？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-44\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-45",
     "original": "Theon: Well, I was on my way to the Prayer Room.[p/] I always recite prayers from the draconic texts around that time.",
-    "translation": "Theon: 我当时正要去祷告室。那个时间我固定会在那里吟诵龙典。",
+    "translation": "Theon: 我当时正要去祷告室。[p/]那段时间我一直会在那里吟诵龙典。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-45\",\n  \"keywords\": []\n}"
   },
@@ -241,7 +241,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-46",
     "original": "Wait...[p/] He was heading to the [i]Prayer Room[/i]?",
     "translation": "等等……[p/]他当时要去<u>祷告室</u>？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-46\",\n  \"keywords\": []\n}"
   },
   {
@@ -269,7 +269,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-50",
     "original": "Tyrion: Hm...",
     "translation": "Tyrion: 嗯……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-50\",\n  \"keywords\": []\n}"
   },
   {
@@ -282,8 +282,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-52",
     "original": "Theon: You're [i]probably[/i] correct...",
-    "translation": "Theon: 你[i]大概[/i]没错……",
-    "stage": 1,
+    "translation": "Theon: 你<u>大概</u>没错……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-52\",\n  \"keywords\": []\n}"
   },
   {
@@ -297,14 +297,14 @@
     "key": "Default (en-US)-sharedassets0.assets-143-54",
     "original": "Theon: Although...",
     "translation": "Theon: 不过……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-54\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-55",
     "original": "Tyrion: What is it?",
     "translation": "Tyrion: 不过什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-55\",\n  \"keywords\": []\n}"
   },
   {
