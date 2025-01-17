@@ -8,6 +8,7 @@ import pangu
 from pydantic import BaseModel, TypeAdapter
 
 from . import flags
+from .case_utils import cmds
 
 logger = logging.getLogger(__name__)
 
@@ -64,17 +65,17 @@ def check_marks(a: str, b: str) -> bool:
     return flag
 
 pat_speaker = re.compile(r"^[^:]+: ")
+speaker_ignored_texts = [
+    "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
+    "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
+    '[character name=""][/character]You arrive at the harbour,[p/] in search of Morrison: the harbourmaster.',
+]
 def check_speaker(a: str, b: str) -> bool:
     if a.startswith(":") and b.startswith(":"):
         return True
 
-    ignored_texts = [
-        "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
-        "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
-        '[character name=""][/character]You arrive at the harbour,[p/] in search of Morrison: the harbourmaster.',
-    ]
 
-    for ignored_text in ignored_texts:
+    for ignored_text in speaker_ignored_texts:
         if a == ignored_text:
             return True
 
@@ -187,7 +188,7 @@ def check_pangu(tgt: str) -> bool:
     return True
 
 
-def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz]:
+def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz]:
     if not checks:
         checks = {
             "marks": False,
@@ -270,11 +271,21 @@ def GenParazAcc(data: List, checks: Dict[str, bool] = {}) -> Dict[str, Paratranz
         if item.context:
             item.context = fix_slash_n(item.context)
 
+        if item.translation != item.original:
+            item.translation = italic_to_em(
+                item.translation,
+                is_case = ("Case " in paraz_file.name),
+                is_serifu = ("Default" in paraz_file.name),
+                is_item = bool(re.compile(r"\d+").match(paraz_file.name)),
+                context = item.context or "",
+            )
+
         assert key not in mm
         mm[key] = item
 
     if Flag_error:
         exit(-1)
+
 
     return mm
 
@@ -306,7 +317,7 @@ def GetParazAcc(paraz_file: Path, checks: Dict[str, bool] = {}) -> Dict[str, Par
     # else:
     #     checks["punctuations"] = False
 
-    paraz_acc = GenParazAcc(paraz_data, checks=checks)
+    paraz_acc = GenParazAcc(paraz_data, paraz_file, checks=checks)
     return paraz_acc
 
 
@@ -321,3 +332,66 @@ def kquote(s: str, idx) -> str:
         return '""'
     else:
         return f'"{s}"'
+
+def italic_to_em(s: str, is_case: bool, is_serifu: bool, is_item: bool, context: str="") -> str:
+    pat1 = re.compile(r"(\[i\](.*?)\[/i\])")
+    pat2 = re.compile(r"(<u>(.*?)</u>)")
+
+    for pat in [pat1, pat2]:
+        for found in pat.findall(s):
+            text = found[1]
+
+            # for ch in text:
+            #     if ch.isalpha() or "[" in ch or "]" in ch:
+            #         logger.warning(f"non chinese char in {ch}")
+            #         break
+
+            text_len = len(text)
+            new_text = f"{text}<space=-{text_len}em><voffset=-0.8em>{"・"*text_len}</voffset>"
+            s = s.replace(found[0], new_text)
+
+    allowed_cmds = [
+        "Tutorial",
+        "Testimony",
+        "TitleCard",
+        "LoadTalk",
+
+        # For case
+        "InterpretPrompt",
+        "LoadArgueProfile",
+        "Tutorial",
+    ]
+
+    while is_case or is_serifu or is_item:
+        Flag_ignore = True
+
+        if is_item:
+            Flag_ignore = False
+
+        if is_serifu:
+            context_data = json.loads(context)
+            if not context_data["keywords"]:
+                Flag_ignore = False
+
+        if is_case or is_serifu:
+            context_data = context
+            for cmd in allowed_cmds:
+                if cmd in context_data:
+                    Flag_ignore = False
+                    break
+
+        if Flag_ignore:
+            logger.warning(f"Ignore line-height: {s}, {context}")
+            # input("cnt?")
+            break
+
+        if s not in speaker_ignored_texts and (matches := pat_speaker.match(s)):
+            # [abc: ]
+            speaker = matches[0]
+            s = f"{speaker}<line-height=1.6em>{s[len(speaker):]}"
+        elif s.startswith(":"):
+            s = f":<line-height=1.6em>{s[1:]}"
+        else:
+            s = "<line-height=1.6em>"+s
+        break
+    return s

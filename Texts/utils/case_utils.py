@@ -115,20 +115,20 @@ def IsSetDeductionField(inst: pb.Instruction) -> bool:
 # def isLoadTalk(inst: pb.Instruction) -> bool:
 #     return CheckCmd(inst, "LoadTalk")
 
+ignored_cmds = [
+    "PresentPrompt",
+    "InterpretPrompt",
+    "LoadPresent",
+    "Examine",
+    "Move",
+]
+cmds = [
+    "LoadTalk",
+    "Confirmation",
+    "ElocutionPrompt",
+    "Testimony",
+]
 def isRunCommand(inst: pb.Instruction) -> Tuple[bool, str] | None:
-    ignored_cmds = [
-        "PresentPrompt",
-        "InterpretPrompt",
-        "LoadPresent",
-        "Examine",
-        "Move",
-    ]
-    cmds = [
-        "LoadTalk",
-        "Confirmation",
-        "ElocutionPrompt",
-        "Testimony",
-    ]
     for cmd in cmds:
         if CheckCmd(inst, cmd):
             return False, cmd
