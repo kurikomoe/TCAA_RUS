@@ -22199,7 +22199,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3414",
     "original": "Damn it...[p/] She's playing Devil's Advocate...[p/] But you suppose that's fitting for her.",
-    "translation": "该死的……[p/]她这是“见鬼说鬼话”……[p/]不过也算是字面意思就是了。",
+    "translation": "该死的……[p/]她这是“见鬼说鬼话”……[p/]而且还是字面意思上的。",
     "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered3-3414\",\n  \"keywords\": []\n}"
   },
@@ -22311,15 +22311,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3432",
     "original": "More specifically,[p/] she meant that there's nothing Marrunath did that was her fault.",
-    "translation": "",
-    "stage": 0,
+    "translation": "更具体地说,[p/]她意思是马鲁纳斯的所有行为都不是她的过错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered4-3432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3433",
     "original": "But wasn't there something else that required her magic?",
-    "translation": "",
-    "stage": 0,
+    "translation": "但没有其他的事情需要她使用魔法才能实现吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered4-3433\",\n  \"keywords\": []\n}"
   },
   {
@@ -22332,64 +22332,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3435",
     "original": "Right...[p/] It doesn't matter if she's found guilty of stealing the Sword.",
-    "translation": "",
-    "stage": 0,
+    "translation": "对啊……[p/]她是否因盗窃噬法之剑而获罪并不重要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered5-3435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3436",
     "original": "The Slayer Rule only takes effect if she's found to be responsible for her father's death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "“杀人犯规则”只在她被认定对她父亲死亡有责任的情况下生效。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered5-3436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3437",
     "original": "Damn it...[p/] Is there seriously nothing you can do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "该死……[p/]你真的什么都做不了了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered5-3437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3438",
     "original": "Threaten [d=\"Marrunath. The sentence for first-degree murder is death! Are you really willing to [i]die[/i] for your keeper's crimes?\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Threaten [d=\"马鲁纳斯。一等谋杀罪是要被判处死刑的！你真的愿意为了你的管理人的罪行<u>去死</u>吗？\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3438\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3439",
     "original": "Tyrion: Marrunath.[p/] The sentence for first-degree murder is death!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马鲁纳斯。[p/]一等谋杀罪是要被判处死刑的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3440",
     "original": "Tyrion: Are you really willing to [i]die[/i] for your keeper's crimes?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你真的愿意为了你的管理人的罪行<u>去死</u>吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3441",
     "original": "MBeatrice: Oh, you [i]stupid[/i] heavensborn.[p/] Demons never [i]truly[/i] die.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 哎呀，你这个<u>愚蠢</u>的天诞之物，[p/]恶魔们不会<u>真正</u>死亡的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3442",
     "original": "MBeatrice: When our bodies are destroyed,[p/] we return to the Abyssal Hells.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 当我们的肉身遭到毁灭时，[p/]我们就会回到深渊地狱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3443",
     "original": "Judge: H-[p/][s/]Hell?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 地、[p/][s/]地狱？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3443\",\n  \"keywords\": []\n}"
   },
   {
