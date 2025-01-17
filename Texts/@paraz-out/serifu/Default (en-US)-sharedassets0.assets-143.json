@@ -150,7 +150,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-29",
     "original": "Tyrion: But I doubt someone created these bits of gravel.",
     "translation": "Tyrion: 但我不觉得有人会专门创造这些砾石。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-29\",\n  \"keywords\": []\n}"
   },
   {
@@ -191,15 +191,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-37",
     "original": "Tyrion: A lot of people probably come here when the Grand Cathedral is open to the public.",
-    "translation": "Tyrion: 大教堂对公众开放的时候，很多人大概都会来这里。",
-    "stage": 1,
+    "translation": "Tyrion: 大教堂对公众开放的时候，很多人都会来这里。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-37\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-40",
     "original": "Tyrion: We heard that you saw the prosecutor acting strangely here.",
     "translation": "Tyrion: 我们听说您看到检察官举止异常。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-40\",\n  \"keywords\": []\n}"
   },
   {
@@ -234,7 +234,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-45",
     "original": "Theon: Well, I was on my way to the Prayer Room.[p/] I always recite prayers from the draconic texts around that time.",
     "translation": "Theon: 我当时正要去祷告室。[p/]那段时间我一直会在那里吟诵龙典。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-45\",\n  \"keywords\": []\n}"
   },
   {
@@ -247,22 +247,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-47",
     "original": "Theon: When I saw her,[p/] I first thought she was just enjoying the view of the lake.",
-    "translation": "Theon: 我看见她的时候，[p/]第一反应她只是在欣赏湖景。",
-    "stage": 1,
+    "translation": "Theon: 我看见她的时候，[p/]第一反应是她只是在欣赏湖景。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-47\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-48",
     "original": "Theon: I was about to greet her.",
     "translation": "Theon: 还想和她问好。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-48\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-49",
     "original": "Theon: But when I approached her,[p/] I saw that she was [i]throwing[/i] something off of the edge of the balcony.",
-    "translation": "Theon: 但我接近她以后，[p/]发现她正在从阳台边缘向下[i]扔[/i]什么东西。",
-    "stage": 1,
+    "translation": "Theon: 但我接近她以后，[p/]发现她正从阳台边缘向下<u>扔</u>什么东西。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-49\",\n  \"keywords\": []\n}"
   },
   {
@@ -275,8 +275,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-51",
     "original": "Tyrion: You must have seen her dumping Sibyl's body...",
-    "translation": "Tyrion: 看到的肯定是她在丢弃希比尔的尸体……",
-    "stage": 1,
+    "translation": "Tyrion: 您肯定是看到了她在丢弃希比尔的尸体……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-51\",\n  \"keywords\": []\n}"
   },
   {
@@ -290,7 +290,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-53",
     "original": "Theon: I came to the same conclusion after they found that poor woman's body below us.",
     "translation": "Theon: 他们在正下方发现那个可怜女性的尸体后，我也得出了一样的结论。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-53\",\n  \"keywords\": []\n}"
   },
   {
@@ -310,50 +310,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-56",
     "original": "Theon: ...I only saw it for a second.[p/] So perhaps I'm wrong.",
-    "translation": "Theon: ……我也只看到一瞬间。[p/]我也可能犯错。",
-    "stage": 1,
+    "translation": "Theon: ……我只瞥到了一眼 。[p/]所以也可能出错。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-56\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-57",
     "original": "Theon: But Lady Sibyl was wearing much brighter colors this morning.",
-    "translation": "Theon: 但希比尔小姐早上的穿着颜色更鲜艳。",
-    "stage": 1,
+    "translation": "Theon: 希比尔小姐早上穿着的颜色更鲜艳。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-57\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-58",
     "original": "Theon: Whatever Lady Steelwind threw into the lake,[p/] it looked much darker.",
-    "translation": "Theon: 先不管斯蒂尔文德小姐扔了什么，[p/]颜色比起来都更暗。",
-    "stage": 1,
+    "translation": "Theon: 而不管斯蒂尔文德小姐扔了什么，[p/]它的颜色都相对更暗。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-58\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-59",
     "original": "Tyrion: What does [i]that[/i] mean?",
     "translation": "Tyrion: 也就是说？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-59\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-60",
     "original": "Theon: I'm sorry.[p/] I can't really explain it.",
     "translation": "Theon: 抱歉。[p/]我也没办法解释。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-60\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-61",
     "original": "Theon: Perhaps I was just seeing things.[p/] My eyes aren't as good as they used to be, after all.",
-    "translation": "Theon: 可能我幻视了吧。[p/]毕竟我的视力也不如以往。",
-    "stage": 1,
+    "translation": "Theon: 可能我看错了吧。[p/]毕竟我的视力也大不如前。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-61\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-62",
     "original": "Theon: It could have just been a trick of the light.",
-    "translation": "Theon: 可能只是光线原因。",
-    "stage": 1,
+    "translation": "Theon: 也许只是光线原因。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-62\",\n  \"keywords\": []\n}"
   },
   {
@@ -366,8 +366,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-65",
     "original": "Tyrion: Wait...[p/] If you saw Aria dumping Lady Sibyl's body,[p/] she must have [i]just[/i] murdered her.",
-    "translation": "Tyrion: 等等……[p/]如果您看见了阿莉亚弃尸，[p/]那她应该<u>刚刚</u>才杀了希比尔小姐。",
-    "stage": 1,
+    "translation": "Tyrion: 等等……[p/]如果您看见了阿莉亚弃尸，[p/]那她应该是<u>刚刚</u>才杀了希比尔小姐。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-65\",\n  \"keywords\": []\n}"
   },
   {
