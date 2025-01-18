@@ -10,6 +10,7 @@
 
 #include "createfile.h"
 #include "typewriter.h"
+#include "textdelay.h"
 
 std::wstring ORIG_TITLE_NAME(L"Attorney of the Arcane");
 std::wstring TITLE_NAME_SUFFIX;
@@ -64,6 +65,10 @@ DWORD __stdcall payload_main(void*) {
     if (Typewriter::init(base) != 0) {
         std::cout << "Typewriter hook failed" << std::endl;
     }
+
+    // if (TextDelay::init(base) != 0) {
+    //     std::cout << "TextDelay hook failed" << std::endl;
+    // }
 
     return 1;
 }
