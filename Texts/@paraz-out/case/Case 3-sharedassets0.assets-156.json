@@ -394,7 +394,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-13-0",
     "original": "How did the transmutation spell affect the guard rail?",
-    "translation": "形变魔法对护栏有什么影响？",
+    "translation": "形变系魔法对护栏有什么影响？",
     "stage": 3,
     "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the transmutation spell affect the guard rail?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -436,7 +436,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-3-0",
     "original": "How did the transmutation spell affect the guard rail?",
-    "translation": "形变魔法\\u200B对\\u200B护栏\\u200B有\\u200B什么影响\\u200B？",
+    "translation": "形变系\\u200B魔法\\u200B对\\u200B护栏\\u200B有\\u200B什么影响\\u200B？",
     "stage": 3,
     "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the transmutation spell affect the guard rail?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -471,7 +471,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-11-0",
     "original": "How did the transmutation spell affect the guard rail?",
-    "translation": "形变魔法对护栏有什么影响？",
+    "translation": "形变系魔法对护栏有什么影响？",
     "stage": 3,
     "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the transmutation spell affect the guard rail?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -495,5 +495,12 @@
     "translation": "莫苏里卡·都铎",
     "stage": 3,
     "context": "{\n  \"node_name\": \"Talk_Cafe\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered-0-0",
+    "original": "Lloyd von Sanctus",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"node_name\": \"SanctusCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Lloyd von Sanctus\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
   }
 ]

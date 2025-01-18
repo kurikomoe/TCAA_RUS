@@ -347,7 +347,7 @@ def italic_to_em(s: str, is_case: bool, is_serifu: bool, is_item: bool, context:
             #         break
 
             text_len = len(text)
-            new_text = f"{text}<space=-{text_len}em><voffset=-0.8em>{"・"*text_len}</voffset>"
+            new_text = f"<nobr>{text}</nobr><space=-{text_len}em><voffset=-0.8em>{"・"*text_len}</voffset>"
             s = s.replace(found[0], new_text)
 
     allowed_cmds = [

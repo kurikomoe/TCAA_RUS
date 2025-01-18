@@ -56,6 +56,8 @@ commands = {
 
     # StartArgument "Merchant" 2
     "StartArgument": [1, ],
+
+    "CorneredWitness": [1, ],
 }
 
 def extractor(op: List[str], pos: List[int]):

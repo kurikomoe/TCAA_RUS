@@ -4300,7 +4300,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-660",
     "original": "Celeste: There's a trace of [b]transmutation[/b] magic under the bed.",
-    "translation": "Celeste: 床底下有形变魔法的痕迹。",
+    "translation": "Celeste: 床底下有[b]形变术[/b]的魔法痕迹。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Examine_BeatriceRoom1-660\",\n  \"keywords\": []\n}"
   },
@@ -24054,50 +24054,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3687",
     "original": "Judge: I'll be passing my verdict shortly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我很快就会下达判决。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End-3687\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3688",
     "original": "Celeste: Hey...[p/] Are you okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嘿……[p/]你还好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3688\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3689",
     "original": "Tyrion: Yeah...[p/] As okay as I [i]can[/i] be.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 还好……[p/]也<u>只有</u>还好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3689\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3690",
     "original": "You still feel uneasy about how things turned out.[p/] It doesn't feel quite like the victory you were hoping for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你依然对事态的发展感到不安。[p/]这和你所期待的胜利不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3690\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3691",
     "original": "You fought against the demons...[p/] And you can't help but feel like you lost.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你赢过了恶魔……[p/]但感觉却像是输了一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3691\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3692",
     "original": "Ruby: ...Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……卡斯伯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3692\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3693",
     "original": "Ruby: We need to talk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我们得谈谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3693\",\n  \"keywords\": []\n}"
   },
   {
@@ -24110,36 +24110,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3695",
     "original": "Ruby: ...What's done is done.[p/] But the Boss isn't going to take kindly to what you've done today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……覆水难收。[p/]但头目不会对你今天的所作所为善罢甘休。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3695\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3696",
     "original": "Ruby: I know it's a long shot.[p/] But maybe if you talk to him,[p/] he'll-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我知道可能很勉强，[p/]但如果你能和他谈谈，[p/]他会——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3696\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3697",
     "original": "Tyrion: No.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3697\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3698",
     "original": "Ruby: Cuthbert![p/][s/] This is serious![p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 卡斯伯特！[p/][s/]这很严肃！[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3698\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3699",
     "original": "Ruby: He's [i]going[/i] to send people after you![p/] [i]Dangerous[/i] people.[p/] You can't just [i]ignore[/i] this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 他<u>会</u>派人来追杀你！[p/]而且是很<u>危险</u>的人。[p/]你不能就这么<u>无视</u>这一点！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3699\",\n  \"keywords\": []\n}"
   },
   {
@@ -24152,155 +24152,155 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3701",
     "original": "Eris: How old were you when your [i]real[/i] mother was executed?[p/] Ten years old?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你在自己的<u>生母</u>被处决时多大？[p/]十岁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End2-3701\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3702",
     "original": "Eris: Tymora was the adult in that situation,[p/] and what did she do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 泰摩拉是成年人，[p/]她当时做了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3702\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3703",
     "original": "Eris: She fed your anger and hatred for the nobility,[p/] instead of allowing you to process your grief healthily.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她没有让你正确处理自己的悲伤，[p/]反而给你灌输对贵族的愤怒与恨意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3703\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3704",
     "original": "Eris: Tymora took you away from your only friends and isolated you from society.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 泰摩拉把你从唯一的朋友们身边带走，让你与世隔离。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3704\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3705",
     "original": "Eris: As a result,[p/] you never formed any other relationships.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 结果就是，[p/]你没能建立其他人际关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3705\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3706",
     "original": "Eris: She isolated you because she wanted to use you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她把你孤立就是为了利用你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3706\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3707",
     "original": "Ruby: Please just listen to me and-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 请听我说——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3707\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3708",
     "original": "Tyrion: Shut.[p/][p/] Up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 住。[p/][p/]嘴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3708\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3709",
     "original": "Celeste: Tyrion...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3709\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3710",
     "original": "Tyrion: How could you do this...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么能这么做……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3710\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3711",
     "original": "Tyrion: How could you work with [i]criminals[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么能与<u>罪犯</u>同流合污？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3711\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3712",
     "original": "Ruby: Cuthbert...[p/] I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 卡斯伯特……[p/]我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3712\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3713",
     "original": "Tyrion: [i]Everything[/i] you told me![p/][s/] All those ideals about protecting the weak!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你告诉我的<u>所有事</u>！[p/][s/]那些要保护弱者的理想！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3713\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3714",
     "original": "Tyrion: It was all a lie!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 都只是谎言！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3714\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3715",
     "original": "Tyrion: Everything Commander White said about you is true, isn't it?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 怀特指挥官对你的评价都是真的，是不是？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3715\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3716",
     "original": "Ruby: I'm just trying to-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我只是想——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3716\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3717",
     "original": "Tyrion: I don't [i]want[/i] your help!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我<u>不想要</u>你的帮助！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3717\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3718",
     "original": "As you yell at her,[p/] your voice echoes throughout the lobby.[p/] Several of the people nearby turn silent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你对着她大喊，[p/]吼声响彻大厅。[p/]旁边的几个人都被吓得沉默。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3718\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3719",
     "original": "Tyrion: I gave up [s/][i]everything[/i] for you![p/][s/] My childhood![p/][s/] My home![p/][s/] My happiness!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我因为你放弃了<u>一切</u>！[p/][s/]我的童年！[p/][s/]我的家！[p/][s/]我的快乐！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3719\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3720",
     "original": "Tyrion: I left it all behind to chase the ideal that [i]you[/i] told me you were fighting for!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为了追逐<u>你</u>说自己在为之奋斗的理想，我放弃了一切！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3720\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3721",
     "original": "Tyrion: But it was never real, was it?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但都是假的，是不是？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3721\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3722",
     "original": "Tyrion: You made me throw away [i]everything[/i]![p/][s/] [i]All[/i] for a god-damned lie!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你让我放弃了<u>一切</u>！[p/][s/]<u>就为了</u>一个该死的谎言！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3722\",\n  \"keywords\": []\n}"
   },
   {
@@ -24313,85 +24313,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3724",
     "original": "Tyrion: But I'll make it real.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我会让理想成真。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3724\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3725",
     "original": "Tyrion: ...And I'll do it without you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……也不需要你的帮忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End4-3725\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3726",
     "original": "Ruby: Tyrion...[p/][s/] I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂……[p/][s/]我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3726\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3727",
     "original": "As she reaches her hand out to you,[p/] you step away from her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她向着你伸出手，[p/]但你后退一步躲开了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3727\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3728",
     "original": "Tyrion: You never cared about me, did you...?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你根本没关心过我，是吧……？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3728\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3729",
     "original": "Tyrion: ...All you cared about was using the Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你关心的只有利用荷鲁斯之眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3729\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3730",
     "original": "Ruby: That's not-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3730\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3731",
     "original": "Tyrion: Shut up![p/][s/] I don't want to hear [i]any[/i] more of your damn lies!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 闭嘴！[p/][s/]我不想再听你撒谎连篇！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3731\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3732",
     "original": "Tyrion: Go away![p/][s/] Get the [i]hell[/i] away from me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 走开！[p/][s/]给我<u>滚开</u>！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3732\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3733",
     "original": "Tyrion: I [i]never[/i] want to see you again!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我<u>永远</u>不想再见到你！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3733\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3734",
     "original": "Without a word,[p/] she walks away from you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她一语不发走开了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3734\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3735",
     "original": "Celeste: Tyrion...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3735\",\n  \"keywords\": []\n}"
   },
   {
@@ -24404,64 +24404,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3737",
     "original": "She reaches out her hand to hold yours again.[p/] But she hesitates this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她想再握住你的手，[p/]但这次她迟疑了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End5-3737\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3738",
     "original": "Eris: Do you honestly think Celeste will ever love you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你真以为塞莱斯特会爱上你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3738\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3739",
     "original": "Eris: I'm sure you understand now.[p/] Tymora can only afford to pay her exorbitant salary because of my father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你现在肯定明白了。[p/]泰摩拉支付给她的高额薪水其实都来自我父亲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3739\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3740",
     "original": "Eris: You've already burned that bridge.[p/] So where do you think the Crimson Demon will go when you can't afford her services anymore?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 但你已经和她恩断义绝。[p/]猩红恶魔凭什么觉得你还能付得起她的工资？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3740\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3741",
     "original": "Eris: Do you think she has the luxury of playing around with you for [i]free[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你真觉得她会<u>免费</u>陪你四处胡闹？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3741\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3742",
     "original": "Eris: Or did you actually think that she [i]enjoys[/i] spending time with you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 还是你以为她很<u>喜欢</u>和你共度的时光？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3742\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3743",
     "original": "Eris: Tyrion.[p/] You have to look at this rationally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 提利昂。[p/]理性思考一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3743\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3744",
     "original": "Eris: Any support or affection that she's given you has only been to keep you as an employer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她对你表现过的支持或亲密，都是为了让你继续雇佣她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3744\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3745",
     "original": "...",
-    "translation": "",
-    "stage": 0,
+    "translation": "……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3745\",\n  \"keywords\": []\n}"
   },
   {
@@ -24474,78 +24474,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3747",
     "original": "Tyrion: No.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3747\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3748",
     "original": "Eris: What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3748\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3749",
     "original": "Celeste: I can’t believe it…[p/][s/] We actually won!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 难以置信……[p/][s/]我们真的胜诉了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3749\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3750",
     "original": "Celeste: T-[p/][s/]Tyrion…[p/][s/] I…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提、[p/][s/]提利昂……[p/][s/]我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3750\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3751",
     "original": "Tyrion: Celeste.[p/] There’s no way for you to avoid checkmate next turn.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特，[p/]无论你怎么下，也逃不开下一回合被将死的命运。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3751\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3752",
     "original": "Tyrion: Just surrender…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别垂死挣扎了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3752\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3753",
     "original": "Celeste: There![p/][s/] What about that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看招！[p/][s/]知道厉害了吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3753\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3754",
     "original": "Tyrion: …Checkmate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……将军。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3754\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3755",
     "original": "Celeste: Damn it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 可恶！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3755\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3756",
     "original": "Celeste: You've been acting weird since we arrived in Aurinax.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 自从我们到欧奥奈克斯后，你就变得奇怪起来了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3756\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3757",
     "original": "Celeste: ...Does it have something to do with your mother?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……是不是和你的母亲有关？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3757\",\n  \"keywords\": []\n}"
   },
   {
@@ -24558,15 +24558,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3759",
     "original": "Celeste: Please.[p/] Just talk to me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 拜托了，[p/]告诉我吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3759\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3760",
     "original": "Celeste: I'm...[p/] your friend,[p/] aren't I?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我是……[p/]你的朋友，[p/]对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3760\",\n  \"keywords\": []\n}"
   },
   {
@@ -24579,8 +24579,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3762",
     "original": "Your hands are trembling.[p/] Why are you so scared right now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你的双手在颤抖。[p/]为什么现在会这么害怕？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3762\",\n  \"keywords\": []\n}"
   },
   {
@@ -24593,99 +24593,99 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3764",
     "original": "You feel Celeste hold your trembling hand from behind you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你感到塞莱斯特从后方握住了你颤抖的手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3764\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3765",
     "original": "It's the same sensation you felt back then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "和你当时的感觉一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3765\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3766",
     "original": "Your anxiety fades and you take a deep breath.",
-    "translation": "",
-    "stage": 0,
+    "translation": "焦虑渐渐褪去，你深吸了一口气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3766\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3767",
     "original": "Tyrion: ...I'm not going to do that, Ms. Tymora.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我不会这么做，泰摩拉女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End7-3767\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3768",
     "original": "As she hesitates to hold your hand,[p/] you reach out and grasp it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她犹豫不决，[p/]于是你先一步握住了她的手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3768\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3769",
     "original": "She smiles as you take hold of it.[p/] She seems glad you didn't pull away this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她对你绽放出一个微笑，[p/]似乎很高兴你这次没有躲开。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3769\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3770",
     "original": "...Without thinking,[p/] you pull her into a hug.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……没有多想，[p/]你把她拉到怀里抱住。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3770\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3771",
     "original": "Celeste: H-[p/][s/]Huh?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 呜、[p/][s/]呜哦？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3771\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3772",
     "original": "Tyrion: ...Sorry.[p/] I just really need this right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……抱歉。[p/]我现在真的很需要这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3772\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3773",
     "original": "Tyrion: Should I stop?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我该住手？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3773\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3774",
     "original": "Celeste: N-[p/][s/]No...[p/] It's just...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不、[p/][s/]不是……[p/]只是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3774\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3775",
     "original": "Celeste: People are staring at us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别人都看着呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3775\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3776",
     "original": "Tyrion: Who cares what they think?[p/] They're nobles.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 谁管他们怎么想？[p/]一群贵族而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3776\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3777",
     "original": "Tyrion: They're going to hate us no matter what we do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不管我们做什么都会讨厌我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3777\",\n  \"keywords\": []\n}"
   },
   {
@@ -24698,15 +24698,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3779",
     "original": "You're still unsure of what you're going to do next...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你依然不确定自己下一步要做什么……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3779\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3780",
     "original": "But perhaps you don't need to.[p/] Even if Tymora's ideal was a lie.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但你还不需要立刻决定。[p/]即使泰摩拉的理想是个谎言。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3780\",\n  \"keywords\": []\n}"
   },
   {
@@ -24719,925 +24719,925 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3782",
     "original": "Tyrion: Hey, Celeste.[p/] There's been something I've been wanting to tell you about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 欸，塞莱斯特。[p/]我一直有事想告诉你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3782\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3783",
     "original": "Celeste: O-[p/][s/]Oh?![p/][s/] U-[p/][s/]Um...[p/] What is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 喔、[p/][s/]喔？！[p/][s/]呃、[p/][s/]呃……[p/]什么事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3783\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3784",
     "original": "Tyrion: It's hard to explain really...[p/] I don't even know where to begin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 很难解释……[p/]我都不确定从何说起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3784\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3785",
     "original": "Tyrion: But it's about an ability I have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我有一种特殊能力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3785\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3786",
     "original": "Tyrion: I call it the Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我称为荷鲁斯之眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3786\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3787",
     "original": "Even if that ideal was a lie,[p/] you have the power to make it real.",
-    "translation": "",
-    "stage": 0,
+    "translation": "即使理想是个谎言，[p/]你也有能使其成真的力量。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3787\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3788",
     "original": "And even if you can't trust Tymora anymore,[p/] you have people in your life that you [i]can[/i] trust.",
-    "translation": "",
-    "stage": 0,
+    "translation": "即使你已经不再相信泰摩拉，[p/]你也有其他<u>可以</u>相信的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3788\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3789",
     "original": "Eyetaker: What a [i]fine[/i] mess this is...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 真是<u>一团糟</u>……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3789\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3790",
     "original": "Eyetaker: That kid has completely and [i]utterly[/i] ruined everything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 这小子真是<u>彻彻底底</u>毁了一切。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3790\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3791",
     "original": "Eyetaker: ...As much as Tymora hates it,[p/] we're going to need to put him in the ground.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……虽然泰摩拉不乐意，[p/]但我们还是得把他做掉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3791\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3792",
     "original": "Eris: I don't think that will be necessary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我觉得没有这个必要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3792\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3793",
     "original": "Eyetaker: Sorry, Love.[p/] I know you're fond of him,[p/] but I can't let an insult like this go unanswered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 不好意思，宝贝。[p/]我知道你很喜欢他，[p/]但我不能被侮辱后就这么算了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3793\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3794",
     "original": "Eyetaker: He's going to have to pay the price.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 他需要付出代价。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3794\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3795",
     "original": "Eris: I think you've misunderstood me, \"father\".[p/] I meant that this facade is no longer necessary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你误会我了，“父亲”。[p/]我是说没必要维持伪装了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3795\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3796",
     "original": "Eyetaker: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3796\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3797",
     "original": "Eyetaker: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3797\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3798",
     "original": "Eyetaker: What...?[p/][s/] What the hell?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 什么……？[p/][s/]搞什么鬼？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3798\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3799",
     "original": "Eris: Is something wrong, \"father\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 有事吗，“父亲”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3799\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3800",
     "original": "Eyetaker: Who...[p/][s/] Who the hell are you?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你……[p/][s/]你丫是谁？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3800\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3801",
     "original": "Eyetaker: You look [i]nothing[/i] like my daughter![p/] So, why-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你看起来<u>一点</u>不像我的女儿！[p/]那为什么——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3801\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3802",
     "original": "Eris: It happened centuries ago,[p/] I believe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 大概几世纪前吧，[p/]我想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3802\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3803",
     "original": "Eris: Your great-ancestor hated the monarchy and needed a weapon to fight the mages of the noble house.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你的先祖痛恨君主政体，需要武器来对抗贵族的法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3803\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3804",
     "original": "Eris: So he made a pact with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 于是他和我签订了契约。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8a-3804\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3805",
     "original": "Eyetaker: W-[p/][s/]What are you talking about?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你、[p/][s/]你在胡说什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3805\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3806",
     "original": "Eris: But things didn't turn out like he wanted, I'm afraid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 但很不幸，事态发展没有如他所愿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3806\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3807",
     "original": "Eris: Poor Lord Leiran's plot was discovered,[p/] and his noble house was stripped of its rank and status.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 可怜的雷兰勋爵阴谋暴露，[p/]一大家子都被剥夺了贵族地位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3807\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3808",
     "original": "Eris: His very name was stricken from the annals of history.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 他的名字也被彻底从历史记录中抹除。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3808\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3809",
     "original": "Eris: ...He was [i]supposed[/i] to give me Wyverngarde.[p/] But I had to settle for claiming his bloodline.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……他<u>本应</u>把维文加德献给我。[p/]但我只能退而求其次，接受他的子孙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3809\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3810",
     "original": "Eyetaker: \"Leiran...\"?[p/] H-[p/][s/]How do you know about my name?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: “雷兰”……？[p/]你、[p/][s/]你怎么知道我的姓氏？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3810\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3811",
     "original": "Eyetaker: [i]No one[/i] knew about that name![p/][s/] Not even my [i]real[/i] daughter!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: <u>没人</u>知道这个姓氏！[p/][s/]就连我的<u>亲生</u>女儿都不知道！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3811\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3812",
     "original": "Eris: I know it's been centuries.[p/] But I haven't forgotten, Jon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 也许已经过去几个世纪，[p/]但我从未忘记，琼恩。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3812\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3813",
     "original": "Eris: Everyone in your bloodline belongs to me,[p/][s/] [i]including[/i] your daughter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你的所有血亲都属于我，[p/][s/]<u>包括</u>你的女儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3813\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3814",
     "original": "Eyetaker: You bastard![p/][s/] What did you do to her?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 畜生！[p/][s/]你把她怎么了？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3814\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3815",
     "original": "Eris: What I do to all my prey.[p/] I made her suffer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 和我对其他猎物做的一样：[p/]我让她承受痛苦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3815\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3816",
     "original": "Eyetaker: No...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 不……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3816\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3817",
     "original": "Eris: Did you know that she was crying out for you for months?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你知道她哭着喊了你几个月吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3817\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3818",
     "original": "Eris: I made her watch, you know.[p/] I made her watch as I took her place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我让她看了，[p/]我让她亲眼见证自己的位置是怎么被我夺走的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3818\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3819",
     "original": "Eris: All while the \"father\" that she so desperately called out for forgot who she was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 而她苦苦哀求的“父亲”已经忘了她是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3819\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3820",
     "original": "Eris: All while my minions slowly and painfully tore her soul apart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我的仆从们缓慢地撕裂她的灵魂，让她痛苦不堪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3820\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3821",
     "original": "Eyetaker: You...[p/][s/] You monster!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你……[p/][s/]你这怪物！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3821\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3822",
     "original": "Eyetaker: You goddamned monster!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你这该死的怪物！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3822\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3823",
     "original": "Eris: I enjoyed her torment while it lasted...[p/] But even [i]that[/i] couldn't satisfy me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我很享受折磨她的过程……[p/]但就连<u>这</u>也满足不了我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3823\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3824",
     "original": "Eris: What I [i]really[/i] crave is the blood of a celestial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我<u>真正</u>想要的是天人的血。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3824\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3825",
     "original": "Eyetaker: [i]That's[/i] what this is about?![p/][s/] That stupid kid?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 就为了<u>这个</u>？！[p/][s/]这个蠢小子？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3825\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3826",
     "original": "Eris: But I can't have you kill my dear Tyrion just yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 但我现在还不能让你干掉亲爱的提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3826\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3827",
     "original": "Eris: At least not until [i]I'm[/i] done with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 至少得等<u>我</u>玩够。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3827\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3828",
     "original": "Eyetaker: You goddamned demon![p/] I'll kill you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你这天杀的恶魔！[p/]我要杀了你！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End9-3828\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3829",
     "original": "Eris: This man is your enemy.[p/] Your life's goal is[p/] and always has been to exact revenge on him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 这个男人就是你的敌人。[p/]你人生唯一的目标就是[p/]对他复仇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3829\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3830",
     "original": "Eyetaker: W-[p/][s/]What the [i]hell[/i] are you talking about?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你、[p/][s/]你在说什么<u>鬼话</u>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3830\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3831",
     "original": "Knight: You![p/][s/] I lost [i]everything[/i] because of you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: 你！[p/][s/]我因为你失去了<u>一切</u>！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3831\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3832",
     "original": "Knight: They kicked me out of the Inquisition because of your false testimony!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Knight: 都因为你证言有误，我被裁判所开除了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3832\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3833",
     "original": "Eyetaker: W-[p/][s/]What...?[p/] L-[p/][s/]Let go of me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 什、[p/][s/]什么……？[p/]放、[p/][s/]放开我！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3834",
     "original": "Merchant: Y-[p/][s/]You...[p/] You killed my entire family!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Merchant: 你、[p/][s/]你……[p/]你杀了我全家！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3835",
     "original": "Merchant: I won't let you get away with this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Merchant: 我不会让你跑掉的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3836",
     "original": "Eyetaker: W-[p/][s/]What are you talking about?![p/][s/] I didn't do anything!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你、[p/][s/]你胡说什么？！[p/][s/]我什么都没做！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3837",
     "original": "Townsfolk: Hey...[p/] Isn't that the noble who killed all those children?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Townsfolk: 喂……[p/]那个人不就是屠杀幼儿的贵族？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3838",
     "original": "Townsfolk: I heard he got released by paying off the judge!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Townsfolk: 我听说他通过贿赂法官而无罪释放！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3838\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3839",
     "original": "Eyetaker: What are you all talking about?![p/][s/] Get away from me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你们都在说什么？！[p/][s/]给我滚开！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3840",
     "original": "Townsfolk: Don't lie to us![p/][s/] We know what you did!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Townsfolk: 休想骗我们！[p/][s/]我们知道你的行径！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3841",
     "original": "Eyetaker: N-[p/][s/]No...[p/][s/] Stay away!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 不、[p/][s/]不……[p/][s/]别过来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3841\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3842",
     "original": "Eyetaker: AGGGGGGGGGGGGGGGGH!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 啊啊啊啊啊啊啊啊啊啊啊啊啊啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3842\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3843",
     "original": "Eris: We've finally entered the final act,[p/] my dearest Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 终于要开始最后一幕了，[p/]我亲爱的提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3844",
     "original": "Eris: And from what I've seen,[p/] I think I know [i]exactly[/i] how I'm going to break you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 根据我的所见所闻，[p/]我已经知道<u>怎么</u>让你崩溃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3845",
     "original": "Eris: I hope you're just as excited as I am.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 希望你也和我一样激动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End10-3845\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3846",
     "original": "Ms. Tymora leads you out of the courthouse and into the city.",
-    "translation": "",
-    "stage": 0,
+    "translation": "泰摩拉女士带你离开法庭，走进城市。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3846\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3847",
     "original": "Every time you ask her where she's taking you,[p/] she avoids answering your question.",
-    "translation": "",
-    "stage": 0,
+    "translation": "每次你问她要去哪里，[p/]她都只会避而不答。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3848",
     "original": "Ruby: Alright...[p/] We're here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 好了……[p/]我们到了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3848\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3849",
     "original": "You arrive at an empty alley in the frankly seedier part of the city.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你们抵达了城市偏僻区域的一条空巷。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3849\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3850",
     "original": "As Ms. Tymora approaches one of the derelict buildings,[p/] she's met with a large burly man who's guarding the backdoor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "泰摩拉女士走近其中一座废弃的建筑，[p/]停在一个高大粗鲁，正看守着后门的男人面前。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3851",
     "original": "The man silently acknowledges her and steps aside to let her in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "男人沉默地看了她一眼，闪身让她进入。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3851\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3852",
     "original": "Tyrion: ...Ms. Tymora?[p/] Where are we going?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……泰摩拉女士？[p/]我们要去哪儿？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3852\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3853",
     "original": "Ruby: I'm sorry about this...[p/] I'm sure you're confused.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我很抱歉……[p/]你一定很困惑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3854",
     "original": "Ruby: But please trust me.[p/] I'll explain everything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但请相信我。[p/]我会解释清楚的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3854\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3855",
     "original": "Before you have a chance to ask for more information,[p/] she moves into the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你还没来得及提出更多问题，[p/]她就进入了建筑物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3855\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3856",
     "original": "The man guarding the door looks at you expectantly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "守门的男人翘首看向你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3856\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3857",
     "original": "The entire situation doesn't sit right with you.[p/] But you still continue to follow her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你觉得现况哪里不对劲，[p/]但还是跟随她前行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3857\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3858",
     "original": "Despite your recent disagreements,[p/] you know that you can trust her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然最近有过争议，[p/]但你知道自己可以相信她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3858\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3859",
     "original": "As you head further into the building,[p/] you find yourself in a surprisingly well-furnished room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "进到建筑物深处后，[p/]你发现自己身处装潢奢华的房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3860",
     "original": "From how it looked outside,[p/] you would have never guessed that it would look like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "只看建筑外表的话，[p/]你绝对猜不到里面会别有洞天。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3861",
     "original": "It almost looks like a room that you'd encounter in the Frega Manor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来和弗雷加庄园里会有的房间相差无几。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3861\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3862",
     "original": "As you enter the room,[p/] you spot several mercenaries standing at various points in the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "进入房间后，[p/]你看到屋内各处都站着雇佣兵。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3863",
     "original": "...And most surprisingly you see Eris standing at the end of the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……最令你惊讶的是，厄莉斯也站在房间另一端。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3864",
     "original": "You give her a confused look,[p/] but she simply smiles and waves at you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你向她投去困惑的眼神，[p/]但她只是微笑着向你招手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3865",
     "original": "Sitting at a desk next to her,[p/] you see a man with an eyepatch.[p/] It looks like he's been expecting you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在她旁边的桌子上，[p/]坐着一个戴了眼罩的男人。[p/]他似乎已经等候你多时。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3865\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3866",
     "original": "Eyetaker: Ah, Tymora.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 啊，泰摩拉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3867",
     "original": "Upon seeing you two,[p/] he cordially welcomes Ms. Tymora before turning his attention to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看到你们两个以后，[p/]他热情地欢迎了泰摩拉女士，然后才把注意力转到你身上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3867\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3868",
     "original": "Eyetaker: And [i]you[/i] must be Tyrion.[p/] Tymora has told me a lot about you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: <u>你</u>一定就是提利昂了。[p/]泰摩拉对我说了很多你的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3869",
     "original": "Tyrion: I-[p/][s/]I see...[p/] But who are you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我，[p/][s/]我明白了……[p/]但你是谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3869\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3870",
     "original": "Eyetaker: Hm...[p/] I've been called many names over the years.[p/] But my favorite has always been \"The Eyetaker\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 嗯……[p/]这些年里我有过很多不同的名字。[p/]但我最喜欢的一直是“夺眼者”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene2-3870\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3871",
     "original": "Tyrion: The Eyetaker...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 夺眼者……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3871\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3872",
     "original": "Eyetaker: From the sounds of it,[p/] you've already heard of me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 听起来，[p/]你听说过我的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3872\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3873",
     "original": "Tyrion: ...Ms. Tymora.[p/] What is this...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……泰摩拉女士。[p/]这是……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3873\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3874",
     "original": "Ruby: I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3874\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3875",
     "original": "Eyetaker: My daughter Eris has told me all about your work prosecuting this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我女儿厄莉斯跟我说了你作为检方办理此案的功绩。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3875\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3876",
     "original": "She's his [i]daughter[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "她是他的<u>女儿</u>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3876\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3877",
     "original": "Eyetaker: But I have to say,[p/] I'm quite impressed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我得承认，[p/]真是叹为观止。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3877\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3878",
     "original": "Eyetaker: Getting a [i]monkey[/i] to testify?[p/][s/] I don't think [i]I[/i] could even pull off a grift like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 让一只<u>猴子</u>作证？[p/][s/]就连<u>我</u>都不敢这么招摇撞骗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3878\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3879",
     "original": "Eyetaker: You've pretty much blown past my expectations.[p/] Why I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你真是完全超出我的预期。[p/]我为什么——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3879\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3880",
     "original": "Tyrion: Get to the point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有话直说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3880\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3881",
     "original": "As soon as you interrupt him,[p/] you feel every person in the room tense up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你一打断他，[p/]房间里的所有人就都紧张起来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3881\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3882",
     "original": "You don't even need the Eye to know that your interruption put them on edge.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你都无需动用荷鲁斯之眼，就能知道你的行为让他们提心吊胆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3882\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3883",
     "original": "Eyetaker: ...Relax, everyone.[p/] Kids will be kids.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……大家都放松。[p/]小孩子脾性而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3883\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3884",
     "original": "Eyetaker: I'm a father myself, you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我也是当爸的人，你懂吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3884\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3885",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3885\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3886",
     "original": "Eyetaker: Anyways,[p/] I'll get straight to the point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 总之，[p/]那我就直说了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3886\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3887",
     "original": "Eyetaker: I have a certain interest in the outcome of this trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 这次庭审的结果与我有点利益相关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3887\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3888",
     "original": "Tyrion: ...What are you talking about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你在说什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3888\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3889",
     "original": "Eyetaker: Little Lady Frega has been a client of ours for a long time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 弗雷加小姐是我们的老主顾了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3889\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3890",
     "original": "Eyetaker: I've done quite a lot of favors for her.[p/] And the time has finally come for me to collect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我给她帮了不少忙。[p/]终于轮到我来获益了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3890\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3891",
     "original": "Tyrion: Those debts that Steelwind mentioned...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德提到的债务……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3891\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3892",
     "original": "Eyetaker: They all belong to me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 债主都是我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3892\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3893",
     "original": "Eyetaker: But there's no need to worry.[p/] I know she's good for it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 但没必要担心。[p/]我清楚她本领过人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3893\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3894",
     "original": "Eyetaker: That is...[p/] [i]if[/i] she can inherit House Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 但是……[p/]<u>前提</u>是她能继承弗雷加家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene3-3894\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3895",
     "original": "Tyrion: What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3895\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3896",
     "original": "Eyetaker: Tymora's a good attorney.[p/] Even [i]without[/i] my help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 即使<u>没有</u>我的帮助，[p/]泰摩拉也是个优秀的律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3896\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3897",
     "original": "Eyetaker: If she's convicted,[p/] we could easily reduce her sentence by rubbing the right hands.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 即使她被定罪了，[p/]我们也可以轻松托关系减刑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3897\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3898",
     "original": "Eyetaker: But, you see...[p/][s/] There's that pesky Slayer Rule.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 但是，你看……[p/][s/]法律中有一条“杀人者规则”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3898\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3899",
     "original": "Eyetaker: The thing is, Cuthbert,[p/] I [i]need[/i] Beatrice Frega to be acquitted in the current trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 卡斯伯特，重点在于，[p/]我<u>需要</u>弗雷加在本次审理中被判无罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3899\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3900",
     "original": "Tyrion: So [i]that's[/i] what this is about?[p/][s/] House Frega's gold?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 弗雷加家的财产？！[p/][s/]就为了<u>这个</u>？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3900\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3901",
     "original": "Tyrion: That's why you helped her [i]murder[/i] William Frega?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你就为了这个帮她<u>杀害了</u>威廉·弗雷加？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3901\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3902",
     "original": "Eyetaker: Please.[p/] My goals aren't nearly so short-sighted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 拜托。[p/]我才不会这么急功近利。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3902\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3903",
     "original": "Eyetaker: I have big plans.[p/] Not just for Beatrice but for this entire kingdom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我有远大的计划。[p/]不只是为比亚特丽丝，而是整个王国。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3903\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3904",
     "original": "Eyetaker: And I need House Frega for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 为了这个计划，我需要获得弗雷加家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3904\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3905",
     "original": "Tyrion: ...Just like you \"needed\" Justin Waye?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……就和你“需要”贾斯汀·维耶一样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3905\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3906",
     "original": "Ruby: Tyrion!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3906\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3907",
     "original": "Eyetaker: Ah, Justin.[p/] It's really a shame what happened to him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 啊，贾斯汀。[p/]发生在他身上的事真是遗憾。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3907\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3908",
     "original": "Tyrion: Don't act so innocent...[p/][s/] He would have never tried to rob Dracogen if you didn't threaten him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别装无辜了……[p/][s/]要不是受你威胁，他根本不会去抢劫德拉科根。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3908\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3909",
     "original": "Eyetaker: Is that so?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3909\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3910",
     "original": "Eyetaker: Do you think I just randomly showed up on his doorstep one day,[p/] demanding gold?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你觉得是我突然有一天出现在他家门前，[p/]管他要钱？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3910\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3911",
     "original": "Eyetaker: [i]He[/i] was the one who came to [i]me[/i] for help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 是<u>他</u>主动找<u>我</u>寻求帮助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3911\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3912",
     "original": "Eyetaker: I just told him to pay back what he owed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我只是叫他欠债还钱而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3912\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3913",
     "original": "Eyetaker: If he hadn't come to me,[p/] it would have been some other criminal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 即使没来找我，[p/]他也会找其他罪犯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3913\",\n  \"keywords\": []\n}"
   },
   {
@@ -25650,106 +25650,106 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3915",
     "original": "Eyetaker: But that's beside the point.[p/] Enough about what I wanted from Justin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 但这跑题了。[p/]我和贾斯汀的事已经说得够多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3915\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3916",
     "original": "Eyetaker: Let's talk about what I want from you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 来说说我和你的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3916\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3917",
     "original": "Tyrion: You want me to throw the case?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你想让我放弃这个案子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene4-3917\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3918",
     "original": "Eyetaker: Ah, I love this kid![p/][s/] I don't have to beat around the bush with this one!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 哟呵，我喜欢这小子！[p/][s/]他不需要我兜圈子！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3918\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3919",
     "original": "Eyetaker: No one will doubt you.[p/] Especially considering the amount of work you put into this already.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 没有人会怀疑你。[p/]你已经为这案子尽心尽力了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3919\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3920",
     "original": "Eyetaker: You don't [i]need[/i] to do anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你<u>不需要</u>做任何事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3920\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3921",
     "original": "Eyetaker: ...Just take a dive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……只需要缴械投降。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3921\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3922",
     "original": "Tyrion: And let someone [i]else[/i] take the fall?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 让<u>其他人</u>承担罪责？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3922\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3923",
     "original": "Tyrion: No matter [i]what[/i] happens,[p/] the court [i]will[/i] blame someone for this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不管发生<u>什么</u>，[p/]法庭都<u>会</u>找到一个承担责任的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3923\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3924",
     "original": "Eyetaker: If it makes you feel better,[p/] I can assign Tymora to defend the old man [i]and[/i] his monkey.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 如果你能好受点，[p/]我可以安排泰摩拉为那个老头<u>与</u>他的猴子辩护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3924\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3925",
     "original": "Eyetaker: That way everyone can come out of this unharmed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 这样大家都能毫发无损。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3925\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3926",
     "original": "Eyetaker: Everyone wins.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 皆大欢喜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3927",
     "original": "Tyrion: ...Except for the fact that a [i]murderer[/i] will be put in charge of House Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……但<u>杀人犯</u>会接管弗雷加家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3927\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3928",
     "original": "Eyetaker: Please.[p/] As if that's [i]any[/i] worse than the people in charge of the other noble houses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 拜托。[p/]其他贵族家的领主也没有<u>好到哪里去</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3928\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3929",
     "original": "Eyetaker: If you recall,[p/] there's [i]already[/i] a murderer in charge of House von Sanctus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 好好想想，[p/]冯·桑克图斯家的领主<u>已经</u>是杀人犯了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3929\",\n  \"keywords\": []\n}"
   },
   {
@@ -25762,50 +25762,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3931",
     "original": "Eyetaker: They're [i]all[/i] dirty.[p/] You've seen it, haven't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 这些人<u>都</u>很肮脏。[p/]你不也亲眼见证过？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3931\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3932",
     "original": "Eyetaker: They rig the system.[p/] They pay, threaten, or even kill people to get their way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 他们操纵着整个社会的运转。[p/]贿赂、威胁、甚至直接杀死阻碍他们的的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3932\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3933",
     "original": "Eyetaker: All we're doing is...[p/] leveling the playing field.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我们所做的一切……[p/]就是让争斗环境更公平一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3933\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3934",
     "original": "Ruby: Tyrion,[p/] please.[p/] Just listen to him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂，[p/]拜托了。[p/]听他先说就好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3934\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3935",
     "original": "Tyrion: How can you just go along with this?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么能和这些家伙合作下去？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3935\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3936",
     "original": "Ruby: ...I told you a long time ago that there were certain parts of my job that I couldn't tell you about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……很早以前我就告诉过你，我有一部分工作是不能告诉你情况的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3936\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3937",
     "original": "Ruby: Well [i]this[/i] is it.[p/][s/] [i]This[/i] is what we need to do to beat them!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 而<u>这</u>就是那个工作。[p/][s/]<u>这些</u>都是我们为了打败他们需要去做的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3937\",\n  \"keywords\": []\n}"
   },
   {
@@ -25818,8 +25818,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3939",
     "original": "Tyrion: Those rumors about you.[p/] They're all true, aren't they...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那些关于你的传闻。[p/]它们都是真的，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene5-3939\",\n  \"keywords\": []\n}"
   },
   {
@@ -25832,141 +25832,141 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3941",
     "original": "Tyrion: Forgery.[p/] Bribery.[p/] Blackmail.[p/] You're guilty of each and every one of them...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 伪造、[p/]贿赂、[p/]勒索。[p/]你犯下了传言里的每一项罪行……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3941\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3942",
     "original": "Tyrion: And you used [i]him[/i] to do it![p/][s/] All so you could keep winning!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 并且你通过<u>他</u>来完成这一切！[p/][s/]难怪你能一直在法庭上获胜了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3942\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3943",
     "original": "Tyrion: You...[p/] [i]blackmailed[/i] Miriam, Ms. Tymora!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你……[p/]<u>胁迫</u>了米莉亚姆，泰摩拉女士！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3943\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3944",
     "original": "Ruby: Oh, as if we should show [i]any[/i] pity for that spoiled princess!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 哦，好像我们还应该对那个被宠坏的小公主<u>表示遗憾</u>似的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3944\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3945",
     "original": "A dreadful thought just entered your mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一个可怕的想法涌上你的心头。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3945\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3946",
     "original": "Tyrion: Steelwind...[p/] She was attacked the day that Beatrice was arrested...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德……[p/]她是在比亚特丽丝被捕的那天遭到攻击……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3946\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3947",
     "original": "Tyrion: Was that-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那难道是——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3947\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3948",
     "original": "Ruby: I-[p/][s/]I didn't [i]know[/i] that's what they were planning!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我、[p/][s/]我当时<u>不知道</u>他们计划这么干！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3948\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3949",
     "original": "Eyetaker: Despite my confidence in Tymora's skills,[p/] I'm afraid there was too much riding on this to leave to chance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 尽管我对泰摩拉的辩护技术很有信心，[p/]但恐怕这件事太过重要，不能给对方任何机会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3949\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3950",
     "original": "Eyetaker: You've got to make your own luck if you want to beat the system.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 如果你想要打倒这个体制，你就必须自己创造“好运”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3950\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3951",
     "original": "Tyrion: How could you?![p/][s/] She almost died!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么能？！[p/][s/]她差点就死了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3951\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3952",
     "original": "Eyetaker: We never expected her to strain her injuries like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我们也没预料到她会那样带伤上阵。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3952\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3953",
     "original": "Eyetaker: And we definitely didn't expect [i]you[/i] to take her place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 而我们也绝对预料不到<u>你</u>会接替她的位置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3953\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3954",
     "original": "Eyetaker: So believe me when I say,[p/] that I'm being [i]uncharacteristically[/i] reasonable right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 所以相信我这句话，[p/]我现在是<u>一反常态</u>地讲道理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3954\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3955",
     "original": "Tyrion: How...[p/][s/] How could you even [i]consider[/i] working with someone like him?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你怎么……[p/][s/]你怎么甚至能<u>考虑</u>和这样的人共事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3955\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3956",
     "original": "Eyetaker: Don't you think it's a little arrogant to judge her, Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你不认为这样评判她有些傲慢了吗，卡斯伯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3956\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3957",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3957\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3958",
     "original": "Eyetaker: You talk about defending people as if you two are even close to being equals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你谈论为人辩护的时候就好像你们处在平等的条件下一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3958\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3959",
     "original": "Eyetaker: But [i]she[/i] doesn't have the luxury of looking into people's minds,[p/] now does she?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 但是<u>她</u>可没有能够看穿别人心思的奢侈能力，[p/]不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3959\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3960",
     "original": "Tyrion: You...[p/][s/] You [i]told[/i] him about the Eye of Horus?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你……[p/][s/]你把荷鲁斯之眼的事情<u>告诉</u>了他？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene6-3960\",\n  \"keywords\": []\n}"
   },
   {
@@ -25979,92 +25979,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3962",
     "original": "Eyetaker: The future of magic is changing, kid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 魔法的未来是不断变化的，小子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3962\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3963",
     "original": "Eyetaker: Like I said before.[p/] I have big plans for this kingdom.[p/] And I also have big plans for [i]you[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 就如我前面说过的，[p/]关于这个王国我有个大计划。[p/]而关于<u>你</u>我也有个大计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3963\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3964",
     "original": "Tyrion: Do you think I would ever-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你还觉得我会——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3964\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3965",
     "original": "Ruby: Tyrion![p/][s/] Stop!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提利昂！[p/][s/]停下来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3965\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3966",
     "original": "Ruby: To be honest,[p/] I hate it as much as you do...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 说老实话，[p/]我和你同样憎恨这些事情……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3966\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3967",
     "original": "Ruby: But whether you like it or not,[p/][s/] we [i]need[/i] their help!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但不论你喜不喜欢，[p/][s/]我们<u>需要</u>他们的帮助！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3967\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3968",
     "original": "Tyrion: But this is-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但这是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3968\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3969",
     "original": "Ruby: Think about every client you defended![p/][s/] Think of Celeste!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 想想你辩护过的那些委托人！[p/][s/]想想塞莱斯特！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3969\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3970",
     "original": "Ruby: If you didn't have the Eye of Horus,[p/][s/] what would have happened to her?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 如果你没有荷鲁斯之眼，[p/][s/]她身上会发生什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3970\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3971",
     "original": "Ruby: If even [i]one[/i] thing went differently,[p/][s/] Pierce would have gotten away and Celeste would have been executed!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 只要任何一个<u>环节</u>出了偏差，[p/][s/]皮尔斯就会逃脱制裁而塞莱斯特就被处死了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3971\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3972",
     "original": "Ruby: You've taken chances and followed your instincts.[p/] And that's worked for you so far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你跟从自己的直觉，抓住机会，[p/]目前为止这都让你受益。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3972\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3973",
     "original": "Ruby: But what if it's not enough?[p/] What if the system is too corrupt for you to fight against next time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但如果这还不够的话会怎么样？[p/]如果下一次整个体制都腐坏到你根本没法战胜又会怎么样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3973\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3974",
     "original": "Ruby: With the Eyetaker's help,[p/] you'll never have to worry about that again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 有了夺眼者的协助，[p/]你再也不用担心这些问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3974\",\n  \"keywords\": []\n}"
   },
   {
@@ -26077,8 +26077,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3976",
     "original": "Ruby: If [i]I[/i] had accepted his help sooner,[p/] I could have saved your mother.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 如果<u>我</u>能更早接受他的帮助，[p/]我就可以救下你的母亲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3976\",\n  \"keywords\": []\n}"
   },
   {
@@ -26091,29 +26091,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3978",
     "original": "Eyetaker: So what's it going to be, kid?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 所以你现在要怎么选，小子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3978\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3979",
     "original": "Eyetaker: You already know about what happened to that Steelwind brat.[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你已经知道斯蒂尔文德家那个调皮的小孩现在是什么下场。[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3980",
     "original": "Eyetaker: So I don't need to tell [i]you[/i] what'll happen if you don't play ball.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 所以我应该不用再告诉<u>你</u>不愿意合作的话会发生什么事情吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3980\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3981",
     "original": "Ruby: W-[p/][s/]Wait!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 等、[p/][s/]等一下！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3981\",\n  \"keywords\": []\n}"
   },
   {
@@ -26126,127 +26126,127 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3983",
     "original": "Tyrion: No.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我拒绝。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene7-3983\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3984",
     "original": "Eyetaker: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3984\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3985",
     "original": "Tyrion: ...Maybe you're right.[p/] Maybe I [i]can't[/i] always win against the nobility unless I play dirty like they do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……或许你说得对。[p/]除非我和他们一样肮脏，我可能<u>做不到</u>每次都战胜那帮贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3985\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3986",
     "original": "Tyrion: But [i]this[/i]?[p/][s/] [i]This[/i] is wrong!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但<u>这种做法</u>？[p/][s/]<u>这</u>完全是错误的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3986\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3987",
     "original": "Ruby: T-[p/][s/]Tyrion!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 提、[p/][s/]提利昂！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3987\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3988",
     "original": "Tyrion: I'm [i]not[/i] going to compromise my principles.[p/] Not even for you, Ms. Tymora.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我<u>不会</u>妥协自己的原则。[p/]即使是为了你也不行，泰摩拉女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3988\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3989",
     "original": "Eyetaker: ...I'm sorry to hear you say that, kid.[p/] I really am.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……很遗憾听到你这么说啊，小子。[p/]我真的很遗憾。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3989\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3990",
     "original": "With one motion of his hand,[p/] every mercenary in the room draws their weapons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他做了个手势，[p/]房间里的所有佣兵都拿出了武器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3990\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3991",
     "original": "Ruby: P-[p/][s/]Please,[p/] you don't have to do this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 拜、[p/][s/]拜托，[p/]你没必要这么做！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3991\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3992",
     "original": "Whatever conviction you had before is slowly fading.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你之前所确信的一切都在慢慢消失。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3992\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3993",
     "original": "You should have never entered this place...[p/] You [i]knew[/i] something was off.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你根本不该进入这个房间……[p/]你知道出大问题了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3993\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3994",
     "original": "There are about a dozen mercenaries here...[p/] And there's even [i]more[/i] guarding the way out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这里有十来个佣兵……[p/]而把守出口的人手甚至<u>更多</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3994\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3995",
     "original": "You're nowhere near as physically strong as Celeste...[p/] But maybe you can make a break for it if you get lucky.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你远不如塞莱斯特强壮……[p/]但如果幸运的话你或许能逃出去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3995\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3996",
     "original": "Celeste: No.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这可不行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3996\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3997",
     "original": "Tyrion: C-[p/][s/]Celeste?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞、[p/][s/]塞莱斯特？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3997\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3998",
     "original": "Eyetaker: What the-?![p/][s/] How did you get in here?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 什么——？！[p/][s/]你怎么进来的？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3998\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3999",
     "original": "Celeste: My whole [i]job[/i] is keeping this guy safe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我的<u>工作</u>就是确保这个家伙的安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene8-3999\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4000",
     "original": "Celeste: Do you honestly think I'd just let you take him to an undisclosed location?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你真的觉得我会就这么让你把他带到一个秘密场所？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4000\",\n  \"keywords\": []\n}"
   },
   {
@@ -26259,113 +26259,113 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4002",
     "original": "Eyetaker: Hmph...[p/][s/] It doesn't matter.[p/][s/] As if one girl will make a difference.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 哼嗯……[p/][s/]也没关系。[p/][s/]好像多一个女孩子能有什么区别一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4002\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4003",
     "original": "Eyetaker: Well?[p/] What are you all waiting for?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 好吧？[p/]你们在等什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4003\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4004",
     "original": "Mercenaries: ...Is that really her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mercenaries: ……真的是她？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4004\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4005",
     "original": "Upon seeing Celeste,[p/] the mercenaries cautiously step back.[p/] No one wants to make the first move.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看到塞莱斯特，[p/]佣兵们谨慎地后退一步。[p/]没有人想第一个动手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4005\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4006",
     "original": "Mercenaries: This monstrous aura...[p/] It [i]has[/i] to be her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mercenaries: 这种怪物一样的气场……[p/]<u>一定</u>是她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4006\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4007",
     "original": "Eyetaker: What the hell are you doing?![p/] You have her surrounded!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 你们他妈的在磨叽什么？[p/]你们都把她包围了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4007\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4008",
     "original": "Despite his command,[p/] no one takes a step forward.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然他下了命令，[p/]但没人敢上前一步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4008\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4009",
     "original": "Ruby: L-[p/][s/]Look...[p/] Let's all just sit down and talk about this rationally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 这、[p/][s/]这样……[p/]我们都坐下来，理性地谈一谈这个问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4010",
     "original": "Eris: Perhaps a different approach is warranted here, Father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 或许得采用不同的方法，爸爸。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4010\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4011",
     "original": "Eyetaker: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4011\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4012",
     "original": "Eris: Could I have the opportunity to speak with Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我能有机会和卡斯伯特先生谈一谈吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4012\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4013",
     "original": "Eris: I believe [i]I[/i] can make him see things our way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我相信<u>自己</u>能让他站在我们的角度看待问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4013\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4014",
     "original": "Eyetaker: I'm sorry, sweetie. But I can't just[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 我很抱歉，宝贝。但我不能[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4014\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4015",
     "original": "Eyetaker: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4015\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4016",
     "original": "Eyetaker: Well...[p/] You've never been wrong before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 那好吧……[p/]你之前也从来没犯过错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4017",
     "original": "Eyetaker: I'll leave them to you, love.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eyetaker: 那我把他们交给你了，亲爱的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene9-4017\",\n  \"keywords\": []\n}"
   },
   {
@@ -26378,22 +26378,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4019",
     "original": "Eris: Shall we go, you two?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 两位，我们能开始了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4020",
     "original": "Celeste silently watches Eris with her sword drawn.[p/] But unlike the mercenaries,[p/] Eris seems unmoved.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特执剑在手，静静地看着厄莉斯。[p/]但与其他佣兵不同，[p/]厄莉斯看起来毫不动摇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4020\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4021",
     "original": "She merely walks past her and out the exit.[p/] You and Celeste exchange glances and follow after her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她仅仅从塞莱斯特边上走出了门。[p/]你和塞莱斯特交换了下眼神，然后跟在她后面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4021\",\n  \"keywords\": []\n}"
   },
   {
@@ -26413,22 +26413,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4024",
     "original": "Celeste: I don't think I could have fought that whole room while protecting you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不认为自己能在保护你的同时打过那间屋子的所有人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4025",
     "original": "...Does that mean she [i]could[/i] have fought them if she were alone?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她意思是她一个人的话<u>就能</u>打过他们所有人？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4026",
     "original": "Eris: You two are really courageous to a fault, aren't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris:  你们俩还真是勇气可嘉呀，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4026\",\n  \"keywords\": []\n}"
   },
   {
@@ -26441,148 +26441,148 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4028",
     "original": "Tyrion: Eris.[p/] I appreciate you vouching for us,[p/] but I'm not changing my mind about this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 厄莉斯。[p/]我感谢你为我们担保，[p/]但我不会因此改变主意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4028\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4029",
     "original": "Eris: Oh, I'm well aware of that.[p/] Why do you think I intervened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 噢，这我很清楚。[p/]你为什么觉得我会再来干预你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4029\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4030",
     "original": "Tyrion: O-[p/][s/]Oh.[p/] Well...[p/] thank you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哦、[p/][s/]噢，[p/]那么……[p/]谢谢你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4030\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4031",
     "original": "Celeste: Is this really okay?[p/] Won't your dad be mad?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这样真的好吗？[p/]你父亲不会很生气吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4032",
     "original": "Eris: I should be asking [i]Tyrion[/i] that same question.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 这个问题或许该问<u>提利昂</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4032\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4033",
     "original": "Eris: You've seen your adoptive mother's true colors and rejected them.[p/] How are the two of you going to move forward?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你见识了自己养母的本来面目并且拒不接纳。[p/]你们俩接下来如何前进呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4033\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4034",
     "original": "Tyrion: S-[p/][s/]She's not my-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她、[p/][s/]她才不是我的——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4034\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4035",
     "original": "Eris: Isn't she, though?[p/] She lost any right to deny it the moment she took it upon herself to raise you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 原来她不是吗？[p/]她决定抚养你的时候就已经失去了否认的权利。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4035\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4036",
     "original": "Tyrion: She only did that because I asked her to...[p/] It wasn't her choice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她只是因为我请求她才这么做的……[p/]这并不是她的选择。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4036\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4037",
     "original": "Eris: Oh, but it was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 噢，但那就是呀。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4038",
     "original": "Eris: How old were you when your [i]real[/i] mother was executed?[p/] Ten years old?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你的<u>亲生</u>母亲是在你几岁的时候被处决的？[p/]十岁吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4039",
     "original": "Celeste: Eris!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 厄莉斯！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4040",
     "original": "Eris: Back then you barely [i]knew[/i] Tymora.[p/] It would be a stretch to even call her a family friend.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你那时候还几乎<u>不认识</u>泰摩拉吧。[p/]甚至把她称作家人的朋友都牵强了一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4041",
     "original": "Eris: She was the adult in that situation,[p/] and what did she do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 泰摩拉是成年人，[p/]她当时做了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4042",
     "original": "Eris: She fed your anger and hatred for the nobility,[p/] instead of allowing you to process your grief healthily.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她没有让你正确处理自己的悲伤，[p/]反而给你灌输对贵族的愤怒与恨意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4042\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4043",
     "original": "Eris: Tymora took you away from your only friends and isolated you from society.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 泰摩拉把你从唯一的朋友们身边带走，让你与世隔离。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4043\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4044",
     "original": "Eris: She even homeschooled you, didn't she?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她甚至是在家里教育你的，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4044\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4045",
     "original": "Tyrion: T-[p/][s/]That's-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那、[p/][s/]那是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4046",
     "original": "Eris: As a result,[p/] you never formed any other relationships.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 结果就是，[p/]你没能建立任何其他的人际关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4047",
     "original": "Eris: You made your first close friend at the age of twenty...[p/] And she was your [i]client[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你二十岁才交到第一个密友……[p/]她还是你的<u>委托人</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4048",
     "original": "Eris: Don't you think that's a bit sad?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你不觉得这有点悲伤吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4048\",\n  \"keywords\": []\n}"
   },
   {
@@ -26595,225 +26595,225 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4050",
     "original": "Eris: She isolated you because she wanted to use you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她把你孤立就是为了利用你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4051",
     "original": "Tyrion: ...That's not true![p/][s/] That's not why she-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……这不是真的！[p/][s/]这不是她这么做的原因——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4052",
     "original": "Eris: From what I've seen today,[p/] you clearly have no idea who [i]Tymora[/i] is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 就我今天所见，[p/]你显然对<u>泰摩拉</u>是什么人没有概念。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4052\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4053",
     "original": "Eris: Even with the Eye of Horus,[p/] you're clearly a terrible judge of character.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 即使有荷鲁斯之眼，[p/]你识人的本事依然糟糕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4053\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4054",
     "original": "Celeste: Eris![p/][s/] You're going way too far!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 厄莉斯！[p/][s/]你说得太过火了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4054\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4055",
     "original": "Eris: To save you from more heartache,[p/] let me give you one last piece of advice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 为了不让你更加心痛，[p/]让我给你最后一个建议。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4055\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4056",
     "original": "Eris leans in really close to you and begins to whisper into your ear.",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯把身体靠得很近，开始向你耳语。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4056\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4057",
     "original": "Eris: Do you honestly think Celeste will ever love you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你真以为塞莱斯特会爱上你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4057\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4058",
     "original": "Tyrion: ...W-[p/][s/]What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什、[p/][s/]什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4058\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4059",
     "original": "Eris: I'm sure you understand now.[p/] Tymora can only afford to pay her exorbitant salary because of my father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你现在肯定明白了。[p/]泰摩拉支付给她的高额薪水其实都来自我父亲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4059\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4060",
     "original": "Eris: You've already burned that bridge.[p/] So where do you think the Crimson Demon will go when you can't afford her services anymore?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 但你已经和她恩断义绝。[p/]猩红恶魔凭什么觉得你还能付得起她的工资？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4060\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4061",
     "original": "Tyrion: N-[p/][s/]No...[p/] She's not-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不、[p/][s/]不是的……[p/]她才不——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4061\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4062",
     "original": "Eris: With Flinhart dead,[p/] she has to worry about her mother.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 弗林哈特也死了，[p/]她也不用担心自己的养母了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4062\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4063",
     "original": "Eris: Do you think she has the luxury of playing around with you for [i]free[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你真觉得她会<u>免费</u>陪你四处胡闹？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4063\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4064",
     "original": "Eris: Or did you actually think that she [i]enjoys[/i] spending time with you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 还是你以为她很<u>喜欢</u>和你共度的时光？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4064\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4065",
     "original": "Tyrion: I-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4065\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4066",
     "original": "Eris: Tyrion.[p/] You have to look at this rationally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 提利昂。[p/]理性思考一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4066\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4067",
     "original": "Eris: Any support or affection that she's given you has only been to keep you as an employer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她对你表现过的支持或亲密，都是为了让你继续雇佣她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4067\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4068",
     "original": "Tyrion: Y-[p/][s/]You seem to know a lot about these things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你、[p/][s/]你似乎对这些事情轻车熟路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4068\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4069",
     "original": "Celeste: I had to do a lot of networking when I was a mercenary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 毕竟我做雇佣兵时不得不进行大量的社交活动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4069\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4070",
     "original": "Celeste: Do you know how many times I had to charm a merchant into hiring me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 有不少次我都得施展魅力才能让商人雇用我，你知道吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4070\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4071",
     "original": "Tyrion: W-[p/][s/]Why...[p/] are you doing this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为、[p/][s/]为什么……[p/]你要这么做？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4071\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4072",
     "original": "Eris: Because I want to finally break you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 因为我想让你彻底心碎一次啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4072\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4073",
     "original": "Eris: I'm just trying to keep you from getting hurt.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我只是试着让你不再受伤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4073\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4074",
     "original": "Eris: It may seem cruel.[p/] But you have to be realistic about these things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 看起来可能很残酷。[p/]但对于这些事情你得现实点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4074\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4075",
     "original": "Eris: ...You trusted Tymora and she betrayed you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……你信任过泰摩拉而她背叛了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4075\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4076",
     "original": "Eris: Try not to make the same mistake twice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不要再犯同样的错误了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4076\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4077",
     "original": "Celeste didn't hear anything she said.[p/] But she seems to notice how it's affecting you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她说的东西塞莱斯特什么都没有听到，[p/]但她看起来注意到了那些言语如何影响了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4077\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4078",
     "original": "Celeste: Eris![p/][s/] That's enough!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 厄莉斯！[p/][s/]够了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4078\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4079",
     "original": "Eris: Ah.[p/] My apologies.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 啊。[p/]对不起哦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4079\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4080",
     "original": "Eris: I've been told that I've been too blunt sometimes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我经常被人说有时候我太直率了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4080\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4081",
     "original": "Eris: But I do hope you'll think about what I said.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 但我希望你会好好想想我说的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4081\",\n  \"keywords\": []\n}"
   },
   {
@@ -26826,169 +26826,169 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4083",
     "original": "Eris: ...Anyways,[p/] the trial should be starting soon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……总之，[p/]庭审应该很快要开始了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4083\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4084",
     "original": "Eris: We should make our way back to the courthouse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我们该动身返回法庭了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4084\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4085",
     "original": "Eris: I'm genuinely curious to see how this trial ends.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我真的对这次庭审要怎么完结很好奇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4085\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4086",
     "original": "Celeste: H-[p/][s/]Hey, Tyrion?[p/] Are you okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嘿、[p/][s/]嘿，提利昂？[p/]你还好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4086\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4087",
     "original": "Celeste: What did she say to you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 她刚对你说了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4087\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4088",
     "original": "She reaches for your hand but you instinctively yank it away from hers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她想握住你的手，但你本能地避开了她的手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4088\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4089",
     "original": "Celeste: ...Tyrion?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……提利昂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4089\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4090",
     "original": "Tyrion: ...S-[p/][s/]Sorry.[p/] I didn't mean to-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 抱、[p/][s/]抱歉。[p/]我不是这个意思——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4090\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4091",
     "original": "Tyrion: I'm okay, really.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我没事，真的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4091\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4092",
     "original": "Celeste: Um...[p/] Okay... [mind=\"Is he mad at me?\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唔……[p/]那好吧……[mind=\"他在对我生气吗？\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4092\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4093",
     "original": "...You can think about everything else later.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……你可以晚些再思考这些事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4093\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4094",
     "original": "But for now,[p/] you know what you need to do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但是现在，[p/]你知道自己该干什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4094\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4095",
     "original": "You need to convict Beatrice Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你要让比亚特丽丝·弗雷加认罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene13-4095\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4097",
     "original": "Tyrion: The display case is completely shattered...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 展柜已经彻底变成碎片了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4097\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4098",
     "original": "Tyrion: The thief was able to do this despite there being several abjuration spells protecting it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 窃贼能在多重防护术的保护下造成如此大的伤害。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4098\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4100",
     "original": "Tyrion: The display case holding the Earrings of Vitality is completely untouched.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但存有活力耳环的展柜却安然无恙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4100\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4101",
     "original": "Tyrion: Whoever stole the artifacts ignored it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 窃贼无视了这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4101\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4103",
     "original": "Tyrion: The display case that held the Armbands of Intellect is empty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 存有智慧臂章的展柜是空的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4103\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4104",
     "original": "Tyrion: According to Harold,[p/] the Armbands were stolen discreetly...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 根据哈罗德所言，[p/]臂章是被十分小心谨慎的偷走的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4104\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4106",
     "original": "Tyrion: It's a painting of some sort of scientist.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 某种科学家的画像。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4107",
     "original": "Harold: That man is Dr. Luke Kuepfer.[p/] He was an alchemist and inventor from one of the branch families.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 那是Luke Kuepfer博士。[p/]他是出身于其中一个分家的炼金术师和发明家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4107\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4108",
     "original": "Harold: He is well-known for his studies into imbuing intelligence into automatons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 因其对于向机器人灌注智能的研究而著名。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4108\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4109",
     "original": "Tyrion: Intelligent automatons...[p/] Would that make them similar to Arcane Constructs?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 智能机器人……[p/]会和奥术构造体很相似吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4109\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4110",
     "original": "Harold: Yes, actually.[p/] I wouldn't be surprised if Lord von Sanctus used Dr. Kuepfer's research to create those Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 没错，正是如此。[p/]即使冯·桑克图斯勋爵使用Kuepfer博士的研究成果制造了那些构造体也不足为奇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4110\",\n  \"keywords\": []\n}"
   },
   {

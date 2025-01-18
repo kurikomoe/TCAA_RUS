@@ -803,5 +803,12 @@
     "translation": "拉菲·弗雷加",
     "stage": 3,
     "context": "{\n  \"node_name\": \"Check_Events_BeatriceRoom1\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered-0-0",
+    "original": "Beatrice Frega",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"node_name\": \"BeatCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Beatrice Frega\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
   }
 ]
