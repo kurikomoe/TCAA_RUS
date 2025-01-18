@@ -2564,7 +2564,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-389",
     "original": "Celeste: *sigh*[p/] I guess we'll just have to agree to disagree.",
-    "translation": "Celeste: *叹气*[p/]我想我们只能各持己见了。",
+    "translation": "Celeste: *叹气* [p/]我想我们只能各持己见了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Present_Ballroom1-389\",\n  \"keywords\": []\n}"
   },
@@ -3712,7 +3712,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-572",
     "original": "Beatrice: *sigh*[p/] Do [i]you[/i] suspect me now, Mr. Cuthbert?",
-    "translation": "Beatrice: *叹气*[p/][i]你[/i]现在是在怀疑我吗，卡斯伯特先生？",
+    "translation": "Beatrice: *叹气* [p/]<u>你</u>现在是在怀疑我吗，卡斯伯特先生？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_4-572\",\n  \"keywords\": []\n}"
   },
@@ -6463,7 +6463,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-997",
     "original": "Liafal: *sigh*[p/] I suppose there's no sense in hiding it anymore.",
-    "translation": "Liafal: *叹气*[p/]我想已经没必要再隐瞒了。",
+    "translation": "Liafal: *叹气* [p/]我想已经没必要再隐瞒了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-Talk_BeatriceRoom2-997\",\n  \"keywords\": []\n}"
   },
@@ -10194,7 +10194,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1579",
     "original": "Celeste: *sigh*[p/] I guess we're really doing this...",
-    "translation": "Celeste: *叹气*[p/]看来我们真的要这么做了……",
+    "translation": "Celeste: *叹气* [p/]看来我们真的要这么做了……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-CourtroomC4T1_2-1579\",\n  \"keywords\": []\n}"
   },
@@ -13981,7 +13981,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2164",
     "original": "Harold: *sigh*[p/] William.[p/] It's a shame that things ended up this way.",
-    "translation": "Harold: *叹气*[p/]威廉，[p/]事情变成这样真是太遗憾了。",
+    "translation": "Harold: *叹气* [p/]威廉，[p/]事情变成这样真是太遗憾了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldEye-2164\",\n  \"keywords\": []\n}"
   },
@@ -14023,7 +14023,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2172",
     "original": "Harold: *sigh*[p/] I've gotten myself wrapped in quite the predicament, haven't I?",
-    "translation": "Harold: *叹气*[p/]我可算是让自己进退两难了，是不是？",
+    "translation": "Harold: *叹气* [p/]我可算是让自己进退两难了，是不是？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldEye-2172\",\n  \"keywords\": []\n}"
   },
@@ -19210,7 +19210,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2963",
     "original": "MBeatrice: Why, yes.[p/] *laugh*[p/] I [i]am[/i] a d-[p/]d-[p/]d-[p/]demon.",
-    "translation": "MBeatrice: 没错，是的。[p/]*大笑*[p/]我<u>是个</u>恶、[p/]恶、[p/]恶、[p/]恶魔。",
+    "translation": "MBeatrice: 没错，是的。[p/] *大笑* [p/]我<u>是个</u>恶、[p/]恶、[p/]恶、[p/]恶魔。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B5-2963\",\n  \"keywords\": []\n}"
   },
@@ -22395,22 +22395,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3444",
     "original": "MBeatrice: If I were to \"die\" in accordance with your laws,[p/] I would only return to my plane unharmed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 就算我依据你们的法律被“处死”了，[p/]我也只会毫发无损回到原本的位面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3445",
     "original": "Tyrion: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3446",
     "original": "MBeatrice: ...Even if I [i]could[/i] die,[p/] a fate much worse than death awaits me if I fail...",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: ……即使我<u>会</u>死，[p/]在这里失败的话，也会有比死亡更可怕的命运等着我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3446\",\n  \"keywords\": []\n}"
   },
   {
@@ -22423,57 +22423,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3448",
     "original": "Appeal [d=\"Marrunath! It's not too late! You can still do the right thing and tell the truth!\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Appeal [d=\"马鲁纳斯！还来得及！你依然可以说出真相来赎罪！\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3448\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3449",
     "original": "Tyrion: M-[p/][s/]Marrunath![p/][s/] It's not too late!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马、[p/][s/]马鲁纳斯！[p/][s/]还来得及！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3450",
     "original": "Tyrion: You can still do the right thing and tell the truth!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你依然可以说出真相来赎罪！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3451",
     "original": "MBeatrice: Oh my god![p/] Are you serious?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我的个老天！[p/]你开玩笑呢？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3452",
     "original": "MBeatrice: Are you [i]that[/i] desperate?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 你就<u>这么</u>急迫？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3453",
     "original": "MBeatrice: What on earth made you think you could appeal to the morals of a bloody [i]demon[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 你脑子撞到哪儿了才会觉得我一个<u>恶魔</u>会在乎赎罪？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3454",
     "original": "Celeste: Yeah...[p/] That was a long shot.[p/] Even for you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊……[p/]就算对你来说，[p/]这也太勉强了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3455",
     "original": "Tyrion: Yeah, yeah...[p/] I don't need you to tell me twice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好吧，好吧……[p/]也不用再打击我一遍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3455\",\n  \"keywords\": []\n}"
   },
   {
@@ -22486,50 +22486,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3457",
     "original": "Deflect [d=\"That still doesn't absolve you of bringing a [i]demon[/i] into the Lords' Ball.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Deflect [d=\"但这无法为你带<u>恶魔</u>进入勋爵的舞会开脱。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3457\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3458",
     "original": "Tyrion: That still doesn't absolve you of bringing a [i]demon[/i] into the Lords' Ball.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但这无法为你带<u>恶魔</u>进入勋爵的舞会开脱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3458\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3459",
     "original": "MBeatrice: Do you think we'll just accept your flawed claim if you say it over and over again?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 难道你觉得只要多重复几遍，我们就会相信你的谬论？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3460",
     "original": "Ruby: Cuthbert.[p/] If you recall,[p/] we have a written notice allowing her familiar into the manor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 卡斯伯特，[p/]好好回忆一下，[p/]我们获得了允许她带使魔进入庄园的书面许可。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3460\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3461",
     "original": "Ruby: The law is on our side.[p/] There was nothing illegal about Marrunath's presence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 法律站在我们这边。[p/]马鲁纳斯在场并不违反法律。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3461\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3462",
     "original": "Damn it...[p/] They were prepared for this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "该死……[p/]他们是有备而来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3462\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3463",
     "original": "That document puts the burden of proof on you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这些文件让举证的责任来到你身上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered6-3463\",\n  \"keywords\": []\n}"
   },
   {
@@ -22542,22 +22542,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3465",
     "original": "Agh...[p/][s/] Those three are a pain to argue against when they're together.",
-    "translation": "",
-    "stage": 0,
+    "translation": "呃啊……[p/][s/]这三人齐心协力时真的很难驳倒。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3465\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3466",
     "original": "You can't break Beatrice's confidence at all!",
-    "translation": "",
-    "stage": 0,
+    "translation": "你根本没法打击比亚特丽丝的自信！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3466\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3467",
     "original": "MBeatrice: So...[p/] Do you have anything else, Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 那么……[p/]卡斯伯特先生，还有别的事吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3467\",\n  \"keywords\": []\n}"
   },
   {
@@ -22570,36 +22570,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3469",
     "original": "MBeatrice: I didn't think so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我看没有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3469\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3470",
     "original": "MBeatrice: Your Honor.[p/] It appears we found the true culprit.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 法官阁下。[p/]看来我们已经找到真凶。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3470\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3471",
     "original": "MBeatrice: I can't [i]believe[/i] you killed my father, Marrunath.[p/] I'm so cross with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 马鲁纳斯，我真不敢<u>相信</u>你杀了我的父亲。[p/]我真是忍不了你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3471\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3472",
     "original": "MBeatrice: Ah.[p/] I should give my apologies.[p/] I won't do it again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 哎呀，[p/]那我道歉好不好。[p/]我不会再犯了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3472\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3473",
     "original": "MBeatrice: Don't worry,[p/] I forgive you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 不用担心。[p/]我原谅你了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3473\",\n  \"keywords\": []\n}"
   },
   {
@@ -22612,29 +22612,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3475",
     "original": "MBeatrice: Now then.[p/] Is there any reason why this trial hasn't ended already, Your Honor?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 那么，[p/]法官阁下，还有其他理由继续审理吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3476",
     "original": "Judge: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3476\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3477",
     "original": "Celeste: Come on![p/][s/] Don't you have anything else?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 拜托！[p/][s/]没有其他的方法了吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3477\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3478",
     "original": "There [i]is[/i] one thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "还<u>有</u>一个方法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3478\",\n  \"keywords\": []\n}"
   },
   {
@@ -22647,15 +22647,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3480",
     "original": "Ruby: Damn it...[p/] Not again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 该死……[p/]怎么又来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3480\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3481",
     "original": "MBeatrice: Oh?[p/] Is that all you can do now?[p/] Glare at me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 哦哟？[p/]你只会这一招了？[p/]瞪我？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered7-3481\",\n  \"keywords\": []\n}"
   },
   {
@@ -22668,85 +22668,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3483",
     "original": "W-[p/][s/]What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "什、[p/][s/]什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3483\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3484",
     "original": "MBeatrice: ...Marrunath.[p/] What did you just do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: ……马鲁纳斯。[p/]你刚才干了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3484\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3485",
     "original": "MBeatrice: I've been watching him.[p/] He's been using an old celestial trick.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我一直在注意着他。[p/]他在用天界的一个常见把戏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3485\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3486",
     "original": "MBeatrice: But it's weak.[p/] Your divine gaze won't work here, heavensborn.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 但力量很弱。[p/]你的神圣瞪人对我不管用，天诞之物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3486\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3487",
     "original": "Tyrion: You...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3487\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3488",
     "original": "Ruby: ...It looks like [i]that[/i] was your last piece, Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 卡斯伯特，看来<u>这</u>就是你的最后一招了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3488\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3489",
     "original": "No...[p/][s/] This [i]can't[/i] be how it ends.[p/][s/] Not after you've come this far!",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/][s/]<u>不可以</u>这样结束。[p/][s/]你都走到这一步了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3489\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3490",
     "original": "Ruby: What is it that you like to say in these situations...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你这种时候喜欢说什么来着……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered8-3490\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3491",
     "original": "Ruby: ...Checkmate, Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……将军，卡斯伯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3491\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3492",
     "original": "Judge: Well...[p/] I have to say this was one of the more...[p/] eventful trials I've overseen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 那么……[p/]这次的审理确实……[p/]跌宕起伏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3492\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3493",
     "original": "Judge: It was many things,[p/] if not enlightening.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 不管怎么形容，[p/]至少绝对不缺娱乐效果。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3493\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3494",
     "original": "Judge: But I suppose it all ended the same.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 但结局看来还是大同小异。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3494\",\n  \"keywords\": []\n}"
   },
   {
@@ -22759,176 +22759,176 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3496",
     "original": "Come on, think of something...[p/] [i]anything[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "可恶，仔细想想……[p/]<u>任何事</u>都可以。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3496\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3497",
     "original": "Judge: While I find the defendant's actions quite suspect,[p/] I must agree with their argument.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 虽然被告的行为确实十分可疑，[p/]但我不得不同意辩方的论点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3497\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3498",
     "original": "Judge: Aside from the theft of Lord Haroldson's exhibit,[p/] none of Ms. Frega's actions that night are illegal under Wyverngarde law.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 除开偷窃哈罗德森勋爵的展品一事，[p/]弗雷加小姐当晚没有其他行动触犯维文加德法律。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3498\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3499",
     "original": "Judge: And there's no proof that the [i]defendant[/i] is responsible for her familiar's actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 也没有证据表明<u>被告</u>要对使魔的行为承担责任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3499\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3500",
     "original": "Judge: With these revelations,[p/] I see no room for debate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 有了这些事实，[p/]我认为已经没有辩论的余地了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3500\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3501",
     "original": "Judge: We will be taking a brief recess.[p/] I will announce my verdict once we resume.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我们将短暂休庭，[p/]之后我将宣布自己的判决。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3501\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3502",
     "original": "Damn it...[p/][s/] Is this seriously how it's going to end?![p/][s/] After [i]everything[/i] you've gone through to get here?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "该死……[p/][s/]难道真的要这样结束？！[p/][s/]在你做出了<u>这么多</u>努力之后？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3502\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3503",
     "original": "Frey: This world is bleak,[p/] merciless,[p/] and unforgiving.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 这个世界暗淡无光，[p/]冷漠，[p/]且无情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3503\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3504",
     "original": "Frey: But I've seen you.[p/] I know how bright the light within you is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 但我见到了你。[p/]我知道你心中存在着光明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3504\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3505",
     "original": "Frey: Use my eyes.[p/] Peer beyond the Divine Gate as I once did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 用我的眼睛吧。[p/]仔细看那神圣之门外的世界，就像我之前做的那样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3505\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3506",
     "original": "Marrunath called you a \"heavensborn\".[p/] And your mother told you that there's a \"light\" within you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯管你叫“天诞之物”。[p/]你的母亲说你“心中存在着光明”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3506\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3507",
     "original": "You have no idea what that means...[p/][s/] What even [i]is[/i] the Divine Gate?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "你不知道这些意味着什么……[p/][s/]神圣之门<u>又是</u>什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered9-3507\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3508",
     "original": "Why do you have the Eye of Horus?[p/][s/] Why are you able to read people's minds?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么你会有荷鲁斯之眼？[p/][s/]为什么你能读取别人的意识？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3508\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3509",
     "original": "You've been so lost lately.[p/] But you thought you finally figured out who you're supposed to be.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你最近十分迷茫。[p/]但你觉得自己终于明白了自己的命运。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3509\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3510",
     "original": "But all of this,[p/] everything you've been working towards.[p/] It was all a lie...",
-    "translation": "",
-    "stage": 0,
+    "translation": "但这一切，[p/]你为之努力的这一切。[p/]都只不过是谎言……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3510\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3511",
     "original": "You've spent your whole life trying to be like Ms. Tymora...[p/] But is [i]she[/i] even like her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你一生都在尝试效仿泰摩拉女士……[p/]但<u>她</u>自己又是怎么想的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3511\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3512",
     "original": "No...[p/] She just wanted to raise you into a tool for the Eyetaker...[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]她只是想把你培养成夺眼者的工具……[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3512\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3513",
     "original": "She was never your guardian...[p/] She was never your mother...",
-    "translation": "",
-    "stage": 0,
+    "translation": "她不是你的保护人……[p/]不是你的母亲……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3513\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3514",
     "original": "Your [i]real[/i] mother died years ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你<u>真正的</u>母亲多年前已经去世了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3514\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3515",
     "original": "...Was Eris right?[p/] Is everyone in your life just trying to [i]use[/i] you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……难道厄莉斯是对的？[p/]你生命中的所有人都只是想<u>利用</u>你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3515\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3516",
     "original": "Looking back on it,[p/] you've had no idea what to do with yourself since your mother died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "回首过去，[p/]母亲死后你不知如何是好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3516\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3517",
     "original": "You've just been making mistake after mistake.[p/] Leaving Aurinax,[p/] trusting Tymora,[p/] becoming an attorney...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你犯了一个又一个错误。[p/]离开欧奥耐克斯，[p/]信任泰摩拉，[p/]成为律师……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3517\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3518",
     "original": "You've always just done as you're told...[p/] You never once made a path for yourself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你一直在听令行事……[p/]一次都没有走出自己的路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3518\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3519",
     "original": "Frey: But you saved Celeste.[p/] And Wallace.[p/] And Dracogen.[p/] All when no one else would stand up for them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 但你救了塞莱斯特，[p/]华莱士，[p/]还有德拉科根。[p/]都是在别人不愿意伸出援手的情况下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3519\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3520",
     "original": "Frey: Was helping them a mistake?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 帮助他们也是错误吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3520\",\n  \"keywords\": []\n}"
   },
   {
@@ -22941,50 +22941,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3522",
     "original": "Frey: You fought for a dream that doesn't exist.[p/] But that doesn't mean that you can't make it real.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 你曾为了一个不存在的梦想努力。[p/]但这不代表你不能让这个梦想成真。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3522\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3523",
     "original": "Frey: It's true that you followed Tymora's lead.[p/] But you've [i]always[/i] done what you thought was right above anything else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 你确实一直被泰摩拉领着走。[p/]但你做的<u>一直</u>是自己认为正确的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3523\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3524",
     "original": "Frey: You wouldn't have stood up to that criminal if you truly didn't know right from wrong.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 如果你真的不分对错，也就不会去勇敢挑战罪犯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3524\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3525",
     "original": "Frey: And you wouldn't be standing here if you'd just done as you were told.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 如果只是被人牵着鼻子走，你也不会站在这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3525\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3526",
     "original": "Tyrion: I...[p/] What do I do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我……[p/]我该怎么办？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3526\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3527",
     "original": "Frey: I'm not going to tell you that.[p/] You already know the answer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 这我不会告诉你。[p/]你已经知道答案了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3527\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3528",
     "original": "Frey: You've [i]always[/i] known the answer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 你<u>一直</u>都知道答案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered13-3528\",\n  \"keywords\": []\n}"
   },
   {
@@ -22997,15 +22997,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3530",
     "original": "You take a deep breath and relax your thoughts.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你深吸一口气，让自己放松。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14-3530\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3531",
     "original": "Situations can seem hopeless sometimes,[p/] but there is [i]always[/i] a way to win in the end.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然有时会身处险境，[p/]但<u>总能</u>有一种方法取得最终胜利。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14-3531\",\n  \"keywords\": []\n}"
   },
   {
@@ -23018,288 +23018,288 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3535",
     "original": "No...[p/] No matter what you do,[p/] it won't mean anything unless you prove one fact.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]不论你做什么，[p/]都必须先证明一件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3536",
     "original": "You need to prove that Beatrice [i]ordered[/i] Marrunath to kill her father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你需要证明是比亚特丽丝</u>命令<u>马鲁纳斯杀害了威廉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3537",
     "original": "You would need something strong to prove that.[p/] Testimony wouldn't be enough.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你需要强而有力的证据。[p/]仅有证言是不够的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3537\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3538",
     "original": "Tyrion: In order to convict Beatrice,[p/] I need to prove that she was responsible for Marrunath's actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为了指控比亚特丽丝，[p/]我需要证明她要为马鲁纳斯的行为承担责任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14b-3538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3539",
     "original": "Tyrion: People leave trails...[p/] Even when they think they've committed the perfect crime,[p/] something always gets left behind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 人类会留下痕迹……[p/]即使他们自以为成就了完美犯罪，[p/]也总会留下蛛丝马迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14b-3539\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3540",
     "original": "Tyrion: There [i]has[/i] to be something that proves Beatrice gave Marrunath the order.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: <u>一定</u>有什么能证明比亚特丽丝对马鲁纳斯下了命令。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14b-3540\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3541",
     "original": "Tyrion: Beatrice's relationship with Marrunath is clearly different than a relationship between two humans.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 比亚特丽丝与马鲁纳斯的关系明显与普通的人际交往不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14b-3541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3542",
     "original": "Tyrion: There's a specific way their relationship works.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他们之间的关系有一点很特殊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14b-3542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3545",
     "original": "No...[p/] Beatrice's relationship with Marrunath isn't the same as one between humans.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]比亚特丽丝与马鲁纳斯的关系和人类之间的交往不同。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3546",
     "original": "It's not even the same as the one between a mage and their familiar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "甚至与法师和普通使魔的关系也不一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3546\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3547",
     "original": "There is something special about a human's relationship with a demon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "人类与恶魔之间的关系有一点很特别。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3547\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3548",
     "original": "Tyrion: There's a specific way their relationship works...[p/] Or their \"pact\",[p/] as Marrunath calls it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 人类与恶魔间的关系要靠特殊的方法维持……[p/]用马鲁纳斯的话说，[p/]要靠“契约”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14d-3548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3549",
     "original": "...Wasn't there something that someone said?[p/] But what was it...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……是不是有谁说过什么？[p/]说了什么来着……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14d-3549\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3552",
     "original": "No…[p/] Marrunath wasn't the first demon you heard about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]马鲁纳斯不是你听说的第一个恶魔。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered15-3552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3553",
     "original": "You remember something someone said to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你记得有人对你说了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered15-3553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3554",
     "original": "Something about the history and legends of demons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "什么有关历史与恶魔传说的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered15-3554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3555",
     "original": "Tyrion: Oh, right.[p/] The Sword of Spell Eating is said to have been forged using a pact between a demon and a mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢，对了。[p/]噬法之剑传说是通过恶魔和法师的契约打造而成。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered16-3555\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3556",
     "original": "Celeste: Isn't making a pact with a demon just [i]asking[/i] for trouble?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 和恶魔签约不是<u>自找</u>麻烦？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered16-3556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3557",
     "original": "Celeste: They'd definitely betray you the first chance they got.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他们肯定会第一时间背叛你的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered16-3557\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3558",
     "original": "Harold: Well legends say that demons often drafted Blood Contracts for this reason.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 这个嘛，传说里也说恶魔会起草血契来消除后顾之忧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered16-3558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3559",
     "original": "Tyrion: Wait...[p/] Do you mean like a legally binding document?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等等……[p/]你是说一份具有<u>法律约束力</u>的契约？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered16-3559\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3560",
     "original": "Harold: The concept is similar.[p/] But once you sign a Blood Contract,[p/] both you and the demon are magically compelled to fulfill its terms.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 差不多的意思。[p/]但一旦签约血契，[p/]你和恶魔都会被魔力约束，必须服从其中条款。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered16-3560\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3561",
     "original": "Tyrion: That's right![p/][s/] Beatrice must have made a \"Blood Contract\" with him!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就是这个！[p/][s/]比亚特丽丝必须和他签约“血契”！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3561\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3562",
     "original": "Tyrion: A legally binding document like that [i]must[/i] describe how their relationship works.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这种具有法律约束力的文件里，<u>肯定</u>会写明双方的关系如何运作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3563",
     "original": "Frey: Laefe [i]did[/i] tell you that Beatrice would never trust someone that she couldn't control...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 拉菲<u>确实</u>告诉过你，比亚特丽丝不会相信任何不受自己控制的人……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3563\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3564",
     "original": "Tyrion: So she would only put herself in a situation where [i]she[/i] had full control over Marrunath's actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以<u>她</u>一定会确保能够完全控制马鲁纳斯的行动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3564\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3565",
     "original": "Tyrion: ...But it's not as if they'll ever show it to me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……但对方也不可能把文件给我看啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3565\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3566",
     "original": "Tyrion: It would be a tall order to even [i]prove[/i] that Blood Contracts even exist...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 光是<u>证明</u>血契存在就任务艰巨了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3567",
     "original": "Frey: Hm...[p/] I guess you have a point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 嗯……[p/]你说得有道理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3568",
     "original": "Frey: But if you ask me...[p/] I think you've done a wonderful job so far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 但要我说的话……[p/]你至今为止做得很好了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3569",
     "original": "Frey: So just this once...[p/] Let me guide you the rest of the way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 就这一次……[p/]让我来引导你余下的路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3570",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3570\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3571",
     "original": "Frey: Tyrion.[p/] Your Eyes don't actually read minds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 提利昂，[p/]你的眼睛其实不是能读取意识。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3571\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3572",
     "original": "Frey: They give you the means to reveal truths that are being concealed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 它们的力量是揭示被隐藏的事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3572\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3573",
     "original": "Frey: You can pull the truth out of anyone...[p/] and [i]anything[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 你可以从<u>任何人</u>与<u>任何事物</u>中找出真相。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3573\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3574",
     "original": "Tyrion: The truth?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 真相？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3574\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3575",
     "original": "Frey: So...[p/] Say it together with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Frey: 所以……[p/]重复我说的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered17-3575\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3576",
     "original": "Tyrion: Marrunath![p/][s/] Dweller of Avernus!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马鲁纳斯！[p/][s/]阿佛纳斯的住民！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3577",
     "original": "MBeatrice: Wait...[p/][s/] What are you doing?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 等等……[p/][s/]你在做什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3578",
     "original": "Tyrion: By the Eye of Horus,[p/][s/] I issue upon you a divine edict!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 借荷鲁斯之眼之力，[p/][s/]我对你发出神谕！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3578\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3579",
     "original": "Tyrion: Release thy guards and manifest your Blood Contract with Beatrice Frega!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 放下防备，展示你和比亚特丽丝·弗雷加的血契！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3579\",\n  \"keywords\": []\n}"
   },
   {
@@ -23312,78 +23312,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3581",
     "original": "You...[p/][s/] did it![p/] But how...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "你……[p/][s/]成功了！[p/]但怎么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3581\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3582",
     "original": "Was that really your...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "这真是你的……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3582\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3583",
     "original": "No.[p/] That's not important right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不。[p/]这件事现在不重要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3583\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3584",
     "original": "She gave you what you needed.[p/] The rest is up to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她给了你所需的物品。[p/]接下来就靠你自己了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3584\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3585",
     "original": "MBeatrice: What in the nine hells was [i]that[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: <u>这</u>是什么花招？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3585\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3586",
     "original": "MBeatrice: Y-[p/][s/]You![p/][s/] When did you learn to-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 你、[p/][s/]你！[p/][s/]你从哪儿学了——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3587",
     "original": "Judge: Mr. Cuthbert...?[p/] What just happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生……？[p/]发生了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered18-3587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3588",
     "original": "Tyrion: Your Honor![p/][s/] I just made the witness manifest their Blood Contract!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下！[p/][s/]我刚刚让证人展示了自己的血契！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3588\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3589",
     "original": "MBeatrice: You did what?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 你干了啥？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3590",
     "original": "Judge: ...Blood Contract?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……血契？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3590\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3591",
     "original": "Tyrion: You can think of it as a legally binding document.[p/] It lays out the terms of the pact between Beatrice Frega and her familiar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 相当于一种具有法律约束力的文件。[p/]上面会写明比亚特丽丝·弗雷加与使魔之间的契约条款。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3591\",\n  \"keywords\": []\n}"
   },
   {
@@ -23396,288 +23396,288 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3593",
     "original": "Judge: Incredible![p/][s/] Where did you learn how to do such a thing?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 这么厉害！[p/][s/]你从哪儿学会这种技能的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3594",
     "original": "Tyrion: ...Um.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……呃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3595",
     "original": "Tyrion: The library?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 图书馆？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3596",
     "original": "Judge: Wow...[p/] To think that our kingdom had access to such knowledge...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 哇……[p/]没想到我国藏书如此博大精深……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3597",
     "original": "Celeste: Yeah...[p/] I'm not buying it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗯……[p/]我是不信的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3598",
     "original": "Celeste: How did you [i]really[/i] find out how to do that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你<u>其实</u>是怎么学会的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3599",
     "original": "Tyrion: ...It's a long story.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……说来话长。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3600",
     "original": "You're not sure if she'd believe you even if you told her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "就算实话实说，她也不一定会相信你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3601",
     "original": "Tyrion: A-[p/][s/]Anyways...[p/] The defense's argument is such:",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总、[p/][s/]总之……[p/]辩方的论点如下：",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3602",
     "original": "Tyrion: Marrunath was acting alone and the defendant is not to blame for his actions that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 马鲁纳斯是独立行动，被告不应该因他当晚的行为而承担责任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19-3602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3603",
     "original": "Tyrion: However,[p/] take a look at page 7 of this Blood Contract.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但是，[p/]请看血契的第七页。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3603\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3604",
     "original": "Tyrion: It specifies that Marrunath is prohibited from killing any and all humans.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 上面明确写着马鲁纳斯被禁止杀害任何人类。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3605",
     "original": "Tyrion: There's only one scenario where he can do so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只有一种情况例外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3605\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3606",
     "original": "Tyrion: And that's when Beatrice Frega designates someone to be exempt from this rule!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就是比亚特丽丝·弗雷加指定将某人从这条规则中除外的时候！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3606\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3607",
     "original": "MBeatrice: You...",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 你……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3607\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3608",
     "original": "Tyrion: Beatrice Frega![p/] You didn't [i]directly[/i] order Marrunath to kill your father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 比亚特丽丝·弗雷加！[p/]你没有<u>直接</u>命令马鲁纳斯杀害自己的父亲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3609",
     "original": "Tyrion: But you implied it by telling Marrunath that he [i]could[/i] kill him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你通过告诉马鲁纳斯<u>可以</u>杀他暗示了这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3609\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3610",
     "original": "Tyrion: Not only [i]that[/i],[p/][s/] you did so within the twenty-four hours of the Lords' Ball!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不仅<u>如此</u>，[p/][s/]你还在勋爵的舞会 24 小时以内这么做了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3610\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3611",
     "original": "Tyrion: Your intent was clear![p/][s/] You brought Marrunath into Frega Manor with full knowledge that he could and [i]would[/i] kill William Frega!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你的意图十分明显！[p/][s/]你知道马鲁纳斯可以也<u>绝对会</u>杀害威廉·弗雷加，但还是把他带进了弗雷加庄园！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3612",
     "original": "Tyrion: ...And [i]that[/i][p/] is Checkmate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……将军。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered19a-3612\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3613",
     "original": "Judge: And just when I thought the surprises were over...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我还以为今天的变故已经告一段落了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3613\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3614",
     "original": "Tyrion: But in the end,[p/] we arrived at the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但最终，[p/]我们找到了真相。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3614\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3615",
     "original": "Judge: I suppose I can't disagree with that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 这一点我不得不同意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3615\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3616",
     "original": "Judge: What do you have to say for yourself, Lady Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 弗雷加小姐，有什么要为自己辩解的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3616\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3617",
     "original": "MBeatrice: Do [i]not[/i] call me that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: <u>不要</u>这么叫我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3617\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3618",
     "original": "Judge: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3618\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3619",
     "original": "Tyrion: ...It's almost funny that you hate your name that much.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你这么痛恨自己的姓氏，旁人看来都到了有趣的地步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3619\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3620",
     "original": "Tyrion: Your entire plan depended on your claim to the Frega Estate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你的整个计划都基于自己能获得弗雷加家族资产这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3620\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3621",
     "original": "MBeatrice: ...Do you have any idea what you've just cost me?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: ……你知不知道自己刚刚让我付出了什么代价？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3622",
     "original": "MBeatrice: [i]Everything[/i] has been ruined because of you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: <u>一切</u>都被你给毁了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3622\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3623",
     "original": "Tyrion: Why should I care?[p/] You're just another noble.[p/] Trying to steal power for yourself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 关我什么事？[p/]你不过是又一个贵族，[p/]满心只想着为自己夺取权力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3623\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3624",
     "original": "MBeatrice: Don't you [i]dare[/i] lump me together with those tyrants!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 你<u>不准</u>把我和那些暴君相提并论！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3624\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3625",
     "original": "MBeatrice: We wouldn't have just liberated House Frega![p/][s/] We would have liberated everyone!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我们能解放的不只是弗雷加一家！[p/][s/]我们本能解放所有人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3626",
     "original": "MBeatrice: Miriam,[p/] Laefe,[p/] Aria,[p/] even Aster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 米莉亚姆，[p/]拉菲，[p/]阿莉亚，[p/]甚至是阿斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3627",
     "original": "MBeatrice: Our system is [i]broken[/i]![p/][s/] The only way we can fix it is by burning it down from the inside!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 我们的体系<u>残破不堪</u>！[p/][s/]只有从内部一把火烧尽才有机会修复！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3628",
     "original": "MBeatrice: As long as King Olivier sits on the throne,[p/][s/] this suffering will only continue!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 只要王座上的还是奥利维尔王，[p/][s/]人们就只会继续受苦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3629",
     "original": "Judge: L-[p/][s/]Lady Frega!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 弗、[p/][s/]弗雷加小姐！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3630",
     "original": "Tyrion: ...As the prosecutor,[p/] I should warn you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……作为检察官，[p/]我应该警告你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3630\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3631",
     "original": "Tyrion: You don't want to add treason to your list of crimes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这样会让你的罪名里多一条叛国罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered20-3631\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3632",
     "original": "Even though,[p/] [i]you'd[/i] like to see the King ousted as much as she does.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然，[p/]<u>你</u>和她一样想看国王尽早被罢黜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered21-3632\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3633",
     "original": "MBeatrice: Hmph...[p/] It doesn't matter.[p/] I'm done either way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: 哼……[p/]不重要了。[p/]我横竖都完蛋了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered21-3633\",\n  \"keywords\": []\n}"
   },
   {
@@ -23690,8 +23690,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3635",
     "original": "MBeatrice: ...Heavensborn.[p/] Look at page 46 of the Blood Contract.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MBeatrice: ……天诞之物。[p/]看看血契第四十六页。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered21-3635\",\n  \"keywords\": []\n}"
   },
   {
@@ -26406,8 +26406,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4023",
     "original": "Celeste: *sigh*[p/] That was close.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: *叹气* [p/]真是好险。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene10-4023\",\n  \"keywords\": []\n}"
   },
   {
@@ -31054,8 +31054,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4741",
     "original": "Ruby: *sigh*",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: *叹气*",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Intro Scene Four.yarn-LobbyIntro_4-4741\",\n  \"keywords\": []\n}"
   },
   {
@@ -38418,8 +38418,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5922",
     "original": "Executor: *Ahem*[p/] Very well, then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Executor: *清嗓子* [p/]很好，那么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WillReading.yarn-WillReading-5922\",\n  \"keywords\": []\n}"
   },
   {
@@ -38761,8 +38761,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5971",
     "original": "Ruby: *sigh*[p/] Look...[p/] I'm not angry, Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: *叹气* [p/]听好……[p/]我没有生气，卡斯伯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WillReading.yarn-WillReading4-5971\",\n  \"keywords\": []\n}"
   },
   {
