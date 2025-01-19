@@ -14639,7 +14639,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2263",
     "original": "That metal shard with the von Sanctus crest is your best lead right now.",
-    "translation": "刻有冯·桑克图斯家徽的金属碎片是你目前最好的线索。",
+    "translation": "刻有冯·桑克图斯徽章的金属碎片是你目前最好的线索。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Check_Events_Factory2-2263\",\n  \"keywords\": []\n}"
   },
@@ -18356,7 +18356,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2828",
     "original": "Aster: I was accompanying a ship transporting goods to Lord von Sanctus.",
-    "translation": "Aster: 我陪着一艘给冯·桑克图斯大人运送货物的船来的。",
+    "translation": "Aster: 我陪着一艘给冯·桑克图斯勋爵运送货物的船来的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2828\",\n  \"keywords\": []\n}"
   },
@@ -25706,7 +25706,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3962",
     "original": "Tyrion: If each of von Sanctus' products has that crest,[p/] it could be any number of things.",
-    "translation": "Tyrion: 如果冯·桑克图斯的产品上都有那个徽记，[p/]那它什么东西都有可能是。",
+    "translation": "Tyrion: 如果冯·桑克图斯的产品上都有那个徽章，[p/]那它什么东西都有可能是。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-3962\",\n  \"keywords\": []\n}"
   },
@@ -26077,113 +26077,113 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4015",
     "original": "Lloyd: Oh, Lady Steelwind?[p/] I wasn't expecting you until much later.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 噢，斯蒂尔文德女士？[p/]我以为你还要晚些才会到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4015\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4016",
     "original": "CAria: Well...[p/] I do not answer to you.[p/] I shall do as I shall please.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CAria: 嗯……[p/]我不需要向你汇报，[p/]我想做什么就做什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4017",
     "original": "Lloyd: Yes.[p/] I suppose you have a habit of doing that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 是。[p/]我想你有这样做的习惯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4017\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4018",
     "original": "Surprisingly,[p/] it doesn't look like he's seen through your disguises.",
-    "translation": "",
-    "stage": 0,
+    "translation": "令人惊讶的是，[p/]他看起来并没有识破你的伪装。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4019",
     "original": "He must have other things on his mind if his guard is down like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他现在肯定心事重重，才会这么疏忽大意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4020",
     "original": "Aster: A-[p/]Anyways Lord von Sanctus,[p/] Pardon the abrupt intrusion.[p/] I came by to pay my respects.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 总、[p/]总之，冯·桑克图斯勋爵，[p/]请原谅我突然的到访。[p/]我来是想表示一下敬意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4020\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4021",
     "original": "Lloyd: I am honored by Your Majesty's presence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 承蒙陛下屈尊莅临，不胜荣幸。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4021\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4022",
     "original": "Lloyd: ...Unfortunately,[p/] I am quite busy with administrative matters at the moment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……很不巧，[p/]我现在正忙于处理行政事务。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4022\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4023",
     "original": "Aster: Too busy to show hospitality to the heir to the throne?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 忙得连王位继承人都不招待了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4024",
     "original": "Lloyd: O-[p/][s/]Oh,[p/][s/] I didn't-[p/][s/] I-[p/][s/]I wasn't-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 噢、[p/][s/]噢，[p/][s/]我不是——[p/][s/]我、[p/][s/]我没有——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4025",
     "original": "Lloyd: I-[p/]I suppose I have some time to speak with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 我、[p/]我想我还是有些时间陪您说话的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4026",
     "original": "The conditions aren't ideal...[p/] But at least you have von Sanctus here with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "情况不是很理想……[p/]不过至少有冯·桑克图斯和你一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4026\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4027",
     "original": "You should let Prince Aster make small talk with him for a bit.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你应该让阿斯特王子先跟他寒暄一会儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4027\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4028",
     "original": "After that,[p/] you can subtly bring up the von Sanctus crest that you found in the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "之后，[p/]你可以巧妙地提起你在桶里发现的冯·桑克图斯徽章。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4028\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4029",
     "original": "Celeste: Tyrion,[p/] do you need me to scan for magical traces?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，[p/]你要我扫描魔法痕迹吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway.yarn-Examine_Walkway-4029\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4030",
     "original": "Tyrion: Well...[p/] There aren't any magical elements in this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 嗯……[p/]这个案件中没有多少魔法元素。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway.yarn-Examine_Walkway-4030\",\n  \"keywords\": []\n}"
   },
   {
