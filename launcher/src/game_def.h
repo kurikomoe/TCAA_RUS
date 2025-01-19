@@ -218,3 +218,13 @@ struct SFXInstance__Routine_d__7_o
   void *monitor;
   SFXInstance__Routine_d__7_Fields fields;
 };
+
+using il2cpp_array_size_t = uintptr_t;
+
+struct System_String_array
+{
+  char padding[0xc];
+  il2cpp_array_size_t max_length;
+  System_String_o *m_Items[65535];
+};
+static_assert(sizeof(System_String_array) == 0x4000C);

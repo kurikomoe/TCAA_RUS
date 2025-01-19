@@ -11,6 +11,7 @@
 #include "createfile.h"
 #include "typewriter.h"
 #include "textdelay.h"
+#include "enum_string.h"
 
 std::wstring ORIG_TITLE_NAME(L"Attorney of the Arcane");
 std::wstring TITLE_NAME_SUFFIX;
@@ -66,9 +67,13 @@ DWORD __stdcall payload_main(void*) {
         std::cout << "Typewriter hook failed" << std::endl;
     }
 
-    // if (TextDelay::init(base) != 0) {
-    //     std::cout << "TextDelay hook failed" << std::endl;
-    // }
+    if (TextDelay::init(base) != 0) {
+        std::cout << "TextDelay hook failed" << std::endl;
+    }
+
+    if (EnumString::init(base) != 0) {
+        std::cout << "EnumString hook failed" << std::endl;
+    }
 
     return 1;
 }

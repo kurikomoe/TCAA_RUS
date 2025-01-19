@@ -144,91 +144,128 @@ bool hook_func8(SFXInstance__Routine_d__7_o* This, void* method) {
     return orig_func8(This, method);
 }
 
+using Func9T = System_String_array* (void*, void*);
+intptr_t tgt_func9 = 0x523ab0;
+Func9T* orig_func9 = nullptr;
+System_String_array* hook_func9(void* enumType, void* method) {
+
+    auto* ret = orig_func9(enumType, method);
+
+    std::wstring msg;
+    for (int i = 0; i < ret->max_length; i++) {
+        auto* item = ret->m_Items[i];
+
+        std::wstring ss(
+            (wchar_t*)&item->fields._firstChar,
+            item->fields._stringLength
+        );
+
+        std::wcout << ss << std::endl;
+        msg += ss + L"\n";
+    }
+
+    MessageBoxW(NULL, msg.c_str(), L"Text", MB_OK);
+
+    return ret;
+}
+
 namespace TextDelay {
     int init(DWORD base) {
-        tgt_func += base;
-        std::cout << std::format("DialogueGUI__TypeDialogue_d__90__MoveNext: {:#x}\n", tgt_func);
-        if (MH_CreateHook((LPVOID)tgt_func, &hook_func, (LPVOID*)&orig_func) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func);
-            return 1;
-        }
+        // tgt_func += base;
+        // std::cout << std::format("DialogueGUI__TypeDialogue_d__90__MoveNext: {:#x}\n", tgt_func);
+        // if (MH_CreateHook((LPVOID)tgt_func, &hook_func, (LPVOID*)&orig_func) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
-        tgt_func2 += base;
-        std::cout << std::format("Yarn_Unity_LineView__RunLineInternal_d__21__MoveNext: {:#x}\n", tgt_func2);
-        if (MH_CreateHook((LPVOID)tgt_func2, &hook_func2, (LPVOID*)&orig_func2) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func2);
-            return 1;
-        }
+        // tgt_func2 += base;
+        // std::cout << std::format("Yarn_Unity_LineView__RunLineInternal_d__21__MoveNext: {:#x}\n", tgt_func2);
+        // if (MH_CreateHook((LPVOID)tgt_func2, &hook_func2, (LPVOID*)&orig_func2) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func2);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func2) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func2) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
-        tgt_func3 += base;
-        std::cout << std::format("Yarn_Unity_DefaultActions__Wait_d__0__MoveNext: {:#x}\n", tgt_func3);
-        if (MH_CreateHook((LPVOID)tgt_func3, &hook_func3, (LPVOID*)&orig_func3) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func3);
-            return 1;
-        }
+        // tgt_func3 += base;
+        // std::cout << std::format("Yarn_Unity_DefaultActions__Wait_d__0__MoveNext: {:#x}\n", tgt_func3);
+        // if (MH_CreateHook((LPVOID)tgt_func3, &hook_func3, (LPVOID*)&orig_func3) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func3);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func3) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func3) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
-        tgt_func4 += base;
-        std::cout << std::format("UnityEngine.WaitForSeconds$$.ctor: {:#x}\n", tgt_func4);
-        if (MH_CreateHook((LPVOID)tgt_func4, &hook_func4, (LPVOID*)&orig_func4) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func4);
-            return 1;
-        }
+        // tgt_func4 += base;
+        // std::cout << std::format("UnityEngine.WaitForSeconds$$.ctor: {:#x}\n", tgt_func4);
+        // if (MH_CreateHook((LPVOID)tgt_func4, &hook_func4, (LPVOID*)&orig_func4) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func4);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func4) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func4) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
-        tgt_func5 += base;
-        std::cout << std::format("DialogueGUI__WaitForProgressInput_d__97__MoveNext: {:#x}\n", tgt_func5);
-        if (MH_CreateHook((LPVOID)tgt_func5, &hook_func5, (LPVOID*)&orig_func5) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func5);
-            return 1;
-        }
+        // tgt_func5 += base;
+        // std::cout << std::format("DialogueGUI__WaitForProgressInput_d__97__MoveNext: {:#x}\n", tgt_func5);
+        // if (MH_CreateHook((LPVOID)tgt_func5, &hook_func5, (LPVOID*)&orig_func5) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func5);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func5) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func5) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
-        tgt_func6 += base;
-        std::cout << std::format("Axiom__YarnWait_d__9__MoveNext: {:#x}\n", tgt_func6);
-        if (MH_CreateHook((LPVOID)tgt_func6, &hook_func6, (LPVOID*)&orig_func6) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func6);
-            return 1;
-        }
+        // tgt_func6 += base;
+        // std::cout << std::format("Axiom__YarnWait_d__9__MoveNext: {:#x}\n", tgt_func6);
+        // if (MH_CreateHook((LPVOID)tgt_func6, &hook_func6, (LPVOID*)&orig_func6) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func6);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func6) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func6) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
-        tgt_func7 += base;
-        std::cout << std::format("SFXInstance__Routine_d__7__MoveNext: {:#x}\n", tgt_func7);
-        if (MH_CreateHook((LPVOID)tgt_func7, &hook_func7, (LPVOID*)&orig_func7) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func7);
-            return 1;
-        }
+        // tgt_func7 += base;
+        // std::cout << std::format("SFXInstance__Routine_d__7__MoveNext: {:#x}\n", tgt_func7);
+        // if (MH_CreateHook((LPVOID)tgt_func7, &hook_func7, (LPVOID*)&orig_func7) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func7);
+        //     return 1;
+        // }
 
-        if (MH_EnableHook((LPVOID)tgt_func7) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
+        // if (MH_EnableHook((LPVOID)tgt_func7) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
+
+        // tgt_func9 += base;
+        // std::cout << std::format("System_Enum__GetName: {:#x}\n", tgt_func9);
+        // if (MH_CreateHook((LPVOID)tgt_func9, &hook_func9, (LPVOID*)&orig_func9) != MH_OK) {
+        //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func9);
+        //     return 1;
+        // }
+
+        // if (MH_EnableHook((LPVOID)tgt_func9) != MH_OK) {
+        //     std::cout << std::format("MH_EnableHook Failed\n");
+        //     return 1;
+        // }
 
         return 0;
     }
