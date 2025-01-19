@@ -281,11 +281,11 @@
         },
         {
           "first": "_TextureHeight",
-          "second": 8192.0
+          "second": 4096.0
         },
         {
           "first": "_TextureWidth",
-          "second": 8192.0
+          "second": 4096.0
         },
         {
           "first": "_UnderlayDilate",
@@ -407,9 +407,9 @@
         {
           "first": "_UnderlayColor",
           "second": {
-            "r": 0.0,
-            "g": 0.0,
-            "b": 0.0,
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
             "a": 0.5
           }
         }

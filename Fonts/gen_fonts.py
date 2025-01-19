@@ -6,7 +6,7 @@ import os
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any, Dict, Optional, TypedDict
+from typing import Any, Dict, Optional, Tuple, TypedDict
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger()
@@ -203,27 +203,28 @@ parser.add_argument("--old-dir", required=True, help="the old font file name, li
 parser.add_argument("--new-dir", required=True, help="the new gen font file name")
 parser.add_argument("--out-dir", required=True, help="the output folder")
 
-parser.add_argument("--old-resS", required=True, help="the resS file")
+# parser.add_argument("--old-resS", required=True, help="the resS file")
 parser.add_argument("--new-resS", required=True, help="the resS file")
 
 args = parser.parse_args()
 
 print(args)
 
-with open(args.old_resS, "rb") as f:
+# with open(args.old_resS, "rb") as f:
+with open(args.new_resS, "rb") as f:
     out_resS_bin = f.read()
     out_resS = io.BytesIO(out_resS_bin)
 
-with open(args.new_resS, "rb") as f:
-    new_resS_bin = f.read()
-    new_resS = io.BytesIO(new_resS_bin)
+# with open(args.new_resS, "rb") as f:
+#     new_resS_bin = f.read()
+#     new_resS = io.BytesIO(new_resS_bin)
 
 
 old_root = Path(args.old_dir)
 new_root = Path(args.new_dir)
 
 Path(args.out_dir).mkdir(parents=True, exist_ok=True)
-out_resS_path = Path(args.out_dir) / "sharedassets0.assets.resS"
+out_resS_path = Path(args.out_dir) / "fonts.bin"
 
 def find_file_by_regex(root: Path, pat):
     return [f for f in os.listdir(root) if re.match(pat, f)]
@@ -334,7 +335,7 @@ def process_material(old_root: Path, old_material,
     return
 
 
-atlas_cache = {}
+atlas_cache: Dict[Tuple[int, int], Tuple[int, int]] = {}
 def process_atlas(old_root: Path, old_atlas, new_root: Path, new_atlas, output: Path):
     global atlas_cache
 
@@ -346,8 +347,8 @@ def process_atlas(old_root: Path, old_atlas, new_root: Path, new_atlas, output: 
     offset = new_atlas_data["m_StreamData"]["offset"]
     size = new_atlas_data["m_StreamData"]["size"]
 
-    new_resS.seek(offset, io.SEEK_SET)
-    data = new_resS.read(size)
+    # new_resS.seek(offset, io.SEEK_SET)
+    # data = new_resS.read(size)
 
     # ============  Solution1: embeded ================
     # data_bytes = list(data)
@@ -368,15 +369,17 @@ def process_atlas(old_root: Path, old_atlas, new_root: Path, new_atlas, output: 
 
 
     # ============  Solution2: write to resS ================
-    if (offset, size) not in atlas_cache:
-        new_offset = out_resS.seek(0, io.SEEK_END)
-        out_resS.write(data)
-        atlas_cache[(offset, size)] = (new_offset, size)
-    else:
-        new_offset, size = atlas_cache[(offset, size)]
+    # if (offset, size) not in atlas_cache:
+    #     new_offset = out_resS.seek(0, io.SEEK_END)
+    #     out_resS.write(data)
+    #     atlas_cache[(offset, size)] = (new_offset, size)
+    # else:
+    #     new_offset, size = atlas_cache[(offset, size)]
 
     new_atlas_data["image data"] = []
-    new_atlas_data["m_StreamData"]["offset"] = new_offset
+    new_atlas_data["m_StreamData"]["path"] = "fonts.bin"
+    # new_atlas_data["m_StreamData"]["offset"] = new_offset
+    new_atlas_data["m_StreamData"]["offset"] = offset
     new_atlas_data["m_StreamData"]["size"] = size
 
     old_file_path = old_root / old_atlas

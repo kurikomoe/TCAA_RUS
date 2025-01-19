@@ -10,6 +10,7 @@
 #include <windows.h>
 
 #include <MinHook.h>
+#include "helper.hpp"
 
 #include "game_def.h"
 
@@ -26,12 +27,12 @@ bool hook_func(DialogueGUI__TypeDialogue_d__90_o* This, void* method) {
     auto fastTextPause = 0.0; // DialogueGUI_This->fields.fastTextPause->fields.m_Seconds;
     auto fastTextWait = 0.0; //DialogueGUI_This->fields.fastTextWait->fields.m_Seconds;
 
-    // std::cout << "=========== in func =============" << std::endl;
-    // std::cout << "SkipTime: " << DialogueGUI_This->fields.skip_time << std::endl;
-    // std::cout << "typeDelay: " << DialogueGUI_This->fields.typeDelay << std::endl;
-    // std::cout << "pauseDelay: " << DialogueGUI_This->fields.pauseDelay << std::endl;
-    // std::cout << "autoPlayDelay: " << DialogueGUI_This->fields.autoPlayDelay << std::endl;
-    // std::cout << "textInstantPlayDelay: " << DialogueGUI_This->fields.textInstantPlayDelay << std::endl;
+    std::cout << "=========== in func =============" << std::endl;
+    std::cout << "SkipTime: " << DialogueGUI_This->fields.skip_time << std::endl;
+    std::cout << "typeDelay: " << DialogueGUI_This->fields.typeDelay << std::endl;
+    std::cout << "pauseDelay: " << DialogueGUI_This->fields.pauseDelay << std::endl;
+    std::cout << "autoPlayDelay: " << DialogueGUI_This->fields.autoPlayDelay << std::endl;
+    std::cout << "textInstantPlayDelay: " << DialogueGUI_This->fields.textInstantPlayDelay << std::endl;
 
     std::wstring ss(
         (wchar_t*)&This->fields.dialogueLine->fields.RawText->fields._firstChar,
@@ -40,27 +41,27 @@ bool hook_func(DialogueGUI__TypeDialogue_d__90_o* This, void* method) {
     // std::wcout << L""ss << std::endl;
     // This->fields._letter_count_5__7;
     if (DialogueGUI_This->fields.slowTextPause) {
-        // std::cout << "slowTextPause: " << DialogueGUI_This->fields.slowTextPause->fields.m_Seconds << std::endl;
+        std::cout << "slowTextPause: " << DialogueGUI_This->fields.slowTextPause->fields.m_Seconds << std::endl;
         DialogueGUI_This->fields.slowTextPause->fields.m_Seconds = fastTextPause;
     }
     if (DialogueGUI_This->fields.slowTextWait) {
-        // std::cout << "slowTextWait: " << DialogueGUI_This->fields.slowTextWait->fields.m_Seconds << std::endl;
+        std::cout << "slowTextWait: " << DialogueGUI_This->fields.slowTextWait->fields.m_Seconds << std::endl;
         DialogueGUI_This->fields.slowTextWait->fields.m_Seconds = fastTextWait;
     }
     if (DialogueGUI_This->fields.textPause) {
-        // std::cout << "TextPause: " << DialogueGUI_This->fields.textPause->fields.m_Seconds << std::endl;
+        std::cout << "TextPause: " << DialogueGUI_This->fields.textPause->fields.m_Seconds << std::endl;
         DialogueGUI_This->fields.textPause->fields.m_Seconds = fastTextPause;
     }
     if (DialogueGUI_This->fields.textWait) {
-        // std::cout << "TextWait: " << DialogueGUI_This->fields.textWait->fields.m_Seconds << std::endl;
+        std::cout << "TextWait: " << DialogueGUI_This->fields.textWait->fields.m_Seconds << std::endl;
         DialogueGUI_This->fields.textWait->fields.m_Seconds = fastTextWait;
     }
     if (DialogueGUI_This->fields.fastTextPause) {
-        // std::cout << "fastTextPause: " << DialogueGUI_This->fields.fastTextPause->fields.m_Seconds << std::endl;
+        std::cout << "fastTextPause: " << DialogueGUI_This->fields.fastTextPause->fields.m_Seconds << std::endl;
         DialogueGUI_This->fields.fastTextPause->fields.m_Seconds = fastTextPause;
     }
     if (DialogueGUI_This->fields.fastTextWait) {
-        // std::cout << "fastTextWait: " << DialogueGUI_This->fields.fastTextWait->fields.m_Seconds << std::endl;
+        std::cout << "fastTextWait: " << DialogueGUI_This->fields.fastTextWait->fields.m_Seconds << std::endl;
         DialogueGUI_This->fields.fastTextWait->fields.m_Seconds = fastTextWait;
     }
 
@@ -102,12 +103,12 @@ bool hook_func5(DialogueGUI__WaitForProgressInput_d__97_o* This, void* method) {
     auto* DialogueGUI_This = This->fields.__4__this;
 
     auto ret = orig_func5(This, method);
-    // std::cout << "=========== in func5 =============" << std::endl;
-    // std::cout << "SkipTime: " << DialogueGUI_This->fields.skip_time << std::endl;
-    // std::cout << "typeDelay: " << DialogueGUI_This->fields.typeDelay << std::endl;
-    // std::cout << "pauseDelay: " << DialogueGUI_This->fields.pauseDelay << std::endl;
-    // std::cout << "autoPlayDelay: " << DialogueGUI_This->fields.autoPlayDelay << std::endl;
-    // std::cout << "textInstantPlayDelay: " << DialogueGUI_This->fields.textInstantPlayDelay << std::endl;
+    std::cout << "=========== in func5 =============" << std::endl;
+    std::cout << "SkipTime: " << DialogueGUI_This->fields.skip_time << std::endl;
+    std::cout << "typeDelay: " << DialogueGUI_This->fields.typeDelay << std::endl;
+    std::cout << "pauseDelay: " << DialogueGUI_This->fields.pauseDelay << std::endl;
+    std::cout << "autoPlayDelay: " << DialogueGUI_This->fields.autoPlayDelay << std::endl;
+    std::cout << "textInstantPlayDelay: " << DialogueGUI_This->fields.textInstantPlayDelay << std::endl;
 
     // DialogueGUI_This->fields.skip_time = 0;
     // DialogueGUI_This->fields.typeDelay = 0;
@@ -144,40 +145,23 @@ bool hook_func8(SFXInstance__Routine_d__7_o* This, void* method) {
     return orig_func8(This, method);
 }
 
-using Func9T = System_String_array* (void*, void*);
-intptr_t tgt_func9 = 0x523ab0;
-Func9T* orig_func9 = nullptr;
-System_String_array* hook_func9(void* enumType, void* method) {
-
-    auto* ret = orig_func9(enumType, method);
-
-    std::wstring msg;
-    for (int i = 0; i < ret->max_length; i++) {
-        auto* item = ret->m_Items[i];
-
-        std::wstring ss(
-            (wchar_t*)&item->fields._firstChar,
-            item->fields._stringLength
-        );
-
-        std::wcout << ss << std::endl;
-        msg += ss + L"\n";
-    }
-
-    MessageBoxW(NULL, msg.c_str(), L"Text", MB_OK);
-
-    return ret;
-}
 
 namespace TextDelay {
     int init(DWORD base) {
+
+        // auto playSFX1 = base + 0x1dc10f;
+        // auto playSFX2 = base + 0x1dc895;
+        // for (int i = 0; i < 5; i++) {
+        //     Memory::Write(playSFX1 + i, (uint8_t)0x90);
+        //     Memory::Write(playSFX2 + i, (uint8_t)0x90);
+        // }
+
         // tgt_func += base;
         // std::cout << std::format("DialogueGUI__TypeDialogue_d__90__MoveNext: {:#x}\n", tgt_func);
         // if (MH_CreateHook((LPVOID)tgt_func, &hook_func, (LPVOID*)&orig_func) != MH_OK) {
         //     std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_func);
         //     return 1;
         // }
-
         // if (MH_EnableHook((LPVOID)tgt_func) != MH_OK) {
         //     std::cout << std::format("MH_EnableHook Failed\n");
         //     return 1;

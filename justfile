@@ -10,11 +10,11 @@ init:
 charset:
     python Texts/get_chars.py \
         --input-orig third/charset_orig.txt \
-        --input-base third/7000常用字优化版.txt \
         --input-base third/chinese.txt \
         --input-base third/3500常用汉字.txt \
         --inputs Texts/@paraz-out \
         --output Fonts/chinese.txt
+    # --input-base third/7000常用字优化版.txt \
 
 fonts:
     rm -rf Fonts/@build
@@ -23,9 +23,9 @@ fonts:
         python3 gen_fonts.py \
             --old-dir @old \
             --new-dir @new \
-            --old-resS @old/sharedassets0.assets.resS \
             --new-resS @new/sharedassets0.assets.resS \
             --out-dir @build
+    # --old-resS @old/sharedassets0.assets.resS
 
 paraz := "@paraz"
 export:
