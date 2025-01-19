@@ -4643,7 +4643,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-714",
     "original": "Liafal: Well he [i]was[/i] extremely upset about something.[p/] I think Beatrice may have offended him during their meeting.",
-    "translation": "Liafal: 嗯他当时因为什么事非常生气。[p/]我觉得比亚特丽丝在他们会面的时候可能冒犯了他。",
+    "translation": "Liafal: 嗯他当时因为什么事非常生气。[p/]我觉得比亚特丽丝在会面的时候可能冒犯了他。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-714\",\n  \"keywords\": []\n}"
   },
@@ -4685,7 +4685,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-720",
     "original": "Liafal: It was before they activated the lockdown.[p/] It was a little after 1:00 AM that night.",
-    "translation": "Liafal: 在他们启动封锁之前。[p/]晚上凌晨 1 点多。",
+    "translation": "Liafal: 这发生在激活封锁之前，[p/]晚上凌晨 1 点刚过不久。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-720\",\n  \"keywords\": []\n}"
   },
@@ -24705,7 +24705,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3780",
     "original": "But perhaps you don't need to.[p/] Even if Tymora's ideal was a lie.",
-    "translation": "但你还不需要立刻决定。[p/]即使泰摩拉的理想是个谎言。",
+    "translation": "即使泰摩拉的理想是个谎言，[p/]你也不需要立刻决定。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End8-3780\",\n  \"keywords\": []\n}"
   },
@@ -26959,14 +26959,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4106",
     "original": "Tyrion: It's a painting of some sort of scientist.",
-    "translation": "Tyrion: 某种科学家的画像。",
+    "translation": "Tyrion: 看起来是某个科学家的画像。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4107",
     "original": "Harold: That man is Dr. Luke Kuepfer.[p/] He was an alchemist and inventor from one of the branch families.",
-    "translation": "Harold: 那是Luke Kuepfer博士。[p/]他是出身于其中一个分家的炼金术师和发明家。",
+    "translation": "Harold: 那是 Luke Kuepfer 博士。[p/]他是出身于弗雷加一族分家的炼金术师和发明家。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4107\",\n  \"keywords\": []\n}"
   },
@@ -26987,7 +26987,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4110",
     "original": "Harold: Yes, actually.[p/] I wouldn't be surprised if Lord von Sanctus used Dr. Kuepfer's research to create those Constructs.",
-    "translation": "Harold: 没错，正是如此。[p/]即使冯·桑克图斯勋爵使用Kuepfer博士的研究成果制造了那些构造体也不足为奇。",
+    "translation": "Harold: 没错，正是如此。[p/]冯·桑克图斯勋爵制造那些构造体时，使用了 Kuepfer 博士的研究成果也不足为奇。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4110\",\n  \"keywords\": []\n}"
   },
@@ -27043,7 +27043,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4119",
     "original": "Harold: That is Professor Matt Ferland.[p/] He was a professor of some renown.",
-    "translation": "Harold: 那是Matt Ferland教授。[p/]他是个小有名声的教授。",
+    "translation": "Harold: 那是 Matt Ferland 教授。[p/]他是个小有名声的教授。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Examine_Gallery1-4119\",\n  \"keywords\": []\n}"
   },
@@ -27323,21 +27323,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4163",
     "original": "Harold: It would be one thing to dispel the wards and remove the glass protecting it.",
-    "translation": "Harold: 只有一种办法解除结界并移除保护其的玻璃。",
+    "translation": "Harold: 解除结界，移除玻璃是一回事。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4164",
     "original": "Harold: But it's another thing [i]entirely[/i] to completely annihilate the abjuration wards and [i]shatter[/i] the glass.",
-    "translation": "Harold: 但如果要<u>彻底</u>摧毁防护术结界并<u>打碎</u>这些玻璃倒是另当别论了。",
+    "translation": "Harold: <u>彻底</u>摧毁防护术结界，并<u>打碎</u>这些玻璃就是另一回事了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4165",
     "original": "Harold: Doing something like that would require an extremely powerful spell.[p/] Far more powerful than what would have been needed.",
-    "translation": "Harold: 这样做需要一个极其强大的法术。[p/]远比所需要的威力大得多。",
+    "translation": "Harold: 这样做需要使用一种极其强大的法术。[p/]远比简单破坏所需要的威力大得多。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4165\",\n  \"keywords\": []\n}"
   },
@@ -27974,526 +27974,526 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4268",
     "original": "As you enter the gallery,[p/] you spot Haroldson inspecting the shattered remnants of a display case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "进入画廊时，[p/]你看到哈罗德森正在检查一个碎裂的展柜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4268\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4269",
     "original": "If you recall correctly,[p/] the display case that he's looking at once held the Sword of Spell Eating.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果你没记错，[p/]他正在看的展柜里原本保存着噬法之剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4270",
     "original": "Harold: Oh, Mr. Cuthbert.[p/] I had a feeling I'd be seeing you again. [mind=\"He's working for the Crown Prince. Can he be trusted?\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 噢，卡斯伯特先生。[p/]我就觉得我们会再见面。 [mind=\"他为王储殿下工作，值得信任吗？\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4271",
     "original": "...It seems word has spread about your deal with Aster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……看来你和阿斯特的事已经传开了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4271\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4272",
     "original": "Tyrion: Hello again, Mr. Haroldson.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 又见面了，哈罗德森先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4273",
     "original": "Harold: Harold.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 哈罗德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4273\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4274",
     "original": "Tyrion: R-[p/][s/]Right...[p/] Harold.[p/] I'm sure you already know that I'm investigating the murder of William Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好、[p/][s/]好的……[p/]哈罗德。[p/]你应该已经知道，我在调查威廉·弗雷加谋杀案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4274\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4275",
     "original": "Tyrion: And the prosecution suspects that someone used the Sword of Spell Eating to break into Lord Frega's room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 检方怀疑，有人利用噬法之剑闯进了弗雷加勋爵的房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4275\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4276",
     "original": "Tyrion: I was wondering if I could ask you some questions about the theft last night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我想问问你关于谋杀当晚发生的窃案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4276\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4277",
     "original": "Harold: I'll tell you what I can.[p/] But I'm not sure how much help I'll be.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 我会尽可能回答的，[p/]但我也不知道能帮上多少忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4277\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4278",
     "original": "Tyrion: Thank you for your time, Harold.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 谢谢你的合作，哈罗德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4278\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4279",
     "original": "Harold: Harold.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 哈罗德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4279\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4280",
     "original": "Tyrion: I think we'll be on our way now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们差不多该走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4280\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4281",
     "original": "Celeste: We have a lot of info,[p/] but none of it really leads anywhere.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们收获了不少情报，[p/]但没有哪条指向明确。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4281\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4282",
     "original": "Tyrion: So many people had a motive to murder William Frega...[p/] But who actually did it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 许多人都有杀害威廉·弗雷加的动机……[p/]但谁付诸行动了呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4282\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4283",
     "original": "Perhaps you should take some time to review everything that you've learned.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也许你应该花点时间，回顾一下至今为止的情报。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Check_Events_Gallery1-4283\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4284",
     "original": "Tyrion: Motives aside,[p/] let's go over the events that happened that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 先不谈动机，[p/]我们回顾一下谋杀当晚发生了什么事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce-4284\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4285",
     "original": "Tyrion: It all started when the Sword of Spell Eating was stolen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一切都从噬法之剑被偷开始。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce-4285\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4286",
     "original": "Tyrion: We don't have a specific suspect.[p/] But we do know something about them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们没有特定嫌疑人。[p/]但我们知道一些可以缩小范围的情报。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce-4286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4289",
     "original": "No...[p/] We don't know who specifically stole the sword that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]我们不知道那晚具体是谁偷走了剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce2-4289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4290",
     "original": "But we [i]do[/i] know some traits about them due to what we found in the gallery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但根据画廊发现的东西，我们可以<u>知道</u>某些特征。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce2-4290\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4291",
     "original": "Harold: It would be one thing to dispel the wards and remove the glass protecting it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 解除结界，移除玻璃是一回事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4292",
     "original": "Harold: But it's another thing [i]entirely[/i] to completely annihilate the abjuration wards and [i]shatter[/i] the glass.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: <u>彻底</u>摧毁防护术结界，并<u>打碎</u>这些玻璃就是另一回事了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4292\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4293",
     "original": "Harold: Doing something like that would require an extremely powerful spell.[p/] Far more powerful than what would have been needed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 这样做需要使用一种极其强大的法术。[p/]远比简单破坏所需要的威力大得多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4294",
     "original": "Tyrion: The thief was a powerful mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 窃贼是一个强大的法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4294\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4295",
     "original": "Tyrion: That's the only way that they could have shattered the magically reinforced glass.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只有一种方法能彻底摧毁被魔法强化过的玻璃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4295\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4296",
     "original": "Celeste: But what about Harold?[p/] He could have just unlocked it using his password.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 那哈罗德呢？[p/]他用密码就可以解锁展柜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4296\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4297",
     "original": "Tyrion: He could have stolen the Sword and staged a robbery.[p/] But he couldn't have shattered the glass.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他可以偷走剑并行窃，[p/]但他没法这样打碎玻璃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4297\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4298",
     "original": "Tyrion: Only a powerful mage could have done that.[p/] And I doubt Harold would lie about that when we could easily confirm it with Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只有强大的法师才能做到这种地步。[p/]找斯蒂尔文德确证很简单，我不觉得哈罗德会在这种事上说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4298\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4299",
     "original": "Celeste: Right.[p/] But then what happened next?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 也对。[p/]那之后发生了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4299\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4300",
     "original": "Tyrion: They brazenly stole the Sword of Spell Eating.[p/] This caused Harold to report the theft to the Kingsguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 犯人公然偷走噬法之剑。[p/]哈罗德发现后向国王卫队报告。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce3-4300\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4301",
     "original": "Aria: After Lord Haroldson reported the theft,[p/] the Inquisition discreetly placed the manor on lockdown.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 哈罗德森勋爵通报失窃一事后，[p/]裁判所慎重地封锁了庄园。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce4-4301\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4302",
     "original": "Aria: They searched every room in the manor to try to find it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 为寻找剑，他们搜查了庄园所有房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce4-4302\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4303",
     "original": "Aria: But it was eventually found in Beatrice's bedroom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 最终剑在比亚特丽丝的卧室被发现。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce4-4303\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4304",
     "original": "Tyrion: ...And that led them to believe that [i]she[/i] had stolen it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……所以他们认为是<u>她</u>偷了剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce4-4304\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4305",
     "original": "Aria: That's correct.[p/] The Kingsguard moved to arrest her,[p/] but Prince Aster ordered them to step down.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 是的。[p/]国王卫队准备逮捕她，[p/]但阿斯特王子阻止了他们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce4-4305\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4306",
     "original": "Tyrion: And then there's Laefe's statement.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 然后是拉菲说的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce4-4306\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4307",
     "original": "Liafal: My father was extremely upset about something.[p/] I think Beatrice may have offended him during their meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 我父亲因为什么事非常生气。[p/]我觉得比亚特丽丝在会面的时候可能冒犯了他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce5-4307\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4308",
     "original": "Liafal: The servants said that he wanted to be left alone.[p/] He retreated into his study immediately after their meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 仆人们说他想一个人待着。[p/]他在会面后马上就回到了自己的书房。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce5-4308\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4309",
     "original": "Liafal: I tried to speak with him when the theft was reported.[p/] But he didn't much care about the missing artifact.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 盗窃案上报时我试图找他谈谈。[p/]但他对丢失的文物不是很在意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce5-4309\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4310",
     "original": "Liafal: This happened before they activated the lockdown.[p/] It was a little after 1:00 AM that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Liafal: 这发生在激活封锁之前，[p/]晚上凌晨 1 点刚过不久。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce5-4310\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4311",
     "original": "Tyrion: Laefe's account gives us a clear fact about [i]when[/i] William died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 拉菲的证词说明了有关威廉死亡<u>时间</u>的明确事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce5-4311\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4314",
     "original": "No...[p/] Laefe spoke with Lord Frega before he went into his study.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不……[p/]弗雷加勋爵回到书房前曾与拉菲谈话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4314\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4315",
     "original": "And unlike the Nightgrave case,[p/] the time of death was [i]after[/i] this encounter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "与奈特格雷夫一案不同的是，[p/]死亡时间是在这次相遇<u>之后</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4315\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4316",
     "original": "It's unlikely that Laefe saw someone else disguised as her father.",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲看见的不太可能是别人伪装的威廉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4316\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4317",
     "original": "It [i]had[/i] to have been him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "<u>一定</u>是他本人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4317\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4318",
     "original": "Tyrion: William Frega was murdered [i]after[/i] the lockdown was activated.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 威廉·弗雷加在封锁被激活<u>之后</u>遭杀害。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4318\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4319",
     "original": "Celeste: This means that whoever killed him bypassed the lockdown and broke into the magically locked room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 意味着凶手肯定绕过了封锁系统，闯入了被魔法封锁的房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4319\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4320",
     "original": "Celeste: They [i]had[/i] to have used the Sword, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他们<u>肯定</u>用了噬法之剑，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4320\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4321",
     "original": "Tyrion: ...That's likely,[p/] but not necessarily true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……很有可能，[p/]但不算“肯定”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4321\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4322",
     "original": "Tyrion: An [b]Anti-Magic Field[/b] would have also had the same effect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: [b]抗魔力场[/b]也能有相同的效果。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4323",
     "original": "Tyrion: The murderer could have stolen the Sword of Spell-Eating to throw off the investigation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 凶手偷窃噬法之剑也可能是想让调查误入歧途。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4324",
     "original": "Celeste: But [b]Anti-Magic Field[/b] is a high-level spell.[p/] Not many mages would be able to cast it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但[b]抗魔力场[/b]属于高阶法术。[p/]没多少法师会用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4324\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4325",
     "original": "Tyrion: ...And I doubt [i]any[/i] of the nobles here will let us see their [b]Spell Compendiums[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我也不觉得这里的<u>任何</u>贵族会让我们察看[b]法术汇编[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4325\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4326",
     "original": "Tyrion: But because of how powerful [b]Anti-Magic Field[/b] is,[p/] we can still conclude that the murderer is a powerful mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不过既然[b]抗魔力场[/b]威力不俗，[p/]我们还是可以确定凶手是位强大的法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4326\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4327",
     "original": "Tyrion: This actually narrows down our list of suspects.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这也帮我们缩小了嫌疑人的范围。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4328",
     "original": "Celeste: That's still not concrete evidence, though...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但这还不算是确凿的证据……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4329",
     "original": "Celeste: And we haven't even spoken to all of the suspects yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们也还没和所有嫌疑人交谈过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4330",
     "original": "Right...[p/] You never got a chance to speak with Lucio Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "是啊……[p/]你一直没机会和卢西奥·斯蒂尔文德交谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4331",
     "original": "But given his status,[p/] you wonder if that would even be possible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但考虑到他的地位，[p/]你觉得这件事希望渺茫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4332",
     "original": "Tyrion: Either way,[p/] it's a good start.[p/] And it's not as if we're defending this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总之，[p/]算个好的开头。[p/]反正也不是我们来辩护此案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4332\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4333",
     "original": "Tyrion: The trial is getting close anyways.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 审理也就快开始了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4333\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4334",
     "original": "You don't doubt Ms. Tymora's abilities.[p/] But you should share what you've learned with her before the trial begins.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你不怀疑泰摩拉女士的能力。[p/]但你还是应该在庭审开始前，与她分享自己所知的情报。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4334\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4335",
     "original": "It's a little strange that you haven't seen her since the investigation began.",
-    "translation": "",
-    "stage": 0,
+    "translation": "调查开始后你就没见过她，稍微有点奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4336",
     "original": "But she might be meeting with Beatrice at the Dungeon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也许她在地牢与比亚特丽丝会面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce7-4336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4338",
     "original": "Tyrion: It's a crimson-red short sword.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一把深红色的短剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4338\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4339",
     "original": "Harold: That's the Sword of Spell Eating.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 这就是噬法之剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4340",
     "original": "Harold: Legends say that it has the power to protect its wielder from [i]any[/i] kind of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 传说中提到，这把剑能让使用者不受<u>任何</u>形式的魔法影响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4341",
     "original": "Tyrion: So it's like an [b]Anti-Magic Field[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就像一个[b]抗魔力场[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4341\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4342",
     "original": "Harold: In a way, yes.[p/] But it has less-than-heroic origins, I'm afraid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 某种意义上是的。[p/]但这把剑的起源恐怕不怎么光明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4343",
     "original": "Harold: It's said that this sword was created through a blood pact between a mage and a demon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 传说这把剑是通过法师与恶魔的血契打造而成。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4343\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4344",
     "original": "Tyrion: A demon?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 恶魔？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4344\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4345",
     "original": "Harold: Legends say that some demons had the power to absorb and nullify magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 传说提到，有的恶魔能够吸收魔法，使之无效化。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4346",
     "original": "Harold: A demon must have imbued some of that power into this sword.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 肯定是某个恶魔将自己的力量灌入了这把剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4347",
     "original": "Harold: Or at least that's what the legends say.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 至少传说里这么讲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4347\",\n  \"keywords\": []\n}"
   },
   {
@@ -28506,29 +28506,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4349",
     "original": "Tyrion: ...Is it safe to put something like this on display?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……把这种东西展示出来安全吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4350",
     "original": "Tyrion: What if the legends are true?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 万一传说是真的呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4351",
     "original": "Harold: Don't worry.[p/] These displays are fortified with several [b]abjuration[/b] spells.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 别担心。[p/]这些展柜都有多层[b]防护术[/b]类法术保护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4352",
     "original": "Harold: I'd bet even Lord Steelwind would have trouble getting into this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 即使斯蒂尔文德勋爵也没法轻易破坏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4352\",\n  \"keywords\": []\n}"
   },
   {
@@ -28541,43 +28541,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4355",
     "original": "Tyrion: It's a pair of golden earrings.[p/] There are small jewels embedded into each of them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一对金制耳环。[p/]每个耳环上都有珠宝点缀。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4356",
     "original": "Harold: Those are the Earrings of Vitality.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 这是活力耳环。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4357",
     "original": "Harold: It's said that the Scaled Lord imbued a portion of his immortality into these.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 传说鳞甲领主将自己的一部分不朽之力灌入其中。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4358",
     "original": "Harold: Legends say that whoever wore them would have their lifespan increased ten-fold.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 传说提到，穿戴耳环的人生命力都会变为原有的十倍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4359",
     "original": "Tyrion: The Scaled Lord could do things like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 鳞甲领主还能做到这种事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4360",
     "original": "Harold: Of course![p/] He is [i]the[/i] Scaled Lord, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 当然了！[p/]毕竟他可是<u>那个</u>鳞甲领主。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4360\",\n  \"keywords\": []\n}"
   },
   {
@@ -28590,71 +28590,71 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4362",
     "original": "Tyrion: Hm...[p/] Are there any spells that can create a similar effect to these earrings?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 嗯……[p/]有没有什么和这对耳环效果相似的法术？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4363",
     "original": "Harold: Not that I know of.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 我了解的范围里没有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4363\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4364",
     "original": "Harold: A spell like that would probably fall under the school of [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 这种法术大概率会被归为[b]死灵术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4364\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4365",
     "original": "Harold: ...And I'm sure you know how much the kingdom scrutinizes [i]that[/i] type of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: ……你也知道王国对<u>这类</u>法术审查有多么严格。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4367",
     "original": "Tyrion: It's a pair of metallic armbands.[p/] There are several magical runes carved onto them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一对金属臂章。[p/]上面镶嵌着数个魔法符石。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4368",
     "original": "Harold: Those are the Armbands of Intellect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 这是智慧臂章。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4369",
     "original": "Harold: They were actually created by a member of House Frega many centuries ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 其实是由弗雷加家族的某位成员在许多世纪前创造。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4370",
     "original": "Tyrion: \"Centuries\"?[p/] That would make these armbands one of the first creations of artificery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “世纪”？[p/]那这对臂章就是奥术能源最早的一批产物之一了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4370\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4371",
     "original": "Harold: That's correct.[p/] Legends say that whoever wore these armbands would be granted unparalleled levels of intellect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 正是如此。[p/]传说提到，佩戴臂章的生物会获得无可匹敌的智力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4371\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4372",
     "original": "Harold: Many believed that House Frega created these to aid them in their study of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 很多人相信，弗雷加家创造臂章是为了帮助家族研究魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4372\",\n  \"keywords\": []\n}"
   },
   {
@@ -28667,43 +28667,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4375",
     "original": "Tyrion: It's a painting of some sort of scientist.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来是某个科学家的画像。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4375\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4376",
     "original": "Harold: That man is Dr. Luke Kuepfer.[p/] He was an alchemist and inventor from one of the branch families.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 那是 Luke Kuepfer 博士。[p/]他是出身于弗雷加一族分家的炼金术师和发明家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4376\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4377",
     "original": "Harold: He is well-known for his studies into imbuing intelligence into automatons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 因其对于向机器人灌注智能的研究而著名。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4378",
     "original": "Tyrion: Intelligent automatons...[p/] Would that make them similar to Arcane Constructs?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 智能机器人……[p/]会和奥术构造体很相似吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4378\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4379",
     "original": "Harold: Yes, actually.[p/] I wouldn't be surprised if Lord von Sanctus used Dr. Kuepfer's research to create those Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Harold: 没错，正是如此。[p/]冯·桑克图斯勋爵制造那些构造体时，使用了 Kuepfer 博士的研究成果也不足为奇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4379\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4380",
     "original": "So in essence,[p/] von Sanctus is taking credit for someone else's work.",
-    "translation": "",
-    "stage": 0,
+    "translation": "所以从本质上来讲，[p/]冯·桑克图斯是在抢别人功劳。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4380\",\n  \"keywords\": []\n}"
   },
   {
@@ -28716,7 +28716,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4383",
     "original": "Harold: That is Professor Matt Ferland.[p/] He was a professor of some renown.",
-    "translation": "Harold: 那是Matt Ferland教授。[p/]他是个小有名声的教授。",
+    "translation": "Harold: 那是 Matt Ferland 教授。[p/]他是个小有名声的教授。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Examine_GalleryIntro-4383\",\n  \"keywords\": []\n}"
   },
@@ -29003,7 +29003,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4429",
     "original": "Tyrion: In the history of the ancient dragons,[p/] was there any instance of them granting powers to humans?",
-    "translation": "Tyrion: 在古龙历史长河中，[p/]有将它们的神力交给人类的例子吗？",
+    "translation": "Tyrion: 在古龙的历史中，[p/]有将它们的神力交给人类的例子吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Talk_GalleryIntro-4429\",\n  \"keywords\": []\n}"
   },
@@ -29017,8 +29017,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4431",
     "original": "Tyrion: ...Right.[p/] But was there anything before that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……好吧。[p/]这之前呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Talk_GalleryIntro-4431\",\n  \"keywords\": []\n}"
   },
   {
