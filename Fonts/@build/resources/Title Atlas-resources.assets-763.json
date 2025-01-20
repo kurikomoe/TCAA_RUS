@@ -3,9 +3,9 @@
   "m_ForcedFallbackFormat": 4,
   "m_DownscaleFallback": false,
   "m_IsAlphaChannelOptional": false,
-  "m_Width": 4096,
-  "m_Height": 4096,
-  "m_CompleteImageSize": 16777216,
+  "m_Width": 8192,
+  "m_Height": 8192,
+  "m_CompleteImageSize": 67108864,
   "m_MipsStripped": 0,
   "m_TextureFormat": 1,
   "m_MipCount": 1,
@@ -32,8 +32,8 @@
   },
   "image data": [],
   "m_StreamData": {
-    "offset": 16777216,
-    "size": 16777216,
+    "offset": 67108864,
+    "size": 67108864,
     "path": "fonts.bin"
   }
 }
