@@ -8640,7 +8640,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1335",
     "original": "Mosourika: Y'know.[p/] Those magically animated suits of armor.",
-    "translation": "Mosourika: 你知道的。[p/]那些魔法驱动的全身盔甲。",
+    "translation": "Mosourika: 你知道的。[p/]那些魔法驱动的全套盔甲。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1335\",\n  \"keywords\": []\n}"
   },
@@ -13442,7 +13442,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2074",
     "original": "Tyrion: What do you think about [i]this[/i]?",
-    "translation": "Tyrion: 你有什么看法？",
+    "translation": "Tyrion: 你对<u>这个</u>有什么看法？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Present_Factory-2074\",\n  \"keywords\": []\n}"
   },
@@ -14597,7 +14597,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2256",
     "original": "Tyrion: What do you think about [i]this[/i]?",
-    "translation": "Tyrion: 你怎么看待<u>这件事</u>的？",
+    "translation": "Tyrion: 你对<u>这个</u>有什么看法？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Present_Factory2-2256\",\n  \"keywords\": []\n}"
   },
@@ -21604,14 +21604,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3342",
     "original": "Noah: I was showing a visitor around the city.[p/] And for some reason,[p/] he really wanted to see the Aurinax Arcane Refinery.",
-    "translation": "Noah: 我当时正带一个访客参观城市，[p/]并且出于某些原因，[p/]他很想看看欧奥耐克斯奥术精炼厂。",
+    "translation": "Noah: 我当时正带一个访客参观城市。[p/]出于某些原因，[p/]他很想看看欧奥耐克斯奥术精炼厂。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-NoahTest-3342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3343",
     "original": "Noah: He was inspecting the machines there.[p/] When,[p/] suddenly,[p/] Mosourika ran up to us.",
-    "translation": "Noah: 他正在检查那里的机器。[p/]那时，[p/]突然间，[p/]莫苏里卡朝我们跑来。",
+    "translation": "Noah: 他正在检查那里的机器。[p/]突然间，[p/]莫苏里卡朝我们跑来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-NoahTest-3343\",\n  \"keywords\": []\n}"
   },
@@ -21625,14 +21625,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3345",
     "original": "Noah: After a while,[p/] she just pointed at the walkway overlooking the refinery.[p/] That's where we saw someone fall into that accursed vat.",
-    "translation": "Noah: 过了一会儿，她就只是指着俯瞰精炼厂的走道。[p/]就在那儿，我们看到有人掉进那个该死的桶里。",
+    "translation": "Noah: 过了一会儿，[p/]她指向俯瞰精炼厂的走道。[p/]就在那儿，我们看到有人掉进那个该死的桶里。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-NoahTest-3345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3346",
     "original": "Noah: ...There was a guard rail that [i]should[/i] have prevented him from falling.[p/] But he broke through it as he fell.",
-    "translation": "Noah: ……有道栏杆<u>本该</u>能阻止他掉下去的，[p/]但他掉下去时把它弄断了。",
+    "translation": "Noah: ……有道护栏<u>本该</u>能阻止他掉下去的，[p/]但栏杆直接断裂了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-NoahTest-3346\",\n  \"keywords\": []\n}"
   },
@@ -22864,7 +22864,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3535",
     "original": "Mosourika: He must have seen Justin lose his grip of the ledge and fall into the vat after that.",
-    "translation": "Mosourika: 他肯定是在那之后看到贾斯汀抓不住边缘掉进桶里的。",
+    "translation": "Mosourika: 他肯定是在那之后看到贾斯汀抓不住边缘而掉进桶里的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaTest-3535\",\n  \"keywords\": []\n}"
   },
@@ -27596,533 +27596,533 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4254",
     "original": "Aster: Ugh...[p/] That Miriam...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 呃啊……[p/]这个米莉亚姆……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4254\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4255",
     "original": "Aster: She's caused me so much trouble by publicly revealing my marriage to Lady Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 她把我和斯蒂尔文德小姐的婚约公之于众，给我造成了不少麻烦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4255\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4256",
     "original": "Aster: I had hoped to keep it a secret for much longer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我本想多保密一会儿的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4256\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4258",
     "original": "Tyrion: Where [i]is[/i] Prosecutor Steelwind, anyways?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 总之，斯蒂尔文德检察官<u>在</u>哪里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4258\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4259",
     "original": "Tyrion: She always investigates these crime scenes herself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她一直都会亲自调查犯罪现场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4259\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4260",
     "original": "Orym: Ah,[p/] she said she wanted to investigate the disappearing ship personally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 啊，[p/]她说想去单独调查失踪的船只。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4260\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4261",
     "original": "Orym: She seems really hellbent on finding the people responsible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 她看起来下了决心要找到罪魁祸首。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4261\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4262",
     "original": "Orym: They [i]did[/i] attempt to kidnap the crown prince, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 毕竟他们<u>确实</u>曾尝试绑架王储殿下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4262\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4263",
     "original": "Celeste: Aw,[p/] she must really care about you, Aster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哇哦，[p/]阿斯特，她真的很在乎你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4263\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4264",
     "original": "Aster: No...[p/] I highly doubt that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 不……[p/]我真的不这么觉得。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4264\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4265",
     "original": "Celeste: What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 啥？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4265\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4266",
     "original": "Aster: ...Our marriage was arranged by our parents.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: ……我们的婚姻是被长辈一手安排的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4266\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4267",
     "original": "Aster: She had no say in the matter,[p/] and I know that she only tolerates me for the good of our kingdom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 她没有决定权，[p/]我知道她只是为了王国在容忍我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4267\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4268",
     "original": "Celeste: I-[p/]I'm sure she still cares about you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我、[p/]我敢肯定她还是在乎你的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4268\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4269",
     "original": "Aster: No.[p/] I can tell by the way she behaves around me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 不。[p/]从她在我身边的样子就能看出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4270",
     "original": "Aster: Her hands quiver with rage,[p/] and she can't even bear to look at me when I speak to her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 她的双手因愤怒而颤抖，[p/]甚至不愿意在我说话的时候看向我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4271",
     "original": "Orym: Damn...[p/] I can't believe she even treats the [i]crown prince[/i] like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 天啊……[p/]真不敢相信她会这么对待<u>王储殿下</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4271\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4272",
     "original": "Aster: She may be my fiancée...[p/] But our marriage is purely political.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 虽然她是我的未婚妻……[p/]但我们只是政治联姻关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4273",
     "original": "Aster: She endures so much because of her name...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 她因为自己的姓氏承受了太多……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4273\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4274",
     "original": "Orym: I guess you aristocrats have your own share of problems...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 看来你们贵族也有自己的烦恼……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4274\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4277",
     "original": "Orym: I never expected to see [i]you[/i] here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我可没想过会在这儿见到<u>你</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4277\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4278",
     "original": "Orym: Don't you only work on homicide cases?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你不是专门接谋杀案吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4278\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4279",
     "original": "Tyrion: Yeah...[p/] It's a bit of a long story.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哎……[p/]这就说来话长了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4279\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4280",
     "original": "Tyrion: I'm doing this as a favor to a friend.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我是在给朋友帮忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4280\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4281",
     "original": "Orym: Huh...[p/] I guess connections really [i]are[/i] everything in the world of commerce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 嗬……[p/]看来人际关系真的在哪儿都<u>很重要</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4281\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4283",
     "original": "Orym: So you've got Tymora payrolling you.[p/] Eh,[p/] mage girl?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 所以泰摩拉现在也给你付工资啦？[p/]法师小姑娘？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4283\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4284",
     "original": "Orym: I saw your record,[p/] you were working pretty high-profile shit in the Eastern Kingdoms.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我看过你的记录了，[p/]你在东方古国干的事可是惊天动地啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4284\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4285",
     "original": "Orym: Isn't working for a law firm technically a downgrade for you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 给法律事务所打工是不是有点委屈你的本领了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4285\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4286",
     "original": "Celeste: Not really.[p/] Ruby pays me [i]really[/i] well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 没有啦。[p/]鲁比给的薪酬<u>相当</u>高。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4286\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4287",
     "original": "Celeste: I guess she has a lot of gold or something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看来她事业路上赚得盆满钵满。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4287\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4288",
     "original": "Orym: Hmph...[p/] Of course, she does.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哼……[p/]她当然有钱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4288\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4289",
     "original": "Celeste: Anyways,[p/] this knucklehead wouldn't last a day without me guarding him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 总之，[p/]这个笨蛋没我保护的话活不过一天。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4290",
     "original": "Tyrion: Hey...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 喂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4290\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4291",
     "original": "She's not wrong, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然她说得也没错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4291\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4293",
     "original": "Orym: If [i]you're[/i] here, does that mean...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 如果<u>你</u>在这里，岂不是意味着……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4293\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4294",
     "original": "Tyrion: Don't worry.[p/] Ms. Tymora's not here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别担心。[p/]泰摩拉女士没来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4294\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4295",
     "original": "Orym: Ugh...[p/] Good.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 呃啊……[p/]很好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4295\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4296",
     "original": "Orym: Can't stand the sight of that woman.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我见都不想见那个女人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4296\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4297",
     "original": "Tyrion:...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion:……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4297\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4299",
     "original": "Orym: Ugh...[p/] Steelwind always micromanages the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 唉……[p/]斯蒂尔文德对裁判所的管理算是“无微不至”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4299\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4300",
     "original": "Orym: But now she's just dumping all of her work on me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 但现在她却把所有活都甩给我干。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4300\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4301",
     "original": "Orym: Honestly,[p/] I don't know which of the two is worse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 老实说，[p/]我都不知道哪种情况更差。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4301\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4302",
     "original": "Being a subordinate of the prosecutor [i]does[/i] look like a stressful experience.",
-    "translation": "",
-    "stage": 0,
+    "translation": "当斯蒂尔文德检察官的属下看起来<u>确实</u>压力不小。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4302\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4304",
     "original": "Orym: I can't believe I have to work a case [i]directly[/i] for a noble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不敢相信我要<u>直接</u>为贵族调查案件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4304\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4305",
     "original": "Orym: Dealing with their usual \"requests\" is bad enough.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 他们平常的“要求”就够麻烦了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4305\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4306",
     "original": "Orym: Now I have to answer directly to Von Sanctus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 现在我还要直接与冯·桑克图斯交流？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4306\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4307",
     "original": "Tyrion: He [i]may[/i] be the lord of this region,[p/] but isn't he also a business competitor?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他<u>也许</u>是这片区域的领主，[p/]但他同时不也是商业对手吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4307\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4308",
     "original": "Tyrion: That [i]must[/i] be a conflict of interest.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这里面<u>肯定</u>有利益冲突。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4308\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4309",
     "original": "Orym: Sure is.[p/] But you, of all people, should know how it is...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 当然有。[p/]但是你最应该清楚是什么……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4309\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4310",
     "original": "Tyrion: ...Do I have to worry about him interfering with the investigation?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我需要担心他干涉调查吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4310\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4311",
     "original": "Orym: I don't think so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我觉得不用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4311\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4312",
     "original": "Orym: For better or for worse,[p/] Steelwind is really particular about not letting [i]anyone[/i] interfere with our work.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不论这一点是好是坏，[p/]斯蒂尔文德绝对不会让<u>任何人</u>干涉我们的工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4312\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4314",
     "original": "Orym: I'd [i]heard[/i] that the prince was exploring the town alone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我<u>听说</u>王子在独自探索城镇。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4314\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4315",
     "original": "Orym: ...But I never imagined that he was with [i]you two[/i] the entire time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……但我可没想到他一直都和<u>你们两个</u>在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4315\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4316",
     "original": "Aster: My apologies.[p/] I'm aware of how uneasy the Kingsguard is about my actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我很抱歉。[p/]我知道国王卫队对我的行动感到非常不安。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4316\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4317",
     "original": "Aster: But I wanted to explore the city without their presence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 但我不想探索城镇的时候还要被他们跟着。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4317\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4318",
     "original": "...Actually,[p/] they're probably keeping an eye on him from a distance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……事实上，[p/]国王卫队很有可能在远处进行监视。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4318\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4319",
     "original": "There isn't a chance that they'd let a prince wander the crowded city alone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他们不可能会让一位王子独自在人员密集的城市里闲逛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4319\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4320",
     "original": "They're probably watching him right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "就连现在，国王卫队可能都在看着王子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4320\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4322",
     "original": "Orym: I've seen some shit in my day...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我也算是见得多了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4322\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4323",
     "original": "Orym: But falling into a vat of acid...?[p/] I can't imagine much worse ways to go.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 但掉进装满酸液的桶里……？[p/]我可想不出比这更糟的死法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4324",
     "original": "Celeste: Yeah...[p/] It's disturbing when you think about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊……[p/]光想想就让人难受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4324\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4325",
     "original": "That's all the more reason to get justice for his death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "所以你更得为他讨回公道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4325\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4327",
     "original": "Orym: Hmph...[p/] Magical traces in a damn [i]civil[/i] case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 嗯……[p/]就连<u>民事</u>案件里都有魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4328",
     "original": "Orym: You always know [i]exactly[/i] how to make my job harder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你真是了解怎么让我要干的活变多啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4329",
     "original": "Tyrion: It's your job to solve magical crimes, isn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你的工作不就是解决涉及魔法案件吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4330",
     "original": "Tyrion: All I'm doing is bringing the truth to light.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我只是在努力让真相大白而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4331",
     "original": "Orym: Yeah, yeah.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 是，是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4333",
     "original": "Tyrion: Commander.[p/] Would you happen to know about a criminal named the Eyetaker?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 指挥官。[p/]你知不知道一个叫夺眼者的罪犯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4333\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4334",
     "original": "Orym: ...You playing games with me or something, kid?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……你跟我玩什么游戏呢，小子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4334\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4335",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4336",
     "original": "Orym: Well,[p/] I don't know nothing about no \"Eyetaker\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哎，[p/]我没听说过什么“夺眼者”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4337",
     "original": "Tyrion: Okay...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好吧……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4337\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4339",
     "original": "Tyrion: What do you think about [i]this[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你对<u>这个</u>有什么看法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4340",
     "original": "Orym: Uh...[p/] I don't know what you were expecting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 呃……[p/]我不知道你想听什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4341",
     "original": "Orym: But there's not much to say about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 但我没什么能说的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Present_Walkway2-4341\",\n  \"keywords\": []\n}"
   },
   {
@@ -28135,8 +28135,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4344",
     "original": "Orym: Oh,[p/] it's you two.[p/] And who's this-?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哦，[p/]是你们俩。[p/]这位是——？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4344\",\n  \"keywords\": []\n}"
   },
   {
@@ -28149,57 +28149,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4346",
     "original": "Orym: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4347",
     "original": "Orym: Wait...![p/][s/] T-[p/][s/]The hell?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 等下……！[p/][s/]什、[p/][s/]什么鬼？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4347\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4348",
     "original": "Aster: U-[p/]Um...[p/] Commander,[p/] please don't-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 呃、[p/]呃……[p/]指挥官，[p/]请不要——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4348\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4349",
     "original": "Orym: What the hell are [i]you[/i] two doing with the crown prince?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: <u>你们</u>两个为什么会和王储殿下在一起？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4350",
     "original": "Celeste: ...What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4351",
     "original": "Aster: Ah...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 唉……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4352",
     "original": "Aster: It appears that my cover has been \"blown\",[p/] as they say.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 看来我的伪装“穿帮”了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4352\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4353",
     "original": "Tyrion: D-[p/][s/]Did he just say that you're the \"crown prince\"?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他、[p/][s/]他刚才说你是“王储殿下”？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4353\",\n  \"keywords\": []\n}"
   },
   {
@@ -28212,141 +28212,141 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4355",
     "original": "Aster: Yes.[p/] My full name is Aster de Wyverngarde IV:[p/] heir to the throne of Wyverngarde.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 是的，[p/]我的全名是阿斯特·维文加德四世，维文加德王座的继承人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4356",
     "original": "This entire time...[p/][s/] You've been speaking to the heir to the throne?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "你这段时间……[p/][s/]一直在和下一任国王交流？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4356\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4357",
     "original": "Aster: I was hoping that it wouldn't come to this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我原本希望不会到这一步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4358",
     "original": "Orym: O-[p/][s/]Oh...[p/] S-[p/]Sorry, Your...[p/] um-[p/][s/] ...Majesty!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哦、[p/][s/]哦……[p/]抱、[p/]抱歉……[p/]呃、[p/][s/]王子殿下！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4359",
     "original": "Aster: Please.[p/] None of that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 别这样。[p/]不用这么叫我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4360",
     "original": "Aster: I would much prefer if you all continued to call me \"Aster\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我更希望你们都能继续叫我“阿斯特”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4360\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4361",
     "original": "Orym: N-[p/]No,[p/] I could never-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不、[p/]不，[p/]我不能——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4362",
     "original": "You've never seen the commander this flustered before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "你从没见过指挥官这么慌乱的样子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4363",
     "original": "Tyrion: ...Why did you find the need to hide this from us?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……为什么你要对我们隐瞒这件事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4363\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4364",
     "original": "Aster: I...[p/] didn't want you to think less of me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我……[p/]不想让你们看不起我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4364\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4365",
     "original": "Aster: I admire your work, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 卡斯伯特先生，我钦佩你的工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4366",
     "original": "Aster: Which is why I was afraid you wouldn't speak with me if you knew the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 所以我才会怕万一知道真相，你就不会再和我说话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4366\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4367",
     "original": "In a way,[p/] he was correct to assume that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "某种程度上，[p/]他想得也没错……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4368",
     "original": "As a member of the royal family,[p/] he represents [i]everything[/i] that you and Ms. Tymora are fighting against.",
-    "translation": "",
-    "stage": 0,
+    "translation": "身为皇室成员，[p/]他代表了你和泰摩拉女士试图抗争的<u>一切</u>。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4369",
     "original": "But...[p/] He [i]does[/i] look like a sincere and genuine person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但……[p/]他看起来<u>确实</u>是个真诚的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4370",
     "original": "At the very least,[p/] you haven't seen anything incriminating through the Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "退一万步说，[p/]荷鲁斯之眼还没有发现任何可疑的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4370\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4371",
     "original": "Anyways,[p/] this complicates things greatly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "总之，[p/]事情这下复杂起来了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4371\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4372",
     "original": "Aster is your primary suspect...[p/] So if he [i]did[/i] commit the murder,[p/] you would have to implicate a member of the royal family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿斯特是你的首要嫌疑人……[p/]如果<u>确实</u>是他犯下罪行，[p/]你就需要让一名皇室成员被定罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4372\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4373",
     "original": "A nobleman is one thing...[p/] But would it even be possible to convict the Crown Prince...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "贵族是一回事……[p/]但王储真的可能会被定罪吗……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4373\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4374",
     "original": "...",
-    "translation": "",
-    "stage": 0,
+    "translation": "……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4374\",\n  \"keywords\": []\n}"
   },
   {
@@ -28366,15 +28366,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4377",
     "original": "And princes aside,[p/] you came here to talk to the commander about his investigation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "先不管王子，[p/]你来这里是要找指挥官询问调查进展的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4378",
     "original": "Since Aster is accompanying you,[p/] he might be more inclined to share details with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "既然有阿斯特陪着你，[p/]指挥官可能也更愿意分享详细情报。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4378\",\n  \"keywords\": []\n}"
   },
   {
@@ -29241,57 +29241,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3359",
     "original": "Noah: I was showing a visitor around the city.[p/] And for some reason,[p/] he really wanted to see the Aurinax Arcane Refinery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 我当时正带一个访客参观城市。[p/]出于某些原因，[p/]他很想看看欧奥耐克斯奥术精炼厂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3359\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3366",
     "original": "Noah: He was inspecting the machines there.[p/] When,[p/] suddenly,[p/] Mosourika ran up to us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 他正在检查那里的机器。[p/]突然间，[p/]莫苏里卡朝我们跑来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3366\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3373",
     "original": "Noah: She was desperately trying to tell us something,[p/] but there was just too much noise.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 她拼命想跟我们说什么，[p/]但那里太吵了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3373\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3378",
     "original": "Noah: After a while,[p/] she just pointed at the walkway overlooking the refinery.[p/] That's where we saw someone fall into that accursed vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 过了一会儿，[p/]她指向俯瞰精炼厂的走道。[p/]就在那儿，我们看到有人掉进那个该死的桶里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3378\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3415",
     "original": "Noah: ...There was a guard rail that [i]should[/i] have prevented him from falling.[p/] But he broke through it as he fell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: ……有道护栏<u>本该</u>能阻止他掉下去的，[p/]但栏杆直接断裂了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3415\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3425",
     "original": "Noah: Mosourika pointed it out.[p/] That's when we saw Justin fall.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 莫苏里卡指向那里，[p/]我们就在这时目睹了贾斯汀坠落。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3425\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3429",
     "original": "Noah: My companion stood there with me.[p/] He also saw Justin fall.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 我的同伴就站在旁边，[p/]他也看到了贾斯汀坠落。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3429\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3436",
     "original": "Noah: It was a bit far away.[p/] So, I couldn't see if there was any rust on the guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 距离有点儿远。[p/]我看不出来护栏上是否有锈迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3436\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -29311,36 +29311,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3540",
     "original": "Mosourika: I was at the refinery when I heard a strange sound from the walkway.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我在精炼厂时听到走道那边传来奇怪的声音。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3540\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3548",
     "original": "Mosourika: When I looked to see what it was,[p/] I saw that Justin had tumbled over the walkway's guard rail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我循声望去，[p/]看到贾斯汀翻过了护栏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3548\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3557",
     "original": "Mosourika: But he hadn't fallen into the vat yet.[p/] I saw him barely hanging onto the edge of the platform.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但他还没掉进桶里，[p/]我看到他正勉强抓着平台的边缘。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3557\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3563",
     "original": "Mosourika: I didn't know how to get to the walkway from there.[p/] So I looked around for help and found Mr. Morrison.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我不知道从那儿怎么上走道，[p/]所以我就在找地面上的人帮忙，然后发现了莫里森先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3563\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3569",
     "original": "Mosourika: After that, he must have seen Justin lose his grip of the ledge and fall into the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他肯定是在那之后看到贾斯汀抓不住边缘而掉进桶里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3569\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
