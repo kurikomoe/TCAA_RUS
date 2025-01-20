@@ -142,7 +142,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-26",
     "original": "So, he owed gold to someone...",
-    "translation": "看来他欠某人金子……",
+    "translation": "看来他欠某人黄金……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-26\",\n  \"keywords\": []\n}"
   },
@@ -177,8 +177,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-31",
     "original": "Wyatt: Getting the gold out of that safe would've been an easy score for him.",
-    "translation": "Wyatt: 对他来说偷走保险箱里的金子是轻而易举的事。",
-    "stage": 1,
+    "translation": "Wyatt: 对他来说，偷走保险箱里的黄金轻而易举。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-31\",\n  \"keywords\": []\n}"
   },
   {
@@ -2851,7 +2851,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-422",
     "original": "Celeste takes out a large pouch of gold and plops it on the innkeeper's desk.",
-    "translation": "塞莱斯特拿出一大荷袋的金子，咚的一声放在客栈老板的桌上。",
+    "translation": "塞莱斯特拿出一大荷袋的金子，“咚”的一声放在客栈老板的桌上。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-BlockadeToTavern-422\",\n  \"keywords\": []\n}"
   },
