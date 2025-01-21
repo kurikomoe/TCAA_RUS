@@ -42,6 +42,7 @@ export:
     python text_io.py --export --raw @old --paraz {{ paraz }} --type tooltips
     python text_io.py --export --raw @old --paraz {{ paraz }} --type location
     python text_io.py --export --raw @old --paraz {{ paraz }} --type save
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type inputs
     python text_io.py --export --raw @old --paraz {{ paraz }} --type episode
     python text_io.py --export --raw @old --paraz {{ paraz }} --type metadata
 
@@ -61,6 +62,7 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type location
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type save
+    python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type inputs
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type episode
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type metadata
 
