@@ -228,3 +228,31 @@ struct System_String_array
   System_String_o *m_Items[65535];
 };
 static_assert(sizeof(System_String_array) == 0x4000C);
+
+struct __declspec(align(4)) Evidence_Fields {
+  struct System_String_o *name;
+  struct System_String_o *displayName;
+  struct System_String_o *iconPath;
+  struct System_String_o *description;
+};
+static_assert(sizeof(Evidence_Fields) == 0x10);
+
+
+struct CharacterData_Fields : Evidence_Fields {
+  // struct System_String_array *altDescriptions;
+  // struct System_String_o *prefab;
+  // struct System_String_o *occupation;
+  // struct System_String_o *age;
+  // struct System_String_o *arcaneArt;
+  // struct System_String_o *witnessImg;
+  char padding[0x30];
+};
+static_assert(sizeof(CharacterData_Fields) == 0x40);
+
+
+struct CharacterData_o
+{
+  void *klass;
+  void *monitor;
+  CharacterData_Fields fields;
+};
