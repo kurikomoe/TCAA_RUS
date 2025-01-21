@@ -286,6 +286,8 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
                 is_case = ("Case " in paraz_file.name),
                 is_serifu = ("Default" in paraz_file.name),
                 is_item = bool(re.compile(r"\d+").match(paraz_file.name)),
+                is_spell = bool("spell" in paraz_file.parent.name),
+                is_chara = bool("charalist" in paraz_file.parent.name),
                 context = item.context or "",
             )
 
@@ -342,7 +344,15 @@ def kquote(s: str, idx) -> str:
     else:
         return f'"{s}"'
 
-def italic_to_em(s: str, is_case: bool, is_serifu: bool, is_item: bool, context: str="") -> str:
+def italic_to_em(
+    s: str,
+    is_case: bool,
+    is_serifu: bool,
+    is_item: bool,
+    is_spell: bool,
+    is_chara: bool,
+    context: str="",
+) -> str:
     pat1 = re.compile(r"(\[i\](.*?)\[/i\])")
     pat2 = re.compile(r"(<u>(.*?)</u>)")
 
@@ -371,10 +381,16 @@ def italic_to_em(s: str, is_case: bool, is_serifu: bool, is_item: bool, context:
         "Tutorial",
     ]
 
-    while is_case or is_serifu or is_item:
+    while is_case or is_serifu or is_item or is_spell or is_chara:
         Flag_ignore = True
 
         if is_item:
+            Flag_ignore = False
+
+        if is_spell:
+            Flag_ignore = False
+
+        if is_chara:
             Flag_ignore = False
 
         if is_serifu:
