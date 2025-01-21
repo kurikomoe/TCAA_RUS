@@ -353,10 +353,10 @@ def italic_to_em(
     is_chara: bool,
     context: str="",
 ) -> str:
-    pat1 = re.compile(r"(\[i\](.*?)\[/i\])")
+    # pat1 = re.compile(r"(\[i\](.*?)\[/i\])")
     pat2 = re.compile(r"(<u>(.*?)</u>)")
 
-    for pat in [pat1, pat2]:
+    for pat in [pat2]:
         for found in pat.findall(s):
             text = found[1]
 
