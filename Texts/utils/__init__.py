@@ -128,6 +128,15 @@ def check_invalid_tag_format(tgt: str) -> bool:
         # [p\] [p1
         re.compile(r"\[p[^\/\]]"),
 
+        # [/s]
+        re.compile(r"\[/s\]"),
+        # ?/s]  ?s/]
+        re.compile(r"[^[](s/|/s)\]"),
+        # [/s?  [s/?
+        re.compile(r"\[(s/|/s)[^]]"),
+        # [s\] [s?
+        re.compile(r"\[s[^\/\]]"),
+
         re.compile(r"<u/>"),
         re.compile(r"[^<\/]u>"),
         # [/p?  [p/?
@@ -215,7 +224,7 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
 
         if checks["marks"] \
                 and not check_marks(item.original, item.translation):
-            logger.error("Mismatch marks")
+            logger.error("Invalid: Mismatch marks")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
@@ -224,7 +233,7 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
 
         if checks["speaker"] \
                 and not check_speaker(item.original, item.translation):
-            logger.error("Mismatch Speaker")
+            logger.error("Invalid: Mismatch Speaker")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
@@ -233,7 +242,7 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
 
         if checks["pair"] \
             and not check_pair(item.translation):
-            logger.error("Mismatch underline")
+            logger.error("Invalid: Mismatch underline")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
@@ -242,7 +251,7 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
 
         if checks["tags"] \
             and not check_invalid_tag_format(item.translation):
-            logger.error("Invalid tag format")
+            logger.error("Invalid: tag format")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
@@ -252,7 +261,7 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
         if checks["punctuations"] \
             and item.translation != item.original \
             and not check_punctuations(item.translation):
-            logger.error("Invalid punctuations")
+            logger.error("Invalid: punctuations")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
@@ -261,7 +270,7 @@ def GenParazAcc(data: List, paraz_file: Path, checks: Dict[str, bool] = {}) -> D
         if False and checks["pangu"] \
             and item.translation != item.original \
             and not check_pangu(item.translation):
-            logger.error("Invalid pangu")
+            logger.error("Invalid: pangu")
             logger.error(item.original)
             logger.error(item.translation)
             logger.error("")
