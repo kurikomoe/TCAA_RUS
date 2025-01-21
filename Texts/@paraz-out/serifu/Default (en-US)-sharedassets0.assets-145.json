@@ -20505,8 +20505,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3181",
     "original": "Jan: Can’t we take the day off for [i]once[/i]?",
-    "translation": "Jan: 我们就不能有<u>哪怕一天</u>放假吗？",
-    "stage": 1,
+    "translation": "Jan: 我们就不能放<u>哪怕一天</u>假吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3181\",\n  \"keywords\": []\n}"
   },
   {
@@ -21023,7 +21023,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3263",
     "original": "THEODORE: And once activated,[p/] even [i]I[/i] can’t turn it off for an hour.",
-    "translation": "THEODORE: 而且一旦启动，[p/]即使是<u>我</u>也没办法在一小时之前关闭它。",
+    "translation": "THEODORE: 而且一旦启动，[p/]即使是<u>我</u>也没办法在一小时之内关闭它。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3263\",\n  \"keywords\": []\n}"
   },
@@ -26966,8 +26966,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4168",
     "original": "TYRION: Which school of magic is it?",
-    "translation": "TYRION: 是类型的魔法？",
-    "stage": 1,
+    "translation": "TYRION: 是什么类型的魔法？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Check_Events_Kitchen-4168\",\n  \"keywords\": []\n}"
   },
   {
