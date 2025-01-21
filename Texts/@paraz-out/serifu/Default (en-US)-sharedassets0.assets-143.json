@@ -2151,7 +2151,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-374",
     "original": "Tyrion: That covers [i]Alaric's[/i] account of what happened.[p/] And we even got the Archduke's statement too.",
-    "translation": "Tyrion:  [i]阿拉里克[/i]的证言就是这些了。[p/]还额外获得了大公爵的证言。",
+    "translation": "Tyrion:  <u>阿拉里克</u>的证言就是这些了。[p/]还额外获得了大公爵的证言。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-374\",\n  \"keywords\": []\n}"
   },
@@ -2186,7 +2186,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-379",
     "original": "Tyrion: But if [i]Steelwind[/i] also doesn't have any memories,[p/] it becomes a lot more credible.",
-    "translation": "Tyrion: 但就连[i]斯蒂尔文德[/i]都失忆了，[p/]可信度也更高了。",
+    "translation": "Tyrion: 但就连<u>斯蒂尔文德</u>都失忆了，[p/]可信度也更高了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-379\",\n  \"keywords\": []\n}"
   },
@@ -2354,7 +2354,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-408",
     "original": "Tyrion: ...You [i]did[/i] almost kill me the first time we met.",
-    "translation": "Tyrion: ……第一次见面你[i]差点[/i]就杀了我。",
+    "translation": "Tyrion: ……第一次见面你<u>差点</u>就杀了我。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-408\",\n  \"keywords\": []\n}"
   },
@@ -2452,28 +2452,28 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-423",
     "original": "Lucio: I wouldn't go so far as to say that I [i]believe[/i] in the existence of other planes.",
-    "translation": "Lucio: 我不会说我[i]相信[/i]存在其他位面。",
+    "translation": "Lucio: 我不会说我<u>相信</u>存在其他位面。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-423\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-424",
     "original": "Lucio: But I admit that I [i]still[/i] feel a certain aura from you that doesn't feel quite human.",
-    "translation": "Lucio: 但我承认，我[i]仍然[/i]能从你身上感到一种不似人类的气场。",
+    "translation": "Lucio: 但我承认，我<u>仍然</u>能从你身上感到一种不似人类的气场。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-424\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-425",
     "original": "Tyrion: So [i]that's[/i] why you attacked me?[p/] I was exuding a threatening aura?",
-    "translation": "Tyrion: 你就为了[i]这个[/i]攻击我？[p/]我散发出危险气场？",
+    "translation": "Tyrion: 你就为了<u>这个</u>攻击我？[p/]我散发出危险气场？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-426",
     "original": "Lucio: It was actually the opposite.[p/] Your aura was [i]too[/i] calming and benign.",
-    "translation": "Lucio: 恰恰相反。[p/]你的气场[i]过于[/i]沉着和善了。",
+    "translation": "Lucio: 恰恰相反。[p/]你的气场<u>过于</u>沉着和善了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-426\",\n  \"keywords\": []\n}"
   },
@@ -2578,7 +2578,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-441",
     "original": "Celeste: It was [i]kind[/i] of similar...",
-    "translation": "Celeste: 有[i]一点[/i]像……",
+    "translation": "Celeste: 有<u>一点</u>像……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-441\",\n  \"keywords\": []\n}"
   },
@@ -2606,7 +2606,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-446",
     "original": "Lucio: ...Your Majesty.[p/] You are the [i]reigning[/i] king of Wyverngarde.",
-    "translation": "Lucio: ……陛下。[p/]您是[i]现任[/i]维文加德国王。",
+    "translation": "Lucio: ……陛下。[p/]您是<u>现任</u>维文加德国王。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-446\",\n  \"keywords\": []\n}"
   },
@@ -2676,7 +2676,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-457",
     "original": "Aster: ...It makes me uneasy that you let someone get [i]that[/i] close to my father's body.",
-    "translation": "Aster: ……我不喜欢你让别人[i]如此接近[/i]我父亲的遗体。",
+    "translation": "Aster: ……我不喜欢你让别人<u>如此接近</u>我父亲的遗体。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-457\",\n  \"keywords\": []\n}"
   },
@@ -2718,7 +2718,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-463",
     "original": "Aster: Although,[p/] we're still not sure about [i]who[/i] could have set that trap.",
-    "translation": "Aster: 但是，[p/]我们还不确定[i]谁[/i]能设下陷阱。",
+    "translation": "Aster: 但是，[p/]我们还不确定<u>谁</u>能设下陷阱。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-463\",\n  \"keywords\": []\n}"
   },
@@ -2746,7 +2746,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-467",
     "original": "Lucio: Do you think my men are [i]that[/i] weak, Your Majesty?",
-    "translation": "Lucio: 我的人在您看来[i]这么[/i]弱吗，陛下？",
+    "translation": "Lucio: 我的人在您看来<u>这么</u>弱吗，陛下？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-467\",\n  \"keywords\": []\n}"
   },
@@ -2760,14 +2760,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-469",
     "original": "Lucio: Hmph...[p/] Regardless,[p/] we have no way of telling [i]who[/i] may have been guarding the coffin when the trap was set.",
-    "translation": "Lucio: 嗯……[p/]不管怎样，[p/]我们无从得知陷阱被设下时是[i]谁[/i]在看管遗棺。",
+    "translation": "Lucio: 嗯……[p/]不管怎样，[p/]我们无从得知陷阱被设下时是<u>谁</u>在看管遗棺。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-469\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-470",
     "original": "Lucio: This means that we have no way of telling [i]when[/i] that [b]Glyph of Contingency[/b] was set.",
-    "translation": "Lucio: 这代表我们无从得知[b]有备无患[/b]被设下的[i]具体时间[/i]。",
+    "translation": "Lucio: 这代表我们无从得知[b]有备无患[/b]被设下的<u>具体时间</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-470\",\n  \"keywords\": []\n}"
   },
@@ -2921,14 +2921,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-493",
     "original": "Aster: If [i]that's[/i] what you truly think of her,[p/] you're grossly misunderstanding the kind of person that she is.",
-    "translation": "Aster: 如果你就是[i]这么[/i]想的，那你完全错估她这个人了。",
+    "translation": "Aster: 如果你就是<u>这么</u>想的，那你完全错估她这个人了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-493\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-494",
     "original": "Aster: She defied the role you tried to [i]force[/i] onto her.[p/] And she instead dedicated herself to fixing our broken kingdom.",
-    "translation": "Aster: 她没有让你的[i]强行[/i]塑造得逞。[p/]而是投身于修复这个破碎王国之中。",
+    "translation": "Aster: 她没有让你的<u>强行</u>塑造得逞。[p/]而是投身于修复这个破碎王国之中。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-494\",\n  \"keywords\": []\n}"
   },
@@ -2942,7 +2942,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-496",
     "original": "Tyrion: But you know [i]nothing[/i] about her.[p/] And she's far stronger than you realize.",
-    "translation": "Tyrion: 但你[i]什么[/i]都不知道。[p/]她比你想的要强得多。",
+    "translation": "Tyrion: 但你<u>什么</u>都不知道。[p/]她比你想的要强得多。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-496\",\n  \"keywords\": []\n}"
   },
@@ -2963,7 +2963,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-499",
     "original": "Lucio: ...She only [i]became[/i] a prosecutor because of His Majesty.",
-    "translation": "Lucio: ……她是为了陛下才去[i]当[/i]检察官的",
+    "translation": "Lucio: ……她是为了陛下才去<u>当</u>检察官的",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-499\",\n  \"keywords\": []\n}"
   },
@@ -2998,14 +2998,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-504",
     "original": "Lucio: But she [i]knew[/i] about your strange idolization of Ruby Tymora.",
-    "translation": "Lucio: 但她[i]知道[/i]你对鲁比·泰摩拉的崇拜。",
+    "translation": "Lucio: 但她<u>知道</u>你对鲁比·泰摩拉的崇拜。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-504\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-505",
     "original": "Lucio: And she [i]knew[/i] how closely you followed [i]each[/i] and every one of her cases.",
-    "translation": "Lucio: 她也[i]知道[/i]你密切跟进了[i]每个[/i]泰摩拉负责的案子。",
+    "translation": "Lucio: 她也<u>知道</u>你密切跟进了<u>每个</u>泰摩拉负责的案子。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-505\",\n  \"keywords\": []\n}"
   },
@@ -3138,7 +3138,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-524",
     "original": "...But then [i]why[/i] is he doing everything he can to convict her?!",
-    "translation": "……那他[i]为什么[/i]要尽全力起诉女儿？",
+    "translation": "……那他<u>为什么</u>要尽全力起诉女儿？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-524\",\n  \"keywords\": []\n}"
   },
@@ -3166,7 +3166,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-529",
     "original": "Lucio: ...I must ask you, Cuthbert.[p/] Why are [i]you[/i] going to such lengths for my daughter?",
-    "translation": "Lucio: ……卡斯伯特，我得问问你。[p/]为什么[i]you[/i]要为了我的女儿做这么多？",
+    "translation": "Lucio: ……卡斯伯特，我得问问你。[p/]为什么<u>你</u>要为了我的女儿做这么多？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-529\",\n  \"keywords\": []\n}"
   },
@@ -3201,7 +3201,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-534",
     "original": "Tyrion: Lucio...[p/] I'm [i]not[/i] planning anything.",
-    "translation": "Tyrion: 卢西奥……[p/]我[i]没有[/i]谋划什么。",
+    "translation": "Tyrion: 卢西奥……[p/]我<u>没有</u>谋划什么。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-534\",\n  \"keywords\": []\n}"
   },
@@ -3257,7 +3257,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-542",
     "original": "Tyrion: Even if [i]you're[/i] standing in my way,[p/] I'll do whatever it takes to save Aria.",
-    "translation": "Tyrion: 即使挡我路的是[i]你[/i]。我也会竭尽所能救出阿莉亚。",
+    "translation": "Tyrion: 即使挡我路的是<u>你</u>。我也会竭尽所能救出阿莉亚。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-542\",\n  \"keywords\": []\n}"
   },
@@ -3278,7 +3278,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-545",
     "original": "Tyrion: I'm not.[p/] I [i]will[/i] save her, Lucio.",
-    "translation": "Tyrion: 我没有。我[i]会[/i]救出她的，卢西奥。",
+    "translation": "Tyrion: 我没有。我<u>会</u>救出她的，卢西奥。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Talk_Cathedral2-545\",\n  \"keywords\": []\n}"
   },
@@ -3299,7 +3299,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-550",
     "original": "Aster: If it weren't for you,[p/] we would have never even [i]known[/i] about Ms. Steelwind's Blood Contract.",
-    "translation": "Aster: 要不是你，[p/]我们永远无从[i]得知[/i]斯蒂尔文德女士的血契。",
+    "translation": "Aster: 要不是你，[p/]我们永远无从<u>得知</u>斯蒂尔文德女士的血契。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Present_Cathedral2-550\",\n  \"keywords\": []\n}"
   },
@@ -3460,7 +3460,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-576",
     "original": "Celeste: But considering the people who were here,[p/] [i]that[/i] hardly narrows it down.",
-    "translation": "Celeste: 但考虑到在场的人，[p/][i]这一点[/i]也没法缩小范围。",
+    "translation": "Celeste: 但考虑到在场的人，[p/]<u>这一点</u>也没法缩小范围。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Present_Cathedral2-576\",\n  \"keywords\": []\n}"
   },
@@ -3586,7 +3586,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-598",
     "original": "Tyrion: At the very least,[p/] we know [i]you[/i] aren't the Patron.",
-    "translation": "Tyrion: 至少目前，[p/]我们知道签约人不是[i]你[/i]。",
+    "translation": "Tyrion: 至少目前，[p/]我们知道签约人不是<u>你</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Present_Cathedral2-598\",\n  \"keywords\": []\n}"
   },
@@ -3768,7 +3768,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-626",
     "original": "Tyrion: ...Why is [i]everything[/i] you say so aggressive?",
-    "translation": "Tyrion: ……你[i]说什么[/i]都必须这么不客气吗？",
+    "translation": "Tyrion: ……你<u>说什么</u>都必须这么不客气吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Check_Events_Cathedral2-626\",\n  \"keywords\": []\n}"
   },
@@ -3782,14 +3782,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-628",
     "original": "But judging from the evidence you've gathered,[p/] it's very unlikely that [i]Aster[/i] is the Patron.",
-    "translation": "但根据目前搜集的证据来看，[p/][i]阿斯特[/i]不太可能是签约人。",
+    "translation": "但根据目前搜集的证据来看，[p/]<u>阿斯特</u>不太可能是签约人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Check_Events_Cathedral2-628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-629",
     "original": "You [i]do[/i] wonder if he saw something, though.",
-    "translation": "但也很[i]好奇[/i]他看到了什么。",
+    "translation": "但也很<u>好奇</u>他看到了什么。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Check_Events_Cathedral2-629\",\n  \"keywords\": []\n}"
   },
@@ -3810,7 +3810,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-632",
     "original": "But the Patron could also be a mage.[p/] That means that [i]they[/i] could have set that trap too.",
-    "translation": "签约人也可能是法师。[p/]所以设下陷阱的也可能是[i]他[/i]。",
+    "translation": "签约人也可能是法师。[p/]所以设下陷阱的也可能是<u>他</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral2.yarn-Check_Events_Cathedral2-632\",\n  \"keywords\": []\n}"
   },
@@ -3943,7 +3943,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-656",
     "original": "Lucio: What?[p/] I thought [i]you[/i] were the one who invited them.",
-    "translation": "Lucio: 啊？[p/]不是[i]你[/i]邀请他们的吗？",
+    "translation": "Lucio: 啊？[p/]不是<u>你</u>邀请他们的吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-656\",\n  \"keywords\": []\n}"
   },
@@ -3957,7 +3957,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-658",
     "original": "Aster: Although,[p/] I [i]am[/i] happy to see you two nonetheless.",
-    "translation": "Aster: 不过，[p/][i]我[/i]还是很开心见到你们俩。",
+    "translation": "Aster: 不过，[p/]<u>我</u>还是很开心见到你们俩。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-658\",\n  \"keywords\": []\n}"
   },
@@ -3971,14 +3971,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-660",
     "original": "Tyrion: We were actually invited by [i]another[/i] noble.[p/] We have a meeting with him.",
-    "translation": "Tyrion: [i]另一位[/i]贵族人士邀请了我们。我们要和他会面。",
+    "translation": "Tyrion: <u>另一位</u>贵族人士邀请了我们。我们要和他会面。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-660\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-661",
     "original": "Lucio: What...?[p/] None of the people here are allowed to invite [i]guests[/i].",
-    "translation": "Lucio: 什么……？[p/]这里的人没有权限邀请[i]嘉宾[/i]。",
+    "translation": "Lucio: 什么……？[p/]这里的人没有权限邀请<u>嘉宾</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-661\",\n  \"keywords\": []\n}"
   },
@@ -4048,7 +4048,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-671",
     "original": "Lucio: Make no mistake.[p/] Even if he [i]is[/i] a dead man,[p/] I [i]will[/i] have words with him about this.",
-    "translation": "Lucio: 别误会了。[p/]即使他[i]已经是个[/i]死人，我也[i]会[/i]找他好好谈谈。",
+    "translation": "Lucio: 别误会了。[p/]即使他<u>已经是个</u>死人，我也<u>会</u>找他好好谈谈。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-671\",\n  \"keywords\": []\n}"
   },
@@ -4139,7 +4139,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-686",
     "original": "Lucio: You [i]will[/i] tell us if it poses a threat to the nobles in attendance.",
-    "translation": "Lucio: 如果会对在场贵族造成威胁，你[i]得[/i]实言相告。",
+    "translation": "Lucio: 如果会对在场贵族造成威胁，你<u>得</u>实言相告。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-686\",\n  \"keywords\": []\n}"
   },
@@ -4153,7 +4153,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-688",
     "original": "Aster: Mr. Cuthbert would never do anything to put [i]anyone's[/i] life in danger.",
-    "translation": "Aster: 卡斯伯特先生不会让[i]任何人[/i]陷入生命危险。",
+    "translation": "Aster: 卡斯伯特先生不会让<u>任何人</u>陷入生命危险。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-688\",\n  \"keywords\": []\n}"
   },
@@ -4167,14 +4167,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-690",
     "original": "Lucio: As you wish, Your H-[p/]... Majesty. [mind=\"Is [i]this[/i] the reason why Pierce asked for temporary release?\"/]",
-    "translation": "Lucio: 如你所愿，殿……[p/]陛下。[mind=\"皮尔斯要求假释就是为了[i]这个[/i] ？\"/]",
+    "translation": "Lucio: 如你所愿，殿……[p/]陛下。[mind=\"皮尔斯要求假释就是为了<u>这个</u> ？\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-690\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-691",
     "original": "Interesting...[p/] So Pierce was temporarily released to attend whatever...[p/] [i]this[/i] is.",
-    "translation": "有点意思……[p/]皮尔斯被假释就是为了参加这个……目前还在迷雾中的[p/][i]活动[/i]。",
+    "translation": "有点意思……[p/]皮尔斯被假释就是为了参加这个……目前还在迷雾中的[p/]<u>活动</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Talk_CathedralIntro-691\",\n  \"keywords\": []\n}"
   },
@@ -4433,7 +4433,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-734",
     "original": "Alaric: I-[p/][s/]I [i]also[/i] have something important to do!",
-    "translation": "Alaric: 我、[p/][s/]我[i]也[/i]有重要的事做！",
+    "translation": "Alaric: 我、[p/][s/]我<u>也</u>有重要的事做！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Check_Events_CathedralIntro-734\",\n  \"keywords\": []\n}"
   },
@@ -4461,7 +4461,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-738",
     "original": "Lucio: My men [i]will[/i] be keeping an eye on you two.",
-    "translation": "Lucio: 我的手下[i]会[/i]重点关注你们俩的。",
+    "translation": "Lucio: 我的手下<u>会</u>重点关注你们俩的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Check_Events_CathedralIntro-738\",\n  \"keywords\": []\n}"
   },
@@ -4643,7 +4643,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-770",
     "original": "Orym: And the Kingsguard used a bunch of [i]water-based[/i] [b]evocation[/b] spells to put it out before the fire spread.",
-    "translation": "Orym: 国王卫队用了一堆[i]水系[/i][b]塑能[/b]法术灭火，阻止火势扩散。",
+    "translation": "Orym: 国王卫队用了一堆<u>水系</u>[b]塑能[/b]法术灭火，阻止火势扩散。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Examine_CommonRoom1-770\",\n  \"keywords\": []\n}"
   },
@@ -4678,7 +4678,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-777",
     "original": "Orym: We only have the basic stuff so far,[p/] and we've only [i]just[/i] received the autopsy reports.",
-    "translation": "Orym: 只有些基本不过的东西，[p/]连尸检报告都是[i]刚刚[/i]到手。",
+    "translation": "Orym: 只有些基本不过的东西，[p/]连尸检报告都是<u>刚刚</u>到手。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-777\",\n  \"keywords\": []\n}"
   },
@@ -4727,7 +4727,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-784",
     "original": "Tyrion: Isn't that similar to how [i]he[/i] killed Flinhart?",
-    "translation": "Tyrion: 这和[i]他自己[/i]杀害弗林哈特的手法不是很像？",
+    "translation": "Tyrion: 这和<u>他自己</u>杀害弗林哈特的手法不是很像？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-784\",\n  \"keywords\": []\n}"
   },
@@ -4776,7 +4776,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-791",
     "original": "Tyrion: Anyways...[p/] The [i]times[/i] of death also seem to tell a story.",
-    "translation": "Tyrion: 总之……[p/][i]死亡时间[/i]也值得推敲。",
+    "translation": "Tyrion: 总之……[p/]<u>死亡时间</u>也值得推敲。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-791\",\n  \"keywords\": []\n}"
   },
@@ -4790,7 +4790,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-793",
     "original": "Orym: Yeah.[p/] That's [i]our[/i] working theory too.",
-    "translation": "Orym: 对。[p/][i]我们[/i]也是这么想的。",
+    "translation": "Orym: 对。[p/]<u>我们</u>也是这么想的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-793\",\n  \"keywords\": []\n}"
   },
@@ -4832,7 +4832,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-800",
     "original": "Celeste: ...She attacked one of the [i]princes[/i]?!",
-    "translation": "Celeste: 她攻击了一位[i]王子[/i]？！",
+    "translation": "Celeste: 她攻击了一位<u>王子</u>？！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-800\",\n  \"keywords\": []\n}"
   },
@@ -4860,14 +4860,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-804",
     "original": "Orym: It's possible she was throwing spells randomly,[p/] and he just happened to get [i]really[/i] lucky.",
-    "translation": "Orym: 她可能只是在随便选了一个法术，[p/]王子刚好又[i]运气爆棚[/i]。",
+    "translation": "Orym: 她可能只是在随便选了一个法术，[p/]王子刚好又<u>运气爆棚</u>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-804\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-805",
     "original": "Tyrion: I suppose that's [i]possible[/i]...",
-    "translation": "Tyrion: [i]可能[/i]确实如此……",
+    "translation": "Tyrion: <u>可能</u>确实如此……",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-805\",\n  \"keywords\": []\n}"
   },
@@ -4972,7 +4972,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-820",
     "original": "Orym: But for some reason we didn't find him until [i]after[/i] the spell wore off.",
-    "translation": "Orym: 但不知什么原因，法术失效[i]之后[/i]才能找到他。",
+    "translation": "Orym: 但不知什么原因，法术失效<u>之后</u>才能找到他。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-820\",\n  \"keywords\": []\n}"
   },
@@ -5000,14 +5000,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-824",
     "original": "Orym: [i]That's[/i] when we saw a bunch of guards knocked out outside the Prayer Room.",
-    "translation": "Orym: 就是[i]这时[/i]，我们看到了祷告室外那些失去意识的卫兵。",
+    "translation": "Orym: 就是<u>这时</u>，我们看到了祷告室外那些失去意识的卫兵。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-824\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-825",
     "original": "Celeste: ...Did you see [i]me[/i]?",
-    "translation": "Celeste: ……你看到[i]我[/i]了吗？",
+    "translation": "Celeste: ……你看到<u>我</u>了吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-825\",\n  \"keywords\": []\n}"
   },
@@ -5063,7 +5063,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-834",
     "original": "Orym: Some of the victims didn't have [i]any[/i] magical traces on them.[p/] So we [i]know[/i] that they're not under the effects of a spell.[p/] But they [i]still[/i] haven't woken up.",
-    "translation": "Orym: 有的受害人身上[i]没有一点[/i]法术痕迹。[p/]所以我们[i]知道[/i]他们没受到法术影响。[p/]但这些人[i]依然[/i]没有醒来。",
+    "translation": "Orym: 有的受害人身上<u>没有一点</u>法术痕迹。[p/]所以我们<u>知道</u>他们没受到法术影响。[p/]但这些人<u>依然</u>没有醒来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-834\",\n  \"keywords\": []\n}"
   },
@@ -5098,7 +5098,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-839",
     "original": "Orym: That [i]can't[/i] be a coincidence.",
-    "translation": "Orym: 这总[i]不能[/i]是巧合吧。",
+    "translation": "Orym: 这总<u>不能</u>是巧合吧。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-839\",\n  \"keywords\": []\n}"
   },
@@ -5133,7 +5133,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-845",
     "original": "Tyrion: Even though everyone [i]else[/i] seems to think she was responsible for this.",
-    "translation": "Tyrion: [i]其他人[/i]好像都已经认定她就是犯人。",
+    "translation": "Tyrion: <u>其他人</u>好像都已经认定她就是犯人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-845\",\n  \"keywords\": []\n}"
   },
@@ -5154,7 +5154,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-848",
     "original": "Orym: If she [i]did[/i] give herself Mageblight,[p/] her actions wouldn't have been so deliberate.",
-    "translation": "Orym: 如果她[i]确实[/i]得了法师之疫，她的行为就不会这么谨慎。",
+    "translation": "Orym: 如果她<u>确实</u>得了法师之疫，她的行为就不会这么谨慎。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-848\",\n  \"keywords\": []\n}"
   },
@@ -5175,7 +5175,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-851",
     "original": "Orym: She's investigated plenty of homicides with us.[p/] And she knows [i]exactly[/i] how we do things.",
-    "translation": "Orym: 她和我们一同调查了不少谋杀案。[p/]她[i]清楚[/i]我们怎么干活的。",
+    "translation": "Orym: 她和我们一同调查了不少谋杀案。[p/]她<u>清楚</u>我们怎么干活的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-851\",\n  \"keywords\": []\n}"
   },
@@ -5189,21 +5189,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-853",
     "original": "Orym: A bunch of witnesses saw her.[p/] And she didn't even [i]try[/i] to hide herself using her magic.",
-    "translation": "Orym: 目击者数不胜数。[p/]而她甚至都没[i]尝试[/i]用魔法隐匿行踪。",
+    "translation": "Orym: 目击者数不胜数。[p/]而她甚至都没<u>尝试</u>用魔法隐匿行踪。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-854",
     "original": "Orym: So either she [i]had[/i] Mageblight,[p/] which doesn't match with her behavior.",
-    "translation": "Orym: 要么她法师之疫[i]加身[/i]——[p/]这一点和她的行动不符。",
+    "translation": "Orym: 要么她法师之疫<u>加身</u>——[p/]这一点和她的行动不符。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-854\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-855",
     "original": "Orym: Or she did this [i]intentionally[/i] and [i]wanted[/i] to get caught.",
-    "translation": "Orym: 要么她[i]故意[/i]这么做，就[i]想要[/i]被抓住。",
+    "translation": "Orym: 要么她<u>故意</u>这么做，就<u>想要</u>被抓住。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-855\",\n  \"keywords\": []\n}"
   },

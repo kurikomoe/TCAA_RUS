@@ -2922,7 +2922,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-476",
     "original": "CELESTE: ...[i]REPERIO…[p/][s/] ARCANUM[i]!",
     "translation": "CELESTE: ……<u>REPERIO…[p/][s/] ARCANUM</u>！",
-    "stage": 3,
+    "stage": 2,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-476\",\n  \"keywords\": []\n}"
   },
   {
@@ -19217,7 +19217,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2973",
     "original": "It’s been a few hours since Wallace was arrested.",
-    "translation": "华莱士被逮捕后已经几个小时了。",
+    "translation": "距华莱士被逮捕已经过了几个小时了。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Check_Events_Foyer1-2973\",\n  \"keywords\": []\n}"
   },
@@ -24320,7 +24320,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3766",
     "original": "ERIS: It can’t be helped.[p/] The Church of Bahamut is the dominant religion of our kingdom.",
-    "translation": "ERIS: I这也没办法。[p/]巴哈姆特教会是我们王国的国教。",
+    "translation": "ERIS: 这也没办法。[p/]巴哈姆特教会是我们王国的国教。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-LookTBooks-3766\",\n  \"keywords\": []\n}"
   },
@@ -24894,7 +24894,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3848",
     "original": "ERIS: In a state of emergency,[p/] it will erect magical barriers throughout the building.",
-    "translation": "ERIS: 出现紧急情况是，[p/]它会在整栋大楼里展开魔法屏障。",
+    "translation": "ERIS: 出现紧急情况时，[p/]它会在整栋大楼里展开魔法屏障。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-MurderReveal-3848\",\n  \"keywords\": []\n}"
   },
