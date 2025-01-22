@@ -43,6 +43,8 @@ def ToParaTranz(in_root: Path) -> Dict[Path, List[Paratranz]]:
                 }, ensure_ascii=False, indent=2),
             ))
 
+        adder("episodeName")
+
         for override in episode["initState"]["occupationOverrides"]["Array"]:
             adder("value",
                   key=f"{name}-occupationOverrides-{override['key']}",
@@ -82,6 +84,8 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
                 f"Mismatch:\n{data[tag]}\n{paraz_data.original}\nFile: {base_file}\nTranz: {paraz_file}"
             # TODO(kuriko): add checker here
             return paraz_data.translation
+
+        episode["episodeName"] = getter("episodeName")
 
         for override in episode["initState"]["occupationOverrides"]["Array"]:
             override["value"] = getter(

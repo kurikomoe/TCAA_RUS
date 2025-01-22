@@ -11,6 +11,7 @@
 
 // constexpr auto version = L"nightly 2025-01-05";
 constexpr const auto* group_text = L"「TCAA 汉化组，版本: {}」";
+constexpr const auto* version_text = L"Alpha {}";
 
 
 std::string convertUnixTimestamp(std::time_t unix_time) {
@@ -55,5 +56,5 @@ std::string convertUnixTimestamp(std::time_t unix_time) {
 std::wstring version() {
     std::string date = convertUnixTimestamp(__TIME_UNIX__);
     std::wstring wdate(date.begin(), date.end());
-    return std::format(L"nightly {}", wdate);
+    return std::format(version_text, wdate);
 }
