@@ -4769,7 +4769,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-732",
     "original": "If you can reveal what she's hiding through an ARGUMENT,[p/] she might be more willing to cooperate.",
-    "translation": "如果你能通过<size=1.5em>辩论</size>揭示她隐藏的东西，[p/]她可能会更愿意配合。",
+    "translation": "如果你能通过 <size=1.5em>辩论</size> 揭示她隐藏的东西，[p/]她可能会更愿意配合。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-732\",\n  \"keywords\": []\n}"
   },
@@ -17614,8 +17614,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2726",
     "original": "You should carefully inspect and PRESS each of his statements.",
-    "translation": "你需要仔细检查并<size=1.5em>追问</size>他的证词。",
-    "stage": 1,
+    "translation": "你需要仔细检查并 <size=1.5em>追问</size> 他的证言。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Eugene3-2726\",\n  \"keywords\": []\n}"
   },
   {
@@ -17656,8 +17656,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2735",
     "original": "Should you PRESS him more?",
-    "translation": "要继续<size=1.5em>追问</size>吗？",
-    "stage": 1,
+    "translation": "要继续 <size=1.5em>追问</size> 吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj7-2735\",\n  \"keywords\": []\n}"
   },
   {
@@ -39105,7 +39105,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-675",
     "original": "Player: What was William doing? (ARGUMENT)",
     "translation": "Player: 威廉那时在做什么？（辩论）",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-675\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
