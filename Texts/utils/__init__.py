@@ -159,7 +159,7 @@ def check_punctuations(tgt: str) -> bool:
     pats = [
         re.compile(r"\.\."),
         re.compile(r"(\?|!)"),
-        re.compile(r"[^\d]\."),
+        re.compile(r"[^\da-zA-Z]\."),
         re.compile(r"[^\d\w]-[^\d\w]"),
     ]
     for pat in pats:
