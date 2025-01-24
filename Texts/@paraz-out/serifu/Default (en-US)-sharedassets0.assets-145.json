@@ -1045,7 +1045,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-166",
     "original": "Celeste: T-[p/][s/]That’s not what I meant.",
-    "translation": "Celeste: 我、[p/][s/我不是这个意思。",
+    "translation": "Celeste: 我、[p/][s/]我不是这个意思。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Present_Barracks-166\",\n  \"keywords\": []\n}"
   },
@@ -4062,7 +4062,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-649",
     "original": "ARIA: But it was too late.[p/] The professor had already passed away by the time any healers arrived.",
-    "translation": "ARIA: 但已经来不及了。[p/]在回复士到场之前教授就已经去世了。",
+    "translation": "ARIA: 但已经来不及了。[p/]在治愈师到场之前教授就已经去世了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-649\",\n  \"keywords\": []\n}"
   },
@@ -19756,7 +19756,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3061",
     "original": "JAN: I’m honestly not sure.",
-    "translation": "JAN: 你有看到其他人进入那间讲堂吗？",
+    "translation": "JAN: 我真的不怎么确定。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3061\",\n  \"keywords\": []\n}"
   },
@@ -21121,8 +21121,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3278",
     "original": "THEODORE: Most healers don’t care to admit it because of the stigma it has.",
-    "translation": "THEODORE: 绝大多数回复士因为它的污名而不敢承认这一点。",
-    "stage": 3,
+    "translation": "THEODORE: 绝大多数治愈师因为它的污名而不敢承认这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3278\",\n  \"keywords\": []\n}"
   },
   {
@@ -22031,8 +22031,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3418",
     "original": "THEODORE: Most healers don’t care to admit it because of the stigma it has.",
-    "translation": "THEODORE: 绝大多数回复士因为它的污名而不敢承认这一点。",
-    "stage": 3,
+    "translation": "THEODORE: 绝大多数治愈师因为它的污名而不敢承认这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3418\",\n  \"keywords\": []\n}"
   },
   {
@@ -25825,7 +25825,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3981",
     "original": "VALENTINA: …! [mind=\"Did he just say, [q]scan for magical traces[q]?!\" /]",
-    "translation": "VALENTINA: ……！[mind=\"他说要[q]扫描一下魔法痕迹[q]？！\" /]",
+    "translation": "VALENTINA: ……！[mind=\"他说要“扫描一下魔法痕迹”？！\" /]",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3981\",\n  \"keywords\": []\n}"
   },
@@ -27379,7 +27379,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4229",
     "original": "TYRION: And the person who [i]found[/i] the body is hiding the identity of a healer.",
-    "translation": "TYRION: 而且<u>发现</u>尸体的人还在刻意隐瞒回复士的身份。",
+    "translation": "TYRION: 而且<u>发现</u>尸体的人还在刻意隐瞒治愈师的身份。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce3-4229\",\n  \"keywords\": []\n}"
   },
