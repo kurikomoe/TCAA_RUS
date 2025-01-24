@@ -982,7 +982,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-166",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "你应该<size=1.5em>移动</size>到其他地方。",
+    "translation": "你应该 <size=1.5em>移动</size> 到其他地方。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-166\",\n  \"keywords\": []\n}"
   },
@@ -4468,8 +4468,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-739",
     "original": "Everyone has left the room now.[p/] Perhaps you should MOVE somewhere else.",
-    "translation": "大家都离开了房间。[p/]你也应该<size=1.5em>移动</size>到其他地方。",
-    "stage": 3,
+    "translation": "大家都离开了房间。[p/]你也应该 <size=1.5em>移动</size> 到其他地方。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CatherdralIntro.yarn-Check_Events_CathedralIntro-739\",\n  \"keywords\": []\n}"
   },
   {
@@ -6386,7 +6386,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1037",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "你应该<size=1.5em>移动</size>到其他地方。",
+    "translation": "你应该 <size=1.5em>移动</size> 到其他地方。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1037\",\n  \"keywords\": []\n}"
   },
@@ -35009,7 +35009,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5321",
     "original": "Eris: You can PRESENT all the evidence you want.",
-    "translation": "Eris: 你可以尽管<size=1.5em>出示</size>证据。",
+    "translation": "Eris: 你可以尽管 <size=1.5em>出示</size> 证据。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered7-5321\",\n  \"keywords\": []\n}"
   },
@@ -35142,7 +35142,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5340",
     "original": "Eris: Isn't this the part where you PRESENT some ground-breaking piece of evidence?",
-    "translation": "Eris: 你这会儿不是该<size=1.5em>出示</size>什么惊天动地的证据吗？",
+    "translation": "Eris: 你这会儿不是该 <size=1.5em>出示</size> 什么惊天动地的证据吗？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered8-5340\",\n  \"keywords\": []\n}"
   },
@@ -35548,7 +35548,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5398",
     "original": "Ruby: They PRESENT evidence,[p/] they call witnesses,[p/] and they use those things to create conclusions.",
-    "translation": "Ruby: 他们会<size=1.5em>出示</size>证据，[p/]找来目击者，[p/]通过这些来创造结论。",
+    "translation": "Ruby: 他们会 <size=1.5em>出示</size> 证据，[p/]找来目击者，[p/]通过这些来创造结论。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered10-5398\",\n  \"keywords\": []\n}"
   },
@@ -35632,7 +35632,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5410",
     "original": "Ruby: You can PRESENT your [i]own[/i] TRUTHS.",
-    "translation": "Ruby: 你可以<size=1.5em>出示</size>你<u>自己的</u><size=1.5em>真相</size>。",
+    "translation": "Ruby: 你可以 <size=1.5em>出示</size> 你<u>自己的</u> <size=1.5em>真相</size>。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered11-5410\",\n  \"keywords\": []\n}"
   },
@@ -35681,7 +35681,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5417",
     "original": "I can...[p/] PRESENT my own TRUTHS?",
-    "translation": "我可以……<size=1.5em>出示</size>我自己的<size=1.5em>真相</size>？",
+    "translation": "我可以……<size=1.5em>出示</size> 我自己的 <size=1.5em>真相</size>？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered11-5417\",\n  \"keywords\": []\n}"
   },
@@ -35779,7 +35779,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5431",
     "original": "You frantically turn around...[p/] only catching glimpses of the spectral wings on your back.",
-    "translation": "你慌忙转身……[p]只能用余光瞟到你背上的光翼。",
+    "translation": "你慌忙转身……[p/]只能用余光瞟到你背上的光翼。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered12-5431\",\n  \"keywords\": []\n}"
   },
@@ -35975,7 +35975,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5459",
     "original": "Eris: I [i]wanted[/i] to break your spirit in this form...[p/] All so I could keep things [i]fair[/i] and interesting.",
-    "translation": "Eris: 我<u>想要</u>让这种形态的你精神崩溃……[p]这样才更<u>公平</u>有趣。",
+    "translation": "Eris: 我<u>想要</u>让这种形态的你精神崩溃……[p/]这样才更<u>公平</u>有趣。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered13-5459\",\n  \"keywords\": []\n}"
   },
@@ -41050,8 +41050,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6221",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "你应该<size=1.5em>移动</size>到其他地方。",
-    "stage": 1,
+    "translation": "你应该 <size=1.5em>移动</size> 到其他地方。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt7-6221\",\n  \"keywords\": []\n}"
   },
   {
@@ -42100,8 +42100,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6387",
     "original": "Tyrion: ...Let's MOVE somewhere else.",
-    "translation": "Tyrion: ……我们<size=1.5em>移动</size>到其他地方吧。",
-    "stage": 1,
+    "translation": "Tyrion: ……我们 <size=1.5em>移动</size> 到其他地方吧。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6387\",\n  \"keywords\": []\n}"
   },
   {
@@ -42296,8 +42296,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6415",
     "original": "You should MOVE somewhere else and follow your other leads.",
-    "translation": "你应该<size=1.5em>移动</size>到别处，追查其他线索。",
-    "stage": 1,
+    "translation": "你应该 <size=1.5em>移动</size> 到别处，追查其他线索。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6415\",\n  \"keywords\": []\n}"
   },
   {
@@ -45320,8 +45320,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6891",
     "original": "You should MOVE and take a closer look at the other crime scenes.",
-    "translation": "你应该<size=1.5em>移动</size>到别的犯罪现场看看。",
-    "stage": 1,
+    "translation": "你应该 <size=1.5em>移动</size> 到别的犯罪现场看看。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Check_Events_PrayerRoom1-6891\",\n  \"keywords\": []\n}"
   },
   {
@@ -48617,7 +48617,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7394",
     "original": "This isn't really the time to PRESENT things to her.",
-    "translation": "现在不是<size=1.5em>出示</size>证物的时候。",
+    "translation": "现在不是 <size=1.5em>出示</size> 证物的时候。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Present_TymoraOffice2-7394\",\n  \"keywords\": []\n}"
   },

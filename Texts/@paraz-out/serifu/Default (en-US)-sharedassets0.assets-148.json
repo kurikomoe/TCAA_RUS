@@ -381,7 +381,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-54",
     "original": "Knight: [i]Reperio Arcanum[/i].",
     "translation": "Knight: Reperio Arcanum.",
-    "stage": 2,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_3-54\",\n  \"keywords\": []\n}"
   },
   {
@@ -8500,8 +8500,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1325",
     "original": "All you have to do is PRESENT that to the court.",
-    "translation": "你只需要向法庭<size=1.5em>出示</size>证据就行了。",
-    "stage": 1,
+    "translation": "你只需要向法庭 <size=1.5em>出示</size> 证据就行了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-CourtroomC41_6-1325\",\n  \"keywords\": []\n}"
   },
   {
@@ -9046,8 +9046,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1411",
     "original": "Once you PRESENT that to the court,[p/] this case is as good as yours.",
-    "translation": "一旦你向法庭出示，[p/]这个案子就稳了。",
-    "stage": 1,
+    "translation": "一旦你向法庭 <size=1.5em>出示</size> 这一证据，[p/]就能稳操胜券。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1411\",\n  \"keywords\": []\n}"
   },
   {
@@ -9102,8 +9102,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1422",
     "original": "You have the evidence you need.[p/] Just PRESENT it to the court.",
-    "translation": "你有需要的证据。[p/]只要向法庭出示就好。",
-    "stage": 1,
+    "translation": "你有需要的证据。[p/]只要向法庭 <size=1.5em>出示</size> 就好。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1422\",\n  \"keywords\": []\n}"
   },
   {
@@ -20883,7 +20883,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3213",
     "original": "PRESENTING contradicting evidence might not be possible.",
-    "translation": "也许没办法<size=1.5em>出示</size>有矛盾的证据。",
+    "translation": "也许没办法 <size=1.5em>出示</size> 有矛盾的证据。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-AlaricObj5-3213\",\n  \"keywords\": []\n}"
   },
@@ -31698,7 +31698,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4846",
     "original": "For now,[p/] you should probably MOVE somewhere else and gather more information.",
-    "translation": "目前，你应该<size=1.5em>移动</size>到别处获取更多信息。",
+    "translation": "目前，你应该 <size=1.5em>移动</size> 到别处获取更多信息。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4846\",\n  \"keywords\": []\n}"
   },
@@ -34225,7 +34225,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5249",
     "original": "You should MOVE somewhere else.",
-    "translation": "你应该<size=1.5em>移动</size>到别处看看。",
+    "translation": "你应该 <size=1.5em>移动</size> 到别处看看。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce8-5249\",\n  \"keywords\": []\n}"
   },
@@ -38292,7 +38292,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5904",
     "original": "Tyrion: Anyways,[p/] we should probably MOVE somewhere else.[p/] Let's go, Celeste.",
-    "translation": "Tyrion: 总之，[p/] 我们该<size=1.5em>移动</size>到其他地方了。[p/]塞莱斯特，我们走吧。",
+    "translation": "Tyrion: 总之，[p/] 我们该 <size=1.5em>移动</size> 到其他地方了。[p/]塞莱斯特，我们走吧。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Check_Events_WaitingRoom2-5904\",\n  \"keywords\": []\n}"
   },
