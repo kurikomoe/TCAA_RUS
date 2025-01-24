@@ -31,8 +31,12 @@ HANDLE WINAPI hook_CreateFileW(
 
         auto filename_path = new std::filesystem::path(filename);
         if (filename_path->filename() == L"global-metadata.dat") {
-            std::wcout << L"Found data.unity3d read, redirecting to data.unity3d.chs" << std::endl;
+            std::wcout << L"Found global-metadata.dat read, redirecting to global-metadata.dat.chs" << std::endl;
             filename_path->replace_filename(L"global-metadata.dat.chs");
+            lpFileName = filename_path->c_str();
+        } else if (filename_path->filename() == L"data.unity3d") {
+            std::wcout << L"Found data.unity3d read, redirecting to data.unity3d.chs" << std::endl;
+            filename_path->replace_filename(L"data.unity3d.chs");
             lpFileName = filename_path->c_str();
         }
     }
@@ -89,16 +93,16 @@ namespace CreateFileHook {
         }
 
         // ===================================================
-        std::cout << "Hooking UnityPlayer.dll" << std::endl;
-        DWORD hDll = (DWORD)LoadLibraryW(L"UnityPlayer.dll");
-        DWORD player_base = (DWORD)GetModuleHandleW(L"UnityPlayer.dll");
+        // std::cout << "Hooking UnityPlayer.dll" << std::endl;
+        // DWORD hDll = (DWORD)LoadLibraryW(L"UnityPlayer.dll");
+        // DWORD player_base = (DWORD)GetModuleHandleW(L"UnityPlayer.dll");
 
-        p_aDataUnity3d_0 += player_base;
-        char* buf = new char[255];
-        memset(buf, 0, 255);
-        strcpy(buf, new_data_unity);
+        // p_aDataUnity3d_0 += player_base;
+        // char* buf = new char[255];
+        // memset(buf, 0, 255);
+        // strcpy(buf, new_data_unity);
 
-        *(DWORD*)(p_aDataUnity3d_0) = (DWORD)buf;
+        // *(DWORD*)(p_aDataUnity3d_0) = (DWORD)buf;
         return 0;
     }
 }

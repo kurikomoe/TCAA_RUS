@@ -39,9 +39,6 @@ std::map<std::wstring, std::wstring> enum_string_map = {
     // {L"地图", L"Map"},
 };
 
-std::map<std::wstring, System_String_o*> new_string_cache;
-
-
 using SystemEnumGetNameT = System_String_array* (void*, void*);
 intptr_t tgt_SystemEnumGetName = 0x523ab0;
 SystemEnumGetNameT* orig_SystemEnumGetName = nullptr;
@@ -68,10 +65,7 @@ System_String_array* hook_SystemEnumGetName(void* enumType, void* method) {
     for (int i = 0; i < ret->max_length; i++) {
         auto* item = ret->m_Items[i];
 
-        std::wstring ss(
-            (wchar_t*)&item->fields._firstChar,
-            item->fields._stringLength
-        );
+        auto ss = utils::wstring(item);
 
         if (!enum_string_map.contains(ss)) continue;
 
@@ -81,18 +75,7 @@ System_String_array* hook_SystemEnumGetName(void* enumType, void* method) {
         // if (new_name.find(L"键") != std::wstring::npos && !isKeyEnum)
         //     continue;
 
-        if (!new_string_cache.contains(new_name)) {
-            auto bufsize = sizeof(System_String_o) + sizeof(wchar_t) * new_name.length() * 2;
-            auto* new_string = (System_String_o*)malloc(bufsize);
-            memset(new_string, 0, bufsize);
-            memcpy(new_string, item, sizeof(System_String_o));
-            new_string->fields._stringLength = new_name.length();
-            wcscpy((wchar_t*)&new_string->fields._firstChar, new_name.c_str());
-
-            new_string_cache[new_name] = new_string;
-        }
-
-        ret->m_Items[i] = new_string_cache[new_name];
+        ret->m_Items[i] = utils::GetSystemString(new_name, item);
     }
 
     return ret;

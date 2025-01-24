@@ -13,6 +13,7 @@
 #include "textdelay.h"
 #include "enum_string.h"
 #include "character.h"
+#include "tmpro.h"
 
 std::wstring ORIG_TITLE_NAME(L"Attorney of the Arcane");
 std::wstring TITLE_NAME_SUFFIX;
@@ -74,6 +75,10 @@ DWORD __stdcall payload_main(void*) {
 
     if (EnumString::init(base) != 0) {
         std::cout << "EnumString hook failed" << std::endl;
+    }
+
+    if (TMPro::init(base) != 0) {
+        std::cout << "TMPro hook failed" << std::endl;
     }
 
     // if (Character::init(base) != 0) {
