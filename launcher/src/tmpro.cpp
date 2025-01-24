@@ -51,7 +51,7 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
       constexpr size_t MAX_BUF_SIZE = 2048;
       wchar_t line[MAX_BUF_SIZE];
       while (~fwscanf_s(f_text, L"%ls\n", line, _countof(line))) {
-        std::wcout << "Reading: " << line << std::endl;
+        // std::wcout << "Reading: " << line << std::endl;
         text_set.insert(line);
       }
       fseek(f_text, 0, SEEK_END);
