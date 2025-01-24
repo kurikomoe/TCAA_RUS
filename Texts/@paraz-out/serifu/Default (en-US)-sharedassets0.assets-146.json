@@ -912,22 +912,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-145",
     "original": "Tyrion: ...Would you two happen to know the young man who died at the refinery yesterday?",
-    "translation": "Tyrion: ……你们俩会不会碰巧知道昨天在精炼厂去世的那个年轻人？",
-    "stage": 1,
+    "translation": "Tyrion: ……你们俩会不会碰巧认识昨天在精炼厂去世的那个年轻人？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-145\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-146",
     "original": "Wyatt: ...! [mind=\"These guys are after <i>Justin</i>?! But he's already dead!\"/]",
-    "translation": "Wyatt: ……！[mind=\"这些人在追着<i>贾斯汀</i>？！但是他都已经死了！\"/]",
-    "stage": 1,
+    "translation": "Wyatt: ……！[mind=\"这些人在追查<u>贾斯汀</u>？！但是他都已经死了！\"/]",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-146\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-147",
     "original": "\"After Justin\"?[p/] Was there someone with a grudge against him?",
-    "translation": "“追着贾斯汀”？[p/]难道有人和他有嫌隙？",
-    "stage": 1,
+    "translation": "“追查贾斯汀”？[p/]难道有人和他有嫌隙？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-147\",\n  \"keywords\": []\n}"
   },
   {
@@ -941,945 +941,945 @@
     "key": "Default (en-US)-sharedassets0.assets-146-149",
     "original": "It wouldn't hurt to play the part to get more information out of him.",
     "translation": "不妨再多装一会儿，来从他那获得更多信息。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-149\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-150",
     "original": "Tyrion: We're not going to hurt you.",
     "translation": "Tyrion: 我们不会伤害你的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-150\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-151",
     "original": "Celeste: Uh...",
-    "translation": "Celeste: 嗯……",
-    "stage": 1,
+    "translation": "Celeste: 呃……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-151\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-152",
     "original": "Tyrion: ...We're not going to hurt you [i]anymore[/i].",
-    "translation": "Tyrion: ……我们不会再伤害你的，<u>一点也不会</u>。",
-    "stage": 1,
+    "translation": "Tyrion: ……我们不会<u>再</u>伤害你了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-152\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-153",
     "original": "Tyrion: We'd just like to ask you a few questions about Justin.",
     "translation": "Tyrion: 我们只想问你一些有关贾斯汀的问题。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-154",
     "original": "Wyatt: Y-[p/]Yeah![p/][s/] S[p/][s/]-sure, man![p/][s/] Whatever you want!",
     "translation": "Wyatt: 好、[p/]好的！[p/][s/]当[p/][s/]，当然可以！[p/][s/]你想问什么都可以！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-154\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-155",
     "original": "Celeste: Alright,[p/] you two talk.",
     "translation": "Celeste: 那行，[p/]你们俩聊。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-155\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-156",
     "original": "Celeste: I'll work on popping Gavin's shoulder back into place.",
     "translation": "Celeste: 我去把加文的肩膀复位一下。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-156\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-157",
     "original": "…It's a little disturbing how nonchalantly she says things like that.",
     "translation": "……她若无其事地说出这种话，让你感到一丝不安。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-157\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-158",
     "original": "Another nightmare overtakes your sleep.",
     "translation": "又一个噩梦占据了你的睡眠。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-158\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-159",
     "original": "You clutch the note tightly in your hands as you read it.",
     "translation": "你手中紧紧抓住便条，开始阅读。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-159\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-160",
     "original": "\"I'm sorry, Tyrion...\"",
     "translation": "“我很抱歉，提利昂……”",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-160\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-161",
     "original": "\"There were so many things that I wanted to tell you.[p/] So many things that I wanted to show you.\"",
     "translation": "“有很多事我想告诉你。[p/]很多事我想给你看。”",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-161\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-162",
     "original": "\"But I'm afraid that I can't do that now...\"",
-    "translation": "“但恐怕现在还我不能那么做……”",
-    "stage": 1,
+    "translation": "“但我现在恐怕做不到了……”",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-162\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-163",
     "original": "\"I need you to be strong now.\"",
     "translation": "“我需要你现在坚强起来。”",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-164",
     "original": "\"This world is bleak,[p/] merciless,[p/] and unforgiving.\"",
     "translation": "“这个世界暗淡无光，[p/]冷漠，[p/]且无情。”",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-165",
     "original": "\"But I've seen you.[p/] I know how bright the light within you is.\"",
-    "translation": "“但我见到了你。[p/]我知道你心中存在着光明。”",
-    "stage": 1,
+    "translation": "“但我看着你成长。[p/]我知道你心中存在着光明。”",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-165\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-166",
     "original": "\"Use my eyes.[p/] Peer beyond the Divine Gate as I once did.\"",
     "translation": "“用我的眼睛吧。[p/]仔细看那神圣之门外的世界，就像我之前做的那样。”",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-166\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-167",
     "original": "\"Use it to reclaim the future.\"",
     "translation": "“用它来重新取回未来。”",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-167\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-168",
     "original": "Tyrion: Her \"eyes\"...?[p/] I...[p/][s/] I don't understand!",
     "translation": "Tyrion: 她的“眼睛“……？[p/]我……[p/][s/]我不明白！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-168\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-169",
     "original": "...It doesn't matter.[p/] All you have to do is stop the execution.",
     "translation": "……这都无所谓了。[p/]你要做的就是阻止处决。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-169\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-170",
     "original": "If you can just distract the knights long enough,[p/] you can save her and run away.",
-    "translation": "如果你能转移骑士们的注意力足够久，[p/]你就能救下她然后逃走。",
-    "stage": 1,
+    "translation": "如果能转移骑士们的注意力足够久，[p/]你就能救下她然后逃走。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-170\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-171",
     "original": "You'll have to abandon your home...[p/] But at least she'll still be with you.",
     "translation": "你会不得不抛弃你的家……[p/]但至少她会和你在一起。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-171\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-172",
     "original": "As you try to sprint towards the gallows,[p/] a knight grabs your arm and pulls you back.",
     "translation": "当你试着冲向绞刑架时，一个骑士抓住你的手臂，把你拖了回来。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-172\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-173",
     "original": "Knight: Hey, kid.[p/] You can't cross this point.",
     "translation": "Knight: 嘿，小子。[p/]你不能过这条界线。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-173\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-174",
     "original": "Knight: H-[p/]Hey![p/][s/] Stop that!",
     "translation": "Knight: 嘿、[p/]嘿！[p/][s/]别动！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-174\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-175",
     "original": "You fruitlessly try to break his grip by striking him with your bare hands.",
-    "translation": "你徒劳地试图用赤手击打他来挣脱他的控制。",
-    "stage": 1,
+    "translation": "你徒劳地试图赤手击打他来挣脱控制。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-175\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-176",
     "original": "But he barely feels anything through his armor.",
-    "translation": "但透过盔甲他什么也感受不到。",
-    "stage": 1,
+    "translation": "但他有盔甲保护，什么也感受不到。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-176\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-177",
     "original": "You continue delivering blow after blow to him,[p/] but it does nothing.",
     "translation": "你继续对他开展一波接着一波的攻击，[p/]但什么用也没有。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-177\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-178",
     "original": "Your knuckles start to bleed.",
     "translation": "你的指关节开始流血。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-178\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-179",
     "original": "Irritated by your behavior,[p/] the knight pins you to the ground.",
     "translation": "你的行为把骑士激怒了，[p/]他直接把你按在地上。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-179\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-180",
     "original": "Knight: Damn kid...",
     "translation": "Knight: 这个小子……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-180\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-181",
     "original": "You desperately struggle against him to no avail.",
     "translation": "你绝望地挣扎，依旧没有用。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-181\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-182",
     "original": "And from this position,[p/] you have no choice but to watch what's happening.",
-    "translation": "而且在这个角度，[p/]除了看着接下来发生的一切外，你别无选择。",
-    "stage": 1,
+    "translation": "在这个角度，[p/]你只能看着接下来发生的一切。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-182\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-183",
     "original": "Tyrion: W-[p/][s/]Wait![p/][s/] Stop!",
     "translation": "Tyrion: 等、[p/][s/]等等！[p/][s/]停！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-183\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-184",
     "original": "You make eye contact with your mother one last time.",
     "translation": "你和母亲的视线再一次相接。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-184\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-185",
     "original": "Her body goes limp.[p/] You stare blankly at the hanging body.",
-    "translation": "她的身体已软弱无力。[p/]你呆呆地望着那悬挂着的身体。",
-    "stage": 1,
+    "translation": "她的身体已软弱无力。[p/]你呆呆地望向那悬挂着的身体。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-185\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-186",
     "original": "Tyrion: N-[p/]No...[p/] This isn't-...",
     "translation": "Tyrion: 不、[p/]不……[p/]不……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-186\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-187",
     "original": "Tyrion: M-[p/]Mom...?",
     "translation": "Tyrion: 妈、[p/]妈……？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-187\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-188",
     "original": "You clutch her note tightly in your hand.",
     "translation": "你手中紧攥着她的便条。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-188\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-189",
     "original": "You feel a comforting yet fleeting warmth from it.",
     "translation": "你从它那感到一股令人安心却短暂的温暖。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-189\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-190",
     "original": "Tyrion: ...Mom!",
     "translation": "Tyrion: ……妈！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-190\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-191",
     "original": "Celeste: T-[p/][s/]Tyrion?!",
     "translation": "Celeste: 提、[p/][s/]提利昂？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-191\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-192",
     "original": "Tyrion: C-[p/]Celeste...?[p/] I...",
-    "translation": "Tyrion: 塞、[p/][s/]塞莱斯特？！",
-    "stage": 1,
+    "translation": "Tyrion: 塞、[p/][s/]塞莱斯特……？[p/]我……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-192\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-193",
     "original": "You snap back awake.[p/] It was another nightmare...",
     "translation": "你惊醒过来。[p/]又是一个噩梦……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-193\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-194",
     "original": "You notice that tears are streaming down your face.",
-    "translation": "你注意到眼泪从脸上不断滑落。",
-    "stage": 1,
+    "translation": "你注意到眼泪正从脸上不断滑落。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-194\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-195",
     "original": "You quickly try to bring up your sleeve to wipe them away.",
-    "translation": "你赶紧抓起衣袖，想要把它们擦去。",
-    "stage": 1,
+    "translation": "你试图抬手用袖子擦去眼泪。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-195\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-196",
     "original": "...But you realize that Celeste is firmly gripping your hand.",
     "translation": "……但你意识到塞莱斯特正紧握着你的手。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-196\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-197",
     "original": "Tyrion: W-[p/]Wha-...?[p/] Why are you-?",
     "translation": "Tyrion: 什、[p/]什么……？[p/]为什么你——？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-197\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-198",
     "original": "Celeste: A-[p/][s/]Ah![p/] S-[p/][s/]Sorry!",
     "translation": "Celeste: 啊、[p/][s/]啊！[p/]抱、[p/][s/]抱歉！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-198\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-199",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-199\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-200",
     "original": "Celeste: Um...[p/] You were...[p/] shouting in your sleep.",
-    "translation": "Celeste: 呃……[p/]你在……[p/]睡觉的时候大叫。",
-    "stage": 1,
+    "translation": "Celeste: 呃……[p/]你睡觉时在……[p/]大叫。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-200\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-201",
     "original": "Celeste: But you seemed to calm down a little whenever I held your hand.",
     "translation": "Celeste: 但当我握住你的手时，你就会平静下来一些。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-201\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-202",
     "original": "Celeste: So...[p/] I've been...[p/] doing that.",
     "translation": "Celeste: 所以……[p/]我……[p/]一直都在那么做。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-202\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-203",
     "original": "Tyrion: Oh...",
     "translation": "Tyrion: 噢……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-203\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-204",
     "original": "Celeste: ...Tyrion, are you okay?",
     "translation": "Celeste: ……提利昂，你还好吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-204\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-205",
     "original": "You're not.",
     "translation": "你并不好。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-205\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-206",
     "original": "Celeste: You've been acting weird since we arrived in Aurinax.",
     "translation": "Celeste: 自从我们到欧奥奈克斯后，你就变得奇怪起来了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-206\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-207",
     "original": "Tyrion: ...It's nothing.",
     "translation": "Tyrion: ……没什么。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-207\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-208",
     "original": "Celeste: It's [i]not[/i] nothing!",
     "translation": "Celeste: 这才<u>不是</u>没什么！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-208\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-209",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-209\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-210",
     "original": "Celeste: ...Does it have something to do with your mother?",
     "translation": "Celeste: ……是不是和你的母亲有关？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-210\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-211",
     "original": "Celeste: For the past two nights,[p/] you've been calling out for her in your sleep.",
     "translation": "Celeste: 连着两个晚上，[p/]你都在梦中呼唤她。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-211\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-212",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-212\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-213",
     "original": "Celeste: Please.[p/] Just talk to me.",
     "translation": "Celeste: 拜托了，[p/]告诉我吧。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-213\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-214",
     "original": "Celeste: ...I'm your friend,[p/] aren't I?",
     "translation": "Celeste: ……我是你的朋友，[p/]对吧？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-214\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-215",
     "original": "...You never even realized it.",
-    "translation": "……你从来没有注意到。",
-    "stage": 1,
+    "translation": "……你从来没有意识到这一点。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-215\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-216",
     "original": "You didn't have many people in your life after you left Aurinax.",
-    "translation": "在你离开欧奥奈克斯后，你的人生中已没有什么人了。",
-    "stage": 1,
+    "translation": "离开欧奥奈克斯后，你的人生中已没有什么人了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-216\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-217",
     "original": "You only had Ms. Tymora.[p/] And she never wanted to talk about what happened...",
     "translation": "你只有泰摩拉女士。[p/]但她从来不愿意聊发生了什么……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-217\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-218",
     "original": "But Celeste,[p/] she's been there since you started your career.",
-    "translation": "但塞莱斯特，[p/]自从你开始职业生涯后，她就一直在你身边。",
-    "stage": 1,
+    "translation": "但塞莱斯特，[p/]在你开始职业生涯后就一直陪着你。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-218\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-219",
     "original": "Of course she's your friend.",
     "translation": "她当然是你的朋友。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-219\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-220",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-220\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-221",
     "original": "Tyrion: ...It all happened a long time ago.",
     "translation": "Tyrion: ……这都是很久之前的事了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-221\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-222",
     "original": "Tyrion: We lived here together in that old house.",
     "translation": "Tyrion: 我们曾住在那个旧房子里。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-222\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-223",
     "original": "Tyrion: My mother was a merchant...[p/] and a mage.",
     "translation": "Tyrion: 我母亲是个商人……[p/]同时也是个法师。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-223\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-224",
     "original": "Celeste: Your mother was a mage?",
     "translation": "Celeste: 你母亲是个法师？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-224\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-225",
     "original": "Tyrion: But I guess the gift of magic skipped my generation...[p/] [i]I[/i] could never use it.",
-    "translation": "Tyrion: 不过我估计我并没有被魔法所眷顾……[p/]我用不了魔法。",
-    "stage": 1,
+    "translation": "Tyrion: 不过她的后代并没有被魔法所眷顾……[p/]<u>我</u>用不了魔法。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-225\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-226",
     "original": "Tyrion: ...About ten years ago,[p/] my mother's business partner was found murdered.",
     "translation": "Tyrion: ……大概十年前吧，[p/]我母亲的生意伙伴被谋杀了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-226\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-227",
     "original": "Tyrion: And they found traces of magic at the crime scene...",
     "translation": "Tyrion: 当时在犯罪现场发现了魔法痕迹……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-227\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-228",
     "original": "Celeste: They thought that your mom did it...",
     "translation": "Celeste: 他们认为是你母亲干的……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-228\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-229",
     "original": "Tyrion: Ms. Tymora was my mother's defense attorney for the trial.",
     "translation": "Tyrion: 泰摩拉女士当时是我母亲的辩护律师。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-229\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-230",
     "original": "Tyrion: She did everything she could to get her acquitted.",
-    "translation": "Tyrion: 她竭尽全力来为她辩护。",
-    "stage": 1,
+    "translation": "Tyrion: 她竭尽全力来为母亲辩护。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-230\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-231",
     "original": "Tyrion: ...But she could never find the real culprit.",
     "translation": "Tyrion: ……但她最终没能揪出真凶。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-231\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-232",
     "original": "Tyrion: They found her guilty of first-degree murder.",
     "translation": "Tyrion: 最终她被定为一级谋杀罪。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-232\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-233",
     "original": "Tyrion: I tried to stop her execution...[p/] But...",
     "translation": "Tyrion: 我试着阻止处决……[p/]但我……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-233\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-234",
     "original": "Your voice starts breaking.",
-    "translation": "你的声音开始嘶哑。",
-    "stage": 1,
+    "translation": "你的声音开始颤抖。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-234\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-235",
     "original": "Celeste: Tyrion...",
     "translation": "Celeste: 提利昂……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-235\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-236",
     "original": "Tyrion: ...I'm sorry, Celeste.",
     "translation": "Tyrion: ……抱歉，塞莱斯特。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-236\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-237",
     "original": "Celeste: ...What?",
     "translation": "Celeste: ……什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-237\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-238",
     "original": "Tyrion: Coming back here has brought back so many memories.",
-    "translation": "Tyrion: 重返故地勾起你许多回忆。",
-    "stage": 1,
+    "translation": "Tyrion: 重返故地勾起我许多回忆。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-238\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-239",
     "original": "Tyrion: I thought...[p/] that I'd already moved on from what happened.",
-    "translation": "Tyrion: 我本以为……[p/]我已经不再拘泥于过去向前看了。",
-    "stage": 1,
+    "translation": "Tyrion: 我本以为……[p/]我已经不再拘泥于过去。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-239\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-240",
     "original": "Tyrion: If I could just keep saving people as an attorney,[p/] then maybe I could put all of this behind me.",
-    "translation": "Tyrion: 如果我能作为律师拯救更多人，[p/]或许我就能彻底的把这些放下吧。",
-    "stage": 1,
+    "translation": "Tyrion: 如果我能作为律师拯救更多人，[p/]或许就能彻底放下这些吧",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-240\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-241",
     "original": "Tyrion: But I'm back in Aurinax...[p/] And those feelings are still so fresh in my mind.",
-    "translation": "Tyrion: 现在回到欧奥耐克斯……[p/]这些感觉在我的脑中又如此强烈。",
-    "stage": 1,
+    "translation": "Tyrion: 但我现在回到了欧奥耐克斯……[p/]这些感觉依然没有消退的迹象。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-241\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-242",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-242\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-243",
     "original": "Tyrion: It's like I'm still the same powerless child from ten years ago.",
-    "translation": "Tyrion: 好似我还是当年那个什么都做不到的小孩一样。",
-    "stage": 1,
+    "translation": "Tyrion: 好似我还是十年前那个什么都做不到的小孩。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-243\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-244",
     "original": "Tyrion: I know that I've been taking that out on you.",
-    "translation": "Tyrion: 我知道我和你说这些是在拿你出气。",
-    "stage": 1,
+    "translation": "Tyrion: 我知道说这些只是在对你发泄负面情绪。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-244\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-245",
     "original": "Tyrion: I'm really sorry...",
     "translation": "Tyrion: 真的很抱歉……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-245\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-246",
     "original": "Celeste: Don't be...[p/] I get it.",
     "translation": "Celeste: 没事的……[p/]我能理解。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-246\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-247",
     "original": "Celeste: I know what it's like to lose someone like that.",
-    "translation": "Celeste: 我懂得失去挚爱的感受。",
-    "stage": 1,
+    "translation": "Celeste: 我懂得失去至亲的感受。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-247\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-248",
     "original": "She does, doesn't she?",
     "translation": "她确实明白。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-248\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-249",
     "original": "Celeste: When my dad was murdered,[p/] you were there for me.",
     "translation": "Celeste: 我父亲遇害的时候，[p/]你一直在我身边支持我。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-249\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-250",
     "original": "Celeste: If it weren't for you,[p/] I would’ve still believed that he died hating me.",
     "translation": "Celeste: 如果不是你的话，[p/]我肯定还相信他是恨我而死的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-250\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-251",
     "original": "Tyrion: Celeste, I-",
     "translation": "Tyrion: 塞莱斯特，我——",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-251\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-252",
     "original": "Celeste slowly clasps your hand within hers again.",
-    "translation": "塞莱斯特慢慢的握紧你的手。",
-    "stage": 1,
+    "translation": "塞莱斯特慢慢地握紧你的手。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-252\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-253",
     "original": "It feels warm and comforting.",
     "translation": "感到十分温暖和舒适。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-253\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-254",
     "original": "Has this been the warmth you've been feeling for the last few nights?",
     "translation": "这就是你前几夜中一直感受的温暖吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-254\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-255",
     "original": "Celeste: So,[p/] just let me be here for you.",
     "translation": "Celeste: 那么，[p/]就让我在这陪着你吧。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-255\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-256",
     "original": "You can feel yourself dozing off.[p/] You have to snap yourself back awake.",
     "translation": "你能感受到自己在打瞌睡了。[p/]你得让自己清醒过来。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-256\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-257",
     "original": "Tyrion: S-[p/]Sorry.[p/] The last few days have been a little tiring.",
     "translation": "Tyrion: 抱、[p/]抱歉。[p/]前几天有点太累人了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-257\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-258",
     "original": "Celeste: It's okay.[p/] Just focus on falling asleep.",
     "translation": "Celeste: 没事的。[p/]你只要想着睡觉就好。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-258\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-259",
     "original": "Celeste: I'll stay with you for as long as you need me to.",
     "translation": "Celeste: 只要你需要，我会一直陪着你。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-259\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-260",
     "original": "Celeste: *yawn*",
     "translation": "Celeste: *哈欠*",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-260\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-261",
     "original": "Celeste: ...I'm also feeling pretty tired, though.",
     "translation": "Celeste: ……我也有些累了呢。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-261\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-262",
     "original": "Celeste: I'll just rest my eyes a bit...",
-    "translation": "Celeste: 我要放松一下我的眼睛了……",
-    "stage": 1,
+    "translation": "Celeste: 我就闭目养神一下……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-262\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-263",
     "original": "For the first time since you arrived in Aurinax,[p/] you finally receive a good night's rest.",
     "translation": "到欧奥奈克斯这么久以来，[p/]你终于好好休息了一个晚上。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-263\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-264",
     "original": "You wake up the next morning feeling well-rested.",
     "translation": "第二天醒来，你感觉休息得很好。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-264\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-265",
     "original": "You feel almost a little [i]too[/i] rested.",
-    "translation": "你感觉休息得有点<u>过头</u>了。",
-    "stage": 1,
+    "translation": "休息得几乎有点<u>太</u>好了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-265\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-266",
     "original": "You feel really reluctant to leave the comfort of your bed.",
     "translation": "你不是很情愿离开自己舒服的被窝。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-266\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-267",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-267\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-268",
     "original": "Tyrion: Celeste?[p/] Are you there?",
     "translation": "Tyrion: 塞莱斯特？[p/]你在吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-268\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-269",
     "original": "Your hand feels warm.",
     "translation": "你的手感到一阵温暖。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-270",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-271",
     "original": "You can feel your heart stop.",
     "translation": "你感到自己的心跳停止了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-271\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-272",
     "original": "Tyrion: ...C-[p/]Celeste?",
     "translation": "Tyrion: ……塞、[p/]塞莱斯特？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-273",
     "original": "Celeste: Ugggggggh...[p/] What do you want?",
     "translation": "Celeste: 呃呃呃呃呃……[p/]你想干嘛？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-273\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-274",
     "original": "Her eyes slowly open as she wakes from her equally restful sleep.",
     "translation": "她的眼睛慢慢睁开，从同样安稳的睡眠中醒来。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-274\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-275",
     "original": "She drowsily scans her surroundings.",
-    "translation": "她带着困意环视着周围。",
-    "stage": 1,
+    "translation": "她带着困意环视周围。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-275\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-276",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-276\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-277",
     "original": "Celeste: ...!",
     "translation": "Celeste: ……！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-277\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-278",
     "original": "You both dart out of the bed.",
-    "translation": "你们两都从床上冲了出去。",
-    "stage": 1,
+    "translation": "你们俩都从床上冲了出去。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-278\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-279",
     "original": "Celeste: U-[p/][s/]Um...[p/][s/] So...",
     "translation": "Celeste: 呃、[p/][s/]唔……[p/][s/]那么……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-279\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-280",
     "original": "Celeste: You...[p/][s/] seem to be doing better.",
     "translation": "Celeste: 你……[p/][s/]看起来好多了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-280\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-281",
     "original": "Celeste: Y-[p/][s/]You're okay, right?",
     "translation": "Celeste: 你、[p/][s/]你还好吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-281\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-282",
     "original": "Tyrion: Y-Yeah...[p/][s/] Thank you for last...[p/][s/] night.",
     "translation": "Tyrion: 是、是的……[p/][s/]昨晚……[p/][s/]谢谢你了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-282\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-283",
     "original": "Poor phrasing.",
-    "translation": "糟糕的对话。",
-    "stage": 1,
+    "translation": "措辞不怎么样。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-283\",\n  \"keywords\": []\n}"
   },
   {
@@ -16578,8 +16578,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2564",
     "original": "Frey: But I'm afraid that I can't do that now...",
-    "translation": "Frey: 但恐怕现在还我不能那么做……",
-    "stage": 1,
+    "translation": "Frey: 但我现在恐怕做不到了……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Intro Scene.yarn-Start-2564\",\n  \"keywords\": []\n}"
   },
   {
@@ -16599,7 +16599,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2567",
     "original": "Frey: But I've seen you.[p/] I know how bright the light within you is.",
-    "translation": "Frey: 但我见到了你。[p/]我知道你心中存在着光明。",
+    "translation": "Frey: 但我看着你成长。[p/]我知道你心中存在着光明。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Intro Scene.yarn-Start-2567\",\n  \"keywords\": []\n}"
   },
