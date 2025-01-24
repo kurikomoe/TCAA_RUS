@@ -1,18 +1,23 @@
 #include <atomic>
 #include <cstdio>
-#include <cstdlib>
-#include <iostream>
 #include <windows.h>
+#include <fcntl.h>
 
 #include "version_check.h"
+#include "tmpro.h"
 #include "payload.h"
 #include "version.h"
+#include "flags.h"
+#include "consts.h"
 
 std::atomic_flag Initialized;
-constexpr bool IsDebug = true;
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call,
                       LPVOID lpReserved) {
+
+  setlocale( LC_ALL, "");
+  std::locale::global(std::locale( "" ));
+
   switch (ul_reason_for_call) {
   case DLL_PROCESS_ATTACH:
 
@@ -45,6 +50,7 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call,
     }
     break;
   case DLL_PROCESS_DETACH:
+    fclose(f_text);
     FreeConsole();
     FreeLibrary(version.dll);
     break;

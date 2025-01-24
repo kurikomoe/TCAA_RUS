@@ -37,7 +37,7 @@ BOOL WINAPI hook_SetWindowTextW(HWND hWnd, LPCWSTR lpString) {
 
 DWORD __stdcall payload_main(void*) {
     // inits
-    TITLE_NAME_SUFFIX = std::format(group_text, version());
+    TITLE_NAME_SUFFIX = std::format(group_text, version_string());
 
     std::wcout << L"inside payload" << std::endl;
     std::wcout << TITLE_NAME_SUFFIX << std::endl;
