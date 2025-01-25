@@ -3439,7 +3439,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-557",
     "original": "You can’t believe it…[p/] You’ve heard stories of necromancers before.",
-    "translation": "难以置信……[p/]你曾听说过一些关于死灵术士的故事。",
+    "translation": "难以置信……[p/]你曾听说过一些关于死灵法师的故事。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-557\",\n  \"keywords\": []\n}"
   },
@@ -3453,7 +3453,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-559",
     "original": "TYRION: But even if Wallace [i]is[/i] a necromancer,[p/] aren’t there plenty of other mages who can cast [b]necromancy[/b] spells?",
-    "translation": "TYRION: 退一步讲，就算华莱士<u>是</u>个死灵术士，学院里不应该还有不少会[b]死灵术[/b]的法师吗？",
+    "translation": "TYRION: 退一步讲，就算华莱士<u>是</u>个死灵法师，学院里不应该还有不少会[b]死灵术[/b]的法师吗？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-559\",\n  \"keywords\": []\n}"
   },
@@ -21122,7 +21122,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3278",
     "original": "THEODORE: Most healers don’t care to admit it because of the stigma it has.",
     "translation": "THEODORE: 绝大多数治愈师因为它的污名而不敢承认这一点。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3278\",\n  \"keywords\": []\n}"
   },
   {
@@ -22032,7 +22032,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-3418",
     "original": "THEODORE: Most healers don’t care to admit it because of the stigma it has.",
     "translation": "THEODORE: 绝大多数治愈师因为它的污名而不敢承认这一点。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3418\",\n  \"keywords\": []\n}"
   },
   {
@@ -23522,7 +23522,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3647",
     "original": "CELESTE MCCOY: Well…[p/] I’m a mercenary.[p/] But now I work as Tyrion’s bodyguard.",
-    "translation": "CELESTE MCCOY: 这个……[p/]我是个雇佣兵，[p/]不过现在作为提利昂的保镖工作。",
+    "translation": "CELESTE MCCOY: 这个……[p/]我是个雇佣兵，[p/]不过现在作为提利昂的护卫工作。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3647\",\n  \"keywords\": []\n}"
   },
@@ -23557,14 +23557,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3652",
     "original": "With Celeste being a mercenary,[p/] Ms. Tymora decided to hire her as your bodyguard.",
-    "translation": "正好塞莱斯特一直从事佣兵工作，[p/]泰摩拉女士决定雇佣她担任你的保镖。",
+    "translation": "正好塞莱斯特一直从事佣兵工作，[p/]泰摩拉女士决定雇佣她担任你的贴身护卫。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3652\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3653",
     "original": "She figured you would feel more comfortable around someone you were already friends with.",
-    "translation": "她指出让你的朋友担任保镖也会让你更自在。",
+    "translation": "她指出让你的朋友担任护卫也会让你更自在。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3653\",\n  \"keywords\": []\n}"
   },
