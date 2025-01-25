@@ -22,6 +22,40 @@ std::map<std::wstring, std::wstring> tmpro_data = {
     {L"Backspace", L"退格键"},
     {L"Return", L"回车键"},
     {L"Tab", L"Tab 键"},
+    {L"None", L"无"},
+    {L"LeftMeta", L"左 Win 键"},
+
+    {L"Space", L"空格键"},
+    {L"LeftButton", L"鼠标左键"},
+    {L"RightButton", L"鼠标右键"},
+    {L"MiddleButton", L"鼠标中键"},
+
+    // {L"Cross", L"Ⓐ"},
+    // {L"Square", L"Ⓧ"},
+    // {L"Triangle", L"Ⓨ"},
+    // {L"Circle", L"Ⓑ"},
+    {L"Cross", L"手柄 A 键"},
+    {L"Square", L"手柄 X 键"},
+    {L"Triangle", L"手柄 Y 键"},
+    {L"Circle", L"手柄 B 键"},
+    {L"L1", L"左肩键"},
+    {L"R1", L"右肩键"},
+    {L"L2", L"左扳机"},
+    {L"R2", L"右扳机"},
+    {L"L3", L"按下左摇杆"},
+    {L"R3", L"按下右摇杆"},
+
+    {L"Normal", L"正常"},
+    {L"Fast", L"快速"},
+    {L"Instant", L"立即显示「汉化组推荐」"},
+
+    // {L"Normal", L"正常"},
+    {L"Large", L"大"},
+
+    {L"Windowed", L"窗口化"},
+    {L"Fullscreen", L"全屏"},
+
+    {L"Disabled", L"禁用"},
 };
 
 std::set<std::wstring> text_set;
@@ -45,7 +79,7 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
       std::filesystem::path root_path(buf);
       auto file_path = root_path.parent_path() / L"texts.txt";
 
-      _wfopen_s(&f_text, file_path.wstring().c_str(), L"r+");
+      _wfopen_s(&f_text, file_path.wstring().c_str(), L"a+");
       fseek(f_text, 0, SEEK_SET);
 
       constexpr size_t MAX_BUF_SIZE = 2048;

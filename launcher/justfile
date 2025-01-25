@@ -1,5 +1,5 @@
 build:
-  touch src/flags.h
+  touch src/consts.h
   xmake
 
 copy: build

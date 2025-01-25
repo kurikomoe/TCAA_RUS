@@ -8,7 +8,6 @@
 #include "payload.h"
 #include "version.h"
 #include "flags.h"
-#include "consts.h"
 
 std::atomic_flag Initialized;
 

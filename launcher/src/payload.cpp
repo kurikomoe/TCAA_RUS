@@ -5,7 +5,6 @@
 #include <windows.h>
 #include <MinHook.h>
 
-#include "consts.h"
 #include "payload.h"
 
 #include "createfile.h"
