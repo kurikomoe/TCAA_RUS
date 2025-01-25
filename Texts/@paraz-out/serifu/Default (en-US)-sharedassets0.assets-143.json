@@ -828,7 +828,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-142",
     "original": "Theon: The Church of Bahamut seeks to honor and revere the Scaled Lord Rathallion.",
-    "translation": "Theon: 巴哈姆特教堂尊崇鳞甲领主拉萨利昂。",
+    "translation": "Theon: 巴哈姆特教会尊崇鳞甲领主拉萨利昂。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-142\",\n  \"keywords\": []\n}"
   },
@@ -933,7 +933,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-159",
     "original": "Theon: ...But forgive my rudeness,[p/] I am Theon Archeus:[p/] High Speaker of the Church of Bahamut.",
-    "translation": "Theon: ……请原谅我的失礼，[p/]我叫希恩·阿契厄斯。[p/]巴哈姆特教堂的大主教。",
+    "translation": "Theon: ……请原谅我的失礼，[p/]我叫希恩·阿契厄斯。[p/]巴哈姆特教会的大主教。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-159\",\n  \"keywords\": []\n}"
   },
@@ -6491,7 +6491,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1054",
     "original": "Orym: He's the shot-caller of the Church of Bahamut.",
-    "translation": "Orym: 巴哈姆特教堂的头头。",
+    "translation": "Orym: 巴哈姆特教会的头头。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1054\",\n  \"keywords\": []\n}"
   },
@@ -25664,7 +25664,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3955",
     "original": "The Church of Bahamut",
-    "translation": "巴哈姆特教堂",
+    "translation": "巴哈姆特教会",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj19-3955\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -25678,7 +25678,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3957",
     "original": "Theon: The Church of Bahamut is important not only to Wyverngarde's culture but to its civil stability.",
-    "translation": "Theon: 巴哈姆特教堂对维文加德的文化和社会秩序同等重要。",
+    "translation": "Theon: 巴哈姆特教会对维文加德的文化和社会秩序同等重要。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj19-3957\",\n  \"keywords\": []\n}"
   },
@@ -25713,7 +25713,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3962",
     "original": "So it's possible that the Church of Bahamut plays a role in his future plans.",
-    "translation": "巴哈姆特教堂可能是他未来计划的一部分。",
+    "translation": "巴哈姆特教会可能是他未来计划的一部分。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj19-3962\",\n  \"keywords\": []\n}"
   },
@@ -42975,7 +42975,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6519",
     "original": "Tyrion: The Church of Bahamut is prominent in Wyverngarde,[p/] but this is the first time I've heard of the celestial gods.",
-    "translation": "Tyrion: 虽说巴哈姆特教堂在维文加德境内十分有名，[p/]但这是我第一次听说天神的事。",
+    "translation": "Tyrion: 虽说巴哈姆特教会在维文加德境内十分有名，[p/]但这是我第一次听说天神的事。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6519\",\n  \"keywords\": []\n}"
   },
@@ -43654,7 +43654,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6625",
     "original": "Beatrice: That makes sense...[p/] If the Church of Bahamut knew what you were,[p/] they would have definitely hunted you down.",
-    "translation": "Beatrice: 也有道理……[p/]如果巴哈姆特教堂知道你们的存在，[p/]肯定会来追杀你们。",
+    "translation": "Beatrice: 也有道理……[p/]如果巴哈姆特教会知道你们的存在，[p/]肯定会来追杀你们。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Check_Events_GardenIntro-6625\",\n  \"keywords\": []\n}"
   },
@@ -51816,7 +51816,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7873",
     "original": "Celeste: The Church of Bahamut wasn't that popular in my hometown.[p/] And I've never been the religious type.",
-    "translation": "Celeste: 巴哈姆特教堂在我的故乡人气没有那么高。[p/]我也向来不是那么虔诚的人。",
+    "translation": "Celeste: 巴哈姆特教会在我的故乡人气没有那么高。[p/]我也向来不是那么虔诚的人。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-LetterGet5-7873\",\n  \"keywords\": []\n}"
   },

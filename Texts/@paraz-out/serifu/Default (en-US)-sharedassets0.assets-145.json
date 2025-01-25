@@ -3054,7 +3054,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-497",
     "original": "TYRION: There’s a lot of blood in this puddle…[p/] but there’s no trail leading to it.",
-    "translation": "TYRION: 这里有很多血……[p/]但没有引导至这里的痕迹。",
+    "translation": "TYRION: 这里有很多血……[p/]但没有延申至这里的痕迹。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-497\",\n  \"keywords\": []\n}"
   },
@@ -3222,7 +3222,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-524",
     "original": "Celeste: Aw...[p/] Lame.",
-    "translation": "Celeste: 啊呜……[p/]无聊。",
+    "translation": "Celeste: 喔……[p/]无聊。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Examine_Classroom-524\",\n  \"keywords\": []\n}"
   },
@@ -3733,7 +3733,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-601",
     "original": "She’s sharing information about the investigation for [i]that[/i]?",
-    "translation": "她问点这些就愿意交换调查情报？",
+    "translation": "她问点<u>这些</u>就愿意交换调查情报？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-601\",\n  \"keywords\": []\n}"
   },
@@ -3922,14 +3922,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-629",
     "original": "RUBY: The headmaster gave us express permission to be here.",
-    "translation": "RUBY: 校长给予了我们到那里的通行许可。",
+    "translation": "RUBY: 是校长许可我们进入这里的。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-630",
     "original": "RUBY: If you have an issue with that,[p/] then take it up with him.",
-    "translation": "RUBY: 如果你对此有意见，[p/]那得和他去说。",
+    "translation": "RUBY: 如果你对此有意见，[p/]那得去和他说。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-630\",\n  \"keywords\": []\n}"
   },
@@ -4307,7 +4307,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-687",
     "original": "Celeste: Yeah.[p/] I'm working as Tyrion's bodyguard now.",
-    "translation": "Celeste: 没错。[p/]我现在作为提利昂的护卫工作。",
+    "translation": "Celeste: 没错。[p/]我现在担任提利昂的护卫。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-687\",\n  \"keywords\": []\n}"
   },
@@ -20918,7 +20918,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3248",
     "original": "TYRION: We heard your voice on the intercom when the lockdown happened.",
-    "translation": "TYRION: 封锁发生的时候，我们从内部通讯听到了您的声音。",
+    "translation": "TYRION: 封锁发生的时候，我们从内部通讯系统听到了您的声音。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3248\",\n  \"keywords\": []\n}"
   },
@@ -21849,7 +21849,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3390",
     "original": "Theodore: Did you know?[p/] Eris is one of our top students in the study of [i]illusion[/i] magic.",
-    "translation": "Theodore: 你们知道吗？[p/]厄莉斯是我们这里[b]幻象术[/b]方面最顶尖的学生之一。",
+    "translation": "Theodore: 你们知道吗？[p/]厄莉斯是我们这里<u>幻象术</u>方面最顶尖的学生之一。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3390\",\n  \"keywords\": []\n}"
   },
@@ -23228,7 +23228,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3597",
     "original": "Eris: Mr. Cuthbert has a bad habit of muttering to himself when he thinks.",
-    "translation": "Eris: 卡斯伯特先生有个毛病，思考时会自言自语。",
+    "translation": "Eris: 卡斯伯特先生有个坏习惯，思考时会自言自语。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Start_2-3597\",\n  \"keywords\": []\n}"
   },
@@ -23319,7 +23319,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3612",
     "original": "It must be related to the Church of Bahamut.",
-    "translation": "一定与巴哈姆特教堂有关。",
+    "translation": "一定与巴哈姆特教会有关。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Examine_Library-3612\",\n  \"keywords\": []\n}"
   },
@@ -23522,7 +23522,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3647",
     "original": "CELESTE MCCOY: Well…[p/] I’m a mercenary.[p/] But now I work as Tyrion’s bodyguard.",
-    "translation": "CELESTE MCCOY: 这个……[p/]我是个雇佣兵，[p/]不过现在作为提利昂的护卫工作。",
+    "translation": "CELESTE MCCOY: 这个……[p/]我是个雇佣兵，[p/]不过现在担任提利昂的护卫。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3647\",\n  \"keywords\": []\n}"
   },
@@ -23767,7 +23767,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3684",
     "original": "Tyrion: It’s only about [i]one[/i] ancient dragon.[p/] The Church of Bahamut refers to him as the \"Scaled Lord\".",
-    "translation": "Tyrion: 那不只是一条<u>古龙</u>。[p/]巴哈姆特教堂尊称他为“鳞甲领主”。",
+    "translation": "Tyrion: 那不只是一条<u>古龙</u>。[p/]巴哈姆特教会尊称他为“鳞甲领主”。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Talk_Library-3684\",\n  \"keywords\": []\n}"
   },
@@ -24005,7 +24005,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3721",
     "original": "Catherine: Ah…[p/] Of course, it would be [i]you[/i] lot making all of this noise.",
-    "translation": "Catherine: 啊……[p/]当然，是<u>你</u>制造了这许多噪音。",
+    "translation": "Catherine: 啊……[p/]当然，是<u>你</u>一直在制造噪音。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-Check_Events_Library-3721\",\n  \"keywords\": []\n}"
   },
@@ -24670,14 +24670,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3816",
     "original": "Arcane: COMMAND REJECTED.",
-    "translation": "Arcane: <u>拒绝执行。</u>",
+    "translation": "Arcane: <size=1.5em>拒绝执行。</size>",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-LookTBooks_2-3816\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3817",
     "original": "CELESTE: Aw…[p/] What?",
-    "translation": "CELESTE: 啊呜……[p/]什么呀？",
+    "translation": "CELESTE: 喔……[p/]什么呀？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-LookTBooks_2-3817\",\n  \"keywords\": []\n}"
   },
@@ -24726,7 +24726,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3824",
     "original": "TYRION: Artificery that can record audio…",
-    "translation": "TYRION: 奥术能源可以录制声音吗……",
+    "translation": "TYRION: 可以录制声音的奥术产品吗……",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-LookTBooks_2-3824\",\n  \"keywords\": []\n}"
   },
@@ -24957,7 +24957,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3857",
     "original": "WALLACE: I-[p/]It’s the headmaster![p/][s/] He’s using the intercom system!",
-    "translation": "WALLACE: 是、[p/]是校长！[p/][s/]他在用内部通信系统讲话！",
+    "translation": "WALLACE: 是、[p/]是校长！[p/][s/]他在用内部通讯系统讲话！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-MurderReveal_1-3857\",\n  \"keywords\": []\n}"
   },
@@ -25174,7 +25174,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3888",
     "original": "CELESTE: Tyrion?!",
-    "translation": "CELESTE: 提利昂！",
+    "translation": "CELESTE: 提利昂？！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Intro.yarn-MurderReveal_1-3888\",\n  \"keywords\": []\n}"
   },
@@ -25972,7 +25972,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4007",
     "original": "Tyrion: They must prepare the meals in bulk here.",
-    "translation": "Tyrion: 他们在这准备大量食物。",
+    "translation": "Tyrion: 他们肯定是在这儿准备餐食。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4007\",\n  \"keywords\": []\n}"
   },
@@ -28121,7 +28121,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4341",
     "original": "Tyrion: It's a holy text from the Church of Bahamut.",
-    "translation": "Tyrion: 源于巴哈姆特教堂的圣言。",
+    "translation": "Tyrion: 源于巴哈姆特教会的圣言。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4341\",\n  \"keywords\": []\n}"
   },
@@ -28324,7 +28324,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4376",
     "original": "It must be related to the Church of Bahamut.",
-    "translation": "一定与巴哈姆特教堂有关。",
+    "translation": "一定与巴哈姆特教会有关。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4376\",\n  \"keywords\": []\n}"
   },
@@ -29150,7 +29150,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4505",
     "original": "Celeste: Yeah.[p/] I'm working as Tyrion's bodyguard now.",
-    "translation": "Celeste: 没错。[p/]我现在作为提利昂的护卫工作。",
+    "translation": "Celeste: 没错。[p/]我现在担任提利昂的护卫。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4505\",\n  \"keywords\": []\n}"
   },
