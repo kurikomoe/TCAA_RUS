@@ -238,8 +238,19 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
                 if Flag_RunCommand:
                     sp_case.run_command_option.append(text_id)
                     sp_case.run_command_option_type.append(Flag_RunCommand)
+                else:
+                    # Here we guess the type by node_name
+                    sp_case.run_command_option.append(text_id)
+                    sp_case.run_command_option_type.append(
+                        RunCommandInfo(
+                            ignored=False,
+                            cmd=f"guessing: {node_name}",
+                            inst="",
+                        )
+                    )
             elif IsShowOptions(inst):
                 Flag_RunCommand = None
+
 
     # Process psychComplete
     for node_name, node in program.nodes.items():
