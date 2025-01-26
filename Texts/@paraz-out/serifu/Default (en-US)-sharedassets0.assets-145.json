@@ -1500,7 +1500,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-239",
     "original": "But if that really [i]did[/i] happen,[p/] there's something on the body that [i]shouldn't[/i] be there.",
-    "translation": "但如果真的是[i]这样[/i]，尸体上就有一些[i]本不应有[/i]的东西。",
+    "translation": "但如果真的是<u>这样</u>，尸体上就有一些<u>本不应有</u>的东西。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce6-239\",\n  \"keywords\": []\n}"
   },
@@ -5343,7 +5343,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-845",
     "original": "ARIA: When used on a living human,[p/] it makes their bodily functions cease,[p/] instantly killing them.",
-    "translation": "ARIA: 当用于活人的时候，，[p/]目标会身体机能停止，[p/]立即死亡。",
+    "translation": "ARIA: 用于活人的时候，[p/]目标会身体机能停止，[p/]立即死亡。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Orym-845\",\n  \"keywords\": []\n}"
   },
@@ -5504,7 +5504,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-873",
     "original": "TYRION: They are accusing him of murdering the victim using [b]Necrotic Blight[/b]:[p/] a spell which would [i]not[/i] have physically wounded the victim.",
-    "translation": "TYRION: 由于[b]索命咒[/b]的特殊性，[p/]这一法术杀害目标时不会造成任何外伤。",
+    "translation": "TYRION: 由于[b]索命咒[/b]的特殊性，[p/]这一法术杀害目标时<u>不会</u>造成任何外伤。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-OrymObj-873\",\n  \"keywords\": []\n}"
   },
@@ -5672,14 +5672,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-900",
     "original": "Tyrion: [i]This[/i] is what left the trace of [b]necromancy[/b] at the crime scene.",
-    "translation": "Tyrion: 这就是能在现场留下[b]死灵术[/b]痕迹的东西！",
+    "translation": "Tyrion: <u>这</u>就是能在现场留下[b]死灵术[/b]痕迹的东西！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-OrymObj_1-900\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-901",
     "original": "Aria: I fail to see how [i]that[/i] could leave a trace of [b]necromancy[/b].",
-    "translation": "Aria: 我并不觉得那东西能留下[b]死灵术[/b]的魔法痕迹。",
+    "translation": "Aria: 我并不觉得<u>那东西</u>能留下[b]死灵术[/b]的魔法痕迹。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-OrymObj_1-901\",\n  \"keywords\": []\n}"
   },
@@ -7387,7 +7387,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1162",
     "original": "Find the thought that holds that clue and INTERPRET it to proceed.",
-    "translation": "找到持有线索的那个想法，然后“解读”它来推进询问。",
+    "translation": "找到持有线索的那个想法，然后 <size=1.5em>“解读”</size> 它来推进询问。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Cross-Examination_Val2-1162\",\n  \"keywords\": []\n}"
   },
@@ -27344,7 +27344,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4224",
     "original": "TYRION: …Hm.[p/] I’m not so sure that was a dead end.",
-    "translation": "TYRION: ……嗯姆。[p/]我倒不是很确定那是条死路。",
+    "translation": "TYRION: ……嗯。[p/]我倒不是很确定那是条死路。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce3-4224\",\n  \"keywords\": []\n}"
   },
@@ -32839,8 +32839,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4390",
     "original": "Player: Back",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "",
+    "stage": 9,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4390\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
