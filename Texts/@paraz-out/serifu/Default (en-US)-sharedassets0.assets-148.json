@@ -14632,14 +14632,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2272",
     "original": "Harold: The magical locks on the case [i]can[/i] be disabled.",
-    "translation": "Harold: 展柜上的魔法锁<u>可以</u>被禁用。",
-    "stage": 3,
+    "translation": "Harold: 展柜上的魔法锁<u>可以</u>被解除。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye8-2272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2273",
     "original": "Tyrion: ...How are they normally disabled?",
-    "translation": "Tyrion: ……一般这些锁要怎么禁用？",
+    "translation": "Tyrion: ……一般这些锁要怎么解除？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye8-2273\",\n  \"keywords\": []\n}"
   },
@@ -27568,7 +27568,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4200",
     "original": "Tyrion: ...How are they normally disabled?",
-    "translation": "Tyrion: ……一般这些锁要怎么禁用？",
+    "translation": "Tyrion: ……一般这些锁要怎么解除？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Talk_Gallery1-4200\",\n  \"keywords\": []\n}"
   },
@@ -39902,7 +39902,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1381",
     "original": "Orym: The lock was still engaged,[p/] and no one teleported in.[p/] The perp must've temporarily disabled the lock using something like the Sword of Spell Eating.",
-    "translation": "Orym: 锁仍然处于锁定状态，[p/]也没有人传送进来。[p/]因此罪犯一定是用噬法之剑暂时解除了锁的状态。",
+    "translation": "Orym: 锁仍然处于锁定状态，[p/]也没有人传送进来。[p/]因此罪犯一定是用噬法之剑暂时解除了锁。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1381\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Sword of Spell Eating\"\n  ]\n}"
   },
