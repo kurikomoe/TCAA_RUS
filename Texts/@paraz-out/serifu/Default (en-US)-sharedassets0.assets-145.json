@@ -2088,7 +2088,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-346",
     "original": "TYRION: …Anyways,[p/] this [i]does[/i] tell us one important thing.",
-    "translation": "TYRION: ……不管怎样，[p/]我们确实明白了一件事。",
+    "translation": "TYRION: ……不管怎样，[p/]我们<u>确实</u>明白了一件事。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Cemetery.yarn-Talk_Cemetery-346\",\n  \"keywords\": []\n}"
   },
@@ -29038,7 +29038,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4486",
     "original": "“[i]Her[/i] family is dangerous”?[p/] What does that mean?",
-    "translation": "“<u>她的</u>家族很危险”？[p/]这是何意？",
+    "translation": "“<u>她的</u>家族太危险了”？[p/]这是何意？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4486\",\n  \"keywords\": []\n}"
   },
@@ -29080,7 +29080,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4492",
     "original": "Furthermore,[p/] she said that “her family is dangerous”.",
-    "translation": "而且，[p/]她还提到“她的家族很危险”。",
+    "translation": "而且，[p/]她还提到“她的家族太危险了”。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4492\",\n  \"keywords\": []\n}"
   },
@@ -32972,7 +32972,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4908",
     "original": "Player: The witness is a noble",
-    "translation": "Player: 目击证人 是一个 贵族",
+    "translation": "Player: 目击者 是一个 贵族",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce8-4908\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0\",\n          \"The witness,Steelwind\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0\",\n          \"is a,isn't a,is a,isn't a\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0\",\n          \"noble,murderer,student,suspect\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
