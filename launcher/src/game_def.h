@@ -27,7 +27,6 @@ struct TMPro_TMP_Text_o {};
 struct UnityEngine_GameObject_o {};
 struct UnityEngine_UI_HorizontalLayoutGroup_o {};
 struct UnityEngine_Events_UnityEvent_o {};
-struct Yarn_Unity_DialogueRunner_o {};
 struct System_Collections_IEnumerator_o {};
 struct System_Collections_Generic_List_TextLogHistoryEntry__o {};
 struct UnityEngine_Color_o {};
@@ -260,6 +259,102 @@ struct CharacterData_o
   void *monitor;
   CharacterData_Fields fields;
 };
+
+struct Yarn_Unity_DialogueRunner_Fields {
+  char padding[0x20];
+  bool verboseLogging;
+  char padding2[0x50-0x20-sizeof(bool)];
+};
+
+
+struct Yarn_Unity_DialogueRunner_o
+{
+  void *klass;
+  void *monitor;
+  Yarn_Unity_DialogueRunner_Fields fields;
+};
+
+struct __declspec(align(4)) GameState_Fields {
+  struct System_String_o *currentNode;
+  int32_t currentProgram;
+  int32_t episodeNum;
+  bool detectMagicUnlocked;
+  // char padding[4];
+  struct System_String_o *protagonist;
+  struct System_String_o *location;
+  struct System_String_o *saveDate;
+  int32_t courtroom;
+  void* courtState;
+  bool testimony;
+  // char padding1[4];
+  struct System_String_o *deduction;
+  void *deductionFields;
+  int32_t testimonyIndex;
+  struct System_String_o *currentMusic;
+  int32_t pushes;
+  struct System_String_o *loadedChar;
+  struct System_String_o *charEmotion;
+  bool blackScreen;
+  bool flashback;
+  bool anger;
+  // char padding2[1];
+  struct System_String_o *loadedCG;
+  struct System_String_o *psychLocation;
+  struct System_String_o *typewriter;
+  bool typewriterHovered;
+  bool assistantOnTheStand;
+  bool prosAssistOnTheStand;
+  bool axiomsActive;
+  bool celesteSad;
+  // char padding3[3];
+  int32_t psychValue;
+  int32_t psychMax;
+  int32_t insight;
+  int32_t insightMax;
+  int32_t autoExamineIndex;
+  int32_t autoOptionIndex;
+  int32_t autoTestimonyIndex;
+  int32_t autoTalkIndex;
+  int32_t autoNPCIndex;
+  int32_t autoLocIndex;
+  int32_t creditIndex;
+  bool creditDone;
+  bool autoExamineInit;
+  bool autoOptionInit;
+  bool autoPresentInit;
+  bool autoLocInit;
+  bool autoNPCActDone;
+  bool autoNPCTalkDone;
+  bool autoTestimony;
+  bool autoPressDone;
+  bool dontShowJudge;
+  bool inCredits;
+  // char padding4[1];
+  struct System_String_array *occupantOverrides;
+  struct System_String_array *unlockedClues;
+  struct System_String_array *unlockedSpells;
+  struct System_String_array *unlockedProfiles;
+  struct System_String_array *unlockedAxioms;
+  struct System_String_array *creditInstances;
+  void *locationDialogues;
+  void *locationExaminations;
+  struct StringToString_array *stringVars;
+  struct StringToFloat_array *floatVars;
+  struct StringToBool_array *boolVars;
+  struct StringToString_array *occupationOverrides;
+  struct StringToString_array *locationBackOverrides;
+  struct StringToBool_array *altCloseUps;
+};
+static_assert(sizeof(GameState_Fields) == 0xCC);
+
+
+struct GameState_o {
+  void *klass;
+  void *monitor;
+  GameState_Fields fields;
+};
+
+
 
 
 namespace utils {

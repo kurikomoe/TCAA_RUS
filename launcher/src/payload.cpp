@@ -13,6 +13,7 @@
 #include "enum_string.h"
 #include "character.h"
 #include "tmpro.h"
+#include "yarn.h"
 
 std::wstring ORIG_TITLE_NAME(L"Attorney of the Arcane");
 std::wstring TITLE_NAME_SUFFIX;
@@ -79,6 +80,10 @@ DWORD __stdcall payload_main(void*) {
     if (TMPro::init(base) != 0) {
         std::cout << "TMPro hook failed" << std::endl;
     }
+
+    // if (Yarn::init(base) != 0) {
+    //     std::cout << "Yarn hook failed" << std::endl;
+    // }
 
     // if (Character::init(base) != 0) {
     //     std::cout << "Character hook failed" << std::endl;
