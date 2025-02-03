@@ -69,6 +69,7 @@ speaker_ignored_texts = [
     "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
     "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
     '[character name=""][/character]You arrive at the harbour,[p/] in search of Morrison: the harbourmaster.',
+    'Tyrion:...',
 ]
 def check_speaker(a: str, b: str) -> bool:
     if a.startswith(":") and b.startswith(":"):
