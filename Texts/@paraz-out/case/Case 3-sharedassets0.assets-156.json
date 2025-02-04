@@ -268,7 +268,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-5-0",
     "original": "Why wasn't the metal object fully destroyed?",
-    "translation": "为什么\\u200B金属物体\\u200B没有被\\u200B完全破坏\\u200B？",
+    "translation": "为什么\\u200B金属物体\\u200B没有被\\u200B摧毁\\u200B？",
     "stage": 3,
     "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why wasn't the metal object fully destroyed?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -352,7 +352,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-13-0",
     "original": "What [i]should[/i] the magical liquid have done to the object?",
-    "translation": "魔法液体[i]理应[/i]将物体怎样？",
+    "translation": "魔法液体<u>理应</u>将物体怎样？",
     "stage": 3,
     "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What [i]should[/i] the magical liquid have done to the object?\"\n  ],\n  \"keywords\": []\n}"
   },

@@ -632,7 +632,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-105",
     "original": "Tyrion: Get.[p/][p/][p/] The [i]hell[/i].[p/][p/][p/] Away from my house.",
-    "translation": "Tyrion: 从我的屋里[p/][p/][p/]<u>天杀的</u>[p/][p/][p/]滚出去！",
+    "translation": "Tyrion: <u>天杀的</u>，[p/][p/][p/]从我的屋里[p/][p/][p/]滚出去！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-105\",\n  \"keywords\": []\n}"
   },
@@ -730,7 +730,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-119",
     "original": "Celeste: Yes?",
-    "translation": "Celeste: 是？",
+    "translation": "Celeste: 嗯？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-119\",\n  \"keywords\": []\n}"
   },
@@ -765,7 +765,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-124",
     "original": "Celeste: Yes?",
-    "translation": "Celeste: 是？",
+    "translation": "Celeste: 嗯？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-124\",\n  \"keywords\": []\n}"
   },
@@ -793,7 +793,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-128",
     "original": "Celeste: Yes?",
-    "translation": "Celeste: 是？",
+    "translation": "Celeste: 嗯？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-128\",\n  \"keywords\": []\n}"
   },
@@ -2452,7 +2452,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-365",
     "original": "Tyrion: ...Yeah?",
-    "translation": "Tyrion: ……是？",
+    "translation": "Tyrion: ……怎么了？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-CafeAfter-365\",\n  \"keywords\": []\n}"
   },
@@ -6911,7 +6911,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1070",
     "original": "Tyrion: ...Yeah?",
-    "translation": "Tyrion: ……是？",
+    "translation": "Tyrion: ……怎么了？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1070\",\n  \"keywords\": []\n}"
   },
@@ -8143,7 +8143,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1260",
     "original": "Aria: But what does [i]this[/i] have to do with the disabled magical lock?",
-    "translation": "Aria: 但是<u>这</u>和被解除的魔法锁有什么联系呢？",
+    "translation": "Aria: 但是<u>这</u>和被解除的附魔锁有什么联系呢？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2_Obj_1-1260\",\n  \"keywords\": []\n}"
   },
@@ -8458,7 +8458,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1305",
     "original": "Judge: However,[p/] I will [i]not[/i] allow the defense to waste the court's time.",
-    "translation": "Judge: “不过，[p/]我<u>不</u>允许辩方浪费法庭的时间。",
+    "translation": "Judge: 不过，[p/]我<u>不</u>允许辩方浪费法庭的时间。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-RikaC2_Obj_2-1305\",\n  \"keywords\": []\n}"
   },
@@ -8507,7 +8507,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1313",
     "original": "The ability to pick a magical lock seems like a rare skill for [i]anyone[/i] to have.",
-    "translation": "开启魔法锁对<u>任何人</u>来说都是罕见的技能。",
+    "translation": "开启附魔锁对<u>任何人</u>来说都是罕见的技能。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1313\",\n  \"keywords\": []\n}"
   },
@@ -8780,7 +8780,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1359",
     "original": "The ability to pick a magical lock seems like a rare skill for [i]anyone[/i] to have.",
-    "translation": "开启魔法锁对<u>任何人</u>来说都是罕见的技能。",
+    "translation": "开启附魔锁对<u>任何人</u>来说都是罕见的技能。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1359\",\n  \"keywords\": []\n}"
   },
@@ -10334,8 +10334,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1597",
     "original": "Aria: Then please enlighten us, Mr. Cuthbert.",
-    "translation": "Aria: 那么请赐教吧，卡斯伯特先生先生。",
-    "stage": 5,
+    "translation": "Aria: 那么请赐教吧，卡斯伯特先生。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Sanctus_Obj_2-1597\",\n  \"keywords\": []\n}"
   },
   {
@@ -11951,8 +11951,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1842",
     "original": "Justin: AGGGGGH![p/][s/] My hand!",
-    "translation": "Justin: <u>啊啊啊！</u> [p/][s/]我的手！",
-    "stage": 5,
+    "translation": "Justin: <size=1.5em>啊啊啊！</size> [p/][s/]我的手！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1842\",\n  \"keywords\": []\n}"
   },
   {
@@ -14079,7 +14079,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2166",
     "original": "Lloyd: Once I'm not preoccupied with this case,[p/] House von Sanctus can provide the resources that you [i]and[/i] the Inquisition need.",
-    "translation": "Lloyd: 只要我不用再为这个案子操心，[p/]冯·桑克图斯家族就能给你<u>和</u>裁判提供所需资源。",
+    "translation": "Lloyd: 只要我不用再为这个案子操心，[p/]冯·桑克图斯家族就能给你<u>和</u>裁判所提供所需资源。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2166\",\n  \"keywords\": []\n}"
   },
@@ -15234,7 +15234,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2352",
     "original": "Tyrion: The object would have been completely destroyed.",
-    "translation": "Tyrion: 金属物体应该会被完全摧毁。",
+    "translation": "Tyrion: 金属物体应该会被摧毁。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce5-2352\",\n  \"keywords\": []\n}"
   },
@@ -15262,7 +15262,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2356",
     "original": "Tyrion: That night something happened that prevented the metal object from being fully destroyed.",
-    "translation": "Tyrion: 那天晚上有什么阻止了金属物体被完全摧毁。",
+    "translation": "Tyrion: 那天晚上有什么阻止了金属物体被摧毁。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce5-2356\",\n  \"keywords\": []\n}"
   },
@@ -15276,7 +15276,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2360",
     "original": "But something happened recently that would have prevented it from destroying the metal object completely.",
-    "translation": "但很快发生了某事阻止金属物体被完全摧毁。",
+    "translation": "但很快发生了某事阻止金属物体被摧毁。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce6-2360\",\n  \"keywords\": []\n}"
   },
@@ -15311,7 +15311,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2365",
     "original": "Tyrion: And whatever that metal object was,[p/] it was only partially destroyed.",
-    "translation": "Tyrion: 不管那个金属物体是什么，[p/]都只是被部分摧毁了。",
+    "translation": "Tyrion: 不管那个金属物体是什么，[p/]都只是被部分破坏了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce7-2365\",\n  \"keywords\": []\n}"
   },
@@ -21765,7 +21765,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3367",
     "original": "Aria: Are you referring to Mosourika Tudor:[p/] owner of the local café?",
-    "translation": "Aria: 你是说在说当地咖啡馆老板，莫苏里卡·都铎吗？",
+    "translation": "Aria: 你是说当地咖啡馆老板，莫苏里卡·都铎吗？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3367\",\n  \"keywords\": []\n}"
   },
@@ -23816,7 +23816,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3681",
     "original": "Aria: Then please enlighten us, Mr. Cuthbert.",
-    "translation": "Aria: 那么请赐教吧，卡斯伯特先生先生。",
+    "translation": "Aria: 那么请赐教吧，卡斯伯特先生。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaObj3-3681\",\n  \"keywords\": []\n}"
   },
@@ -25846,7 +25846,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3982",
     "original": "Celeste: [i]Illusio[/i].",
-    "translation": "Celeste: <u>幻象术</u>。",
+    "translation": "Celeste: Illusio.",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-3982\",\n  \"keywords\": []\n}"
   },
@@ -26028,7 +26028,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4008",
     "original": "Celeste: [i]Illusio[/i]!",
-    "translation": "Celeste: <u>幻象术</u>！",
+    "translation": "Celeste: Illusio!",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Check_Events_Manor-4008\",\n  \"keywords\": []\n}"
   },

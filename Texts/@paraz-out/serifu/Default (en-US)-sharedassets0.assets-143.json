@@ -6337,8 +6337,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1030",
     "original": "Orym: [i]Nothing[/i] about this case makes any damned sense.",
-    "translation": "Orym: 这案子的<u>一切</u>都天杀的不可理喻。",
-    "stage": 3,
+    "translation": "Orym: 天杀的，这案子的<u>一切</u>都不可理喻。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1030\",\n  \"keywords\": []\n}"
   },
   {
@@ -38677,8 +38677,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5855",
     "original": "Eris: But [i]you're[/i] human![p/][s/] You're a goddamned [i]killer[/i]!",
-    "translation": "Eris: 但<u>你</u>区区一个人类！[p/][s/]一个天杀的<u>杀人犯</u>！",
-    "stage": 1,
+    "translation": "Eris: 但<u>你</u>区区一个人类！[p/][s/]天杀的，还是一个<u>杀人犯</u>！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat7-5855\",\n  \"keywords\": []\n}"
   },
   {
@@ -50088,7 +50088,7 @@
     "key": "Default (en-US)-sharedassets0.assets-143-7609",
     "original": "Orym: ...You're god damn insane.",
     "translation": "Orym: ……天杀的，你真是个疯子。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7609\",\n  \"keywords\": []\n}"
   },
   {
@@ -51956,7 +51956,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7893",
     "original": "You exchange glances with Celeste.[p/] But you both enter the cathedral grounds.",
-    "translation": "你和塞莱斯特交换了一个眼神。[p/]两人都进入了呃教堂。",
+    "translation": "你和塞莱斯特交换了一个眼神。[p/]两人都进入了教堂。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-LetterGet5-7893\",\n  \"keywords\": []\n}"
   },
