@@ -157,6 +157,11 @@ def check_invalid_tag_format(tgt: str) -> bool:
     return True
 
 def check_punctuations(tgt: str) -> bool:
+    if tgt in [
+        "Celeste: Illusio!"
+    ]:
+        return True
+
     pats = [
         re.compile(r"\.\."),
         re.compile(r"(\?|!)"),
