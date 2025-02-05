@@ -31355,7 +31355,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4791",
     "original": "Tyrion: Why did you enter the storage room anyways?",
-    "translation": "Tyrion: 总之，你为什么要进来这个储物间？",
+    "translation": "Tyrion: 总之，你为什么要进来这个储藏室？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Talk_Storage-4791\",\n  \"keywords\": []\n}"
   },
@@ -31545,196 +31545,196 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4823",
     "original": "Jan: ...",
     "translation": "Jan: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4823\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4824",
     "original": "Tyrion: ...Mr. Hughes?",
     "translation": "Tyrion: ……休斯先生？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4824\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4825",
     "original": "Jan: ...",
     "translation": "Jan: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4825\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4826",
     "original": "...It doesn't look like that's evoking much of a response from him.",
-    "translation": "……看起来这个东西没有引起他太多的反应。",
-    "stage": 1,
+    "translation": "……看起来他没什么想法。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Present_Storage-4826\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4828",
     "original": "You enter the storage room,[p/] hoping to investigate the air vent that connects to Lord Frega's Study.",
-    "translation": "你进入储物间，[p/]希望调查与弗雷加勋爵书房相连的那段通风管。",
-    "stage": 1,
+    "translation": "你进入储藏室，[p/]希望调查与弗雷加勋爵书房相连的那段通风管道。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4828\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4829",
     "original": "...When you come across a person laying on the floor.",
-    "translation": "……就在这个时候你碰到一个躺在地上的人。",
-    "stage": 1,
+    "translation": "……但你碰到了一个躺在地上的人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4829\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4830",
     "original": "Celeste: W-[p/][s/]What...?",
     "translation": "Celeste: 这、[p/][s/]这是……？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4830\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4831",
     "original": "Celeste: Jan?![p/][s/] Is that you?!",
     "translation": "Celeste: 简？！[p/][s/]是你吗？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4831\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4832",
     "original": "Jan: Aw, man...[p/] What's with all the noise?",
     "translation": "Jan: 唉，天啊……[p/]怎么这么吵？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4832\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4833",
     "original": "Jan: I was having such a good nap too.",
     "translation": "Jan: 我难得睡个好觉。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4834",
     "original": "Tyrion: Mr. Hughes.",
     "translation": "Tyrion: 休斯先生。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4835",
     "original": "Jan: Whoa...[p/] It's you two.",
     "translation": "Jan: 哇哦……[p/]是你们两个啊。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4836",
     "original": "Celeste: Why are you taking a nap in the storage room?",
-    "translation": "Celeste: 你为什么在储物间里睡觉啊？",
-    "stage": 1,
+    "translation": "Celeste: 你为什么在储藏室里睡觉啊？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4837",
     "original": "Jan: I needed to take a break from all the chaos going on.[p/] The Kingsguard won't let us leave until they finish investigating the murder.",
     "translation": "Jan: 我想在这一片混乱中休息一下。[p/]国王卫队在完成凶杀案的调查前不会让我们离开的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4838",
     "original": "Jan: And this pompous noble shooed me away when I tried sleeping on one of the couches.",
-    "translation": "Jan: 而一个傲慢的贵族在我想睡在一张沙发上时把我赶走了。",
-    "stage": 1,
+    "translation": "Jan: 而一个傲慢的贵族在我想睡在沙发上时把我赶走了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4838\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4839",
     "original": "Jan: I didn't expect anyone to find me here.",
-    "translation": "Jan: 我没想到有人能找到我这里来。",
-    "stage": 1,
+    "translation": "Jan: 我没想到有人能找到这里来。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4840",
     "original": "Tyrion: Anyways,[p/] the prosecutor told us that you heard the murder from here during the lockdown.",
-    "translation": "Tyrion: 总之，[p/]检察官告诉我们你封锁期间在这里听到了凶杀发生的情况。",
-    "stage": 1,
+    "translation": "Tyrion: 总之，[p/]检察官告诉我们，封锁期间你在这里听到了凶杀发生的情况。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4841",
     "original": "Tyrion: Do you think you could tell us what happened?",
     "translation": "Tyrion: 你能跟我们说说当时发生了什么吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4841\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4842",
     "original": "Jan: Sure.[p/] Why not?",
     "translation": "Jan: 好啊。[p/]为什么不呢？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4842\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4843",
     "original": "Jan: My nap's kind of ruined anyways.",
-    "translation": "Jan: 反正我的美梦也被毁掉了。",
-    "stage": 1,
+    "translation": "Jan: 反正我也睡不成了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4844",
     "original": "He only heard a few words before the murderer struck the final blow.",
     "translation": "凶手发动最后一击之前，他也只听到了几个字。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4845",
     "original": "It doesn't give you much to go on...[p/] But his testimony could become relevant later.",
-    "translation": "这没给你带来什么进展……[p/]但他的证词晚些时候可能会变得有意义。",
-    "stage": 1,
+    "translation": "没什么新进展……[p/]但他的证词之后可能会有意义。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4845\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4846",
     "original": "For now,[p/] you should probably MOVE somewhere else and gather more information.",
     "translation": "目前，你应该 <size=1.5em>移动</size> 到别处获取更多信息。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Check_Events_Storage-4846\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4847",
     "original": "Celeste: Agh!",
     "translation": "Celeste: 啊！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4848",
     "original": "Tyrion: What's wrong?",
     "translation": "Tyrion: 怎么了？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4848\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4849",
     "original": "Celeste: You can't see it.[p/] But the entire room is covered in traces of [b]abjuration[/b] magic.",
-    "translation": "Celeste: 你看不到。[p/]但是整个房间里遍布着防护魔法的痕迹。",
-    "stage": 1,
+    "translation": "Celeste: 你看不到。[p/]但是整个房间里遍布着[b]防护术[/b]的魔法痕迹。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4849\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4850",
     "original": "Celeste: [i]Everything[/i] is glowing white.",
     "translation": "Celeste: <u>一切</u>都闪着白光。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4851",
     "original": "Tyrion: Right...[p/] That makes sense.[p/] There were several [i]Anti-Magic Fields[/i] covering the manor.",
     "translation": "Tyrion: 对……[p/]这就说得通了。[p/]庄园被几个<u>抗魔力场</u>覆盖着。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4851\",\n  \"keywords\": []\n}"
   },
   {
@@ -31747,197 +31747,197 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4853",
     "original": "Celeste: I won't bother showing you the traces of [b]abjuration[/b] I find while we're here.",
-    "translation": "Celeste: 我就不费劲向你展示我在这里发现的防护魔法痕迹了。",
-    "stage": 1,
+    "translation": "Celeste: 我就不费劲向你展示我在这里发现的[b]防护术[/b]痕迹了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4855",
     "original": "Tyrion: Big surprise...[p/] Another chandelier.",
     "translation": "Tyrion: 大惊喜……[p/]又是一盏吊灯。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4855\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4856",
     "original": "Celeste: This room probably costs more than my family's tavern.",
     "translation": "Celeste: 这房间的内设估计比我家酒馆都贵。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4856\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4858",
     "original": "Tyrion: It's a fireplace...[p/] Could the murderer have entered through here?",
-    "translation": "Tyrion: 一个火炉……[p/]凶手有可能从这进入书房吗？",
-    "stage": 1,
+    "translation": "Tyrion: 一个壁炉……[p/]凶手有可能从这儿进入书房吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4858\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4859",
     "original": "Aria: That wouldn't be possible.[p/] The chimney is far too narrow.",
     "translation": "Aria: 不可能，[p/]烟囱太窄了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4860",
     "original": "Aria: Even a small child wouldn't be thin enough to fit through it.",
-    "translation": "Aria: 即使一个小孩也没办法通过。",
-    "stage": 1,
+    "translation": "Aria: 即使小孩也没办法通过。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4862",
     "original": "Tyrion: It's a painting of some sort of scholar.[p/] There's some text on it.",
-    "translation": "Tyrion: 一幅某种学者的画像。有几行字。",
-    "stage": 1,
+    "translation": "Tyrion: 一幅学者的画像。有几行字。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4863",
     "original": "Tyrion: \"Rook Resingar:[p/] economic scholar and aristocratic accountant.\"",
-    "translation": "Tyrion: “Rook Resingar：[p/] 经济学者以及贵族会计。”",
-    "stage": 1,
+    "translation": "Tyrion: “Rook Resingar：[p/]经济学者以及贵族会计。”",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4864",
     "original": "Tyrion: \"He was known in some circles as \"Rook the cook\",[p/] due to his ability to \"cook the books\" of the Four Pillar Houses.\"",
-    "translation": "Tyrion: “他在某些圈子里被称作厨子Rook，因为他有“料理”四大家族账单的能力。”",
-    "stage": 1,
+    "translation": "Tyrion: “他在某些圈子里被称作厨子 Rook，因为他有“料理”四大家族账单的能力。”",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4865",
     "original": "Celeste: \"Rook the cook\"...",
-    "translation": "Celeste: “厨子Rook”……",
-    "stage": 1,
+    "translation": "Celeste: “厨子 Rook”……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4865\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4866",
     "original": "Celeste: Sometimes I wish I could have a nickname like that.",
-    "translation": "Celeste: 有时候我希望我也能有那样的称号。",
-    "stage": 1,
+    "translation": "Celeste: 我有时候也想获得这种称号。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4867",
     "original": "Tyrion: What about \"Crimson Demon\"?",
     "translation": "Tyrion: “猩红恶魔”怎么样？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4867\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4868",
     "original": "Celeste: Ugh...[p/] Not that one.",
     "translation": "Celeste: 呃啊……[p/]别提那个了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4870",
     "original": "Tyrion: It's a bookshelf filled with books.",
     "translation": "Tyrion: 摆满书的书架。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4870\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4871",
     "original": "Celeste: I wonder what kind of books Lord Frega owned.",
     "translation": "Celeste: 我蛮好奇弗雷加勋爵会放什么样的书。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4871\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4872",
     "original": "Celeste: Wait a minute...[p/][s/] They're all blank!",
     "translation": "Celeste: 等下……[p/][s/]这些书都是空的！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4872\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4873",
     "original": "Tyrion: All of his real books are on the floor or his desk.",
     "translation": "Tyrion: 所有真书都在地板或者他桌子上。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4873\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4875",
     "original": "Tyrion: There's a window that leads into this room...",
     "translation": "Tyrion: 有扇通向这房间的窗户……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4875\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4876",
     "original": "Tyrion: Could the murderer have escaped through here?",
-    "translation": "Tyrion: 凶手有可能是从这逃离书房的吗？",
-    "stage": 1,
+    "translation": "Tyrion: 凶手有可能是从这儿逃离书房的吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4876\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4877",
     "original": "Aria: No.[p/] The window doesn't open and the glass is magically reinforced.",
     "translation": "Aria: 没可能。[p/]窗户无法打开，而且玻璃是被魔法加固过的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4877\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4879",
     "original": "Tyrion: There are several books about economics and politics.",
     "translation": "Tyrion: 有几本关于经济和政治的书。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4879\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4880",
     "original": "Tyrion: It doesn't look like there's anything of note.",
     "translation": "Tyrion: 看起来没什么值得注意的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4880\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4882",
     "original": "Tyrion: There's a pool of blood and a chalk outline where the body must have been.",
-    "translation": "Tyrion: 这里有一滩血和粉笔画出的尸体轮廓。",
-    "stage": 1,
+    "translation": "Tyrion: 这里有一滩血泊，还有粉笔画出的尸体轮廓。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4882\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4884",
     "original": "Tyrion: There's a large mahogany table at the end of the room.",
-    "translation": "Tyrion: 房间尽头摆放着一张大型桃花心木制的书桌。",
-    "stage": 1,
+    "translation": "Tyrion: 房间尽头摆放着一张大型桃花心木桌子。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4884\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4885",
     "original": "Tyrion: Lord Frega must have done his work here.",
     "translation": "Tyrion: 弗雷加勋爵就是在这处理公事的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4885\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4887",
     "original": "Celeste: There's a trace of [b]illusion[/b] magic where the body was.",
     "translation": "Celeste: 尸体的位置上有[b]幻象术[/b]的魔法痕迹。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4887\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4888",
     "original": "Tyrion: Hm...[p/] The assailant must have used some kind of magical disguise.",
     "translation": "Tyrion: 嗯……[p/]凶手一定用了某种魔法伪装。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4888\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4889",
     "original": "Celeste: Or they turned themselves invisible.",
     "translation": "Celeste: 或者隐身了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4889\",\n  \"keywords\": []\n}"
   },
   {
@@ -31951,42 +31951,42 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4893",
     "original": "Tyrion: What can you tell me about the murder?",
     "translation": "Tyrion: 请问能讲讲这起谋杀案的细节吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4893\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4894",
     "original": "Aria: William Frega was found dead in this room after the lockdown was lifted.",
-    "translation": "Aria: 在封锁结束后威廉·弗雷加被发现死在这个房间。",
-    "stage": 1,
+    "translation": "Aria: 封锁结束后，威廉·弗雷加的尸体在这个房间被发现。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4894\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4895",
     "original": "Wait...[p/] \"lockdown\"?![p/][s/] What lockdown?!",
     "translation": "等下……[p/]“封锁”？！[p/][s/]什么封锁？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4895\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4896",
     "original": "Aria: From what we can tell,[p/] his throat had been slashed open with a letter opener.",
     "translation": "Aria: 从目前的情况来看，[p/]被害人的喉咙被一把拆信刀割开。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4896\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4897",
     "original": "Wallace: The cause of death was blood loss.[p/] Both of his carotid arteries were severed.",
-    "translation": "Wallace: 死因是失血过多。[p/]死者两条颈动脉均被切断。",
-    "stage": 1,
+    "translation": "Wallace: 死因是失血过多。[p/]死者两条颈动脉均被割裂。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4897\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4898",
     "original": "Aria: Here's the Autopsy Report if you want a detailed description.",
     "translation": "Aria: 这是尸检报告，上面的记录更详细。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4898\",\n  \"keywords\": []\n}"
   },
   {
@@ -32000,42 +32000,42 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4900",
     "original": "Tyrion: Were you able to find the murder weapon?",
     "translation": "Tyrion: 你有找到凶器吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4900\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4901",
     "original": "Aria: Yes.[p/] The murderer left it at the crime scene.[p/] It was a letter opener owned by the victim.",
     "translation": "Aria: 找到了。[p/]凶手就把它留在了犯罪现场。[p/]是把受害者的拆信刀。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4901\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4902",
     "original": "Tyrion: Hm...[p/] The murderer must have found it in this room and used it...",
     "translation": "Tyrion: 嗯……[p/]凶手一定是在房间里就地取材……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4902\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4903",
     "original": "Aria: There [i]was[/i] one strange detail about the weapon.",
     "translation": "Aria: 关于武器<u>有</u>个很怪的细节。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4903\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4904",
     "original": "Aria: The handle was completely shattered.",
-    "translation": "Aria: 手柄完全碎裂了。",
-    "stage": 1,
+    "translation": "Aria: 刀柄完全碎裂了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4904\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4905",
     "original": "Aria: We're not sure what to make of that detail.[p/] But it's as if something crushed the handle using tremendous force.",
-    "translation": "Aria: 我们不太明白如何理解这个细节。[p/]但貌似曾有什么非常巨大的力量碾碎了把手。",
-    "stage": 1,
+    "translation": "Aria: 我们不太明白这意味着什么。[p/]但刀柄看起来是被庞大的力量粉碎。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4905\",\n  \"keywords\": []\n}"
   },
   {
@@ -32048,141 +32048,141 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4907",
     "original": "What could have caused the handle to shatter like that?",
-    "translation": "是什么能把把手碾碎成这样呢？",
-    "stage": 1,
+    "translation": "是什么能让刀柄碎成这样呢？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4907\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4909",
     "original": "Tyrion: You mentioned that there was a lockdown.[p/] When did this happen?",
-    "translation": "Tyrion: 你刚刚提到封锁。[p/]那是什么时候发生的事？",
-    "stage": 1,
+    "translation": "Tyrion: 你刚刚提到封锁。[p/]那是什么时候的事？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4909\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4910",
     "original": "Aria: You didn't notice?[p/] The Inquisition [i]did[/i] try to be discreet.",
     "translation": "Aria: 你没注意到吗？[p/]裁判所这次<u>确实</u>做到了隐蔽行事。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4910\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4911",
     "original": "Aria: But everyone noticed the commotion Beatrice and the two princes made over it.",
-    "translation": "Aria: 但在场的每个人都注意到了比亚特丽丝和两位王子因此引起的骚动。",
-    "stage": 1,
+    "translation": "Aria: 但比亚特丽丝和两位王子那边的骚动却是人尽皆知。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4911\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4912",
     "original": "Aria: ...I suppose you two must have been lost in your own little world, weren't you?",
-    "translation": "Aria: ……我想你们两个一定是太沉迷于二人世界了所以才没注意到，不是吗？",
-    "stage": 1,
+    "translation": "Aria: ……看来你们两个是沉迷于二人世界了？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4912\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4913",
     "original": "...Oh.",
     "translation": "……啊哦。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4913\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4914",
     "original": "Tyrion: W-[p/][s/]Well anyways,[p/] you said that Lord Frega's body was found [i]after[/i] the lockdown.",
-    "translation": "Tyrion: 总-[p/][s/]总之，[p/]你说弗雷加勋爵的尸体是在封锁<u>结束后</u>才被发现的。",
-    "stage": 1,
+    "translation": "Tyrion: 总、[p/][s/]总之，[p/]你说弗雷加勋爵的尸体是在封锁<u>结束后</u>才被发现的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4914\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4915",
     "original": "Tyrion: That means that something else must have happened prior.",
-    "translation": "Tyrion: 那意味着在这之前肯定发生了什么别的事。",
-    "stage": 1,
+    "translation": "Tyrion: 意味着在这之前肯定发生了别的事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4915\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4916",
     "original": "Aria: Supposedly,[p/] someone had broken into one of the Haroldson exhibits.",
-    "translation": "Aria: 据说，[p/]某人闯进了哈罗德森的一个展室。",
-    "stage": 1,
+    "translation": "Aria: 据说，[p/]有人闯进了哈罗德森的展览室之一。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4916\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4917",
     "original": "Aria: One of the magical artifacts was stolen.",
-    "translation": "Aria: 一个魔法遗物失窃了。",
+    "translation": "Aria: 魔法遗物之一失窃了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4917\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4918",
     "original": "Tyrion: So there was also a theft last night...",
-    "translation": "Tyrion: 原来昨晚还有个劫案……",
-    "stage": 1,
+    "translation": "Tyrion: 原来昨晚还有个窃案……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4918\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4919",
     "original": "Tyrion: Does the manor's lockdown system behave like the one at the Imperial Academy?",
     "translation": "Tyrion: 庄园的封锁系统和帝国学院的类似吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4919\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4920",
     "original": "Aria: The systems are somewhat different.",
     "translation": "Aria: 两者有些许不同。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4920\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4921",
     "original": "Aria: Unlike the Imperial Academy,[p/] the lockdown only prevents people from leaving or entering the manor.",
-    "translation": "Aria: 不同于帝国学院，[p/]庄园的封锁系统仅阻止人们进出庄园。",
-    "stage": 1,
+    "translation": "Aria: 不同于帝国学院，[p/]庄园的封锁系统只会阻止人们进出庄园。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4921\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4922",
     "original": "Tyrion: So not [i]all[/i] of the rooms were locked.[p/] But what about this specific room?",
-    "translation": "Tyrion: 所以并非<u>所有</u>的房间都上锁了。[p/]但这个房间呢？",
-    "stage": 1,
+    "translation": "Tyrion: 所以并非<u>所有</u>房间都上锁了。[p/]但这个房间呢？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4922\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4923",
     "original": "Aria: [i]This[/i] room does have abjuration wards that lock the door and prevent teleportation in and out of it.",
-    "translation": "Aria: <u>这个</u>房间有防护术结界封锁门并阻止使用传送魔法进出。",
-    "stage": 1,
+    "translation": "Aria: <u>这个</u>房间有防护术结界，传送魔法也无法使用。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4923\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4924",
     "original": "Aria: And in addition to that,[p/] the system placed an [b]Anti-Magic Field[/b] over the manor.",
-    "translation": "Aria: 而且不止如此，[p/]封锁系统会在庄园的每一寸土地上放置[b]抗魔力场[/b]。",
-    "stage": 1,
+    "translation": "Aria: 不仅如此，[p/]封锁系统会在庄园范围内设置[b]抗魔力场[/b]。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4924\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4925",
     "original": "Celeste: An [b]Anti-Magic Field[/b]?!",
     "translation": "Celeste: 一个[b]抗魔力场[/b]？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4925\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4926",
     "original": "Tyrion: What is that?",
     "translation": "Tyrion: 那是什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4927",
     "original": "Celeste: [b]Anti-Magic Field[/b] is a spell that nullifies all magic within it.",
     "translation": "Celeste: [b]抗魔力场[/b]是种能够将范围内的所有魔法无效化的法术。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4927\",\n  \"keywords\": []\n}"
   },
   {
@@ -32195,22 +32195,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4929",
     "original": "Tyrion: And the system somehow covered the entire manor in this effect...",
-    "translation": "Tyrion: 而且封锁系统能凭借某种方法使整个庄园都处于这种效果下……",
-    "stage": 1,
+    "translation": "Tyrion: 封锁系统能使整个庄园都处于这种效果下……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4929\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4930",
     "original": "Aria: If you noticed,[p/] there are several purple crystals embedded in the walls of the manor.",
     "translation": "Aria: 如果你细心观察，[p/]庄园的墙上镶嵌着一些紫色水晶。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4930\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4931",
     "original": "Aria: Each of those crystals produced an [b]Anti-Magic Field[/b] during the lockdown.",
-    "translation": "Aria: 在封锁时，每个水晶产生一个[b]抗魔力场[/b]。",
-    "stage": 1,
+    "translation": "Aria: 在封锁时，每个水晶都会生成一个[b]抗魔力场[/b]。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4931\",\n  \"keywords\": []\n}"
   },
   {
@@ -32224,104 +32224,104 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4933",
     "original": "Tyrion: So no one could cast magic during the entirety of the lockdown?",
     "translation": "Tyrion: 所以说在整个封锁过程中没有人能施法咯？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4933\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4934",
     "original": "Aria: Not exactly...[p/] Someone could have used the stolen artifact to circumvent it.",
     "translation": "Aria: 也不是……[p/]可以用失窃的遗物来规避这个效果。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4934\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4936",
     "original": "Tyrion: You mentioned that someone could have used the stolen artifact to get past the [b]Anti-Magic Fields[/b].",
-    "translation": "Tyrion: 你提到某人能用失窃的遗物来绕过[b]抗魔力场[/b]的效果。",
-    "stage": 1,
+    "translation": "Tyrion: 你提到失窃的遗物可以被用来规避[b]抗魔力场[/b]的效果。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4936\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4937",
     "original": "Tyrion: Which artifact was it?",
     "translation": "Tyrion: 那是什么遗物？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4937\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4938",
     "original": "Aria: It was the Sword of Spell Eating.",
     "translation": "Aria: 是噬法之剑。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4938\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4939",
     "original": "That was the demon-forged item that could supposedly nullify magic...",
-    "translation": "那是件由恶魔锻造据传能无效化魔法的物品……",
-    "stage": 1,
+    "translation": "一件由恶魔锻造，据传能使魔法无效化的遗物……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4939\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4940",
     "original": "If the legends were true,[p/] someone could've used it to counteract the lockdown system.",
-    "translation": "如果传说不假，[p/]某人可以用其来抵消封锁系统的效果。",
-    "stage": 1,
+    "translation": "如果传说不假，[p/]就可以用它来抵消封锁系统的效果。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4940\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4941",
     "original": "Aria: After Lord Haroldson reported the theft,[p/] the Inquisition discreetly placed the manor on lockdown.",
     "translation": "Aria: 哈罗德森勋爵通报失窃一事后，[p/]裁判所慎重地封锁了庄园。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4941\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4942",
     "original": "Aria: They searched every room in the manor to try to find it.",
     "translation": "Aria: 为寻找剑，他们搜查了庄园所有房间。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4942\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4943",
     "original": "Aria: But it was eventually found in Beatrice's bedroom.",
     "translation": "Aria: 最终剑在比亚特丽丝的卧室被发现。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4943\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4944",
     "original": "Tyrion: ...And that led them to believe that [i]she[/i] had stolen it.",
     "translation": "Tyrion: ……所以他们认为是<u>她</u>偷了剑。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4944\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4945",
     "original": "Aria: That's correct.[p/] The Kingsguard moved to arrest her,[p/] but Prince Aster ordered them to step down.",
     "translation": "Aria: 是的。[p/]国王卫队准备逮捕她，[p/]但阿斯特王子阻止了他们。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4945\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4946",
     "original": "Aria: It didn't look like she was planning on fleeing.[p/] So they planned to wait until after the party had ended.",
-    "translation": "Aria: 当时她看起来不像是要逃跑的样子。[p/]所以就打算等到聚会结束后再逮捕她。",
-    "stage": 1,
+    "translation": "Aria: 当时她看起来不像是要逃跑的样子。[p/]所以裁判所打算等到舞会结束后再逮捕她。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4946\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4947",
     "original": "Tyrion: ...But then they found Lord Frega's body.",
-    "translation": "Tyrion: ……但直到发现了弗雷加勋爵的尸体。",
-    "stage": 1,
+    "translation": "Tyrion: ……但他们随后发现了弗雷加勋爵的尸体。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4947\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4948",
     "original": "Aria: Correct.[p/] We believe that she used the stolen sword to nullify the magical locks and break into Lord Frega's study.",
-    "translation": "Aria: 没错。[p/] 我们认为她用那把失窃的剑解除了附魔锁，闯入弗雷加勋爵的书房。",
+    "translation": "Aria: 没错。[p/]我们认为她用那把失窃的剑解除了附魔锁，闯入弗雷加勋爵的书房。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4948\",\n  \"keywords\": []\n}"
   },
@@ -32329,133 +32329,133 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4949",
     "original": "Celeste: But if she had the Sword,[p/] why wouldn't she use [i]that[/i] to commit the murder?",
     "translation": "Celeste: 但如果她拿着那把剑，[p/]为什么要用<u>拆信刀</u>杀人呢？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4949\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4950",
     "original": "Aria: We're not entirely sure.[p/] We have a few working theories.",
-    "translation": "Aria: 我们也不太明白。[p/]目前有个初步推论。",
-    "stage": 1,
+    "translation": "Aria: 我们也不太明白。[p/]目前有几个初步推论。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4950\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4951",
     "original": "Aria: She might have wanted to prevent the theft from being tied to the murder.",
-    "translation": "Aria: 她有可能是想将盗窃与凶杀之间撇清关系。",
-    "stage": 1,
+    "translation": "Aria: 她有可能是不想让人把盗窃和凶杀联系起来。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4951\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4952",
     "original": "Aria: Or perhaps she had more confidence wielding a knife over a sword.",
-    "translation": "Aria: 或许也只是她觉得挥舞小刀要比一把剑更得心应手一些。",
-    "stage": 1,
+    "translation": "Aria: 也可能她只是觉得挥舞小刀比剑更得心应手一些。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4952\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4953",
     "original": "Aria: Regardless of her reasons,[p/] it's clear that the Sword wasn't the murder weapon.",
-    "translation": "Aria: 无论她有何种理由，[p/]显然那把剑并非凶器。",
-    "stage": 1,
+    "translation": "Aria: 无论她有何种理由，[p/]那把剑显然并非凶器。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4953\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4954",
     "original": "So she's not just being implicated in Lord Frega's murder.[p/] She's also being charged with stealing the Sword of Spell Eating.",
-    "translation": "所以她不只是与弗雷加勋爵的谋杀有关。[p/]她还被指控偷走了噬法之剑。",
-    "stage": 1,
+    "translation": "所以她不单涉嫌谋杀弗雷加勋爵，[p/]还被指控偷走了噬法之剑。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4954\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4955",
     "original": "But what possible reason would she have to do either of those crimes?",
     "translation": "但她有什么犯罪动机呢？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4955\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4957",
     "original": "Tyrion: Since the body was found here,[p/] was Lord Frega locked in this room during the lockdown?",
-    "translation": "Tyrion: 既然尸体是在这个房间发现的，[p/]弗雷加勋爵在封锁过程中一直呆在这个锁上的房间里？",
-    "stage": 1,
+    "translation": "Tyrion: 既然尸体是在这里发现的，[p/]那弗雷加勋爵在封锁过程中一直呆在这里？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4957\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4958",
     "original": "Aria: Yes.[p/] William Frega knew that this room [i]should[/i] have been secured.",
-    "translation": "Aria: 对的。[p/]威廉·弗雷加深知这个房间<u>应</u>十分安全。",
-    "stage": 1,
+    "translation": "Aria: 对的。[p/]威廉·弗雷加知道这个房间<u>应该</u>十分安全。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4958\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4959",
     "original": "Aria: He was supposedly in a bad mood.[p/] And had locked himself in this room for most of the night.",
-    "translation": "Aria: 据说当晚他心情很差。[p/]而且当晚大部分时间都把自己所在这个书房里。",
-    "stage": 1,
+    "translation": "Aria: 据说当晚他心情很差，[p/]大部分时间都把自己锁在这个书房里。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4959\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4960",
     "original": "Aria: He refused to let anyone into the room.[p/] The only person he spoke to after that was his daughter.",
     "translation": "Aria: 他不让任何人进书房。[p/]他女儿是唯一一个在那之后和他说过话的人。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4960\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4961",
     "original": "Tyrion: His \"daughter\"?[p/] Are you talking about Miriam?",
     "translation": "Tyrion: 他的“女儿”？[p/]你是指米莉亚姆？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4961\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4962",
     "original": "Aria: No.[p/] Lord Frega had another daughter.",
     "translation": "Aria: 不是。[p/]弗雷加勋爵还有一个女儿。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4962\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4963",
     "original": "Aria: I'm referring to Laefe Frega:[p/] Lord Frega's middle child.",
-    "translation": "Aria: 我是指拉菲·弗雷加：[p/]弗雷加勋爵的二女儿。",
-    "stage": 1,
+    "translation": "Aria: 我是指拉菲·弗雷加，[p/]弗雷加勋爵的二女儿。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4963\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4964",
     "original": "Aria: She tried to tell her father about the theft,[p/] but he was apparently preoccupied with something else.",
-    "translation": "Aria: 她当晚试图告诉她父亲展品失窃的事，[p/]但他当时显然在忙其他事。",
-    "stage": 1,
+    "translation": "Aria: 她当晚试图告诉她父亲展品失窃的事，[p/]但他当时似乎在忙其他事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4964\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4965",
     "original": "Aria: He said that he wanted to stay in his Study for the rest of the night.",
     "translation": "Aria: 他说他想在书房里过夜。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4965\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4966",
     "original": "Tyrion: When did this happen?",
     "translation": "Tyrion: 这是什么时候的事？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4966\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4967",
     "original": "Aria: It was shortly before the lockdown was activated.[p/] A little after 1:00 AM.",
-    "translation": "Aria: 封锁生效前没多久。[p/]凌晨 1 点左右。",
-    "stage": 1,
+    "translation": "Aria: 封锁生效前没多久。[p/]凌晨 1:00 左右。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4967\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4968",
     "original": "Tyrion: I see...",
     "translation": "Tyrion: 我知道了……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4968\",\n  \"keywords\": []\n}"
   },
   {
@@ -32469,35 +32469,35 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4970",
     "original": "Laefe must've been the last person to see Lord Frega alive then.",
     "translation": "也就是说拉菲是最后一个看到弗雷加勋爵活着的人。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4970\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4971",
     "original": "You should speak with her and get more details about Lord Frega's actions that night.",
     "translation": "你应该找她聊聊弗雷加勋爵当晚行动的细节。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4971\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4972",
     "original": "Tyrion: By the way, Steelwind.[p/] Do you have a map of the manor?",
     "translation": "Tyrion: 顺带一提，斯蒂尔文德。[p/]你有庄园的地图吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4972\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4973",
     "original": "Aria: I do.[p/] Would you like a copy?",
     "translation": "Aria: 我有，[p/]你想要一份吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4973\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4974",
     "original": "Tyrion: Please and thank you.",
     "translation": "Tyrion: 拜托给我一份，谢谢。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4974\",\n  \"keywords\": []\n}"
   },
   {
@@ -32518,189 +32518,189 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4978",
     "original": "Tyrion: Were there any other witnesses aside from Laefe who saw Lord Frega that night?",
     "translation": "Tyrion: 除了拉菲以外，当晚还有其他见到过弗雷加勋爵的目击者吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4978\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4979",
     "original": "Tyrion: Perhaps someone heard what happened from a nearby room.",
     "translation": "Tyrion: 可能有人从附近房间听到了什么动静。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4980",
     "original": "Aria: There [i]was[/i] someone who heard the altercation.[p/] But it was quite obscured.",
-    "translation": "Aria: 确实<u>有人</u>听到了争论，[p/]不过当事人表示他听不太清。",
-    "stage": 1,
+    "translation": "Aria: 确实<u>有人</u>听到了争论，[p/]不过并不清楚。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4980\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4981",
     "original": "Aria: A servant was trapped in a storage room nearby.",
-    "translation": "Aria: 一个侍从当时被困在了附近的储物室。",
-    "stage": 1,
+    "translation": "Aria: 一个佣人当时被困在了附近的储藏室。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4981\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4982",
     "original": "Aria: There's an air vent that connects this room with that storage room.",
-    "translation": "Aria: 书房内有个通风管道与那间储藏室相连。",
-    "stage": 1,
+    "translation": "Aria: 有一段通风管道将书房与储藏室相连。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4982\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4983",
     "original": "Aria: He supposedly heard sounds of a struggle through that vent.",
     "translation": "Aria: 据说他从管道内听到挣扎的声音。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4983\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4984",
     "original": "Tyrion: What did this witness hear?",
     "translation": "Tyrion: 证人听见了什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4984\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4985",
     "original": "Aria: There were sounds of a struggle before he heard Lord Frega choking on his own blood.",
-    "translation": "Aria: 有几声挣扎的声音，之后就是弗雷加勋爵被自己血呛到窒息的声音。",
-    "stage": 1,
+    "translation": "Aria: 有几声挣扎的声音，之后就是弗雷加勋爵被自己的血呛到的声音。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4985\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4986",
     "original": "Aria: When the lockdown was lifted,[p/] he informed the Kingsguard of what he heard.",
     "translation": "Aria: 封锁结束后，[p/]他立刻向国王卫队告知了他听到的声音。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4986\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4987",
     "original": "Aria: That's when they discovered the body.",
     "translation": "Aria: 也就是在那时发现的尸体。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4987\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4988",
     "original": "Tyrion: I see.[p/] Who was this servant?",
-    "translation": "Tyrion: 我明白了。[p/]那个侍从是谁？",
-    "stage": 1,
+    "translation": "Tyrion: 我明白了。[p/]那个佣人是谁？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4988\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4989",
     "original": "Aria: I believe you actually know him.[p/] His name is Jan Hughes.",
     "translation": "Aria: 你肯定认识他。[p/]他叫简·休斯。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4989\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4990",
     "original": "Wallace: Wait...[p/] Mr. Hughes is here?",
     "translation": "Wallace: 等下……[p/]休斯先生在这？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4990\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4991",
     "original": "You never expected to see [i]him[/i] again.[p/] Much less [i]here[/i] of all places.",
-    "translation": "真没想到能再见<u>他</u>一面。[p/]更别提是在<u>这</u>种地方了。",
-    "stage": 1,
+    "translation": "真没想到能再见<u>他</u>一面。[p/]更别提是在<u>这里</u>了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4991\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4992",
     "original": "But if he heard the altercation,[p/] you'll definitely want to speak with him.",
     "translation": "但如果他听到了争吵的声音，[p/]你肯定要和他聊聊。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4992\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4994",
     "original": "Tyrion: I think I'm lacking a lot of information about the defendant.",
     "translation": "Tyrion: 我缺乏被告的信息。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4994\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4995",
     "original": "Tyrion: From the way you were both acting,[p/] you and Aster seemed to know her.",
-    "translation": "Tyrion: 从你们两个人的反应来看，[p/]你和阿斯特看起来认识她。",
-    "stage": 1,
+    "translation": "Tyrion: 从你们两个人的反应来看，[p/]你和阿斯特认识她。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4995\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4996",
     "original": "Aria: ...Your mentor didn't tell you about her?",
     "translation": "Aria: ……你的导师没告诉过你她的事吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4996\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4997",
     "original": "Tyrion: No.[p/] I try not to pry into her business.",
-    "translation": "Tyrion: 没有。[p/]我尽量不去打探她工作上的事。",
-    "stage": 1,
+    "translation": "Tyrion: 没有。[p/]我尽量不去打探她的事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4997\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4998",
     "original": "Aria: ...I see.",
     "translation": "Aria: ……这样。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4998\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4999",
     "original": "Aria: I honestly don't know much about what happened either.",
     "translation": "Aria: 我其实也不太清楚实情。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-4999\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5000",
     "original": "Aria: But Beatrice was Lord Frega's eldest daughter and the former heir to House Frega.",
-    "translation": "Aria: 但比亚特丽丝是弗雷加勋爵的大女儿，而且是弗雷加家的前继承人。",
-    "stage": 1,
+    "translation": "Aria: 但比亚特丽丝是弗雷加勋爵的大女儿，弗雷加家的前继承人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5000\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5001",
     "original": "Tyrion: \"[i]Former[/i] heir\"?",
-    "translation": "Tyrion: “<u>前继承人</u>”？",
-    "stage": 1,
+    "translation": "Tyrion: “<u>前</u>继承人”？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5001\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5002",
     "original": "Aria: About five years ago,[p/] she fled Frega Manor and went into hiding.",
-    "translation": "Aria: 大概是在五年前，[p/]她离开了弗雷加庄园并躲了起来。",
-    "stage": 1,
+    "translation": "Aria: 大约五年前，[p/]她离开了弗雷加庄园并躲了起来。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5002\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5003",
     "original": "Aria: None of us knew where she'd gone.[p/] She ignored any attempts we made to contact her.",
-    "translation": "Aria: 没人知道她去了哪。[p/]她无视了所有联络。",
-    "stage": 1,
+    "translation": "Aria: 没人知道她去了哪里。[p/]她无视了所有联络。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5003\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5004",
     "original": "Aria: She even used her magic to prevent us from [b]Scrying[/b] her.",
     "translation": "Aria: 她甚至用魔法来防止我们[b]灵视[/b]追踪她。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5004\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5005",
     "original": "Aria: Last night's ball was the first time in years that Aster and I had seen her.",
     "translation": "Aria: 昨晚的舞会是多年来我和阿斯特第一次看见她。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5005\",\n  \"keywords\": []\n}"
   },
   {
@@ -32714,308 +32714,308 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5007",
     "original": "But if that's true,[p/] how did [i]Ms. Tymora[/i] meet her?!",
     "translation": "但如果此话不假，[p/]<u>泰摩拉女士</u>是怎么和她见面的？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5007\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5009",
     "original": "Tyrion: ...Would you happen to know why Beatrice was meeting with her father after all these years?",
-    "translation": "Tyrion: ……你知道为什么这么多年之后比亚特丽丝要和她父亲见面吗？",
-    "stage": 1,
+    "translation": "Tyrion: ……你知道为什么这么多年之后，比亚特丽丝要和她父亲见面吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5010",
     "original": "Aria: I have some ideas,[p/] but nothing concrete.",
     "translation": "Aria: 我有一些猜测，[p/]但不确定。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5010\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5011",
     "original": "Aria: I was hoping [i]you[/i] could tell me.",
     "translation": "Aria: 我本想着<u>你</u>能告诉我的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5011\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5012",
     "original": "Aria: Tymora and Beatrice have both refused to disclose anything about their meeting.",
-    "translation": "Aria: 泰摩拉和比亚特丽丝两人都对她们之间的会面闭口不谈。",
-    "stage": 1,
+    "translation": "Aria: 泰摩拉和比亚特丽丝都对她们之间的会面闭口不谈。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5012\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5013",
     "original": "Damn it...[p/] What could that meeting have been about?",
     "translation": "可恶……[p/]她们会面到底聊了什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5013\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5014",
     "original": "Aria: Speaking of which,[p/] I haven't seen Tymora anywhere in the manor.",
     "translation": "Aria: 说到这，[p/]我在庄园内没见到泰摩拉。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5014\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5015",
     "original": "Aria: As the defendant's attorney,[p/] I would have thought that she'd be here to investigate the murder alongside you.",
     "translation": "Aria: 作为被告的辩护律师，[p/]我本想着她本人会和你一起来现场调查。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5015\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5016",
     "original": "That [i]is[/i] strange...[p/] But Ms. Tymora has always had her own way of doing things.",
-    "translation": "这<u>确实</u>很怪……[p/]但泰摩拉女士总有她的一套办法。",
-    "stage": 1,
+    "translation": "这<u>确实</u>很怪……[p/]但泰摩拉女士有她自己的做事方法。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5017",
     "original": "Perhaps she's using a different strategy.",
     "translation": "或许她是在采用其他策略。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5017\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5018",
     "original": "Aria: Anyways,[p/] I imagine that she met with her father to request financial aid.",
     "translation": "Aria: 总之，[p/]我觉得她是来找她父亲寻求经济援助的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5019",
     "original": "Tyrion: Why do you say that?",
     "translation": "Tyrion: 为什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5020",
     "original": "Aria: ...I have it on good authority that she was deeply in debt.",
     "translation": "Aria: ……据可靠消息称，她负债累累。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5020\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5021",
     "original": "Aria: That's the only reason why she would speak with her father after all these years.",
     "translation": "Aria: 这是她这么多年后愿意和她父亲沟通的唯一理由。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5021\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5022",
     "original": "Aria: It's also why I believe she murdered her father.",
     "translation": "Aria: 而且我也坚信这是她杀害她父亲的动机。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5022\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5023",
     "original": "Tyrion: ...You think she murdered him for his inheritance?",
     "translation": "Tyrion: ……你认为她是为了继承权谋杀了她父亲？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5024",
     "original": "Aria: It's the only motive that makes sense.",
     "translation": "Aria: 这是唯一合理的动机。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Talk_Study1-5024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5027",
     "original": "Aria: I was quite surprised to see you two at the Lords' Ball, yesterday.",
     "translation": "Aria: 真没想到昨天能在勋爵的舞会上看见你们两个。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5027\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5028",
     "original": "Tyrion: Yeah...[p/] It's a long story.",
     "translation": "Tyrion: 啊……[p/]这倒是说来话长。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5028\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5029",
     "original": "Aria: Clearly.[p/] You came accompanied by Beatrice Frega.",
     "translation": "Aria: 显然。[p/]你与比亚特丽丝·弗雷加一同到来。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5029\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5030",
     "original": "Aria: She was the last person I expected to see that night.",
-    "translation": "Aria: 她是我当晚最不希望看见的人。",
-    "stage": 1,
+    "translation": "Aria: 她是我当晚最没想到会遇见的人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5030\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5031",
     "original": "You sense some disdain in her voice.",
     "translation": "你从她声音中听出一丝轻蔑。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5033",
     "original": "Aria: I apologize that your investigation didn't lead anywhere, Ms. McCoy.",
     "translation": "Aria: 很抱歉关于你身世的调查没什么进展，麦考伊女士。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5033\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5034",
     "original": "Celeste: No, it's fine.[p/] My expectations weren't that high coming into this.",
     "translation": "Celeste: 没事的，不必道歉。[p/]我本来也不抱什么希望。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5034\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5035",
     "original": "Celeste: But I still wanted to try, you know?",
-    "translation": "Celeste: 但我就是不想放弃。",
-    "stage": 1,
+    "translation": "Celeste: 但我还是想尝试一下。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5035\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5036",
     "original": "Aria: If only I could have that much optimism.",
     "translation": "Aria: 要是我能有你这样乐观的心态就好了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5036\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5038",
     "original": "Celeste: Steelwind.[p/] Did the Inquisition happen to find my sword anywhere?",
-    "translation": "Celeste: 斯蒂尔文德。[p/]裁判所有找到我的剑吗？",
-    "stage": 1,
+    "translation": "Celeste: 斯蒂尔文德。[p/]裁判所找到我的剑了吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5039",
     "original": "Aria: [i]Your[/i] sword?",
     "translation": "Aria: <u>你的</u>剑？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5040",
     "original": "Aria: I can't say I've heard anything about it.[p/] And I'm sure the Inquisition would have recognized it.",
-    "translation": "Aria: 我没收到什么报告。[p/]而且如果找到了的话裁判所肯定会认出来的。",
-    "stage": 1,
+    "translation": "Aria: 我没收到相关报告。[p/]如果找到了的话，裁判所肯定会认出来的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5041",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5042",
     "original": "Tyrion: Don't worry.[p/] I'm sure we'll find it somewhere.",
     "translation": "Tyrion: 别担心。[p/]我们肯定能找到的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5042\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5043",
     "original": "Celeste: Yeah...",
     "translation": "Celeste: 嗯……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5043\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5045",
     "original": "Tyrion: We somehow always end up meeting each other, don't we?",
     "translation": "Tyrion: 我们总能莫名其妙地相遇，不是吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5046",
     "original": "Aria: Well, it can't be helped.[p/] We work on opposite sides of the same profession, after all.",
     "translation": "Aria: 嗯，这也是没办法的事，[p/]毕竟我们的工作性质如此。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5047",
     "original": "Aria: Although,[p/] I am remiss that I still don't know much about you,[p/] despite our many meetings.",
     "translation": "Aria: 不过惭愧的是，[p/]虽然我们见过这么多面，[p/]但我还是对你一无所知。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5048",
     "original": "Aria: Would you like to go somewhere together in the future?",
     "translation": "Aria: 有兴趣将来一起去什么别的地方吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5048\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5049",
     "original": "Tyrion: O-[p/][s/]Oh...",
-    "translation": "Tyrion: 啊-[p/][s/]这……",
-    "stage": 1,
+    "translation": "Tyrion: 啊、[p/][s/]这……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5049\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5050",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5051",
     "original": "Aria: I'm only joking.[p/] I would never think of asking you out in front of your lover.",
     "translation": "Aria: 开个玩笑而已。[p/]我可从没想过在你女朋友面前约你出去。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5052",
     "original": "Tyrion: W-[p/][s/]Wha-?!",
-    "translation": "Tyrion: 哈-[p/][s/]哈啊-？！",
-    "stage": 1,
+    "translation": "Tyrion: 什、[p/][s/]什么？！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5052\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5053",
     "original": "Tyrion: C-[p/][s/]Celeste is-",
-    "translation": "Tyrion: 塞、[p/][s/]塞莱斯特是-",
-    "stage": 1,
+    "translation": "Tyrion: 塞、[p/][s/]塞莱斯特是——",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5053\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5054",
     "original": "You find yourself stammering over your words.",
     "translation": "你发现自己说话结结巴巴的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5054\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5055",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5055\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5056",
     "original": "Aria: ...",
     "translation": "Aria: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5056\",\n  \"keywords\": []\n}"
   },
   {
@@ -33315,7 +33315,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5105",
     "original": "Tyrion: No.[p/] I try not to pry into her business.",
-    "translation": "Tyrion: 没有。[p/]我尽量不去打探她工作上的事。",
+    "translation": "Tyrion: 没有。[p/]我尽量不去打探她的事。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5105\",\n  \"keywords\": []\n}"
   },
@@ -33350,7 +33350,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5110",
     "original": "Aria: About five years ago,[p/] she fled Frega Manor and went into hiding.",
-    "translation": "Aria: 大概是在五年前，[p/]她离开了弗雷加庄园并躲了起来。",
+    "translation": "Aria: 大约五年前，[p/]她离开了弗雷加庄园并躲了起来。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Present_Study1-5110\",\n  \"keywords\": []\n}"
   },
@@ -34246,14 +34246,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5254",
     "original": "Tyrion: It's a fireplace...[p/] William must use this to keep warm during the winter.",
-    "translation": "Tyrion: 一个火炉……[p/]在冬天威廉用它来给书房供暖。",
+    "translation": "Tyrion: 一个壁炉……[p/]在冬天威廉用它来给书房供暖。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5254\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5256",
     "original": "Tyrion: It's a painting of some sort of scholar.[p/] There's some text on it.",
-    "translation": "Tyrion: 一幅某种学者的画像。有几行字。",
+    "translation": "Tyrion: 一幅学者的画像。有几行字。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5256\",\n  \"keywords\": []\n}"
   },
@@ -34358,8 +34358,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5275",
     "original": "Tyrion: There's a pool of blood and a chalk outline where the body must have been.",
-    "translation": "Tyrion: 这里有一滩血和粉笔画出的尸体轮廓。",
-    "stage": 1,
+    "translation": "Tyrion: 这里有一滩血泊，还有粉笔画出的尸体轮廓。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5275\",\n  \"keywords\": []\n}"
   },
   {
