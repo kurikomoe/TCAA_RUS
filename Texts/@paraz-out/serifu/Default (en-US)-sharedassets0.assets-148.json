@@ -19210,8 +19210,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2963",
     "original": "MBeatrice: Why, yes.[p/] *laugh*[p/] I [i]am[/i] a d-[p/]d-[p/]d-[p/]demon.",
-    "translation": "MBeatrice: 没错，是的。[p/] *大笑* [p/]我<u>是个</u>恶、[p/]恶、[p/]恶、[p/]恶魔。",
-    "stage": 5,
+    "translation": "MBeatrice: 没错，是的。[p/]*大笑* [p/]我<u>是个</u>恶、[p/]恶、[p/]恶、[p/]恶魔。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B5-2963\",\n  \"keywords\": []\n}"
   },
   {
@@ -31306,7 +31306,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4783",
     "original": "Jan: I couldn't hear everything but I heard Lord Frega shout,[p/][s/] \"Who are you?![p/][s/] What do you want?!\".",
-    "translation": "Jan: 虽然听得没有很清楚，但我听到弗雷加勋爵叫了一声，[p/][s/] “你是谁？！[p/][s/]你想要什么？！”。",
+    "translation": "Jan: 虽然听得没有很清楚，但我听到弗雷加勋爵叫了一声，[p/][s/]“你是谁？！[p/][s/]你想要什么？！”。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Talk_Storage-4783\",\n  \"keywords\": []\n}"
   },
@@ -31852,7 +31852,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4872",
     "original": "Celeste: Wait a minute...[p/][s/] They're all blank!",
-    "translation": "Celeste: 等下……[p/][s/]这些书都是空的！",
+    "translation": "Celeste: 等下……[p/][s/]这些书都是空白的！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4872\",\n  \"keywords\": []\n}"
   },
@@ -34316,7 +34316,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5266",
     "original": "Celeste: Wait a minute...[p/][s/] They're all blank!",
-    "translation": "Celeste: 等下……[p/][s/]这些书都是空的！",
+    "translation": "Celeste: 等下……[p/][s/]这些书都是空白的！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5266\",\n  \"keywords\": []\n}"
   },
@@ -34667,609 +34667,609 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5326",
     "original": "Tyrion: ...Am I incorrect?",
     "translation": "Tyrion: ……我说对了吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5326\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5327",
     "original": "Miriam: I...[p/] don't know what to think anymore. [mind=\"Why else would she threaten me?\"/]",
-    "translation": "Miriam: 我……[p/]不知道该怎么去想了。[mind=\"否则她为什么要威胁我？\"/]",
-    "stage": 1,
+    "translation": "Miriam: 我……[p/]不知道该想什么了。[mind=\"否则她为什么要威胁我？\"/]",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5327\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5328",
     "original": "Wait...[p/][s/] She was threatened?!",
     "translation": "等等……[p/][s/]她被威胁了？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5328\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5329",
     "original": "Tyrion: Miriam...[p/] Did Beatrice threaten you in some way?",
-    "translation": "Tyrion: 米莉亚姆……[p/]比亚特丽丝以某种方式威胁了你吗？",
-    "stage": 1,
+    "translation": "Tyrion: 米莉亚姆……[p/]比亚特丽丝威胁你了吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5329\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5330",
     "original": "Miriam: W-[p/][s/]What?![p/][s/] Of course, not!",
-    "translation": "Miriam: 什、[p/][s/]什么呀？！[p/][s/]当然没有了！",
-    "stage": 1,
+    "translation": "Miriam: 什、[p/][s/]什么？！[p/][s/]当然没有了！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5330\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5331",
     "original": "Tyrion: ...Your testimony yesterday was quite convenient for the defense.[p/] It almost got the whole case thrown out.",
-    "translation": "Tyrion: 你昨天的证词对辩方来说还挺方便的。[p/]差点把整个案件都推翻了。",
-    "stage": 1,
+    "translation": "Tyrion: ……你昨天的证词对辩方来说还挺有利的。[p/]差点把整个案件都推翻了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5331\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5332",
     "original": "Tyrion: And Laefe didn't seem to understand what was going on either.",
     "translation": "Tyrion: 而且拉菲看起来也不明白到底发生了什么。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5332\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5333",
     "original": "Tyrion: With the way she gave her testimony yesterday,[p/] it was almost like she was covering for you.",
     "translation": "Tyrion: 她昨天作证的那个样子，[p/]看起来就像是要掩护你。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5333\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5334",
     "original": "Miriam: I... [mind=\"Does he seriously not know?\"/]",
     "translation": "Miriam: 我……[mind=\"他真的不知道吗？\"/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5334\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5335",
     "original": "Miriam: ...",
     "translation": "Miriam: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5335\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5336",
     "original": "Miriam: ...Please.[p/] Promise me that you won't tell anyone about this.",
     "translation": "Miriam: ……拜托。[p/]答应我你不会告诉其他人。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5336\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5337",
     "original": "Tyrion: I won't tell anyone.[p/] What happened?",
     "translation": "Tyrion: 我不会告诉别人。[p/]发生了什么事？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5337\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5338",
     "original": "Miriam: About an hour after the murder,[p/] I was approached by Ruby Tymora.",
     "translation": "Miriam: 谋杀案发生大约一小时后，[p/]鲁比·泰摩拉来找我。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5338\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5339",
     "original": "Miriam: She gave me a list of statements to give in my testimony.",
     "translation": "Miriam: 她给了我一个证词清单。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5340",
     "original": "Miriam: ...The statements weren't true,[p/] but she assured me that my status would protect me from any scrutiny.",
-    "translation": "Miriam: ……那些句子不是真话，[p/]但她向我保证我的地位不会让我遭受任何审查。",
-    "stage": 1,
+    "translation": "Miriam: ……那些句子不是真话，[p/]但她向我保证，我的地位可以确保我不受任何审查。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5340\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5341",
     "original": "Tyrion: What?!",
     "translation": "Tyrion: 什么？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5341\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5342",
     "original": "Miriam: She had...[p/] information that I had tried to keep secret.[p/] And she threatened to make it public unless I cooperated with her.",
-    "translation": "Miriam: 她拥有……[p/]一些我一直试图隐藏的秘密。[p/]并且她威胁我，如果我不配合她就把秘密公开。",
-    "stage": 1,
+    "translation": "Miriam: 她知道……[p/]一些我一直试图隐藏的秘密。[p/]她威胁说如果我不配合，她就把秘密公开。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Talk_Study2-5342\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5345",
     "original": "Miriam: Of all the places,[p/] I never expected to see you here.",
-    "translation": "Miriam: 这里应该是我觉得最不可能见到你们的地方。",
-    "stage": 1,
+    "translation": "Miriam: 我还以为这里是最不可能见到你们的地方。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5345\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5346",
     "original": "Tyrion: I suppose you have a point.[p/] I'm only here because of a [i]series[/i] of strange circumstances.",
-    "translation": "Tyrion: 我想你说得有道理。[p/]我只是因为<u>一系列</u>奇怪的状况才站在这里。",
-    "stage": 1,
+    "translation": "Tyrion: 你说得有道理。[p/]我只是因为<u>一系列</u>突发事件才站在这里。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5346\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5348",
     "original": "Miriam: I definitely didn't expect to see you again, McCoy.",
     "translation": "Miriam: 我也绝对没想到还能再见到你，麦考伊。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5348\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5349",
     "original": "Celeste: Yeah.[p/] Well, don't get used to it.",
     "translation": "Celeste: 对啊。[p/]不过，我们之间也没那么熟。",
-    "stage": 2,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5349\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5350",
     "original": "Celeste: I still remember how you treated Tyrion back at the academy.",
     "translation": "Celeste: 我仍然记得你在学院的时候是怎么对待提利昂的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5350\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5351",
     "original": "Miriam: ...",
     "translation": "Miriam: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5351\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5352",
     "original": "Miriam: I still have that tea from the Eastern Kingdoms if you'd like some more.",
     "translation": "Miriam: 如果你还想要的话，我还有一些东方古国的茶。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5352\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5353",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5353\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5354",
     "original": "Celeste: Alright,[p/] I'm listening.",
     "translation": "Celeste: 那好，[p/]我听着呢。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5354\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5355",
     "original": "Is [i]that[/i] all it takes to win her over?",
     "translation": "所以<u>这样</u>就能搞定她吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5355\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5357",
     "original": "Miriam: I can't believe someone attacked Aria.[p/] I hope she's okay.",
     "translation": "Miriam: 不敢相信有人会袭击阿莉亚。[p/]我希望她还好。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5357\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5358",
     "original": "Tyrion: I never expected you to care that much about her.",
     "translation": "Tyrion: 我没想到你这么关心她。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5359",
     "original": "Miriam: Of course, I care about her!",
     "translation": "Miriam: 我当然关心她啊！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5359\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5360",
     "original": "Miriam: E-[p/][s/]Er...[p/] I-[p/][s/]I mean...",
     "translation": "Miriam: 呃、[p/][s/]那个……[p/]我、[p/][s/]我意思是……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5360\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5361",
     "original": "Miriam: How can I prove I'm better than her if she falls at the hand of some common brute?",
-    "translation": "Miriam: 如果她只是被某个暴民击倒了，我又怎么证明自己比她更优秀呢？",
-    "stage": 1,
+    "translation": "Miriam: 如果她被区区暴民击倒了，我又怎么证明自己比她更优秀呢？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5361\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5362",
     "original": "You can see some cracks in her facade.",
-    "translation": "你在她的表情上看到一些破绽。",
-    "stage": 1,
+    "translation": "你能看出她的伪装出现了破绽。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5362\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5364",
     "original": "Tyrion: What's your relationship like with Laefe?",
     "translation": "Tyrion: 你和拉菲的关系怎么样？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5364\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5365",
     "original": "Miriam: Nonexistent.[p/] We barely see each other.",
     "translation": "Miriam: 没什么关系。[p/]我们几乎见不到面。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5365\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5366",
     "original": "Celeste: Really?[p/][s/] But she's your sister!",
     "translation": "Celeste: 真的吗？[p/][s/]但她是你的姐姐啊！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5366\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5367",
     "original": "Miriam: Because of her marriage to von Sanctus,[p/] my dad has kept her confined to the manor.",
     "translation": "Miriam: 因为她和冯·桑克图斯家的婚约，[p/]我父亲一直把她关在庄园里。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5367\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5368",
     "original": "Miriam: And I spend almost all of my time at the academy. [mind=\"I don't like coming back here...\"/]",
     "translation": "Miriam: 而我又基本上把时间都花在学院里了。[mind=\"我不喜欢回来这里……\"/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5368\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5369",
     "original": "It appears that she avoids coming back to her home.",
-    "translation": "看起来她避免回到自己的家里。",
-    "stage": 1,
+    "translation": "看起来她在避免回到自己的家里。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5369\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5370",
     "original": "...Not that [i]you're[/i] in any position to judge her.",
     "translation": "……但现在<u>你</u>也没有资格评判她。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5370\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5372",
     "original": "Miriam: Beatrice...[p/] She's changed so much since I last saw her.",
-    "translation": "Miriam: 比亚特丽丝……[p/]比我最后一次见到她的时候变化太多了。",
-    "stage": 1,
+    "translation": "Miriam: 比亚特丽丝……[p/]比我最后一次见到她的时候变了太多。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5372\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5373",
     "original": "Tyrion: What was she like before?",
     "translation": "Tyrion: 她以前是什么样子？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5373\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5374",
     "original": "Miriam: She was far quicker to anger before.[p/] And she never cared about decorum.",
     "translation": "Miriam: 她以前易怒得多。[p/]而且从来不在乎礼节。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5374\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5375",
     "original": "Miriam: She looks so composed and calm now...[p/] It's like she's a totally different person.",
     "translation": "Miriam: 她现在看起来冷静而镇定……[p/]就好像已经是另一个人了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5375\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5377",
     "original": "Tyrion: What can you tell me about your father, Miriam?",
-    "translation": "Tyrion: 关于你父亲能告诉我们什么，米莉亚姆？",
-    "stage": 1,
+    "translation": "Tyrion: 你能告诉我们什么关于你父亲的事，米莉亚姆？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5377\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5378",
     "original": "Miriam: I'm sure you know a lot about him, already.[p/] This trial has made his character [i]very[/i] apparent.",
-    "translation": "Miriam: 我确信你已经知道他的很多事情了。[p/]这次庭审让他的性格特点显而易见。",
-    "stage": 1,
+    "translation": "Miriam: 你肯定已经知道很多他的事了。[p/]这次庭审让他的性格特点<u>显而易见</u>。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5378\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5379",
     "original": "Tyrion: And you don't want to refute any of the statements made against him?",
     "translation": "Tyrion: 那你就不想反驳任何针对他的言论吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5379\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5380",
     "original": "Miriam: ...",
     "translation": "Miriam: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5380\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5381",
     "original": "This seems like a sore spot for her.[p/] Maybe you should change the subject.",
     "translation": "这对她来说好像是个痛处。[p/]你可能得换个话题。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5381\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5383",
     "original": "Tyrion: You really have no idea where the draft of the will is?",
     "translation": "Tyrion: 你真的不知道遗嘱的草稿在哪里吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5383\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5384",
     "original": "Miriam: No.[p/] It [i]should[/i] have been here.",
     "translation": "Miriam: 不知道。[p/]它<u>应该</u>在这里的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5384\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5385",
     "original": "Considering the circumstances...[p/] The murderer probably took it.",
     "translation": "考虑目前状况……[p/]很可能是凶手拿走了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5385\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5387",
     "original": "Tyrion: You have quite a large house, Miriam.",
     "translation": "Tyrion: 你们家房子真大啊，米莉亚姆。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5387\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5388",
     "original": "Tyrion: Many people could only dream of living in this kind of luxury.",
-    "translation": "Tyrion: 很多人只敢梦想拥有这种奢侈的生活。",
-    "stage": 1,
+    "translation": "Tyrion: 很多人只能梦想拥有这种奢侈的生活。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5388\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5389",
     "original": "Miriam: Really?[p/] I find it to be very quiet and empty.",
-    "translation": "Miriam: 是吗？[p/]我倒觉得这里又冷清又空寂。",
-    "stage": 1,
+    "translation": "Miriam: 是吗？[p/]我倒觉得这里冷清又空寂。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5389\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5390",
     "original": "Miriam: I much prefer my dorm at the academy.",
     "translation": "Miriam: 我觉得学院的宿舍好得多。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5390\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5392",
     "original": "Tyrion: What can you tell me about this, Miriam?",
     "translation": "Tyrion: 你对这个怎么看，米莉亚姆？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5392\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5393",
     "original": "Miriam: I'm not sure what you're expecting me to say...",
     "translation": "Miriam: 我不知道你想让我说什么……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Present_Study2-5393\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5395",
     "original": "Miriam: Come on...[p/] Where is it?",
     "translation": "Miriam: 拜托……[p/]在哪里啊？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5395\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5396",
     "original": "As you enter William Frega's study,[p/] you spot a figure rummaging through the drawers in his desk.",
-    "translation": "你进入威廉的书房时，[p/]你看到一个人在书桌的抽屉里不停地翻找。",
-    "stage": 1,
+    "translation": "进入威廉的书房时，[p/]你看到一个人在书桌的抽屉里不停地翻找。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5396\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5397",
     "original": "Miriam: Why isn't it here...?[p/] Where else would he put it?",
-    "translation": "Miriam: 它为什么不在这里……？[p/]他还能放到哪里？",
-    "stage": 1,
+    "translation": "Miriam: 为什么不在这里……？[p/]他还能放到哪里？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5397\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5398",
     "original": "Celeste: ...Miriam?",
     "translation": "Celeste: ……米莉亚姆？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5398\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5399",
     "original": "Miriam: W-[p/][s/]What?!",
     "translation": "Miriam: 怎、[p/][s/]怎么啦？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5399\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5400",
     "original": "As soon as she notices you,[p/] Miriam quickly closes the drawers and walks towards you.",
-    "translation": "一看到是你们，[p/]米莉亚姆迅速地合上抽屉向你们走来。",
-    "stage": 1,
+    "translation": "一看到是你们，[p/]米莉亚姆迅速地合上抽屉，向你们走来。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5400\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5401",
     "original": "But you already saw what she was doing.[p/] She was definitely looking for something.",
     "translation": "但你已经看到她在做什么了。[p/]她肯定是在找什么东西。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5401\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5402",
     "original": "Tyrion: ...This is a crime scene.[p/] What are you doing here, Miriam?",
     "translation": "Tyrion: ……这是犯罪现场。[p/]你在这做什么，米莉亚姆？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5402\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5403",
     "original": "Miriam: A-[p/][s/]As if that's [i]any[/i] of your business.",
-    "translation": "Miriam: 好、[p/][s/]好像跟你们<u>有什么</u>关系一样。",
-    "stage": 1,
+    "translation": "Miriam: 好、[p/][s/]好像跟你们有<u>什么</u>关系一样。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5403\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5404",
     "original": "Tyrion: Considering that [i]I'm[/i] the prosecutor,[p/] it's very much my business.",
-    "translation": "Tyrion: 考虑到<u>我担任</u>检察官，[p/]这很关我的事。",
-    "stage": 1,
+    "translation": "Tyrion: 考虑到<u>我担任</u>检察官，[p/]这和我很有关系。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5404\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5405",
     "original": "You give a side glance to the knights stationed outside the room.",
-    "translation": "你余光瞥了一下房间外驻守的骑士。",
-    "stage": 1,
+    "translation": "你瞟了一眼房间外驻守的骑士。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5405\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5406",
     "original": "They [i]should[/i] have stopped her from entering.[p/] But perhaps she used her status to intimidate them into letting her through.",
-    "translation": "他们<u>应该</u>要阻止她进来。[p/]但或许她利用自己的地位恐吓他们过关了。",
-    "stage": 1,
+    "translation": "他们<u>应该</u>要阻止她进来的。[p/]但或许她利用了自己的地位。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5406\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5407",
     "original": "However,[p/] this [i]could[/i] be a blessing in disguise.",
     "translation": "不管怎么说，[p/]这<u>可能</u>算因祸得福。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5407\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5408",
     "original": "She was clearly looking for [i]something[/i] in this room.[p/] And you have a feeling you know what it is.",
-    "translation": "她明显在这间屋子里找<u>某个东西</u>。[p/]而你也感觉你知道她在找什么。",
-    "stage": 1,
+    "translation": "她明显在这间屋子里找<u>某个东西</u>。[p/]而你也感觉自己知道她在找什么。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5408\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5409",
     "original": "Tyrion: Anyways,[p/] it looks like we won't be able to find the will.",
-    "translation": "Tyrion: 总之，[p/]貌似我们都没办法找到遗嘱。",
-    "stage": 1,
+    "translation": "Tyrion: 总之，[p/]我们看来都没办法找到遗嘱。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5409\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5410",
     "original": "Tyrion: But the fact that it was taken [i]must[/i] imply something.",
     "translation": "Tyrion: 但它被拿走这个事实<u>必定</u>表明了什么。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5410\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5411",
     "original": "Tyrion: For now,[p/] we should follow our other leads.",
     "translation": "Tyrion: 现在，[p/]我们应该追踪其他的线索。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5411\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5412",
     "original": "Tyrion: There's also the question of [i]who[/i] committed the murder and how.",
-    "translation": "Tyrion: 现在还有一个问题，<u>谁</u>实施了这次谋杀，又怎么做的。",
-    "stage": 1,
+    "translation": "Tyrion: 还有一个问题，<u>谁</u>实施了这次谋杀，又是怎么做的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5412\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5413",
     "original": "Celeste: Don't we already know the \"how\"?",
-    "translation": "Celeste: 我们不是已经知道“怎么做的”了吗？",
-    "stage": 1,
+    "translation": "Celeste: 我们不是已经知道“怎么做”的部分了吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5413\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5414",
     "original": "Celeste: The murderer stole the Sword of Spell Eating and used it to break into the study.",
-    "translation": "Celeste: 凶手偷走了噬法之剑并且用它闯进书房。",
-    "stage": 1,
+    "translation": "Celeste: 凶手偷走了噬法之剑，用它闯进书房。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5414\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5415",
     "original": "Tyrion: That's true,[p/] but think about how they would have needed to move around the manor.",
-    "translation": "Tyrion: 那是对的，[p/]但得想想他们要怎么在庄园四处活动。",
-    "stage": 1,
+    "translation": "Tyrion: 确实，[p/]但得想想他们要怎么在庄园四处活动。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5415\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5416",
     "original": "Tyrion: The murder took place on the first floor, within William Frega's study.",
     "translation": "Tyrion: 凶杀案是在一楼威廉·弗雷加的书房里发生的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5416\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5417",
     "original": "Tyrion: But the gallery was on the second floor.",
     "translation": "Tyrion: 但画廊在二楼。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5417\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5418",
     "original": "Tyrion: They would have needed to go upstairs,[p/] steal the sword from the gallery,[p/] and then use it to nullify the lock on the study.",
     "translation": "Tyrion: 他们需要先上楼，[p/]在画廊偷出那把剑，[p/]然后用它解除书房的锁。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5418\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5419",
     "original": "Tyrion: Not only that,[p/] they would have needed to go back upstairs and plant the sword in Beatrice's room.",
     "translation": "Tyrion: 不只这样，[p/]他们还得重新上楼，把剑放在比亚特丽丝的房间里。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5419\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5420",
     "original": "Celeste: About that...[p/] If someone conspired with Beatrice to do this,[p/] why would they plant the sword in her room?",
-    "translation": "Celeste: 关于这一点……[p/]如果有人和比亚特丽丝合谋此事，[p/]他们为什么要把剑放到她房间里？",
-    "stage": 1,
+    "translation": "Celeste: 关于这一点……[p/]如果有人和比亚特丽丝合谋此事，[p/]为什么要把剑放到她房间里？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5420\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5421",
     "original": "Tyrion: That's a good point...",
     "translation": "Tyrion: 这是个好问题……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5421\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5422",
     "original": "Tyrion: Perhaps they had a falling out.[p/] Her partner might've tried to betray her by pinning the blame on her.",
     "translation": "Tyrion: 或许他们有分歧。[p/]她的同伙可能背叛了她，试图把责任推到她身上。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5422\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5423",
     "original": "Celeste: But if that were true,[p/] why wouldn't she just sell them out and make a deal with Steelwind?",
-    "translation": "Celeste: 但如果是这样，[p/]她干嘛不干脆利用这一点，和斯蒂尔文德做司法交易？",
-    "stage": 1,
+    "translation": "Celeste: 但如果是这样，[p/]她干嘛不干脆利用这一点，和斯蒂尔文德做交易？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5423\",\n  \"keywords\": []\n}"
   },
   {
@@ -35289,672 +35289,672 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5426",
     "original": "Miriam: It was a law passed by the Crown centuries ago.",
-    "translation": "Miriam: 那是几个世纪前的王国制定的法律。",
-    "stage": 1,
+    "translation": "Miriam: 那是几个世纪前的国王制定的法律。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5426\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5427",
     "original": "Miriam: According to that law,[p/] if someone is involved in another person's death,[p/] even accidentally,[p/] they will not be allowed to inherit the deceased's property.",
-    "translation": "Miriam: 根据法律，[p/]如果某人对另一个人的死亡负有责任，[p/]即使出于偶然，[p/]他将不被允许继承死者的遗产。",
-    "stage": 1,
+    "translation": "Miriam: 根据法律，[p/]如果某人对另一个人的死亡负有责任，[p/]即使出于偶然，[p/]也将被禁止继承死者的遗产。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5427\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5428",
     "original": "Tyrion: So even [i]if[/i] Beatrice wasn't directly responsible,[p/] she'd lose her cut of the inheritance if she took a plea deal.",
-    "translation": "Tyrion: 所以即使<u>假定</u>比亚特丽丝没有直接责任，[p/]她也会因司法交易失去自己那部分继承份额。",
-    "stage": 1,
+    "translation": "Tyrion: 所以即使<u>假定</u>比亚特丽丝没有直接责任，[p/]她也会因此失去自己那部分继承份额。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5428\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5429",
     "original": "...More importantly,[p/] it doesn't sound like [i]Miriam[/i] completely believes in Beatrice's innocence either.",
-    "translation": "……更重要的是，[p/]看起来<u>米莉亚姆</u>并不完全相信比亚特丽丝的清白。",
-    "stage": 1,
+    "translation": "……更重要的是，[p/]<u>米莉亚姆</u>也并不完全相信比亚特丽丝的清白。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5429\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5430",
     "original": "If [i]that's[/i] true,[p/] what else can she tell you?",
     "translation": "如果<u>确实</u>是这样，[p/]她还能告诉你什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5430\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5431",
     "original": "Tyrion: No...",
     "translation": "Tyrion: 不……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5431\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5432",
     "original": "Tyrion: No![p/][s/] She would never do that!",
     "translation": "Tyrion: 不！[p/][s/]她绝不会那么做！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5433",
     "original": "Miriam: I-[p/][s/]I'm telling the truth!",
     "translation": "Miriam: 我、[p/][s/]我说的是真的呀！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5433\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5434",
     "original": "Miriam: P-[p/][s/]Please![p/][s/] You can't tell Tymora that I told you![p/][s/] She'll ruin me!",
-    "translation": "Miriam: 拜、[p/][s/]拜托！[p/][s/]你不能跟泰摩拉提起我告诉你了！[p/][s/]她会毁了我的！",
-    "stage": 1,
+    "translation": "Miriam: 拜、[p/][s/]拜托！[p/][s/]你不能跟泰摩拉说是我告诉你的！[p/][s/]她会毁了我的！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5434\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5435",
     "original": "The Eye shows that her fear is genuine...[p/] She's not lying.",
-    "translation": "荷鲁斯之眼证明她的恐惧是确实的……[p/]她没有说谎。",
-    "stage": 1,
+    "translation": "荷鲁斯之眼证明她的恐惧是真实的……[p/]她没有说谎。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5436",
     "original": "Orym: I’ve seen that woman do all kinds of shady shit in the cases I’ve worked.",
     "translation": "Orym: 在我负责的案子里，[p/]我见识过那女人做过的那些肮脏事。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5437",
     "original": "Orym: Forgery,[p/] Bribery,[p/] Blackmail.[p/] You name it.",
     "translation": "Orym: 伪造、[p/]贿赂、[p/]勒索。[p/]只要是你想得到的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5438",
     "original": "Orym: I’ll bet you’re just the same.[p/] A successor for the devil of defense attorneys.",
     "translation": "Orym: 我猜你也和她一样，[p/]虎母无犬子。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5439",
     "original": "The rumors...[p/][s/] they can't be true!",
-    "translation": "那些流言蜚语……[p/][s/]不应该是真的啊！",
-    "stage": 1,
+    "translation": "那些传闻……[p/][s/]不应该是真的啊！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5440",
     "original": "You refuse to believe it!",
-    "translation": "你拒绝相信这些东西！",
-    "stage": 1,
+    "translation": "你拒绝相信这些！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5441",
     "original": "Celeste: Hey...[p/] Tyrion?[p/] Are you okay?",
     "translation": "Celeste: 嘿……[p/]提利昂？[p/]你还好吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5442",
     "original": "...",
     "translation": "……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5443",
     "original": "...Now is not the time to doubt yourself.[p/] There's too much at stake right now.[p/] And you have a job to do.",
-    "translation": "……现在不是自我怀疑的时候。[p/]现在牵扯进来的利害太多了。[p/]而你还有该做的事情。",
-    "stage": 1,
+    "translation": "……现在不是自我怀疑的时候。[p/]风险太大了，[p/]而你还有该做的事情。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5444",
     "original": "Tyrion: ...We should check on Commander White.[p/] He might have found something.",
-    "translation": "Tyrion: 我们该去看看怀特指挥官了。[p/]他可能发现什么了。",
-    "stage": 1,
+    "translation": "Tyrion: ……我们该去看看怀特指挥官。[p/]他可能发现了什么。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5445",
     "original": "Celeste: Um...[p/] Okay.",
-    "translation": "Celeste: 唔……[p/]那好吧？",
-    "stage": 1,
+    "translation": "Celeste: 唔……[p/]好的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5446",
     "original": "Celeste: Just don't push yourself, okay?",
-    "translation": "Celeste: 只是不要勉强自己，好吗？",
-    "stage": 1,
+    "translation": "Celeste: 但不要勉强自己，好吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5447",
     "original": "Tyrion: Yeah...",
     "translation": "Tyrion: 嗯……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5448",
     "original": "...You'll have plenty of time to think about this later.",
     "translation": "……你之后还有很多时间来仔细思考这件事。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Check_Events_Study2-5448\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5449",
     "original": "The night before.",
     "translation": "前一天晚上。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5450",
     "original": "Tyrion: Ugh...[p/] I feel so out of place here.",
-    "translation": "Tyrion: 呃啊……[p/]我感觉自己完全不该在这里。",
-    "stage": 1,
+    "translation": "Tyrion: 呃啊……[p/]我感觉格格不入。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5451",
     "original": "Despite your [i]clear[/i] hatred for the nobility,[p/] you've found yourself at a party filled with aristocrats.",
-    "translation": "尽管你对贵族有着<u>显而易见</u>的仇恨，但现在你身处一个充斥者贵族的派对之上。",
-    "stage": 1,
+    "translation": "尽管对贵族有着<u>显而易见</u>的仇恨，但现在你却身处一个满是贵族的派对里。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5452",
     "original": "You hardly recognize anyone.[p/] But many of the people here clearly recognize [i]you[/i].",
-    "translation": "你几乎谁也不认得。[p/]但很明显，在场的许多人都认识<u>你</u>。",
-    "stage": 1,
+    "translation": "你几乎谁也不认得。[p/]但在场的许多人明显认识<u>你</u>。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5453",
     "original": "You're used to receiving dirty looks from the upper class.[p/] But you can literally [i]feel[/i] everyone's disdain for you.",
-    "translation": "你早就习惯收到那些“上流人士”的鄙夷目光。[p/]但你现在确实可以<u>感受到</u>每个人对你的蔑视。",
-    "stage": 1,
+    "translation": "你早就习惯了来自“上流人士”的鄙夷目光。[p/]但你现在几乎可以<u>感受到</u>每个人对你的蔑视。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5454",
     "original": "CDress: Why are you in the corner by yourself?",
     "translation": "CDress: 你为什么一个人缩在角落里头？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5455",
     "original": "Tyrion: I can't believe I let you talk me into coming here...",
-    "translation": "Tyrion: 我不敢相信居然能被你说服来到这里……",
-    "stage": 1,
+    "translation": "Tyrion: 我不敢相信自己会听你的话来这里……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5455\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5456",
     "original": "Tyrion: I-",
     "translation": "Tyrion: 我——",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5456\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5457",
     "original": "For reasons unknown,[p/] you lose your train of thought.",
     "translation": "不知为何，[p/]你大脑一片空白。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5457\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5458",
     "original": "CDress: I've been wanting to wear this dress for a while now.[p/] What do you think?",
     "translation": "CDress: 我之前就一直想穿这身裙子来着。[p/]你觉得怎么样？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5458\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5459",
     "original": "Tyrion: I-[p/][s/]I...[p/] Um...",
     "translation": "Tyrion: 我、[p/][s/]我……[p/]呃……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5460",
     "original": "CDress: What's wrong?",
     "translation": "CDress: 怎么啦？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5460\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5461",
     "original": "You suddenly feel extremely flustered.[p/] It's difficult to make eye contact with her.",
     "translation": "你突然觉得十分无所适从，[p/]没办法直视她的眼睛。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5461\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5462",
     "original": "CDress: Oh, I see...",
     "translation": "CDress: 噢，我懂了……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5462\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5463",
     "original": "CDress: Are you [i]enchanted[/i] by my beauty?",
     "translation": "CDress: 你是见了我的美貌，被迷得<u>神魂颠倒</u>了吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5463\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5464",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5465",
     "original": "CDress: ...",
     "translation": "CDress: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5465\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5466",
     "original": "CDress: C-[p/][s/]Come on...[p/] Say something...",
     "translation": "CDress: 说、[p/][s/]说话呀……[p/]你倒是说点什么呀……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5466\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5467",
     "original": "Ever since that night in Aurinax,[p/] you've felt like something has been off between you two...",
-    "translation": "自欧奥耐克斯的那晚之后，[p/]你们之间的氛围就有些不同寻常……",
-    "stage": 1,
+    "translation": "自欧奥耐克斯那晚之后，[p/]你们之间的氛围就有些不同寻常……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5468",
     "original": "Ruby: ...",
     "translation": "Ruby: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5468\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5469",
     "original": "Ruby: Am I interrupting something?",
     "translation": "Ruby: 是我坏了你们的兴致吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart-5469\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5470",
     "original": "Tyrion: M-[p/][s/]Ms. Tymora?",
     "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5470\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5471",
     "original": "Ruby: I wanted to check in on you two before we went to meet with Lord Frega.",
-    "translation": "Ruby: 我想在见弗雷加勋爵之前先看看你们两个怎么样。",
-    "stage": 1,
+    "translation": "Ruby: 见弗雷加勋爵之前，我想先看看你们两个怎么样。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5471\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5472",
     "original": "You spot a woman silently following behind her.",
     "translation": "你看见了一位安静地跟在她身后的女士。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5472\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5473",
     "original": "Is she the client that Ms. Tymora is representing?",
     "translation": "她就是泰摩拉女士的委托人吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5473\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5474",
     "original": "You're pretty sure this is your first time meeting her.[p/] But she still looks familiar for some reason.",
-    "translation": "你很确定这是你第一次见到她。[p/]但她不知为何看起来十分眼熟。",
-    "stage": 1,
+    "translation": "你很确定这是第一次见到她。[p/]但不知为何，她看起来十分眼熟。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5474\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5475",
     "original": "Tyrion: H-[p/][s/]Hi, I'm Tyrion Cuthbert.[p/] I'm Ms. Tymora's...[p/] ward.",
     "translation": "Tyrion: 你、[p/][s/]你好，我是提利昂·卡斯伯特。[p/]我是泰摩拉女士的……[p/]学徒。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5476",
     "original": "You extend out your hand to shake hers.",
     "translation": "你伸出手想和她握手。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5476\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5477",
     "original": "She has an aristocratic air to her.[p/] So you hope you're not being too informal.",
     "translation": "她身上有一种贵族气质。[p/]所以你希望自己没有表现得太随便。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5477\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5478",
     "original": "Instead of taking your hand,[p/] she claps her hands together and takes a deep breath.",
     "translation": "她拍了一下手，深吸一口气。[p/]但是没有和你握手。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5478\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5479",
     "original": "Tyrion: W-[p/][s/]What...?",
-    "translation": "Tyrion: ……哈、[p/][s/]哈啊？",
-    "stage": 1,
+    "translation": "Tyrion: 什、[p/][s/]什么……？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5479\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5480",
     "original": "Beatrice: Ah![p/][s/] S-[p/][s/]Sorry.[p/] I didn't mean to do that.",
     "translation": "Beatrice: 啊！[p/][s/]抱、[p/][s/]抱歉，[p/]我不是故意的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5480\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5481",
     "original": "Beatrice: It's a bit of a habit of mine.",
     "translation": "Beatrice: 这是我的一个习惯。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5481\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5482",
     "original": "Tyrion: O-[p/]Oh...",
-    "translation": "Tyrion: 噢、[p/]噢。",
-    "stage": 1,
+    "translation": "Tyrion: 噢、[p/]噢……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5482\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5483",
     "original": "Nevertheless,[p/] she finally shakes your hand.",
     "translation": "尽管如此，[p/]她最后还是和你握了手。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5483\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5484",
     "original": "Beatrice: I've heard much about you, Mr. Cuthbert.[p/] My name is Beatrice.",
     "translation": "Beatrice: 久闻大名，卡斯伯特先生。[p/]我的名字是比亚特丽丝。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5484\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5485",
     "original": "You're not sure about the details.[p/] But your mentor appears to be brokering a deal between Beatrice and William Frega.",
     "translation": "你不太清楚具体细节。[p/]但你的导师貌似是比亚特丽丝和威廉·弗雷加的中介。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5485\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5486",
     "original": "William Frega is the ruling Lord of House Frega.[p/] So you're a little curious about what kind of deal [i]he'd[/i] be involved in.",
-    "translation": "威廉·弗雷加是弗雷加家的首脑。[p/]因此你蛮好奇像他会参与什么样的协议。",
-    "stage": 1,
+    "translation": "威廉·弗雷加是弗雷加家的首脑。[p/]因此你蛮好奇他会参与什么样的协议。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5486\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5487",
     "original": "...But you've learned not to pry into your mentor's business.",
-    "translation": "……但你知道最好别打探她工作上的事。",
-    "stage": 1,
+    "translation": "……但你知道，最好别打探她工作上的事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5487\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5488",
     "original": "Ruby: Anyways,[p/] we'll probably be gone for a while.",
     "translation": "Ruby: 总之，[p/]我们会离开一段时间。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5488\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5489",
     "original": "Ruby: Can I trust you two not to cause trouble?",
-    "translation": "Ruby: 我能相信你们两个不会闯祸吗？",
-    "stage": 1,
+    "translation": "Ruby: 你们两个能保证不会闯祸吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5489\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5490",
     "original": "Ruby: You're in a manor filled with the highest members of the nobility.",
-    "translation": "Ruby: 你们现在在一个充满了身份显赫的贵族成员庄园里。",
-    "stage": 1,
+    "translation": "Ruby: 你们现在身处的庄园里满是身份显赫的贵族成员。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5490\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5491",
     "original": "Ruby: You might meet some familiar yet unfriendly faces.",
     "translation": "Ruby: 可能会遇到一些熟悉但充满敌意的面孔。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5491\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5492",
     "original": "Tyrion: We'll keep a low profile, Ms. Tymora.",
     "translation": "Tyrion: 我们会保持低调的，泰摩拉女士。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5492\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5493",
     "original": "Ruby: Please do.",
     "translation": "Ruby: 请务必如此。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5493\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5494",
     "original": "Tyrion: So...[p/] Why [i]were[/i] you so insistent on accompanying Ms. Tymora to the Lords' Ball?",
     "translation": "Tyrion: 所以……[p/]为什么你如此坚持要陪着泰摩拉女士参加勋爵的舞会？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5494\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5495",
     "original": "CDress: Ah...[p/] That's...",
     "translation": "CDress: 啊……[p/]是因为……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_2-5495\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5496",
     "original": "Tyrion: ...You know you can tell me anything, right?",
     "translation": "Tyrion: ……对我你可以无话不谈的，知道吧？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5496\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5497",
     "original": "CDress: ...",
     "translation": "CDress: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5497\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5498",
     "original": "CDress: I guess everything that happened in Aurinax made me think about things...",
-    "translation": "CDress: 我想，在欧奥耐克斯发生的一切让我思考了很多事……",
-    "stage": 1,
+    "translation": "CDress: 在欧奥耐克斯发生的一切让我思考了很多事……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5498\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5499",
     "original": "CDress: I don't really know [i]anything[/i] about my past or where I came from.",
-    "translation": "CDress: 我对我的过去和我从哪来一无所知。",
-    "stage": 1,
+    "translation": "CDress: 我对我的过去和身世<u>一无所知</u>。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5499\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5500",
     "original": "CDress: I didn't want to think about it because of my dad and mom,[p/] but...",
-    "translation": "CDress: 因为我的父母的缘故所以我不想去想这些事，[p/]但……",
-    "stage": 1,
+    "translation": "CDress: 因为养父母的缘故，我不想去考虑这些事，[p/]但……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5500\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5501",
     "original": "Tyrion: You wanted to find out who your biological parents are.",
     "translation": "Tyrion: 你想找出你的亲生父母是谁。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5501\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5502",
     "original": "CDress: I do...[p/] But I don't know now.",
     "translation": "CDress: 是这样的……[p/]但我现在不是很清楚。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5502\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5503",
     "original": "CDress: Being here is starting to make me feel weird.",
-    "translation": "CDress: 待在这开始让我觉得怪怪的。",
-    "stage": 1,
+    "translation": "CDress: 待在这儿开始让我觉得怪怪的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5503\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5504",
     "original": "CDress: I still have my mom.[p/] And looking for my birth parents feels...[p/] wrong somehow.",
-    "translation": "CDress: 我还有母亲在。[p/]而寻找亲生父母的感觉……[p/]不知为何总觉得不太对。",
-    "stage": 1,
+    "translation": "CDress: 我还有母亲在。[p/]而寻找亲生父母……[p/]总觉得不太对。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5504\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5505",
     "original": "Tyrion: ...I don't think that's true.",
     "translation": "Tyrion: ……我倒不这么认为。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5505\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5506",
     "original": "CDress: Really?",
     "translation": "CDress: 真的吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5506\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5507",
     "original": "Tyrion: Ms. Tymora adopted me when I was a child.[p/] And she gave me a purpose in life.",
-    "translation": "Tyrion: 泰摩拉女士在我还是孩童时收养了我。[p/]而且她给了我人生目标。",
-    "stage": 1,
+    "translation": "Tyrion: 泰摩拉女士在我还是孩童时收养了我。[p/]她还给了我人生目标。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5507\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5508",
     "original": "Tyrion: But I still keep my childhood memories of my mother close to me.",
     "translation": "Tyrion: 但我仍把童年时对母亲的记忆珍藏在心底。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5508\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5509",
     "original": "Tyrion: Ms. Tymora and my mother are both important to me.",
     "translation": "Tyrion: 泰摩拉女士和我母亲都是我最重要的人。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5509\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5510",
     "original": "Tyrion: I don't think it's disrespectful to find out more about yourself.[p/] And I'm sure your mother will understand.",
     "translation": "Tyrion: 所以我不认为寻找自己的身世是件多么失礼的事。[p/]而且我相信你母亲也会理解的。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5510\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5511",
     "original": "CDress: You think so?",
     "translation": "CDress: 真的吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5511\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5512",
     "original": "Tyrion: Of course.",
     "translation": "Tyrion: 当然。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5512\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5513",
     "original": "Tyrion: ...And I'm [i]also[/i] sure of another thing.",
-    "translation": "Tyrion: ……而且还有另一件事我很确定。",
-    "stage": 1,
+    "translation": "Tyrion: ……而且<u>还有</u>另一件事我很确定。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5513\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5514",
     "original": "Tyrion: If [i]I'm[/i] with you,[p/] I doubt any of the nobles here will want to speak with you.",
-    "translation": "Tyrion: 只要<u>我</u>在你身边，肯定不会有贵族来和你搭话的。",
-    "stage": 1,
+    "translation": "Tyrion: 只要<u>我</u>在你身边，[p/]肯定不会有贵族来和你搭话的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5514\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5515",
     "original": "CDress: Yeah...[p/] I didn't want to be rude,[p/] but...",
-    "translation": "CDress: 是啊……[p/]我不想表现的很无礼，[p/]但……",
-    "stage": 1,
+    "translation": "CDress: 是啊……[p/]我不想表现得很无礼，[p/]但……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_3-5515\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5516",
     "original": "Tyrion: Don't worry.[p/] I can find something to fill the time.",
     "translation": "Tyrion: 别担心。[p/]我可以找点事来打发时间。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5516\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5517",
     "original": "CDress: ...You're just going to play chess alone, aren't you?",
     "translation": "CDress: ……你不会又要自己一个人下棋了吧？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5517\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5518",
     "original": "Tyrion: ...Maybe?",
     "translation": "Tyrion: ……不好说哦？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5518\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5519",
     "original": "CDress: You really need to learn to talk to other people.",
     "translation": "CDress: 你真得学着和别人交流了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5519\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5520",
     "original": "CDress: Make some new friends or something.",
-    "translation": "CDress: 交点朋友或者什么别的。",
-    "stage": 1,
+    "translation": "CDress: 交点朋友之类的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5520\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5521",
     "original": "Tyrion: I don't need more friends.[p/] I usually want to spend most of my time with you, anyways.",
-    "translation": "Tyrion: 我不需要朋友。[p/]不管怎样，我只想把大部分时间都花在你身上。",
+    "translation": "Tyrion: 我不需要朋友。[p/]反正我大部分时候也只想和你一起。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5521\",\n  \"keywords\": []\n}"
   },
@@ -35962,454 +35962,454 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5522",
     "original": "CDress: ...!",
     "translation": "CDress: ……！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5522\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5523",
     "original": "CDress: A-[p/][s/]Anyways,[p/] I'm going to try to talk to some people.",
-    "translation": "CDress: 总-[p/][s/]总之，[p/]我要去试试和别人聊聊。",
-    "stage": 1,
+    "translation": "CDress: 总、[p/][s/]总之，[p/]我要去和别人聊聊。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5523\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5524",
     "original": "Tyrion: Yeah.[p/] I'll see you later.",
-    "translation": "Tyrion: 好吧。[p/]待会见。",
-    "stage": 1,
+    "translation": "Tyrion: 好吧。[p/]待会儿见。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5524\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5525",
     "original": "Celeste leaves to mingle with some of the other partygoers.",
     "translation": "塞莱斯特去和其他宾客攀谈了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5525\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5526",
     "original": "You find yourself with very little to do.[p/] And you doubt anyone would want to engage in small talk from the likes of you.",
-    "translation": "你发现自己没什么事做。[p/]而且你觉得不会有人愿意和你这样的人闲聊。",
-    "stage": 1,
+    "translation": "你自己则没什么事做。[p/]你也不觉得会有人愿意和你闲聊。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5526\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5527",
     "original": "...Your hand instinctively goes to your satchel.[p/] It contains your foldable chessboard.",
     "translation": "……你的手本能地伸向挎包。[p/]里面装着你的折叠棋盘。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5527\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5528",
     "original": "Tyrion: Well...[p/] It's not as if I have anything better to do.",
     "translation": "Tyrion: 嗯……[p/]反正也没事做。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5528\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5529",
     "original": "Tyrion: I should try to find an empty table to play on.",
     "translation": "Tyrion: 得找个空余的桌子下棋。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_4-5529\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5531",
     "original": "Tyrion: It's as if every room in this house needs a chandelier...",
-    "translation": "Tyrion: 貌似这个庄园里的每个房间都需要一个吊灯……",
-    "stage": 1,
+    "translation": "Tyrion: 这个庄园里的每个房间好像都需要一个吊灯……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5531\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5532",
     "original": "Tyrion: What a waste of the kingdom's gold...",
     "translation": "Tyrion: 真是浪费……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5532\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5534",
     "original": "Tyrion: It's a painting of some adventurers in a tavern.",
-    "translation": "Tyrion: 一些在酒馆里的冒险者的画像。",
-    "stage": 1,
+    "translation": "Tyrion: 酒馆里冒险者的画像。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5534\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5535",
     "original": "Tyrion: Supposedly,[p/] one of Frega's ancestors was part of a band of adventurers.",
     "translation": "Tyrion: 据说，[p/]其中一位冒险者是弗雷加家族的祖先。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5536",
     "original": "But you can't help but feel that there [i]should[/i] be someone in the top left corner.",
-    "translation": "但你不禁觉得左上角<u>应该</u>有人。",
-    "stage": 1,
+    "translation": "但你总觉得左上角<u>应该</u>有人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5537",
     "original": "Tyrion: It's a painting of some adventurers in a tavern.",
-    "translation": "Tyrion: 一些在酒馆里的冒险者的画像。",
-    "stage": 1,
+    "translation": "Tyrion: 酒馆里冒险者的画像。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5537\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5538",
     "original": "Lloyd: Ah.[p/] This must be Beatrice Frega the First.",
-    "translation": "Lloyd: 啊。[p/] 这一定是比亚特丽丝·弗雷加一世。",
-    "stage": 1,
+    "translation": "Lloyd: 啊。[p/]这一定是比亚特丽丝·弗雷加一世。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5539",
     "original": "Tyrion: The First?",
     "translation": "Tyrion: 一世？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5539\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5540",
     "original": "Lloyd: According to legend,[p/] she was one of the descendants of the seven heroes of Wyverngarde.",
-    "translation": "Lloyd: 根据传说，[p/] 她是维文加德七英雄中一位的后代。",
-    "stage": 1,
+    "translation": "Lloyd: 根据传说，[p/]她是维文加德七英雄中一位的后代。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5540\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5541",
     "original": "Lloyd: She joined a band of adventurers that were traveling across the nation.",
-    "translation": "Lloyd: 她加入了一个冒险队伍在全国各处冒险。",
-    "stage": 1,
+    "translation": "Lloyd: 她加入了一个周游全国的冒险队。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5542",
     "original": "It's hard to imagine the Fregas coming from such humble beginnings.",
-    "translation": "很难想象当初弗雷加的出身如此卑微平凡。",
-    "stage": 1,
+    "translation": "很难想象弗雷加一族出身如此平凡。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5543",
     "original": "Tyrion: Wait...[p/] What?",
     "translation": "Tyrion: 等下……[p/]什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5543\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5544",
     "original": "Lloyd: What is it now?",
     "translation": "Lloyd: 怎么了？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5544\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5545",
     "original": "Tyrion: That muscular man in the corner...[p/][s/] He just vanished!",
     "translation": "Tyrion: 墙角的肌肉男……[p/][s/]他消失了！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5546",
     "original": "Lloyd: What are you on about?[p/] There was never a man there...",
     "translation": "Lloyd: 你在说什么？[p/]那从来没有什么男人……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5546\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5547",
     "original": "Celeste: Sorry, Tyrion.[p/] But he's right.",
     "translation": "Celeste: 抱歉，提利昂。[p/]但他说得对。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5547\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5548",
     "original": "Tyrion: No![p/][s/] I'm [i]sure[/i] he was there!",
     "translation": "Tyrion: 怎么可能！[p/][s/]我很<u>确定</u>他刚刚就在那！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5549",
     "original": "Celeste: Are you feeling okay?",
     "translation": "Celeste: 你没事吧？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5549\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5550",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5550\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5551",
     "original": "Perhaps your lack of sleep is making you see things that aren't there...",
     "translation": "或许是睡眠不足让你看到了一些不存在的东西……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5551\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5553",
     "original": "Tyrion: It's a shelf filled with books.",
     "translation": "Tyrion: 摆满书的架子。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5554",
     "original": "Celeste: [i]Fake[/i] books.[p/] They're completely blank.",
-    "translation": "Celeste: <u>假书</u>。[p/]都是空的。",
-    "stage": 1,
+    "translation": "Celeste: <u>假书</u>。[p/]都是空白的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5556",
     "original": "Tyrion: It's a door that leads to the Coat Room.",
     "translation": "Tyrion: 通往衣帽间的门。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5558",
     "original": "Tyrion: It's a chair made from mahogany.",
     "translation": "Tyrion: 一张由桃花心木制成的椅子。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5559",
     "original": "Tyrion: Every part of this house just exudes wealth...",
     "translation": "Tyrion: 这房子的每一处都散发着财富的气息……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5559\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5560",
     "original": "Wealth that's been siphoned out of the commonfolk.",
     "translation": "从平民百姓身上榨取的财富。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5560\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5562",
     "original": "Tyrion: There's a window with a view of the outside.",
     "translation": "Tyrion: 可以看到外面的窗户。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Examine_WaitingRoom1-5562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5565",
     "original": "Lloyd: Honestly,[p/] it's just one mess after another with you.",
     "translation": "Lloyd: 说实话，[p/]遇上你之后就是一个接着一个的麻烦。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5565\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5566",
     "original": "Tyrion: \"Mess\"?[p/] Wouldn't [i]you[/i] have much to gain from William Frega's death?",
-    "translation": "Tyrion: “麻烦”？[p/]威廉·弗雷加的死不是会让你受益良多吗？",
-    "stage": 1,
+    "translation": "Tyrion: “麻烦”？[p/]威廉·弗雷加的死不是会让<u>你</u>受益良多吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5567",
     "original": "Lloyd: On a surface level,[p/] you might be right.[p/] But it's far more complicated than that.",
     "translation": "Lloyd: 从表面上来说，[p/]你可能是对的。[p/]但实际要比这复杂的多。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5568",
     "original": "Lloyd: House Frega controls the banking houses.[p/] They are the main pillar of support for Wyverngarde's economy.",
     "translation": "Lloyd: 弗雷加家族控制银行机构。[p/]他们是维文加德经济的主要支柱。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5569",
     "original": "Lloyd: William's death could have unimaginable economic consequences,[p/] [i]regardless[/i] of who inherits his house.",
-    "translation": "Lloyd: 威廉的死会造成无法预想的经济后果，[p/]<u>无论</u>谁继承他的遗产。",
-    "stage": 1,
+    "translation": "Lloyd: <u>无论</u>谁继承他的遗产，[p/]威廉的死都会造成不可估量的经济影响。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5570",
     "original": "Lloyd: I wouldn't be foolish enough to do something like that.",
     "translation": "Lloyd: 我不会蠢到去做这种事。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5570\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5571",
     "original": "Tyrion: ...That remains to be seen.",
     "translation": "Tyrion: ……这还有待证明。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5571\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5572",
     "original": "Lloyd: Hmph...[p/] Think what you will.",
     "translation": "Lloyd: 哼……[p/]随你怎么想。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5572\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5573",
     "original": "Lloyd: There are others who would benefit from William Frega's death.",
-    "translation": "Lloyd: 还有人会因威廉·弗雷加的死而获利。",
-    "stage": 1,
+    "translation": "Lloyd: 还有其他人会因威廉·弗雷加的死而获利。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5573\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5575",
     "original": "Tyrion: You mentioned that other people would benefit from Frega's death.[p/] Who specifically?",
-    "translation": "Tyrion: 你有提到还有人会因弗雷加的死而获利。[p/]具体是谁？",
-    "stage": 1,
+    "translation": "Tyrion: 你说还有其他人会因弗雷加的死而获利。[p/]具体是谁？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5575\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5576",
     "original": "Lloyd: If I had to venture a guess,[p/] I would say Lucio Steelwind benefits the most.",
-    "translation": "Lloyd: 如果让我大胆猜测，[p/]卢西奥·斯蒂尔文德将会是受益最大的那个。",
-    "stage": 1,
+    "translation": "Lloyd: 如果让我大胆猜测，[p/]卢西奥·斯蒂尔文德会是受益最大的那个。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5577",
     "original": "Tyrion: Do you mean the prosecutor's father?[p/]",
     "translation": "Tyrion: 你是指检察官的父亲？[p/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5578",
     "original": "Tyrion: But you [i]just[/i] said that Lord Frega's death could have unimaginable consequences for the economy.",
-    "translation": "Tyrion: 但你刚刚才提到弗雷加勋爵的死会造成难以估算的经济后果。",
-    "stage": 1,
+    "translation": "Tyrion: 但你<u>刚刚</u>才提到，弗雷加勋爵的死会造成不可估量的经济后果。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5578\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5579",
     "original": "Lloyd: Ha![p/] Do you think that brute [i]cares[/i] about Wyverngarde's economy?",
-    "translation": "Lloyd: 哈！[p/]你真以为那个畜生<u>在乎</u>维文加德的经济吗？",
-    "stage": 1,
+    "translation": "Lloyd: 哈！[p/]你真以为那个野蛮人<u>在乎</u>维文加德的经济吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5579\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5580",
     "original": "Lloyd: No...[p/] All that man cares about is power.[p/] Pure and physical power.",
-    "translation": "Lloyd: 他完全不在乎……[p/]那个男人满脑子都是权力和力量。[p/]纯粹的力量。",
-    "stage": 1,
+    "translation": "Lloyd: 不……[p/]那个男人满脑子都是力量。[p/]纯粹的力量。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5580\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5581",
     "original": "Lloyd: House Steelwind and House Frega have been fighting for control of Wyverngarde for generations.",
     "translation": "Lloyd: 斯蒂尔文德家族与弗雷加家族世世代代都在争夺维文加德的控制权。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5581\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5582",
     "original": "Lloyd: And in this long-lasting era of peace,[p/] the Steelwinds' military have become far less valuable to the Crown.",
-    "translation": "Lloyd: 而且在这长久的和平时期里，[p/]斯蒂尔文德的军事力量对王室价值早已大不如前。",
-    "stage": 1,
+    "translation": "Lloyd: 在这长久的和平时期里，[p/]斯蒂尔文德的军事力量对王室价值早已大不如前。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5582\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5583",
     "original": "Lloyd: If it weren't for Lady Steelwind's engagement to the Crown Prince,[p/] they might not even be considered a Pillar family anymore.",
-    "translation": "Lloyd: 如果不是斯蒂尔文德女士与王储殿下的订婚，[p/]他们可能都不再被视为王国的支柱家族了。",
-    "stage": 1,
+    "translation": "Lloyd: 如果不是斯蒂尔文德女士与王储殿下订婚，[p/]他们可能都不再被视为王国的支柱家族了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5583\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5584",
     "original": "Lloyd: The death of William Frega is probably exactly what Lucio Steelwind has been waiting for.",
     "translation": "Lloyd: 威廉·弗雷加的死或许正是卢西奥·斯蒂尔文德多年等待的机会。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5584\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5585",
     "original": "Lloyd: And if our economy were to suffer,[p/] it would cause civil unrest.",
-    "translation": "Lloyd: 而且如果我们的经济遭受重创，[p/]一定会造成国内动荡。",
-    "stage": 1,
+    "translation": "Lloyd: 如果我们的经济遭受重创，[p/]一定会造成国内局势动荡。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5585\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5586",
     "original": "Lloyd: In a scenario like that,[p/] the Crown would [i]have[/i] to rely on Steelwind's forces to maintain order.",
-    "translation": "Lloyd: 如此事态发展下去，[p/]王室<u>必须</u>依靠斯蒂尔文德的军事力量来维持统治。",
-    "stage": 1,
+    "translation": "Lloyd: 事态这么发展下去的话，[p/]王室就<u>必须</u>依靠斯蒂尔文德的军事力量来维持统治。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5587",
     "original": "That [i]does[/i] make sense...[p/] But could Aria's father [i]really[/i] be involved with this?",
-    "translation": "确实有道理……[p/]但阿莉亚的父亲<u>真的</u>与此事有关吗？",
-    "stage": 1,
+    "translation": "<u>确实</u>有道理……[p/]但阿莉亚的父亲<u>真的</u>与此事有关吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5589",
     "original": "Tyrion: It's clear that you think Lucio Steelwind would have much to gain from this.[p/] But can you think of anyone else?",
-    "translation": "Tyrion: 显然卢西奥·斯蒂尔文德可能能从此获利良多。[p/]但你觉得还有其他获利对象吗？",
-    "stage": 1,
+    "translation": "Tyrion: 显然卢西奥·斯蒂尔文德可以获益。[p/]但你觉得还有其他人选吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5590",
     "original": "Lloyd: Well, there [i]is[/i] Harold Haroldson.",
-    "translation": "Lloyd: 有，那就是哈罗德·哈罗德森。",
-    "stage": 1,
+    "translation": "Lloyd: 哎，<u>还有</u>哈罗德·哈罗德森。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5590\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5591",
     "original": "Celeste: ...That [i]can't[/i] be his real name.",
-    "translation": "Celeste: ……那绝对<u>不是</u>他的真名。",
-    "stage": 1,
+    "translation": "Celeste: ……他<u>不可能</u>真叫这名字。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5591\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5592",
     "original": "Tyrion: But what would Mr. Haroldson possibly gain from Frega's death?",
     "translation": "Tyrion: 可哈罗德森先生能从弗雷加的死中得到什么呢？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5592\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5593",
     "original": "Lloyd: From what I've heard,[p/] William was planning to defund the Haroldson Hall of History.",
     "translation": "Lloyd: 据我所知，[p/]威廉正打算削减哈罗德森历史长廊的经费。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5594",
     "original": "Tyrion: Really...[p/] Why would he do that?",
-    "translation": "Tyrion: 的确……[p/]他为什么要这么做？",
-    "stage": 1,
+    "translation": "Tyrion: 真的吗……[p/]他为什么要这么做？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5595",
     "original": "Lloyd: I'm not sure of the specifics.[p/]",
     "translation": "Lloyd: 我也不是很清楚具体的细节。[p/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5596",
     "original": "Lloyd: But supposedly,[p/] Lord Haroldson has refused to...[p/] omit the less flattering parts of Wyverngarde's history from his exhibits.",
-    "translation": "Lloyd: 但据说，[p/]哈罗德森勋爵拒绝……[p/]减少展示维文加德历史中不那么光鲜的遗物。",
+    "translation": "Lloyd: 但据说，[p/]哈罗德森勋爵拒绝……[p/]撤下维文加德历史中不那么光鲜的遗物。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5596\",\n  \"keywords\": []\n}"
   },
@@ -36417,238 +36417,238 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5597",
     "original": "Lloyd: It's gotten blatant enough that he's drawn the ire of the king himself.",
     "translation": "Lloyd: 他的大胆行径已经引起了国王本人的不满。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5598",
     "original": "Lloyd: They actually got into a very heated argument during the Lords' Ball about it.",
     "translation": "Lloyd: 他们实际上在勋爵的舞会上就此问题吵得很凶。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5599",
     "original": "Lloyd: I heard that William declared he would be removing House Haroldson from his estate.",
-    "translation": "Lloyd: 我听说威廉宣布他要移除遗产中分给哈罗德森家族的部分。",
-    "stage": 1,
+    "translation": "Lloyd: 我听说威廉宣布要从资产里移除哈罗德森家族。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5600",
     "original": "You don't want to suspect Mr. Haroldson...[p/] But you need to examine every possibility.",
-    "translation": "你不想去怀疑哈罗德森先生……[p/]但你必须考虑任何可能性。",
-    "stage": 1,
+    "translation": "你不想去怀疑哈罗德森先生……[p/]但你必须考虑所有可能性。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5601",
     "original": "As the curator,[p/] he would have the easiest access to the Sword of Spell Eating.[p/] And he could have staged a robbery to cover his tracks.",
-    "translation": "作为馆长，[p/]他能轻松地获取噬法之剑。[p/]而且他也能自导自演一场展品劫案来掩盖自身行踪。",
-    "stage": 1,
+    "translation": "作为馆长，[p/]他能轻松地获取噬法之剑，[p/]也能自导自演一场展品劫案来掩盖自身行踪。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5602",
     "original": "At the very least,[p/] you should give Mr. Haroldson a chance to explain himself.",
     "translation": "至少，[p/]你应该给哈罗德森先生一次澄清自己的机会。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5604",
     "original": "Tyrion: What can you tell me about the defendant in this case?",
     "translation": "Tyrion: 关于本案的被告你有什么要说的吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5605",
     "original": "Lloyd: What?[p/] She's [i]your[/i] client.[p/] Surely, you would know her better than I.",
     "translation": "Lloyd: 啥？[p/]她是<u>你的</u>委托人。[p/]你肯定比我要了解的多。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5605\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5606",
     "original": "Tyrion: ...Humour me.",
     "translation": "Tyrion: ……麻烦配合一下。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5606\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5607",
     "original": "Lloyd: Well, I'm sure you're aware that she fled the Frega estate five years ago.",
-    "translation": "Lloyd: 好吧，她在五年前离开了弗雷加庄园这件事你肯定已经知道了。",
-    "stage": 1,
+    "translation": "Lloyd: 好吧，你肯定已经知道她在五年前离开了弗雷加庄园。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5607\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5608",
     "original": "Lloyd: In doing so,[p/] she dealt a blow to House Frega's reputation [i]and[/i] directly insulted the Crown Prince by breaking her engagement to him.",
-    "translation": "Lloyd: 她的不辞而别影响重大，[p/] 不仅让弗雷加家的声誉急转之下，<u>而且</u>还单方面直接解除了与王储殿下的婚约，这与侮辱王室无异。",
-    "stage": 1,
+    "translation": "Lloyd: 她的不辞而别影响重大，[p/]不仅让弗雷加家的声誉急转之下，<u>而且</u>还解除了与王储殿下的婚约，这与侮辱王室无异。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5609",
     "original": "Celeste: Wait...[p/][s/] [i]Beatrice[/i] was engaged to Aster?!",
     "translation": "Celeste: 等等……[p/][s/]<u>比亚特丽丝</u>曾与阿斯特有过婚约？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5609\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5610",
     "original": "Lloyd: Yes.[p/] It was quite the scandal at the time.",
     "translation": "Lloyd: 没错。[p/]这事在当时可是桩相当大的丑闻。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5610\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5611",
     "original": "Lloyd: And Lucio wasted no time in pushing his daughter into taking Beatrice's place.",
-    "translation": "Lloyd: 之后卢西奥毫不犹豫地把自己的女儿送到了比亚特丽丝的位置取而代之。",
-    "stage": 1,
+    "translation": "Lloyd: 之后卢西奥毫不犹豫地让自己的女儿取而代之。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5612",
     "original": "Celeste: Oh...[p/] Is [i]that[/i] why those three were so awkward last night?",
-    "translation": "Celeste: 哦……[p/]想必这就是他们三个当晚如此尴尬的原因吧？",
-    "stage": 1,
+    "translation": "Celeste: 哦……[p/]想必<u>这</u>就是他们三个当晚如此尴尬的原因吧？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5612\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5613",
     "original": "Lloyd: Honestly,[p/] this situation is just an absolute mess. [mind=\"And that woman's return will complicate things.\"/]",
     "translation": "Lloyd: 说实话，[p/]现在的状况简直就是一团糟。 [mind=\"而且那女人的归来只会把这一切搅得更复杂。\"/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5613\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5614",
     "original": "Beatrice's return \"complicates things\"?[p/] What did he mean by that?",
     "translation": "比亚特丽丝的归来“会把一切搅得更复杂”？[p/]那是什么意思？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5614\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5616",
     "original": "Tyrion: ...Do you find Beatrice's return to be inconvenient for you?",
     "translation": "Tyrion: ……你认为比亚特丽丝的归来让你很不便吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5616\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5617",
     "original": "Lloyd: ...What are you on about now?",
     "translation": "Lloyd: ……你现在又想说什么？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5617\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5618",
     "original": "Tyrion: Please.[p/] Don't insult my intelligence, von Sanctus.",
     "translation": "Tyrion: 拜托，[p/]请别侮辱我的智商，冯·桑克图斯。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5618\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5619",
     "original": "Lloyd: ...",
     "translation": "Lloyd: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5619\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5620",
     "original": "Lloyd: ...Fine.[p/] If you [i]must[/i] know,[p/] my son was arranged to marry William's daughter: Laefe.",
-    "translation": "Lloyd: ……行吧。[p/]如果你<u>一定</u>要知道的话，[p/]我的儿子要与威廉的女儿：拉菲结婚。",
-    "stage": 1,
+    "translation": "Lloyd: ……行吧。[p/]如果你<u>一定</u>要知道的话，[p/]我的儿子要与威廉的女儿拉菲结婚。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5620\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5621",
     "original": "Tyrion: Laefe?",
     "translation": "Tyrion: 拉菲？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5622",
     "original": "Lloyd: Since Beatrice showed no signs of returning,[p/] it was apparent that [i]Laefe[/i] would inherit House Frega instead of her.",
-    "translation": "Lloyd: 自从比亚特丽丝没有回来的迹象之后，[p/]显然<u>拉菲</u>会代替她继承弗雷加家。",
-    "stage": 1,
+    "translation": "Lloyd: 由于比亚特丽丝没有回来的迹象，[p/]<u>拉菲</u>看起来会代替她继承弗雷加家。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5622\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5623",
     "original": "Lloyd: I know when my days are numbered.[p/] So I took pre-emptive action.",
-    "translation": "Lloyd: 我知道我的时日不多了。[p/]所以我就先发制人了。",
-    "stage": 1,
+    "translation": "Lloyd: 我知道自己日渐式微。[p/]所以我就先发制人了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5623\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5624",
     "original": "Lloyd: William wanted a male heir,[p/] and [i]I[/i] needed to preserve my House.[p/] So we both came to an accord.",
     "translation": "Lloyd: 威廉想要一个男性继承者，[p/]而<u>我</u>需要延续我的家族。[p/]所以我们达成了一个协议。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5624\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5625",
     "original": "Lloyd: My son and Laefe were arranged to be wed.",
-    "translation": "Lloyd: 我的儿子和拉菲被安排了婚事。",
-    "stage": 1,
+    "translation": "Lloyd: 我的儿子和拉菲将会结婚。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5626",
     "original": "Lloyd: House von Sanctus would have been absorbed.[p/] But at least my Jaiden would stand at the helm of House Frega.",
     "translation": "Lloyd: 冯·桑克图斯家将被收纳入弗雷加家。[p/]但至少我儿子杰登能站在弗雷加家掌舵的位置。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5627",
     "original": "Celeste: ...You nobles are absolutely awful. [mind=\"I should probably consider myself lucky...\"/]",
     "translation": "Celeste: ……你们这些贵族简直是糟透了。[mind=\"某种程度上来说，我运气不错……\"/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5628",
     "original": "Lloyd: Think what you will.[p/] I wouldn't expect a commoner to understand.",
-    "translation": "Lloyd: 随你怎么想。[p/]我本就不会企望平民能理解。",
-    "stage": 1,
+    "translation": "Lloyd: 随你怎么想。[p/]我本就不觉得平民能理解。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5629",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5630",
     "original": "Lloyd: That's the problem with your generation.[p/] You have no sense of duty or obligation.",
     "translation": "Lloyd: 这就是你们这代人的问题。[p/]没有丝毫的责任与义务感。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5630\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5631",
     "original": "Lloyd: Laefe has already expressed resistance to this marriage.[p/] Even though she was well aware of the details.",
-    "translation": "Lloyd: 拉菲在了解这一切之后还是对这场婚约表现的很抵触。",
-    "stage": 1,
+    "translation": "Lloyd: 拉菲在了解这一切之后，还是对这场婚约表现的很抵触。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5631\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5632",
     "original": "Lloyd: Now I worry she'll hide behind her sister to end the engagement altogether.",
     "translation": "Lloyd: 现在我担心她会躲在她姐姐身后彻底拒绝婚约。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5632\",\n  \"keywords\": []\n}"
   },
   {
@@ -36661,393 +36661,393 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5634",
     "original": "Laefe never mentioned [i]any[/i] of this.[p/] And as much as you hate to think it,[p/] William's death [i]would[/i] get her out of this arranged marriage.",
-    "translation": "拉菲·从没提过<u>这件</u>事。[p/]尽管你不愿这么想，但威廉的死<u>必定能</u>让她逃离这场包办婚姻。",
-    "stage": 1,
+    "translation": "拉菲<u>从没</u>提过这件事。[p/]尽管你不愿这么想，但威廉的死<u>必定能</u>让她逃离这场包办婚姻。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5634\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5635",
     "original": "You should talk to her about this.",
     "translation": "你应该找她聊聊这件事。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Talk_WaitingRoom1-5635\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5638",
     "original": "Lloyd: Ugh...[p/] I really hoped that I'd seen the last of you in Aurinax.",
-    "translation": "Lloyd: 呃啊……[p/]我真希望我们在欧奥耐克斯的见面是彼此最后一面。",
-    "stage": 1,
+    "translation": "Lloyd: 呃啊……[p/]我真的希望欧奥耐克斯之后不要再见到你们。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5638\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5639",
     "original": "Tyrion: And [i]I[/i] really hope you're not involved in what happened to William Frega.",
-    "translation": "Tyrion: <u>我</u>倒是衷心的希望你与威廉·弗雷加案无关。",
-    "stage": 1,
+    "translation": "Tyrion: <u>我</u>也由衷希望你与威廉·弗雷加案无关。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5640",
     "original": "Lloyd: Please.[p/] As if I'd even humor such preposterous accusations.",
-    "translation": "Lloyd: 拜托，[p/]说的好像我会对这种荒唐的指控感兴趣似的。",
-    "stage": 1,
+    "translation": "Lloyd: 拜托，[p/]别把这么可笑的事说得煞有介事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5640\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5642",
     "original": "Lloyd: Hmph...[p/] As usual,[p/] the Steelwind brat is sticking her nose where it doesn't belong.",
-    "translation": "Lloyd: 哼嗯……[p/]这个斯蒂尔文德家的小鬼还是一如既往的喜欢到处打听。",
-    "stage": 1,
+    "translation": "Lloyd: 哼……[p/]斯蒂尔文德家的小鬼还是一如既往喜欢到处打听。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5642\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5643",
     "original": "Tyrion: I take it you're not a fan of House Steelwind?",
     "translation": "Tyrion: 我可以理解成你不太喜欢斯蒂尔文德家族吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5643\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5644",
     "original": "Lloyd: Fan?[p/] Hardly.[p/] Those brutes have no place in our civilized kingdom.",
-    "translation": "Lloyd: 喜欢？[p/]绝对不可能。这些野兽就不应存在于我们文明的国度中。",
-    "stage": 1,
+    "translation": "Lloyd: 喜欢？[p/]绝对不可能。这些野蛮人就不应存在于我们文明的国度中。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5644\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5645",
     "original": "Tyrion: And yet,[p/] I can't help but feel like you'd never say that to her face.",
     "translation": "Tyrion: 但是呢，[p/]我有种你绝对不敢当她面说这话的感觉。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5645\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5647",
     "original": "Lloyd: Ugh...[p/] You [i]and[/i] that woman...",
-    "translation": "Lloyd: 呃……[p/]你和那个女人……",
-    "stage": 1,
+    "translation": "Lloyd: 呃啊……[p/]你<u>和</u>那个女人……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5647\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5648",
     "original": "Lloyd: You two do nothing but weave chaos into the nobility.",
-    "translation": "Lloyd: 你们两个除了给贵族添麻烦以外什么都没干。",
-    "stage": 1,
+    "translation": "Lloyd: 你们两个只会给贵族添麻烦。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5648\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5649",
     "original": "Tyrion: With how you aristocrats abuse your power,[p/] I'll take that as a compliment.",
-    "translation": "Tyrion: 鉴于你们这些贵族滥用权力如此猖獗，[p/]我就当你是在夸我了。",
-    "stage": 1,
+    "translation": "Tyrion: 鉴于你们这些贵族滥用权力猖獗，[p/]我就当你是在夸我了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5649\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5651",
     "original": "Lloyd: William Frega...[p/] Even in death,[p/] he still remains a thorn in my side.",
-    "translation": "Lloyd: 威廉·弗雷加……[p/]即使他已经死了也还是我的眼中钉。",
-    "stage": 1,
+    "translation": "Lloyd: 威廉·弗雷加……[p/]即使他已经死了，[p/]也还在给我添麻烦。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5651\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5652",
     "original": "Lloyd: At least now,[p/] he won't meddle in my affairs.",
     "translation": "Lloyd: 但至少现在，[p/]他再也不会妨碍我了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5652\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5654",
     "original": "Tyrion: What can you tell me about the suspect in this case?",
     "translation": "Tyrion: 关于本案的被告你有什么要说的吗？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5654\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5655",
     "original": "Lloyd: What?[p/] She's [i]your[/i] client.[p/] Surely, you would know her better than I do.",
     "translation": "Lloyd: 啥？[p/]她是<u>你的</u>委托人。[p/]你肯定比我要了解的多。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5655\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5656",
     "original": "Tyrion: ...Humour me.",
     "translation": "Tyrion: ……麻烦配合一下。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5656\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5657",
     "original": "Lloyd: Well, I'm sure you're aware that she fled the Frega estate five years ago.",
-    "translation": "Lloyd: 好吧，她在五年前离开了弗雷加庄园这件事你肯定已经知道了。",
-    "stage": 1,
+    "translation": "Lloyd: 好吧，你肯定已经知道她在五年前离开了弗雷加庄园。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5657\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5658",
     "original": "Lloyd: In doing so,[p/] she dealt a blow to House Frega's reputation [i]and[/i] directly insulted the Crown Prince by breaking her engagement to him.",
-    "translation": "Lloyd: 她的不辞而别影响重大，[p/] 不仅让弗雷加家的声誉急转之下，<u>而且</u>还单方面直接解除了与王储殿下的婚约，这与侮辱王室无异。",
-    "stage": 1,
+    "translation": "Lloyd: 她的不辞而别影响重大，[p/]不仅让弗雷加家的声誉急转之下，<u>而且</u>还解除了与王储殿下的婚约，这与侮辱王室无异。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5658\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5659",
     "original": "Celeste: Wait...[p/][s/] [i]Beatrice[/i] was engaged to Aster?!",
     "translation": "Celeste: 等等……[p/][s/]<u>比亚特丽丝</u>曾与阿斯特有过婚约？！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5659\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5660",
     "original": "Lloyd: Yes.[p/] It was quite the scandal at the time.",
     "translation": "Lloyd: 没错。[p/]这事在当时可是桩相当大的丑闻。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5660\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5661",
     "original": "Lloyd: And Lucio wasted no time in forcing his daughter into taking Beatrice's place.",
-    "translation": "Lloyd: 之后卢西奥毫不犹豫地把自己的女儿送到了比亚特丽丝的位置取而代之。",
-    "stage": 1,
+    "translation": "Lloyd: 之后卢西奥毫不犹豫地让自己的女儿取而代之。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5661\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5662",
     "original": "Celeste: Oh...[p/] Is [i]that[/i] why those three were so awkward last night?",
-    "translation": "Celeste: 哦……[p/]想必这就是他们三个当晚如此尴尬的原因吧？",
-    "stage": 1,
+    "translation": "Celeste: 哦……[p/]想必<u>这</u>就是他们三个当晚如此尴尬的原因吧？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5662\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5663",
     "original": "Lloyd: Honestly,[p/] this situation is just an absolute mess. [mind=\"And that woman's return will complicate things.\"/]",
     "translation": "Lloyd: 说实话，[p/]现在的状况简直就是一团糟。 [mind=\"而且那女人的归来只会把这一切搅得更复杂。\"/]",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5663\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5664",
     "original": "Beatrice's return \"complicates things\"?[p/] What did he mean by that?",
     "translation": "比亚特丽丝的归来“会把一切搅得更复杂”？[p/]那是什么意思？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5664\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5666",
     "original": "Lloyd: Laefe...[p/] I'm sure she'll use William's death as yet [i]another[/i] excuse to further avoid her obligations.",
-    "translation": "Lloyd: 拉菲……[p/]我肯定她会用威廉的死作为<u>另一个</u>逃避义务的借口。",
-    "stage": 1,
+    "translation": "Lloyd: 拉菲……[p/]她肯定会用威廉的死作为<u>另一个</u>逃避义务的借口。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5666\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5667",
     "original": "Celeste: She just lost her father![p/][s/] What is [i]wrong[/i] with you?!",
-    "translation": "Celeste: 她可是失去了自己的父亲！[p/][s/]你这人有什么<u>毛病</u>？！",
-    "stage": 1,
+    "translation": "Celeste: 她刚刚失去了自己的父亲！[p/][s/]你这人有什么<u>毛病</u>？！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5667\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5668",
     "original": "Lloyd: William Frega may be dead,[p/] but his daughters must carry out their roles.[p/] Lest their House's reputation suffers.",
-    "translation": "Lloyd: 威廉·弗雷加虽然已经死了，[p/]但他的女儿们必须履行自身的职责。[p/]以免家族荣誉受损。",
-    "stage": 1,
+    "translation": "Lloyd: 威廉·弗雷加虽然死了，[p/]但他的女儿们必须履行自身的职责。[p/]不然有损家族荣誉。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5668\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5669",
     "original": "Tyrion: Is that all you care about?[p/] The reputation of the noble houses?[p/] What about justice for William Frega?",
-    "translation": "Tyrion: 你只在乎这种事吗？[p/]贵族的声望？[p/]那威廉·弗雷加的正义何在？",
-    "stage": 1,
+    "translation": "Tyrion: 你只在乎这种事吗？[p/]贵族的声望？[p/]那谁给威廉·弗雷加讨回公道？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5669\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5670",
     "original": "Lloyd: Justice?[p/] Justice is an illusion for you commoners to cling onto.[p/] But for us,[p/] \"justice\" is simply a favourable outcome.",
-    "translation": "Lloyd: 正义？[p/]正义只是你们这些平民坚持的幻象。[p/]对于我们而言，[p/]“正义”只是对某方有利的结果罢了。",
-    "stage": 1,
+    "translation": "Lloyd: 正义？[p/]正义只是你们这些平民紧抓不放的幻象。[p/]对于我们而言，[p/]“正义”只是对某方有利的结果罢了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5670\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5671",
     "original": "Lloyd: The Frega family has always been influential.[p/] But with William's death,[p/] their power has diminished.",
-    "translation": "Lloyd: 弗雷加家族一直声势显赫。[p/]但威廉的死已经削减了他们的力量。",
-    "stage": 1,
+    "translation": "Lloyd: 弗雷加家族一直声势显赫。[p/]但威廉的死削弱了他们的力量。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5671\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5672",
     "original": "Lloyd: And with Laefe's reluctance to fulfill her duties,[p/] the Frega name will continue to suffer.",
-    "translation": "Lloyd: 而且由于拉菲迟迟不愿履行自己的职责，[p/]弗雷加之名只会愈加受损。",
-    "stage": 1,
+    "translation": "Lloyd: 如果拉菲迟迟不愿履行自己的职责，[p/]弗雷加之名只会愈加受损。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5672\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5673",
     "original": "Celeste: You're absolutely despicable!",
     "translation": "Celeste: 你真是卑鄙！",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5673\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5675",
     "original": "Lloyd: Ah...[p/] Aster do Wyverngarde, the Crown Prince himself.",
-    "translation": "Lloyd: 啊……[p/]阿斯特·维文加德，王储殿下他本人。",
-    "stage": 1,
+    "translation": "Lloyd: 啊……[p/]阿斯特·维文加德，王储殿下本人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5675\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5676",
     "original": "Lloyd: I can't say I care much for his childish ideals of justice.",
-    "translation": "Lloyd: 我不太喜欢他那幼稚的正义理想。",
-    "stage": 1,
+    "translation": "Lloyd: 我不太喜欢他有关正义的幼稚理想。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5676\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5677",
     "original": "Tyrion: Those \"childish ideals\" are true justice.",
-    "translation": "Tyrion: 那些“幼稚的理想”才是真正的正义。",
-    "stage": 1,
+    "translation": "Tyrion: 那些“幼稚理想”才是真正的正义。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5677\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5678",
     "original": "Tyrion: It's not something the likes of [i]you[/i] can recognize.",
-    "translation": "Tyrion: 那不是<u>你</u>这种人能理解的。",
-    "stage": 1,
+    "translation": "Tyrion: 不是<u>你</u>这种人能理解的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5678\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5680",
     "original": "Lloyd: Harold Haroldson...?",
     "translation": "Lloyd: 哈罗德·哈罗德森……？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5680\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5681",
     "original": "Lloyd: I couldn't care less about that quack's personal affairs.[p/] He can find financial aid elsewhere.",
-    "translation": "Lloyd: 我才不在乎那庸医的破事。[p/]他能在别处找到经济援助。",
-    "stage": 1,
+    "translation": "Lloyd: 我才不在乎那江湖骗子的破事。[p/]他可以去其他地方找经济援助。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5681\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5683",
     "original": "Lloyd: Honestly,[p/] it's just one mess after another with you.",
     "translation": "Lloyd: 说实话，[p/]遇上你之后就是一个接着一个的麻烦。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5683\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5684",
     "original": "Tyrion: \"Mess\"?[p/] I would think that [i]you'd[/i] have much to gain from William Frega's death.",
-    "translation": "Tyrion: “麻烦”？[p/]威廉·弗雷加的死不是会让你受益良多吗？",
-    "stage": 1,
+    "translation": "Tyrion: “麻烦”？[p/]威廉·弗雷加的死不是会让<u>你</u>受益良多吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5684\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5685",
     "original": "Lloyd: On a surface level,[p/] you might be right.[p/] But it's far more complicated than that.",
     "translation": "Lloyd: 从表面上来说，[p/]你可能是对的。[p/]但实际要比这复杂的多。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5685\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5686",
     "original": "Lloyd: House Frega controls the banking houses.[p/] They are the main pillar of support for Wyverngarde's economy.",
     "translation": "Lloyd: 弗雷加家族控制银行机构。[p/]他们是维文加德经济的主要支柱。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5686\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5687",
     "original": "Lloyd: William's death could have unimaginable economic consequences,[p/] [i]regardless[/i] of who inherits his house.",
-    "translation": "Lloyd: 威廉的死会造成无法预想的经济后果，[p/]<u>无论</u>谁继承他的遗产。",
-    "stage": 1,
+    "translation": "Lloyd: <u>无论</u>谁继承他的遗产，[p/]威廉的死都会造成不可估量的经济影响。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5687\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5688",
     "original": "Lloyd: I wouldn't be stupid enough to be involved in something like this.",
     "translation": "Lloyd: 我不会蠢到去做这种事。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5688\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5689",
     "original": "Tyrion: ...That remains to be seen.",
     "translation": "Tyrion: ……这还有待证明。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5689\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5690",
     "original": "Lloyd: Hmph...[p/] Think what you will.",
     "translation": "Lloyd: 哼……[p/]随你怎么想。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5690\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5691",
     "original": "Lloyd: There are others who would benefit from William Frega's death.",
-    "translation": "Lloyd: 还有人会因威廉·弗雷加的死而获利。",
-    "stage": 1,
+    "translation": "Lloyd: 还有其他人会因威廉·弗雷加的死而获利。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5691\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5693",
     "original": "Lloyd: Hmph...[p/] Beatrice's rebellious nature is only a result of William's terrible parenting.",
-    "translation": "Lloyd: 哼嗯……[p/]比亚特丽丝的叛逆本性是威廉糟糕教育的必然结果。",
-    "stage": 1,
+    "translation": "Lloyd: 哼……[p/]比亚特丽丝的叛逆本性都要怪威廉糟糕的教育。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5693\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5694",
     "original": "Lloyd: You'd never catch my Jaiden acting like that.",
     "translation": "Lloyd: 我儿子杰登可绝对不会这样。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5694\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5696",
     "original": "Tyrion: What do you think about this, von Sanctus?",
     "translation": "Tyrion: 冯·桑克图斯，你对这个有什么看法？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5696\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5697",
     "original": "Lloyd: Hmph...[p/] I doubt I can say anything meaningful.",
-    "translation": "Lloyd: 哼嗯……[p/]我不知道我能说什么。",
-    "stage": 1,
+    "translation": "Lloyd: 哼……[p/]我不知道我能说什么。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5697\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5698",
     "original": "Lloyd: Ask someone else.",
     "translation": "Lloyd: 去问问别人吧。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Present_WaitingRoom1-5698\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5700",
     "original": "You explore the manor further and find one of its many sitting rooms.",
     "translation": "你继续探索庄园，来到了众多起居室中的一个。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5700\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5701",
     "original": "...And there,[p/] you happen to spot a [i]very[/i] familiar face.",
-    "translation": "……在那，你偶然发现了一张<u>非常</u>熟悉的面孔。",
-    "stage": 1,
+    "translation": "……你在这里发现了一张<u>非常</u>熟悉的面孔。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5701\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5702",
     "original": "He's sipping on a glass of wine.[p/] And his expression turns disdainful the moment you enter the room.",
-    "translation": "他正在小酌一杯。[p/]一看见你进门，他的表情便变得不屑一顾。",
-    "stage": 1,
+    "translation": "他正在小酌一杯。[p/]一看见你进门，他的表情便变得满是鄙夷。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5702\",\n  \"keywords\": []\n}"
   },
   {
@@ -37060,267 +37060,267 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5704",
     "original": "Tyrion: Von Sanctus.[p/] What are [i]you[/i] doing here?",
-    "translation": "Tyrion: 冯·桑克图斯。[p/]你在这做什么？",
-    "stage": 1,
+    "translation": "Tyrion: 冯·桑克图斯。[p/]<u>你</u>在这儿做什么？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5704\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5705",
     "original": "Lloyd: The head of a noble house has just been murdered.[p/] I can't very well return to Aurinax when my affairs are in such disarray.",
-    "translation": "Lloyd: 一个贵族的首脑刚刚遭到谋杀。[p/]我没法在事务如此混乱的情况下回到欧奥耐克斯。",
-    "stage": 1,
+    "translation": "Lloyd: 贵族家族的首脑之一刚刚遭到谋杀。[p/]我没法在如此混乱的情况下回到欧奥耐克斯。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5705\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5706",
     "original": "Lloyd: Anyways,[p/] forget what [i]I'm[/i] doing here.[p/] What are [i]you[/i] doing here?",
-    "translation": "Lloyd: 总之，[p/]除开我在这做什么，[p/]倒是<u>你</u>，在这乱晃什么呢？",
-    "stage": 1,
+    "translation": "Lloyd: 总之，[p/]别管我在这儿做什么。[p/]<u>你</u>在这儿乱晃什么呢？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5706\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5707",
     "original": "Tyrion: Oh,[p/] I just wanted to have a friendly chat with one of my [i]favorite[/i] noblemen.",
-    "translation": "Tyrion: 哦，[p/]我当然只是想和我<u>最喜欢</u>的一位贵族展开一场友好的交谈。",
-    "stage": 1,
+    "translation": "Tyrion: 哦，[p/]我只是想和我<u>最喜欢</u>的贵族友好交谈。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5707\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5708",
     "original": "Tyrion: I hear that you've been keeping busy since we last met.[p/] It must be difficult losing your empire to House Frega.",
-    "translation": "Tyrion: 我听说自从我们上次见面之后你就一直忙个不停。[p/]把你帝国拱手让给弗雷加家族一定让你很不好受吧。",
-    "stage": 1,
+    "translation": "Tyrion: 我听说上次见面之后你就一直忙个不停。[p/]把商业帝国拱手让给弗雷加家族一定很不好受吧。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5708\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5709",
     "original": "Lloyd: ...",
     "translation": "Lloyd: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5709\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5710",
     "original": "Celeste: Tyrion...[p/] We [i]do[/i] need his help.",
-    "translation": "Celeste: 提利昂……[p/]我们确实需要他的帮助。",
-    "stage": 1,
+    "translation": "Celeste: 提利昂……[p/]我们<u>确实</u>需要他的帮助。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5710\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5711",
     "original": "Lloyd: Is that so?[p/] And what makes you think I'd [i]ever[/i] help the likes of you?",
     "translation": "Lloyd: 是吗？[p/]我为什么要帮助你们这样的人呢？",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5711\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5712",
     "original": "Tyrion: Because it would take suspicion off of you.[p/] And let's face it,[p/] with your reputation,[p/] you could use all the help you can get.",
-    "translation": "Tyrion: 因为这能撇清你的嫌疑。[p/]面对现实吧，[p/]以你的名声，[p/]你能得到任何想得到的帮助。",
-    "stage": 1,
+    "translation": "Tyrion: 因为这能撇清你的嫌疑。[p/]面对现实吧，[p/]以你现在的名声，[p/]你需要尽可能多的帮助。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5712\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5713",
     "original": "Lloyd: How dare you![p/][s/] I'll have you know that I am still a respected member of the nobility!",
-    "translation": "Lloyd: 你怎么敢！[p/][s/]我要让你知道我仍是备受尊敬的贵族的一员！",
-    "stage": 1,
+    "translation": "Lloyd: 你怎么敢！[p/][s/]你给我听好，我仍是备受尊敬的贵族之一！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5713\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5714",
     "original": "Tyrion: \"Respected\"?[p/] Is [i]that[/i] why everyone is talking about your hand in Justin Waye's death?",
-    "translation": "Tyrion: “备受尊敬”？[p/]你是指人人都在讨论你策划害死贾斯汀·维耶的事吗？",
-    "stage": 1,
+    "translation": "Tyrion: “备受尊敬”？[p/]你是指人人都在讨论你害死贾斯汀·维耶的事吗？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5714\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5715",
     "original": "Tyrion: Because the way I see it,[p/] being involved in [i]another[/i] scandal would destroy what little remains of your reputation.",
     "translation": "Tyrion: 因为在我看来，[p/]牵扯进<u>另一个</u>丑闻只会毁掉你仅剩不多的名誉。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5715\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5716",
     "original": "Tyrion: But it makes no difference to me.[p/] And to be perfectly honest,[p/] I'd like nothing more than to drag you onto the stand and embarrass you a [i]second[/i] time.",
-    "translation": "Tyrion: 但这对我来说没什么区别。[p/]而且说实话，[p/]我不介意再把你拖到证人席上羞辱你一次。",
-    "stage": 1,
+    "translation": "Tyrion: 但这对我来说没什么区别。[p/]而且说实话，[p/]我不介意再把你拖到证人席上羞辱一次。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5716\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5717",
     "original": "Lloyd: ...",
     "translation": "Lloyd: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5717\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5718",
     "original": "You can practically hear him grinding his teeth together.",
-    "translation": "你几乎能在这听到他咬牙切齿的声音。",
-    "stage": 1,
+    "translation": "你几乎能听到他咬牙切齿的声音。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5718\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5719",
     "original": "Lloyd: ...Very well.",
     "translation": "Lloyd: ……非常好。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5719\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5720",
     "original": "Lloyd: If it means I won't have to endure your presence any longer,[p/] I'll oblige and answer your questions.",
-    "translation": "Lloyd: 如果这能让我不必继续忍受你的存在，[p/]那我就答应回答你的问题。",
-    "stage": 1,
+    "translation": "Lloyd: 如果这样做能让我不必继续忍受你的存在，[p/]那我就答应回答你的问题。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5720\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5721",
     "original": "Anyways,[p/] von Sanctus gave you a decent list of suspects.",
-    "translation": "总之，[p/]冯·桑克图斯给了你详细的嫌疑名单。",
-    "stage": 1,
+    "translation": "总之，[p/]冯·桑克图斯让你有了更充实的嫌疑犯名单。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5721\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5722",
     "original": "You've probably learned everything you can from him for now.",
     "translation": "你目前已经了解到一切他知道的事了。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5722\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5723",
     "original": "It'd be best to MOVE and follow up on these leads.",
-    "translation": "最好去别处调查下其他线索。",
-    "stage": 1,
+    "translation": "最好去别处调查其他线索。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5723\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5725",
     "original": "Tyrion: It's as if every room in this house needs a chandelier...",
-    "translation": "Tyrion: 貌似这个庄园里的每个房间都需要一个吊灯……",
-    "stage": 1,
+    "translation": "Tyrion: 这个庄园里的每个房间好像都需要一个吊灯……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5725\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5726",
     "original": "Tyrion: What a waste of the kingdom's gold...",
-    "translation": "Tyrion: 完全是浪费王国的财产……",
-    "stage": 1,
+    "translation": "Tyrion: 真是浪费……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5726\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5728",
     "original": "Tyrion: It's a painting of some adventurers in a tavern.",
-    "translation": "Tyrion: 一些在酒馆里的冒险者的画像。",
-    "stage": 1,
+    "translation": "Tyrion: 酒馆里冒险者的画像。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5728\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5729",
     "original": "Tyrion: Supposedly,[p/] one of Frega's ancestors was part of a band of adventurers.",
     "translation": "Tyrion: 据说，[p/]其中一位冒险者是弗雷加家族的祖先。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5729\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5730",
     "original": "But you can't help but feel that there [i]should[/i] be someone in the top left corner.",
-    "translation": "但你不禁觉得左上角<u>应该</u>有个人才对。",
-    "stage": 1,
+    "translation": "但你总觉得左上角<u>应该</u>有人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5730\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5732",
     "original": "Tyrion: It's a shelf filled with books.",
     "translation": "Tyrion: 摆满书的架子。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5732\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5733",
     "original": "Celeste: [i]Fake[/i] books.[p/] They're completely blank.",
-    "translation": "Celeste: 是<u>假书</u>。[p/]都是空的。",
-    "stage": 1,
+    "translation": "Celeste: <u>假书</u>。[p/]都是空白的。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5733\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5735",
     "original": "Tyrion: It's a door that leads to the Coat Room.",
     "translation": "Tyrion: 通往衣帽间的门。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5735\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5737",
     "original": "Tyrion: It's a chair made from mahogany.",
     "translation": "Tyrion: 一张由桃花心木制成的椅子。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5737\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5738",
     "original": "Tyrion: Every part of this house just exudes wealth...",
     "translation": "Tyrion: 这房子的每一处都散发着财富的气息……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5738\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5739",
     "original": "And that wealth was probably siphoned right out of the commonfolk...",
-    "translation": "这些财富都是从平民百姓身上榨取而来……",
-    "stage": 1,
+    "translation": "从平民百姓身上榨取的财富……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5739\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5741",
     "original": "Tyrion: There's a window with a view of the outside.",
     "translation": "Tyrion: 可以看到外面的窗户。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Examine_WaitingRoom2-5741\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5744",
     "original": "Celeste: ...",
     "translation": "Celeste: ……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5744\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5745",
     "original": "...If looks could kill.",
     "translation": "……如果眼神能杀人的话。",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5745\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5746",
     "original": "Lucio: McCoy...[p/] One might misinterpret that look of yours as murderous intent.",
-    "translation": "Lucio: 麦考伊……[p/]有的人可能会把你的眼神误认为是杀人的意图。",
-    "stage": 1,
+    "translation": "Lucio: 麦考伊……[p/]你的眼神会让别人误以为你要杀人。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5746\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5747",
     "original": "Celeste: Aw...[p/] Guess you [i]do[/i] have some battle instincts, after all.",
-    "translation": "Celeste: 唔……[p/]看来你<u>毕竟</u>拥有一些战斗的直觉。",
-    "stage": 1,
+    "translation": "Celeste: 唔……[p/]看来你<u>确实</u>拥有一些战斗的直觉。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5747\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5748",
     "original": "Celeste: I honestly wasn't sure.[p/] Since you so [i]obviously[/i] have a silver spoon stuck up your-.",
     "translation": "Celeste: 我真的不确定。[p/]既然你这么<u>明显地</u>把一个银勺子插在你的——",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5748\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5749",
     "original": "Tyrion: C-[p/][s/]Celeste...",
     "translation": "Tyrion: 塞、[p/][s/]塞莱斯特……",
-    "stage": 1,
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Talk_WaitingRoom2-5749\",\n  \"keywords\": []\n}"
   },
   {
@@ -38292,8 +38292,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5904",
     "original": "Tyrion: Anyways,[p/] we should probably MOVE somewhere else.[p/] Let's go, Celeste.",
-    "translation": "Tyrion: 总之，[p/] 我们该 <size=1.5em>移动</size> 到其他地方了。[p/]塞莱斯特，我们走吧。",
-    "stage": 1,
+    "translation": "Tyrion: 总之，[p/]我们该 <size=1.5em>移动</size> 到其他地方了。[p/]塞莱斯特，我们走吧。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Check_Events_WaitingRoom2-5904\",\n  \"keywords\": []\n}"
   },
   {
