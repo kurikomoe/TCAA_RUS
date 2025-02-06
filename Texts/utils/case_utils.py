@@ -1,5 +1,6 @@
 # mypy: disable-error-code="name-defined, attr-defined"
 import json
+import logging
 import re
 import shlex
 from dataclasses import dataclass, field
@@ -7,6 +8,8 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 from . import yarn_spinner_pb2 as pb
+
+logger = logging.getLogger(__name__)
 
 
 def ParseProtoFromCase(proto_json: Path) -> pb.Program:
@@ -303,3 +306,23 @@ def GetSpecialCase(case_name: str, program: pb.Program) -> SpecialCase:
                     sp_case.deduction[node_name].finals.append(text_id)
 
     return sp_case
+
+
+def FixInvalidCaseJmp(case_name: str, program: pb.Program):
+    for node_name, node in program.nodes.items():
+        if node_name != "SanctusCornered_Fail":
+            continue
+
+        for inst_idx, inst in enumerate(node.instructions):
+            if inst.opcode != pb.Instruction.PUSH_STRING:
+                continue
+
+            target_node_name = GetOpXAsString(inst, 0)
+            if target_node_name != "GarrickCornered":
+                continue
+
+            print(f"Fixing {case_name}\n{inst}\nTgt node to SanctusCornered")
+            inst.operands[0].string_value = "SanctusCornered"
+            return
+
+    return

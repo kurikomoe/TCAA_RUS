@@ -7,8 +7,8 @@ from typing import Dict, List
 
 from . import GetParazAcc, Paratranz, kquote
 from . import yarn_spinner_pb2 as pb
-from .case_utils import (CheckCmd, GetOpXAsString, Key, ParseProtoFromCase,
-                         commands, extractor, importer)
+from .case_utils import (CheckCmd, FixInvalidCaseJmp, GetOpXAsString, Key,
+                         ParseProtoFromCase, commands, extractor, importer)
 
 
 def Key_psychComplete(*args) -> str:
@@ -141,6 +141,9 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         # Read corresponding Paratranz file
         paraz_file = paraz_root / File(case_name)
         paraz_acc = GetParazAcc(paraz_file, checks=checks)
+
+        # Fix the invalid case jmp in original program
+        FixInvalidCaseJmp(case_name, program)
 
         for node_name, node in program.nodes.items():
             last_insts = []
