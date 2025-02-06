@@ -3985,7 +3985,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-589",
     "original": "Jolene: Supposedly,[p/] that woman is named Madeline Kipling.",
-    "translation": "Jolene: 听说那个女人叫 Madeline Kipling。<size=0.75em>此类对话均为众筹致谢</size>",
+    "translation": "Jolene: 听说那个女人叫 Madeline Kipling。 <size=0.75em>此类对话均为众筹致谢。</size>",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-589\",\n  \"keywords\": []\n}"
   },
@@ -8675,7 +8675,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1322",
     "original": "Garrick: Agh![p/][s/] Damn you![p/][s/] DAMN YOU!",
-    "translation": "Garrick: 啊！[p/][s/]你这混蛋！[p/][s/]<size=1.5em>你这混蛋！</size>",
+    "translation": "Garrick: 啊！[p/][s/]你这混蛋！[p/][s/] <size=1.5em>你这混蛋！</size>",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-Garrick_Present2-1322\",\n  \"keywords\": []\n}"
   },
@@ -9011,7 +9011,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1373",
     "original": "Garrick: You have [i]NOTHING[/i] on me!",
-    "translation": "Garrick: 没有<size=1.5em><u>任何证据</u></size>证明我有罪！",
+    "translation": "Garrick: 没有 <size=1.5em><u>任何证据</u></size> 证明我有罪！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Garrick Cornered.yarn-GarrickCornered4-1373\",\n  \"keywords\": []\n}"
   },
@@ -11692,7 +11692,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1776",
     "original": "Remember.[p/] You can read Orym's PSYCHOLOGICAL PROFILE to determine the best way to respond to his claim.",
-    "translation": "记住，[p/]你可以阅读奥蒙的<size=1.5em>心理档案</size>来判断最佳的回复方式。",
+    "translation": "记住，[p/]你可以阅读奥蒙的 <size=1.5em>心理档案</size> 来判断最佳的回复方式。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1776\",\n  \"keywords\": []\n}"
   },
@@ -14709,7 +14709,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2223",
     "original": "Carefully examine every statement he made and find something that contradicts the evidence in your NOTES.",
-    "translation": "仔细审查他的每一句证词，从中找出与你<size=1.5em>笔记</size>中证据相悖的证言。",
+    "translation": "仔细审查他的每一句证词，从中找出与你的 <size=1.5em>笔记</size> 中证据相悖的证言。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Trial1_Intro7-2223\",\n  \"keywords\": []\n}"
   },
@@ -14961,7 +14961,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2264",
     "original": "Once you find a contradiction,[p/] PRESENT that piece of evidence to the contradicting statement.",
-    "translation": "一旦你找到与证据相悖的发言，[p/]<size=1.5em>出示</size> 相关证据来反驳他的证言。",
+    "translation": "一旦你找到与证据相悖的发言，[p/] <size=1.5em>出示</size> 相关证据来反驳他的证言。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 1 Intro.yarn-Cross-Examination_Orym-2264\",\n  \"keywords\": []\n}"
   },
@@ -16977,14 +16977,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2576",
     "original": "Aria: *sigh*[p/] This is Garrick Pierce, Your Honor.",
-    "translation": "Aria: *叹气* [p/]这是加里克·皮尔斯，法官阁下。",
+    "translation": "Aria: *叹气* [p/]这位是加里克·皮尔斯，法官阁下。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj2-2576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2577",
     "original": "Garrick: That is [i]LORD[/i] Garrick Pierce to you, Steelwind.",
-    "translation": "Garrick: 是加里克·皮尔斯<size=1.5em><u>勋爵</u></size>，斯蒂尔文德。",
+    "translation": "Garrick: 是加里克·皮尔斯 <size=1.5em><u>勋爵</u></size>，斯蒂尔文德。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-RhysObj2-2577\",\n  \"keywords\": []\n}"
   },
