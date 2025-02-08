@@ -723,8 +723,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-103",
     "original": "Well...[p/] You suppose it's none of your business.",
-    "translation": "嗯…… [p/]不过这倒是不关你事。",
-    "stage": 5,
+    "translation": "嗯……[p/]不过这倒是不关你事。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/AfterGallery.yarn-CelesteInvest_5-103\",\n  \"keywords\": []\n}"
   },
   {
@@ -2599,8 +2599,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-396",
     "original": "The Lords' Ball was already running well into the night,[p/] even [i]before[/i] the murder occurred.",
-    "translation": "在谋杀发生之前，[p/]勋爵的舞会就已经持续到深夜了。",
-    "stage": 5,
+    "translation": "在谋杀发生<u>之前</u>，[p/]勋爵的舞会就已经持续到深夜了。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Ballroom1.yarn-Check_Events_Ballroom1-396\",\n  \"keywords\": []\n}"
   },
   {
@@ -5567,8 +5567,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-858",
     "original": "Perhaps you should MOVE elsewhere.",
-    "translation": "你应该去别处看看。",
-    "stage": 5,
+    "translation": "你应该<size=1.5em>移动</size>去别处看看。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Check_Events_BeatriceRoom1-858\",\n  \"keywords\": []\n}"
   },
   {
@@ -8514,8 +8514,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1328",
     "original": "Ruby: An [b]Anti-Magic Field[/b] would've only disempowered everyone [i]except[/i] the thief.",
-    "translation": "Ruby: [b]抗魔力场[/b]只会让除了小偷以外的所有人失去能力。",
-    "stage": 5,
+    "translation": "Ruby: [b]抗魔力场[/b]只会让小偷<u>以外</u>的所有人失去能力。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-Cross-Examination_OrymR-1328\",\n  \"keywords\": []\n}"
   },
   {
@@ -9193,8 +9193,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1436",
     "original": "Ruby: ...No.[p/][s/] He'd do everything in his power to make sure she didn't see a [i]shred[/i] of his wealth!",
-    "translation": "Ruby: ……不会。[p/][s/]他会竭尽所能确保她得不到一丝一毫的遗产！",
-    "stage": 5,
+    "translation": "Ruby: ……不会。[p/][s/]他会竭尽所能确保她得不到<u>一丝一毫</u>的遗产！",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom C4 1.yarn-OrymC4Obj_2-1436\",\n  \"keywords\": []\n}"
   },
   {
@@ -24425,8 +24425,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3740",
     "original": "Eris: You've already burned that bridge.[p/] So where do you think the Crimson Demon will go when you can't afford her services anymore?",
-    "translation": "Eris: 但你已经和她恩断义绝。[p/]猩红恶魔凭什么觉得你还能付得起她的工资？",
-    "stage": 5,
+    "translation": "Eris: 但你已经和她恩断义绝。[p/]绯红恶魔凭什么觉得你还能付得起她的工资？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End6-3740\",\n  \"keywords\": []\n}"
   },
   {
@@ -26665,8 +26665,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4060",
     "original": "Eris: You've already burned that bridge.[p/] So where do you think the Crimson Demon will go when you can't afford her services anymore?",
-    "translation": "Eris: 但你已经和她恩断义绝。[p/]猩红恶魔凭什么觉得你还能付得起她的工资？",
-    "stage": 5,
+    "translation": "Eris: 但你已经和她恩断义绝。[p/]绯红恶魔凭什么觉得你还能付得起她的工资？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene12-4060\",\n  \"keywords\": []\n}"
   },
   {
@@ -29024,14 +29024,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4432",
     "original": "Tyrion: Did they ever grant supernatural abilities that [i]didn't[/i] follow the rules of Arcane Magic?",
-    "translation": "Tyrion: 他们赋予的超能力里有没有<u>不</u>遵循奥术魔法规则的？",
+    "translation": "Tyrion: 他们赋予的超自然能力里有没有<u>不</u>遵循奥术魔法规则的？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Talk_GalleryIntro-4432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4433",
     "original": "Harold: Hm...[p/] Granting supernatural abilities, you say?",
-    "translation": "Harold: 嗯……[p/]你说赋予超能力？",
+    "translation": "Harold: 嗯……[p/]你说赋予超自然能力？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Talk_GalleryIntro-4433\",\n  \"keywords\": []\n}"
   },
@@ -29332,7 +29332,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4481",
     "original": "Perhaps you should EXAMINE these items more closely.",
-    "translation": "也许你应该更仔细地检查这些物品。",
+    "translation": "也许你应该更仔细地 <size=1.5em>检查</size> 这些物品。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Check_Events_GalleryIntro-4481\",\n  \"keywords\": []\n}"
   },
@@ -29409,7 +29409,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4492",
     "original": "You hope Celeste's investigation is going better than yours...",
-    "translation": "你希望塞莱斯特那边的搜查比你顺利……",
+    "translation": "你希望塞莱斯特那边的调查比你顺利……",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/GalleryIntro.yarn-Check_Events_GalleryIntro-4492\",\n  \"keywords\": []\n}"
   },
@@ -30634,7 +30634,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4681",
     "original": "Up until now,[p/] we've been following the story of Tyrion Cuthbert.",
-    "translation": "直到目前， [p/]我们一直在关注提利昂·卡斯伯特的故事。",
+    "translation": "直到目前，[p/]我们一直在关注提利昂·卡斯伯特的故事。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Intro Scene Four.yarn-Start4-4681\",\n  \"keywords\": []\n}"
   },
@@ -31124,7 +31124,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4753",
     "original": "Tyrion: It's a step ladder.",
-    "translation": "Tyrion: 一个梯凳。",
+    "translation": "Tyrion: 一个人字梯。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/StorageRoom.yarn-Examine_Storage-4753\",\n  \"keywords\": []\n}"
   },
@@ -31824,7 +31824,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4867",
     "original": "Tyrion: What about \"Crimson Demon\"?",
-    "translation": "Tyrion: “猩红恶魔”怎么样？",
+    "translation": "Tyrion: “绯红恶魔”怎么样？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-Examine_Study1-4867\",\n  \"keywords\": []\n}"
   },
@@ -34288,7 +34288,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5261",
     "original": "Tyrion: What about \"Crimson Demon\"?",
-    "translation": "Tyrion: “猩红恶魔”怎么样？",
+    "translation": "Tyrion: “绯红恶魔”怎么样？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study2.yarn-Examine_Study2-5261\",\n  \"keywords\": []\n}"
   },
@@ -35709,7 +35709,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5486",
     "original": "William Frega is the ruling Lord of House Frega.[p/] So you're a little curious about what kind of deal [i]he'd[/i] be involved in.",
-    "translation": "威廉·弗雷加是弗雷加家的首脑。[p/]因此你蛮好奇他会参与什么样的协议。",
+    "translation": "威廉·弗雷加是弗雷加家的首脑。[p/]因此你蛮好奇他<u>会</u>参与什么样的协议。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/TrueStart.yarn-TrueStart_1-5486\",\n  \"keywords\": []\n}"
   },
@@ -37081,7 +37081,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5707",
     "original": "Tyrion: Oh,[p/] I just wanted to have a friendly chat with one of my [i]favorite[/i] noblemen.",
-    "translation": "Tyrion: 哦，[p/]我只是想和我<u>最喜欢</u>的贵族友好交谈。",
+    "translation": "Tyrion: 哦，[p/]我只是想和我“<u>最喜欢</u>”的贵族之一友好交谈。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5707\",\n  \"keywords\": []\n}"
   },
@@ -37144,7 +37144,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5716",
     "original": "Tyrion: But it makes no difference to me.[p/] And to be perfectly honest,[p/] I'd like nothing more than to drag you onto the stand and embarrass you a [i]second[/i] time.",
-    "translation": "Tyrion: 但这对我来说没什么区别。[p/]而且说实话，[p/]我不介意再把你拖到证人席上羞辱一次。",
+    "translation": "Tyrion: 但这对我来说没什么区别。[p/]而且说实话，[p/]我不介意<u>再</u>把你拖到证人席上羞辱一次。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5716\",\n  \"keywords\": []\n}"
   },
@@ -37193,7 +37193,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5723",
     "original": "It'd be best to MOVE and follow up on these leads.",
-    "translation": "最好去别处调查其他线索。",
+    "translation": "最好<u>移动</u>到别处调查其他线索。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom1.yarn-Check_Events_WaitingRoom1-5723\",\n  \"keywords\": []\n}"
   },
@@ -37725,7 +37725,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5813",
     "original": "Lucio: Ms. McCoy:[p/] the Crimson Demon.",
-    "translation": "Lucio: 麦考伊女士，[p/]或者说猩红恶魔。",
+    "translation": "Lucio: 麦考伊女士，[p/]或者说绯红恶魔。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5813\",\n  \"keywords\": []\n}"
   },
@@ -39720,7 +39720,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5207",
     "original": "Player: The murderer took the murder weapon in Frega's Study",
-    "translation": "Player: 凶手 拿着 凶器 进了弗雷加的书房",
+    "translation": "Player: 凶手 从弗雷加的书房 取得 凶器",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce5-5207\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0\",\n          \"The murderer,Jan,Laefe,Lord Frega\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0\",\n          \"took,hid,destroyed,heard\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0\",\n          \"the murder weapon,the murder,the altercation,the artifact\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0\",\n          \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },

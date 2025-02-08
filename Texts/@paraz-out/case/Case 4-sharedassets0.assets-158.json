@@ -142,21 +142,21 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0",
     "original": "took,hid,destroyed,heard",
-    "translation": "拿着,隐藏,摧毁,听闻",
+    "translation": "从弗雷加的书房,从庄园外面,从亚特丽丝的卧室里,从储藏室里",
     "stage": 3,
     "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"took,hid,destroyed,heard\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0",
     "original": "the murder weapon,the murder,the altercation,the artifact",
-    "translation": "凶器,犯人,口角,遗物",
+    "translation": "取得,隐藏,摧毁,听闻",
     "stage": 3,
     "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the murder weapon,the murder,the altercation,the artifact\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0",
     "original": "in Frega's Study,outside the manor,in Beatrice's room,in the storage room",
-    "translation": "进了弗雷加的书房,在庄园外面,比亚特丽丝的卧室里,储藏室里",
+    "translation": "凶器,犯人,口角,遗物",
     "stage": 3,
     "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
