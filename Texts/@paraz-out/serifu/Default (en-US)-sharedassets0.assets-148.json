@@ -3642,8 +3642,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-562",
     "original": "She's completely blind![p/][s/] She couldn't have navigated through the manor [i]and[/i] avoided the guards.",
-    "translation": "她完全失明了！[p/][s/]她不可能穿过庄园并避开守卫。",
-    "stage": 5,
+    "translation": "她完全失明了！[p/][s/]她不可能穿过庄园<u>并</u>避开守卫。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Barracks.yarn-BeforeTrial1_3-562\",\n  \"keywords\": []\n}"
   },
   {
@@ -10985,8 +10985,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1702",
     "original": "Tyrion: And he decided this [i]after[/i] their meeting on the night of the murder.[p/] Is that correct?",
-    "translation": "Tyrion: 而且他是在谋杀当晚的会面过后决定的，[p/]没错吧？",
-    "stage": 5,
+    "translation": "Tyrion: 而且他是在谋杀当晚的会面<u>过后</u>决定的，[p/]没错吧？",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom1B.yarn-MiriamObjC4_3-1702\",\n  \"keywords\": []\n}"
   },
   {
@@ -13092,8 +13092,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2031",
     "original": "Tyrion: Maybe.[p/] But his so-called \"search\" for Eugene gave him a good excuse to not be seen by anyone.",
-    "translation": "Tyrion: 可能是。[p/]但他所谓的 “寻找 ”尤金也是不被任何人看到的好借口。",
-    "stage": 5,
+    "translation": "Tyrion: 可能是。[p/]但他所谓的 “寻找”尤金也是不被任何人看到的好借口。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Cross-Examination_Harold-2031\",\n  \"keywords\": []\n}"
   },
   {
@@ -13582,8 +13582,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2105",
     "original": "Harold: It's quite obvious.[p/] But I completely refute the prosecution's allegations. [mind=\"He's misguided. But he's just doing his job.\"/]",
-    "translation": "Harold: 显而易见。[p/]但我完全否认控方的指控。[mind=\"他被误导了。但他只是在做他的工作。\"/]",
-    "stage": 5,
+    "translation": "Harold: 显而易见。[p/]但我完全否认检方的指控。[mind=\"他被误导了。但他只是在做他的工作。\"/]",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldObj4-2105\",\n  \"keywords\": []\n}"
   },
   {
@@ -19441,8 +19441,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2996",
     "original": "Ruby: From witness accounts,[p/] [i]including[/i] yours,[p/] we know that this happened at 12:45 AM.",
-    "translation": "Ruby: 根据</u>包括你在内<u>的目击者证词。[p/]此时是凌晨 12:45。",
-    "stage": 5,
+    "translation": "Ruby: 根据<u>包括你在内</u>的目击者证词。[p/]此时是凌晨 12:45。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B8-2996\",\n  \"keywords\": []\n}"
   },
   {
@@ -19924,15 +19924,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3065",
     "original": "Tyrion: Right...[p/] Like how you shout [b]Reperio Arcanum[/b] every time you scan a crime scene...",
-    "translation": "Tyrion: 对……[p/]就像你每次扫描现场时都会喊 [b]Reperio Arcanum[/b] 一样……",
-    "stage": 5,
+    "translation": "Tyrion: 对……[p/]就像你每次扫描现场时都会大喊 [b]Reperio Arcanum[/b] 一样……",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B12-3065\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3066",
     "original": "Celeste: I don't [i]shout[/i] it.",
-    "translation": "Celeste: 我没有<u>喊</u>。",
-    "stage": 5,
+    "translation": "Celeste: 我没有<u>大喊</u>。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Courtroom2B12-3066\",\n  \"keywords\": []\n}"
   },
   {
@@ -20904,8 +20904,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3216",
     "original": "You're not seeing any thoughts through the Eye.[p/] But perhaps you can try to INTERPRET the meaning of his words.",
-    "translation": "荷鲁斯之眼看不到任何想法。[p/]但也许你可以尝试解读他证词的含义。",
-    "stage": 5,
+    "translation": "荷鲁斯之眼看不到任何想法。[p/]但也许你可以尝试 <size=1.5em>解读</size> 他证词的含义。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-AlaricObj5-3216\",\n  \"keywords\": []\n}"
   },
   {
@@ -21170,8 +21170,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3260",
     "original": "You need to INTERPRET the statement that seems the most suspicious.",
-    "translation": "你需要仔细解读看起来最为可疑的证词。",
-    "stage": 5,
+    "translation": "你需要仔细 <size=1.5em>解读</size> 看起来最为可疑的证词。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-Cross-Examination_Marrunath-3260\",\n  \"keywords\": []\n}"
   },
   {
@@ -24173,8 +24173,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3704",
     "original": "Eris: Tymora took you away from your only friends and isolated you from society.",
-    "translation": "Eris: 泰摩拉把你从唯一的朋友们身边带走，让你与世隔离。",
-    "stage": 5,
+    "translation": "Eris: 泰摩拉把你从仅有的朋友们身边带走，让你与世隔离。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-End3-3704\",\n  \"keywords\": []\n}"
   },
   {
@@ -25167,8 +25167,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3846",
     "original": "Ms. Tymora leads you out of the courthouse and into the city.",
-    "translation": "泰摩拉女士带你离开法庭，走进城市。",
-    "stage": 5,
+    "translation": "泰摩拉女士带你离开法庭，走进市区。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene-3846\",\n  \"keywords\": []\n}"
   },
   {
@@ -26546,8 +26546,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4043",
     "original": "Eris: Tymora took you away from your only friends and isolated you from society.",
-    "translation": "Eris: 泰摩拉把你从唯一的朋友们身边带走，让你与世隔离。",
-    "stage": 5,
+    "translation": "Eris: 泰摩拉把你从仅有的朋友们身边带走，让你与世隔离。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/EyetakerScene.yarn-EyetakerScene11-4043\",\n  \"keywords\": []\n}"
   },
   {
@@ -29850,7 +29850,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4563",
     "original": "Anyways,[p/] you came here for a purpose.[p/] You should EXAMINE this hallway and see if you can find any clues.",
-    "translation": "总之，[p/]你是有目的而来的。[p/]你应该调查这条走廊看看有没有什么能用的线索。",
+    "translation": "总之，[p/]你是有目的而来的。[p/]你应该 <size=1.5em>调查</size> 这条走廊，看看有没有什么线索。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Hallway2.yarn-Check_Events_Hallway2-4563\",\n  \"keywords\": []\n}"
   },
@@ -37690,7 +37690,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5807",
     "original": "Lucio: I also know that my daughter has failed to defeat you once.",
-    "translation": "Lucio: 我也知道我女儿有一次没能击败你。",
+    "translation": "Lucio: 我也知道我女儿没能击败过你。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5807\",\n  \"keywords\": []\n}"
   },
@@ -38040,7 +38040,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5866",
     "original": "Lucio: I [i]do[/i] wonder how someone of [i]your[/i] status earned the favor of an Ixian regent.",
-    "translation": "Lucio: 我<u>很好奇</u>，像<u>你</u>这样地位的人怎么能获得伊克西安摄政王之一的青睐。",
+    "translation": "Lucio: 我<u>很好奇</u>，像<u>你</u>这样地位的人怎么能获得伊克斯摄政王之一的青睐。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/WaitingRoom2.yarn-Present_WaitingRoom2-5866\",\n  \"keywords\": []\n}"
   },
