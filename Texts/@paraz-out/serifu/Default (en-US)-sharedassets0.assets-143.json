@@ -33770,7 +33770,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5141",
     "original": "Celeste: It always came so easily to me.[p/] I was good at it...[p/] a little [i]too[/i] good.",
-    "translation": "Celeste: 杀人对我来说太容易了。[p/]我有点……优秀<u>过头</u>了。",
+    "translation": "Celeste: 杀人对我来说太容易了。[p/]我有点……[p/]优秀<u>过头</u>了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-Azathoth-5141\",\n  \"keywords\": []\n}"
   },
@@ -36682,7 +36682,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5566",
     "original": "FEris: Agh![p/][s/] Even [i]now[/i],[p/] you trust her [i]that[/i] much?!",
-    "translation": "FEris: 啊！[p/][s/]即使到了<u>现在</u>[p/]你还<u>那么</u>相信她？！",
+    "translation": "FEris: 啊！[p/][s/]即使到了<u>现在</u>，[p/]你还<u>那么</u>相信她？！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered9-5566\",\n  \"keywords\": []\n}"
   },
@@ -36780,7 +36780,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5580",
     "original": "FEris: The Contract states that Celeste would \"engage in actions deemed [i]necessary[/i] to secure the compliance and cooperation of Aria Steelwind\".",
-    "translation": "FEris: 契约里明确写着“塞莱斯特·麦考伊也要协助女皇<u>确保</u>阿莉亚·斯蒂尔文德服从”。",
+    "translation": "FEris: 契约里明确写着塞莱斯特·麦考伊要“协助女皇<u>确保</u>阿莉亚·斯蒂尔文德服从”。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered10-5580\",\n  \"keywords\": []\n}"
   },
@@ -37081,14 +37081,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5623",
     "original": "Agree [d=\"If [i]you're[/i] saying that, it must be true...\"/]",
-    "translation": "Agree [d=\"如果<u>你</u>在这么说，一定是真的……\"/]",
+    "translation": "Agree [d=\"如果<u>你</u>这么说，一定是真的……\"/]",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5623\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5624",
     "original": "Tyrion: If [i]you're[/i] saying that,[p/] it must be true...",
-    "translation": "Tyrion: 如果<u>你</u>在这么说，一定是真的……",
+    "translation": "Tyrion: 如果<u>你</u>这么说，[p/]一定是真的……",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered12-5624\",\n  \"keywords\": []\n}"
   },
@@ -37459,7 +37459,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5679",
     "original": "FEris: What [i]ever[/i] could you be talking about?",
-    "translation": "FEris: 你在说什么呢？",
+    "translation": "FEris: 你<u>究竟</u>在说什么呢？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered16-5679\",\n  \"keywords\": []\n}"
   },
@@ -37606,7 +37606,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5700",
     "original": "Tyrion: W-[p/][s/]Well...[p/] What if you [i]forced[/i] Celeste to kill him?!",
-    "translation": "Tyrion: 总、[p/][s/]总之……[p/]如果是你[p/]迫使塞莱斯特杀人呢？！",
+    "translation": "Tyrion: 总、[p/][s/]总之……[p/]如果是你<u>迫使</u>塞莱斯特杀人呢？！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered17-5700\",\n  \"keywords\": []\n}"
   },
@@ -38110,7 +38110,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5774",
     "original": "Eris: ...It appears that he's [i]quite[/i] dead.",
-    "translation": "Eris: ……我看他是一口气都没了。",
+    "translation": "Eris: ……我看他是<u>一口气</u>都没了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat2-5774\",\n  \"keywords\": []\n}"
   },
@@ -38460,7 +38460,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5824",
     "original": "Garrick: No matter [i]what[/i] you chose,[p/][s/] they were [i]never[/i] going to let me live!",
-    "translation": "Garrick: 不管你<u>怎么选择</u>，他们都<u>不会</u>让我活下去！",
+    "translation": "Garrick: 不管你<u>怎么选择</u>，[p/][s/]他们都<u>不会</u>让我活下去！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat5-5824\",\n  \"keywords\": []\n}"
   },
@@ -38579,7 +38579,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5841",
     "original": "Eris: ...What the [i]hell[/i] did you just do?!",
-    "translation": "Eris: ……你刚刚干了什么？！",
+    "translation": "Eris: ……你刚刚<u>干了什么</u>？！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat6-5841\",\n  \"keywords\": []\n}"
   },
@@ -39237,7 +39237,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5935",
     "original": "Lucio: After all [i]that[/i],[p/] we [i]still[/i] don't know who the Patron is?!",
-    "translation": "Lucio: 闹了这么久，我们<u>还是</u>不知道签约人是谁？！",
+    "translation": "Lucio: 闹了<u>这么久</u>，[p/]我们<u>还是</u>不知道签约人是谁？！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisDefeat12-5935\",\n  \"keywords\": []\n}"
   },
@@ -39888,7 +39888,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6041",
     "original": "Tyrion: Not to mention,[p/] the Eyetaker is one of our suspects.[p/] And [i]she's[/i] his daughter.",
-    "translation": "Tyrion: 更不要说，[p/]她的父亲夺眼者是嫌疑人之一。",
+    "translation": "Tyrion: 更不要说，[p/]<u>她的</u>父亲夺眼者是嫌疑人之一。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6041\",\n  \"keywords\": []\n}"
   },
@@ -40714,7 +40714,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6171",
     "original": "Eris: You may be half-human.[p/] But you can't just go around declaring [i]lies[/i] like that.",
-    "translation": "Eris: 虽然是个半人类，但你也不能随便宣告<u>谎言</u>。",
+    "translation": "Eris: 虽然是个半人类，[p/]但你也不能随便宣告<u>谎言</u>。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-EdictAttempt3-6171\",\n  \"keywords\": []\n}"
   },
@@ -41155,7 +41155,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6239",
     "original": "Tyrion: But the trial [i]has[/i] to happen soon.[p/] Or else the magical traces left will disappear.",
-    "translation": "Tyrion: 但审理<u>必须</u>马上开始。不然魔法痕迹会消失的。",
+    "translation": "Tyrion: 但审理<u>必须</u>马上开始。[p/]不然魔法痕迹会消失的。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6239\",\n  \"keywords\": []\n}"
   },
@@ -41365,7 +41365,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6270",
     "original": "Aster: Yes.[p/] You currently stand before [i]King[/i] Aster de Wyverngarde:[p/] ruler of our kingdom.",
-    "translation": "Aster: 是的。[p/]你面前的是阿斯特·维文加德<u>国王</u>，我国的新统治者。",
+    "translation": "Aster: 是的。[p/]你面前的是阿斯特·维文加德<u>国王</u>，[p/]我国的新统治者。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6270\",\n  \"keywords\": []\n}"
   },
@@ -41526,7 +41526,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6295",
     "original": "Tyrion: I [i]would[/i] congratulate you two,[p/] but considering the circumstances-...",
-    "translation": "Tyrion: 虽然我很想恭喜你们两个，[p/]但考虑到现况——",
+    "translation": "Tyrion: 虽然我<u>很想</u>恭喜你们两个，[p/]但考虑到现况——",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6295\",\n  \"keywords\": []\n}"
   },
@@ -41722,7 +41722,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6324",
     "original": "Tyrion: But it requires a second,[p/] \"contingent\" spell to [i]place[/i] that trap.",
-    "translation": "Tyrion: 也就意味着陷阱里有一个以备不时之需的法术。",
+    "translation": "Tyrion: 也就意味着陷阱里<u>有</u>一个以备不时之需的法术。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6324\",\n  \"keywords\": []\n}"
   },
@@ -41736,7 +41736,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6326",
     "original": "Aster: It was a [b]Force Cage[/b]...[p/] targeting [i]me[/i].",
-    "translation": "Aster: 是[b]坚牢术[/b]……专门针对[b]我[/b]的。",
+    "translation": "Aster: 是[b]坚牢术[/b]……[p/]专门针对<u>我</u>的。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6326\",\n  \"keywords\": []\n}"
   },
@@ -41799,7 +41799,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6335",
     "original": "Aster: And the ones that [i]were[/i] there all fell comatose.",
-    "translation": "Aster: 能保卫他们的人最终也都陷入昏迷。",
+    "translation": "Aster: 能保卫他们的人最终也<u>都</u>陷入昏迷。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6335\",\n  \"keywords\": []\n}"
   },
@@ -41988,7 +41988,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6368",
     "original": "Aster: If there's [i]some[/i] silver lining,[p/] it's that he can no longer harm people with his negligence.",
-    "translation": "Aster: 要说有什么积极之处的话，[p/]就是他再也不能祸害民众了。",
+    "translation": "Aster: 要说有<u>什么</u>积极之处的话，[p/]就是他再也不能祸害民众了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Present_Garden1-6368\",\n  \"keywords\": []\n}"
   },
@@ -42079,7 +42079,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6384",
     "original": "Celeste: That pegasus is [i]literally[/i] a celestial like you!",
-    "translation": "Celeste: 这天马可是你的天界老乡！",
+    "translation": "Celeste: 这天马<u>可是</u>你的天界老乡！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6384\",\n  \"keywords\": []\n}"
   },
@@ -42093,7 +42093,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6386",
     "original": "Celeste: It's an [i]inanimate[/i] object, Tyrion!",
-    "translation": "Celeste: 提利昂，这都不是个生物！",
+    "translation": "Celeste: 提利昂，这都<u>不是个生物</u>！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6386\",\n  \"keywords\": []\n}"
   },
@@ -43164,7 +43164,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6549",
     "original": "Miriam: [i]I'm[/i] a Frega,[p/] what need would I have for such things?",
-    "translation": "Miriam: 我是弗雷加家的人，[p/]还需要什么？",
+    "translation": "Miriam: <u>我是</u>弗雷加家的人，[p/]还需要什么？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Present_GardenIntro-6549\",\n  \"keywords\": []\n}"
   },
@@ -43318,7 +43318,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6573",
     "original": "Why [i]are[/i] they all gathered here?",
-    "translation": "为什么他们都聚在这？",
+    "translation": "为什么他们<u>都</u>聚在这？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Present_GardenIntro-6573\",\n  \"keywords\": []\n}"
   },
@@ -43430,14 +43430,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6593",
     "original": "Celeste: Wow...[p/] [i]That's[/i] a little out of place.",
-    "translation": "Celeste: 哇哦……[p/]那雕像有点突兀了。",
+    "translation": "Celeste: 哇哦……[p/]<u>那雕像</u>有点突兀了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Check_Events_GardenIntro-6593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6594",
     "original": "Celeste: What even [i]is[/i] it?",
-    "translation": "Celeste: 这到底是什么？",
+    "translation": "Celeste: 这到底<u>是什么</u>？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Check_Events_GardenIntro-6594\",\n  \"keywords\": []\n}"
   },
@@ -43724,7 +43724,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6635",
     "original": "Tracker: [i]ARF ARF ARF ARF ARF[/i]!",
-    "translation": "Tracker: <size=1.5em><u>汪 汪 汪 汪 汪 ！</u></size>",
+    "translation": "Tracker: <size=1.5em>汪 汪 汪 汪 汪！</size>",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Check_Events_GardenIntro-6635\",\n  \"keywords\": []\n}"
   },
@@ -43836,7 +43836,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6651",
     "original": "Beatrice: [i]Please[/i] don't make me harm my sisters.",
-    "translation": "Beatrice: <u>拜托你</u>不要让我伤害自己的妹妹们。",
+    "translation": "Beatrice: <u>拜托你</u>不要让我伤害我的妹妹们。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Check_Events_GardenIntro-6651\",\n  \"keywords\": []\n}"
   },
@@ -43892,7 +43892,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6659",
     "original": "Celeste: It always came so easily to me.[p/] I was good at it...[p/] a little [i]too[/i] good.",
-    "translation": "Celeste: 杀人对我来说太容易了。[p/]我有点……优秀<u>过头</u>了。",
+    "translation": "Celeste: 杀人对我来说太容易了。[p/]我有点……[p/]优秀<u>过头</u>了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Intro.yarn-Start-6659\",\n  \"keywords\": []\n}"
   },
@@ -44228,14 +44228,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6709",
     "original": "Knight: If I'm right,[p/] he was one of the [i]previous[/i] Eyetakers.",
-    "translation": "Knight: 如果我没记错，[p/]他确实是前代夺眼者之一。",
+    "translation": "Knight: 如果我没记错，[p/]他确实是<u>前代</u>夺眼者之一。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Mafia2.yarn-Examine_Mafia2-6709\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6710",
     "original": "Knight: Back then,[p/] he had an even [i]tighter[/i] grip on the criminal underbelly of Ratholme.",
-    "translation": "Knight: 那时候，[p/]他对瑞思霍姆的犯罪集团控制还要更严。",
+    "translation": "Knight: 那时候，[p/]他对瑞思霍姆的犯罪集团控制还要<u>更严</u>。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Mafia2.yarn-Examine_Mafia2-6710\",\n  \"keywords\": []\n}"
   },
@@ -44256,7 +44256,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6713",
     "original": "Knight: Look, sir.[p/] [i]I[/i] don't come up with these names.",
-    "translation": "Knight: 先生，这些外号也不是<u>我</u>想的。",
+    "translation": "Knight: 先生，[p/]这些外号也不是<u>我</u>想的。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Mafia2.yarn-Examine_Mafia2-6713\",\n  \"keywords\": []\n}"
   },
@@ -45348,7 +45348,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6895",
     "original": "You've been to plenty of crime scenes before.[p/] But even if you [i]were[/i] unconscious,[p/] you were here when the murder happened.",
-    "translation": "你去过不少犯罪现场。[p/]虽然<u>当时</u>失去了意识，[p/]但你谋杀发生时确实在场。",
+    "translation": "你去过不少犯罪现场。[p/]虽然<u>当时</u>失去了意识，[p/]但谋杀发生时你确实在场。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Check_Events_PrayerRoom1-6895\",\n  \"keywords\": []\n}"
   },
@@ -46083,7 +46083,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7007",
     "original": "Tyrion: Who [i]did[/i] you send it to, then?",
-    "translation": "Tyrion: 那你<u>寄给了谁</u>？",
+    "translation": "Tyrion: 那你<u>寄给了</u>谁？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan4-7007\",\n  \"keywords\": []\n}"
   },
@@ -46125,7 +46125,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7013",
     "original": "Garrick: A-[p/][s/]Are you seriously focused on that [i]now[/i]?! [mind=\"It's far too important. It's my only bargaining chip.\"/]",
-    "translation": "Garrick: 你，[p/][s/]你<u>现在</u>还在想这些？！ [mind=\"这太重要了。是我唯一的筹码。\"/]",
+    "translation": "Garrick: 你、[p/][s/]你<u>现在</u>还在想这些？！ [mind=\"这太重要了。是我唯一的筹码。\"/]",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-HitTheFan5-7013\",\n  \"keywords\": []\n}"
   },
@@ -46496,7 +46496,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7066",
     "original": "Tyrion: I [i]saw[/i] Beatrice before I passed out![p/][s/] [i]She[/i] was the one that knocked us out!",
-    "translation": "Tyrion: 我昏过去之前<u>看见了</u>比亚特丽丝！<u>她</u>才是让我们昏迷的人！",
+    "translation": "Tyrion: 我昏过去之前<u>看见了</u>比亚特丽丝！[p/][s/]<u>她</u>才是让我们昏迷的人！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder3-7066\",\n  \"keywords\": []\n}"
   },
@@ -46510,7 +46510,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7068",
     "original": "Orym: ...What the [i]hell[/i] is going on?",
-    "translation": "Orym: ……这见鬼的怎么回事？",
+    "translation": "Orym: ……见了鬼了这<u>怎么</u>回事？",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder4-7068\",\n  \"keywords\": []\n}"
   },
@@ -46552,7 +46552,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7074",
     "original": "Aria: [i]Now[/i] is not the time![p/][s/] Do it, commander!",
-    "translation": "Aria: <u>现在</u>不是时候！[p/][s/]指挥官，行动！",
+    "translation": "Aria: <u>现在</u>不是时候！[p/][s/]指挥官，动手！",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder4-7074\",\n  \"keywords\": []\n}"
   },
@@ -47819,7 +47819,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7275",
     "original": "Ruby: I had a son once...[p/] [i]Before[/i] you,[p/] I mean.",
-    "translation": "Ruby: 我曾经有个儿子……[p/]我是说，在你<u>之前</u>。",
+    "translation": "Ruby: 我曾经有个儿子……[p/]我是说，[p/]在你<u>之前</u>。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7275\",\n  \"keywords\": []\n}"
   },
@@ -47917,7 +47917,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7289",
     "original": "Ruby: ...The Inquisition swept that entire case under the rug,[p/] [i]obviously[/i].",
-    "translation": "Ruby: ……<u>显而易见</u>，裁判所把整个案件都掩盖了。",
+    "translation": "Ruby: ……<u>显而易见</u>，[p/]裁判所把整个案件都掩盖了。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7289\",\n  \"keywords\": []\n}"
   },
@@ -48029,7 +48029,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7306",
     "original": "Ruby: I released [i]everything[/i] to the public.[p/] It absolutely ruined him.",
-    "translation": "Ruby: 然后我把<u>这一切</u>都公之于众。让他毁于一旦。",
+    "translation": "Ruby: 然后我把<u>这一切</u>都公之于众。[p/]让他毁于一旦。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7306\",\n  \"keywords\": []\n}"
   },
@@ -48239,7 +48239,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7337",
     "original": "Ruby: I wanted someone,[p/] [i]anyone[/i] to carry this burden with me.",
-    "translation": "Ruby: 我想要什么人，[p/]任何人，[p/]来和我一起承受这重担。",
+    "translation": "Ruby: 我想要什么人，[p/]<u>任何人</u>，[p/]来和我一起承受这重担。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7337\",\n  \"keywords\": []\n}"
   },
@@ -48316,7 +48316,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7348",
     "original": "Ruby: I took you from your home and forced you to dedicate your life to [i]my[/i] dream.",
-    "translation": "Ruby: 我让你背井离乡，逼用自己的人生来实现<u>我的</u>梦想。",
+    "translation": "Ruby: 我让你背井离乡，逼你用自己的人生来实现<u>我的</u>梦想。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7348\",\n  \"keywords\": []\n}"
   },
@@ -49107,7 +49107,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7465",
     "original": "Rath: That's probably [i]why[/i] she can't remember what happened during the massacre.",
-    "translation": "Rath: 这也很可能就是她没有屠杀期间记忆的原因。",
+    "translation": "Rath: 这也很可能就是她没有屠杀期间记忆的<u>原因</u>。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal2-7465\",\n  \"keywords\": []\n}"
   },
@@ -49527,7 +49527,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7529",
     "original": "Tyrion: ...And [i]you[/i] signed a Blood Contract with her.",
-    "translation": "Tyrion: ……而<u>你</u>和她签了血契。",
+    "translation": "Tyrion: ……<u>你</u>和她签了血契。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal5-7529\",\n  \"keywords\": []\n}"
   },
@@ -49660,7 +49660,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7548",
     "original": "Celeste: I-[p/][s/]I know I was scared of her that [i]one[/i] time.",
-    "translation": "Celeste: 我，[p/][s/]我确实之前<u>有一次</u>很害怕她。",
+    "translation": "Celeste: 我、[p/][s/]我之前确实<u>有一次</u>很害怕她。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal6-7548\",\n  \"keywords\": []\n}"
   },
@@ -50031,7 +50031,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7601",
     "original": "Eris: Oh, Orym.[p/] I've put far too much work into this story to [i]miss[/i] the final act.",
-    "translation": "Eris: 喔唷，奥蒙。[p/]我准备了这么多，可不能错过好戏的最后一幕。",
+    "translation": "Eris: 喔唷，奥蒙。[p/]我准备了这么多，可不能<u>错过</u>好戏的最后一幕。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7601\",\n  \"keywords\": []\n}"
   },
@@ -50066,7 +50066,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7606",
     "original": "Eris: I'll admit...[p/] Looking back,[p/] it [i]does[/i] feel a bit derivative.",
-    "translation": "Eris: 我承认……[p/]现在看来，[p/]这确实有点抄袭的嫌疑。",
+    "translation": "Eris: 我承认……[p/]现在看来，[p/]这<u>确实</u>有点抄袭的嫌疑。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal8-7606\",\n  \"keywords\": []\n}"
   },
@@ -50171,7 +50171,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7621",
     "original": "Eris: It's just [i]me[/i][p/] and you.",
-    "translation": "Eris: 只有<u>我</u>和你。",
+    "translation": "Eris: 只有<u>我</u>[p/]和你。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal9-7621\",\n  \"keywords\": []\n}"
   },
@@ -51431,7 +51431,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7818",
     "original": "Garrick: [i]I know the truth behind McCoy's [i]true[/i] parentage.[p/] And I'm aware of how vital this information is to you.[/i]",
-    "translation": "Garrick: 我知道麦考伊<u>真正</u>血统背后的事实了。[p/]我也知道这一信息对你多么重要。",
+    "translation": "Garrick: “我知道麦考伊<u>真正</u>血统背后的事实了。[p/]我也知道这一信息对你多么重要。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-LetterGet2-7818\",\n  \"keywords\": []\n}"
   },
