@@ -85,9 +85,9 @@ DWORD __stdcall payload_main(void*) {
     //     std::cout << "Yarn hook failed" << std::endl;
     // }
 
-    // if (Character::init(base) != 0) {
-    //     std::cout << "Character hook failed" << std::endl;
-    // }
+    if (Character::init(base) != 0) {
+        std::cout << "Character hook failed" << std::endl;
+    }
 
     return 1;
 }

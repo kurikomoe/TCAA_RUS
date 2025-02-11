@@ -242,13 +242,13 @@ static_assert(sizeof(Evidence_Fields) == 0x10);
 
 
 struct CharacterData_Fields : Evidence_Fields {
-  // struct System_String_array *altDescriptions;
-  // struct System_String_o *prefab;
-  // struct System_String_o *occupation;
-  // struct System_String_o *age;
-  // struct System_String_o *arcaneArt;
-  // struct System_String_o *witnessImg;
-  char padding[0x30];
+  struct System_String_array *altDescriptions;
+  struct System_String_o *prefab;
+  struct System_String_o *occupation;
+  struct System_String_o *age;
+  struct System_String_o *arcaneArt;
+  struct System_String_o *witnessImg;
+  char padding[0x30-4*6];
 };
 static_assert(sizeof(CharacterData_Fields) == 0x40);
 
