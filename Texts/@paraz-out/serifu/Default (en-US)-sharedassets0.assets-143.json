@@ -10698,8 +10698,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1695",
     "original": "Tyrion: For all we know,[p/] the Patron could have used any number of tactics to coerce you into doing this.",
-    "translation": "Tyrion: 我们知道的只有一件事，[p/]签约人可以用各种手段把戏让你中招。",
-    "stage": 5,
+    "translation": "Tyrion: 就我们所知，[p/]签约人可能用各种手段让你中招。",
+    "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Interm2-1695\",\n  \"keywords\": []\n}"
   },
   {
@@ -11665,41 +11665,41 @@
     "key": "Default (en-US)-sharedassets0.assets-143-1833",
     "original": "Tyrion: It must've required a lot of forethought and coordination.",
     "translation": "Tyrion: 事前规划与临场合作必不可少。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1834",
     "original": "Tyrion: If we figured out who might've had this knowledge,[p/] we might be able to find out who did this.",
-    "translation": "Tyrion: 如果能知道谁拥有足够的情报，[p/]或许就能揪出幕后黑手。",
-    "stage": 3,
+    "translation": "Tyrion: 如果能知道谁拥有足够的情报，[p/]我们或许就能揪出幕后黑手。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1835",
     "original": "Rath: I see...[p/] That sounds as good a plan as any.",
     "translation": "Rath: 我明白了……[p/]听起来是个很好的计划。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1836",
     "original": "Lucio: Kingsguard![p/][s/] Escort Commander Orym White to the witness stand!",
     "translation": "Lucio: 国王卫队！[p/][s/]护送指挥官奥蒙·怀特上证人席！",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1837",
     "original": "Lucio: Witness.[p/] Please state your name and occupation.",
     "translation": "Lucio: 证人。[p/]请向法庭陈述你的姓名与职业。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1838",
     "original": "Orym: R-[p/][s/]Right...[p/][s/] I...[p/][s/] Um...",
-    "translation": "Orym: 呃、[p/][s/]好……[p/][s/]我……[p/][s/]唔……",
+    "translation": "Orym: 好、[p/][s/]好……[p/][s/]我……[p/][s/]唔……",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1838\",\n  \"keywords\": []\n}"
   },
@@ -11707,90 +11707,90 @@
     "key": "Default (en-US)-sharedassets0.assets-143-1839",
     "original": "Orym: ...",
     "translation": "Orym: ……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1840",
     "original": "Tyrion: Commander?",
     "translation": "Tyrion: 指挥官？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1841",
     "original": "Orym: I'm sorry![p/][s/] I just can't do this!",
     "translation": "Orym: 对不起！[p/][s/]我做不到啊！",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1841\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1842",
     "original": "Orym: How am I supposed to act like this is normal?!",
     "translation": "Orym: 我怎么能若无其事？！",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1842\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1843",
     "original": "Orym: A giant lizard is standing [i]right[/i] behind me!",
     "translation": "Orym: 我<u>正后方</u>可站着一只大蜥蜴！",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1844",
     "original": "Rath: ...Calling me a lizard is [i]highly[/i] offensive, commander.",
     "translation": "Rath: ……说我是蜥蜴可<u>非常</u>粗鲁，指挥官。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_10-1844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1845",
     "original": "Orym: S-[p/][s/]Sorry, your scaled lordship...[p/] sir...",
     "translation": "Orym: 对、[p/][s/]对不起，鳞甲领主……[p/]殿下……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1845\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1846",
     "original": "Tyrion: Commander...[p/] Just try your best to testify about what happened.",
     "translation": "Tyrion: 指挥官……[p/]努力证言发生了什么就好。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1846\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1847",
     "original": "Orym: Y-[p/][s/]Yeah...",
     "translation": "Orym: 好、[p/][s/]好的……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1848",
     "original": "Orym: It all started when we received a report from the Kingsguard.[p/] The prosecutor attacked Prince Alaric and a fire had broken out in the Common Room.",
     "translation": "Orym: 一切都要从我们收到国王卫队报告时说起。[p/]检察官攻击了阿拉里克王子，公共休息室还着火了。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1848\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1849",
     "original": "Orym: We weren't sure what the deal with Steelwind was.[p/] So we went to the Common Room to put out the fire.",
     "translation": "Orym: 我们不确定斯蒂尔文德那边怎么回事。[p/]就先去公共休息室帮忙灭火。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1849\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1850",
     "original": "Orym: But when we got there,[p/] we noticed a bunch of unconscious knights in front of the Prayer Room.",
     "translation": "Orym: 但我们抵达时，[p/]发现一群卫兵昏倒在祷告室前。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1851",
     "original": "Orym: We went to the Prayer Room.[p/] That's when we found Steelwind and Cuthbert unconscious next to Pierce's dead body.",
-    "translation": "Orym: 我们就先去了祷告室。[p/]也在那里发现了皮尔斯的尸体，以及旁边失去意识的斯蒂尔文德和卡斯伯特。",
+    "translation": "Orym: 我们就先去了祷告室。[p/]在那里我们发现了皮尔斯的尸体，以及旁边失去意识的斯蒂尔文德和卡斯伯特。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1851\",\n  \"keywords\": []\n}"
   },
@@ -11798,545 +11798,545 @@
     "key": "Default (en-US)-sharedassets0.assets-143-1852",
     "original": "Orym: We later found the bodies of von Sanctus and Sibyl too.[p/] That's when we realized that she offed all three of them.",
     "translation": "Orym: 之后我们也发现了冯·桑克图斯和希比尔的尸体。[p/]这时我们才意识到三个人都是被她杀害的。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1852\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1853",
     "original": "Tyrion: So you still have no idea how Steelwind was used to murder von Sanctus or Sibyl?",
     "translation": "Tyrion: 所以你们还是不知道被操控的斯蒂尔文德怎么杀掉冯·桑克图斯与希比尔的？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1854",
     "original": "Orym: Not a clue.",
     "translation": "Orym: 毫无头绪。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1854\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1855",
     "original": "Orym: It's especially worse for von Sanctus.[p/] That fire burned a lot of the physical evidence off of his body.",
     "translation": "Orym: 冯·桑克图斯的情况更糟。[p/]火几乎烧掉了所有尸体上的线索。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1855\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1856",
     "original": "Tyrion: What about Sibyl?[p/] Was there any physical evidence on her body?",
     "translation": "Tyrion: 那希比尔呢？[p/]她身上有没有留下线索？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1856\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1857",
     "original": "Orym: No idea about that either.[p/] She didn't have any wounds either.",
     "translation": "Orym: 我也不清楚。[p/]她没有遭受外伤。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1857\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1858",
     "original": "Orym: All we know is that she died of suffocation.",
     "translation": "Orym: 我们只知道她是窒息身亡。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1858\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1859",
     "original": "Hm...[p/] There's definitely more information you can glean from their investigation.",
-    "translation": "嗯……[p/]调查中肯定还有其他信息。",
-    "stage": 3,
+    "translation": "嗯……[p/]调查中肯定还有其他可用信息。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_12-1859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1861",
     "original": "Tyrion: And this is mainly based on Prince Alaric's testimony.[p/] Am I correct?",
     "translation": "Tyrion: 报告主要基于阿拉里克王子的证言。[p/]没错吧？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1861\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1862",
     "original": "Orym: Yeah.[p/] We still have no idea which [b]transmutation[/b] spell she hit him with.",
-    "translation": "Orym: 没错。[p/]我们还是不知道她用的是什么[b]形变[/b]法术。",
-    "stage": 3,
+    "translation": "Orym: 没错。[p/]我们还是不知道她用的是哪种[b]形变术[/b]。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1863",
     "original": "Tyrion: Judging from the time of the report,[p/] this must have been well after all three of the murders occurred.",
-    "translation": "Tyrion: 根据报告时间来看，[p/]肯定是在三起谋杀过去一段时间以后。",
-    "stage": 3,
+    "translation": "Tyrion: 根据报告时间来看，[p/]这肯定是在三起谋杀过去一段时间以后。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1864",
     "original": "Orym: Yeah.[p/] It was unfortunate how that played out.",
     "translation": "Orym: 对。[p/]这样的结果令人遗憾。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1865",
     "original": "Orym: If Steelwind really [i]was[/i] controlled,[p/] whoever controlled her knew how to get the job done quickly.",
-    "translation": "Orym: 如果斯蒂尔文德真的<u>被操控</u>了，[p/]也是被效率很高的人操控。",
-    "stage": 3,
+    "translation": "Orym: 如果斯蒂尔文德<u>真的</u>被操控了，[p/]也是被做事干净利落的人操控。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1865\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1866",
     "original": "That leaves the question of how they did this so efficiently.",
     "translation": "问题就是为什么幕后黑手这么高效。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1868",
     "original": "Tyrion: Was that wise?",
     "translation": "Tyrion: 这么做明智吗？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1869",
     "original": "Tyrion: Regardless of who it was,[p/] someone assaulted a Prince of Wyverngarde.",
     "translation": "Tyrion: 不管犯人是谁，[p/]被攻击的可是维文加德王子。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1869\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1870",
     "original": "Orym: We were already dealing with the King who was trapped in that [b]Force Cage[/b].",
     "translation": "Orym: 被[b]坚牢术[/b]困住的国王已经够让人忙活了。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1870\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1871",
     "original": "Orym: Honestly,[p/] a [i]lot[/i] happened in that hour.",
     "translation": "Orym: 那一小时里发生了<u>太多</u>。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1871\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1872",
     "original": "Orym: And most of our attention was focused on keeping the royal family safe.",
     "translation": "Orym: 我们的注意力都放在保护皇室安全上。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1872\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1873",
     "original": "Lucio: We can already conclude that the attack on the King was a distraction.",
     "translation": "Lucio: 现在已经能确定攻击国王是为了转移注意。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1873\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1874",
     "original": "Lucio: Whoever orchestrated this must have known we'd focus our attention on keeping the royal family safe.",
     "translation": "Lucio: 策划这些的人知道，我们会集中力量保证皇室安全。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1874\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1875",
     "original": "You suppose that makes sense.[p/] And the casualties still included many knights from the Kingsguard.",
     "translation": "这也有道理。[p/]伤亡人数里也包括不少国王卫队的骑士。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1875\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1876",
     "original": "They probably had to spread their forces thin to protect everyone else [i]and[/i] handle the fire in the Common Room.",
     "translation": "保护其他人<u>和</u>公共休息室的火势让兵力更为分散。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1876\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1877",
     "original": "Lucio: What did you do when you arrived at the Common Room, commander?",
-    "translation": "Lucio: 你到公共休息室以后都干了什么，平民？",
-    "stage": 3,
+    "translation": "Lucio: 你到公共休息室以后都干了什么，指挥官？",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1877\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1879",
     "original": "Tyrion: Did you see Aria or Celeste?",
     "translation": "Tyrion: 你有看见阿莉亚或者塞莱斯特吗？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1879\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1880",
     "original": "Orym: No...[p/] We only saw the aftermath of their fight.",
     "translation": "Orym: 没有……[p/]只看见了她们搏斗后的一片狼藉。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1880\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1881",
     "original": "Orym: There were marks and craters everywhere in that hallway.",
-    "translation": "Orym: 走廊里到处都是印痕和凹坑。",
-    "stage": 3,
+    "translation": "Orym: 走廊里到处都是搏斗留下的痕迹和凹坑。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1881\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1882",
     "original": "Lucio: Pierce's time of death was 2:45 PM.",
     "translation": "Lucio: 皮尔斯的死亡时间是下午 2:45。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1882\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1883",
     "original": "Lucio: And the knights didn't arrive at the Common Room until 3:10 PM.",
     "translation": "Lucio: 骑士们直到下午 3:10 才抵达公共休息室。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1883\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1884",
     "original": "Lucio: They didn't arrive at the Prayer Room until well after the battle had taken place.",
-    "translation": "Lucio: 搏斗发生过去一阵后他们才到达祷告室。",
-    "stage": 3,
+    "translation": "Lucio: 搏斗发生过去很久后，他们才到达祷告室。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1884\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1885",
     "original": "Tyrion: Wait...[p/] Wouldn't that mean you were in that room with Pierce's body for twenty-five minutes?",
     "translation": "Tyrion: 等等……[p/]你和皮尔斯的尸体在一起待了 25 分钟？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1885\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1886",
     "original": "Tyrion: Why didn't you look for help?",
     "translation": "Tyrion: 为什么不找人帮忙？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1886\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1887",
     "original": "Celeste: Y-[p/][s/]You weren't waking up for some reason.[p/] So I kept channeling my healing magic into you.",
     "translation": "Celeste: 因、[p/][s/]因为你醒不过来。[p/]所以我一直在给你传输治愈魔力。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1887\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1888",
     "original": "Celeste: Looking back,[p/] I probably should have just looked for help.",
     "translation": "Celeste: 现在想想，[p/]我确实应该找人帮忙。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1888\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1889",
     "original": "Celeste: But even if Aria was unconscious,[p/] I didn't want to leave you alone in that room with her...",
     "translation": "Celeste: 但即使阿莉亚失去意识了，[p/]当时我也不敢单独把你留在那里……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1889\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1890",
     "original": "Tyrion: R-[p/][s/]Right...[p/] Sorry...",
-    "translation": "Tyrion: 呃、[p/][s/]是啊……[p/]抱歉……",
-    "stage": 3,
+    "translation": "Tyrion: 是、[p/][s/]是啊……[p/]抱歉……",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1890\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1891",
     "original": "Recalling that moment is clearly taking a toll on her mind.",
-    "translation": "回忆当时的事让她很难受。",
-    "stage": 3,
+    "translation": "回忆当时的事肯定让她很难受。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1891\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1892",
     "original": "You should be more careful.",
-    "translation": "最好小心一点。",
-    "stage": 3,
+    "translation": "你应该多注意一点。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1892\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1894",
     "original": "Tyrion: Judging from the timing,[p/] this would have been several minutes after he'd already died.",
     "translation": "Tyrion: 从时间来看，[p/]那时应该是他死后几分钟。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1894\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1895",
     "original": "Orym: Yeah.[p/] And we had no idea what was going on.",
     "translation": "Orym: 对。[p/]我们当时一头雾水。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1895\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1896",
     "original": "Orym: Pierce was already dead.[p/] And you and Steelwind were unresponsive.",
-    "translation": "Orym: 皮尔斯已经死了。[p/]你和斯蒂尔文德也没有意识。",
-    "stage": 3,
+    "translation": "Orym: 皮尔斯已经死了。[p/]你和斯蒂尔文德也失去了意识。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1896\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1897",
     "original": "Tyrion: I can see why [i]I'd[/i] be unresponsive.[p/] I was hit with a spell specifically designed to make people sleep.",
     "translation": "Tyrion: 我知道<u>自己</u>为什么没有意识。[p/]我当时被施了专门催眠人的法术。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1897\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1898",
     "original": "Tyrion: But why would Aria be unresponsive too?",
     "translation": "Tyrion: 但阿莉亚怎么也失去了意识？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1898\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1899",
     "original": "Orym: We have no idea.[p/] We've never even [i]heard[/i] of demonic possession until today.",
     "translation": "Orym: 我们也不懂。[p/]恶魔操控的事情我们都是今天才<u>听说</u>。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1899\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1900",
     "original": "Orym: For all we know,[p/] it could've all been a side effect of being controlled for over an hour.",
     "translation": "Orym: 就我们掌握的情报而言，[p/]那可能是被操控意识一小时以上的后遗症。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1900\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1901",
     "original": "You suppose that makes sense.[p/] But could that common thread truly be a mere coincidence?",
     "translation": "这么说有道理。[p/]但这个共同点真的只是巧合吗？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1901\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1903",
     "original": "Hm...[p/] That last statement was a little vague.",
     "translation": "嗯……[p/]最后一句证言有点含糊。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1903\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1904",
     "original": "Perhaps you should ask him to elaborate more on one of the murders.",
     "translation": "也许应该让他针对其中一件谋杀案展开说明。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1904\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1906",
     "original": "Tyrion: And due to the lack of physical evidence,[p/] you're not sure what she used.",
     "translation": "Tyrion: 由于缺少物证，[p/]你并不确定凶器。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1906\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1907",
     "original": "Lucio: von Sanctus and Sibyl both died via suffocation.",
     "translation": "Lucio: 冯·桑克图斯与希比尔都是窒息死亡。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1907\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1908",
     "original": "Lucio: We can probably assume that the Patron used the same method to murder both of them.",
     "translation": "Lucio: 我们可以假定签约人用相同手法杀害二人。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1908\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1909",
     "original": "Tyrion: ...Well you know what they say about assuming.",
     "translation": "Tyrion: ……你也知道假定有什么问题。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1909\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1910",
     "original": "Lucio: ...Don't be cute, Cuthbert.",
     "translation": "Lucio: ……别装可爱了，卡斯伯特。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1910\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1911",
     "original": "Celeste: He can't help it.",
     "translation": "Celeste: 他就是这么可爱。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1911\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1912",
     "original": "Tyrion: ...What?",
     "translation": "Tyrion: ……什么？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1912\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1913",
     "original": "Celeste: ...What?",
     "translation": "Celeste: ……什么？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1913\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1914",
     "original": "...[i]Anyways[/i],[p/] Lucio's assumption [i]does[/i] make sense.[p/] But you don't want to jump to conclusions yet.",
-    "translation": "……<u>总之</u>，[p/]卢西奥的假设<u>确实</u>合理。[p/]但你不想就这样得出结论。",
-    "stage": 3,
+    "translation": "……<u>总之</u>，[p/]卢西奥的假设<u>确实</u>合理。[p/]但你不想这么快得出结论。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1914\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1915",
     "original": "Either way,[p/] is [i]von Sanctus[/i] the victim you want to focus on?",
     "translation": "不管怎样，[p/]要详细问<u>冯·桑克图斯</u>的案子吗？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1915\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1916",
     "original": "Perhaps you should ask him to elaborate on one of the other murders.",
     "translation": "也许应该让他针对其中一件谋杀案展开说明。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1916\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1918",
     "original": "Tyrion: Right...[p/] [b]Fire Bolt[/b] [i]is[/i] in her [b]Spell Compendium[/b].",
     "translation": "Tyrion: 这样……[p/]她的[b]法术汇编[/b]里<u>的确</u>包括[b]火焰箭[/b]。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1918\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1919",
     "original": "Tyrion: And von Sanctus wasn't exactly a fighter, after all.",
-    "translation": "Tyrion: 冯·桑克图斯也不是以战斗能力出名。",
-    "stage": 3,
+    "translation": "Tyrion: 冯·桑克图斯也不是以骁勇善战出名。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1919\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1920",
     "original": "Orym: Yeah...[p/] The poor sap didn't have a chance.",
     "translation": "Orym: 是啊……[p/]这个可怜虫毫无胜算。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1920\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1921",
     "original": "Orym: He must have been in immense pain from that attack.",
     "translation": "Orym: 攻击肯定使他痛苦异常。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1921\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1922",
     "original": "Lucio: ...",
     "translation": "Lucio: ……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1922\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1924",
     "original": "Tyrion: And since someone cast [b]Mend Wounds[/b] on the body,[p/] we still don't know how.",
     "translation": "Tyrion: 因为有人在尸体上用了[b]疗愈术[/b]，[p/]窒息手段不得而知。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1924\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1925",
     "original": "Orym: Yeah...[p/] It's going to be a real headache figuring that out.",
     "translation": "Orym: 对……[p/]想搞清楚很麻烦。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1925\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1926",
     "original": "You're compelled to agree with him.[p/] No one saw the murder.",
     "translation": "你也倾向这个观点。[p/]没人目击这起谋杀。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1927",
     "original": "The High Speaker only witnessed the moment Aria dumped the body,[p/] and even [i]he[/i] didn't see that much.",
-    "translation": "大主教只看到了阿莉亚弃尸，[p/]看到的也不多。",
-    "stage": 3,
+    "translation": "大主教只看到了阿莉亚弃尸瞬间，[p/]<u>他</u>看到的也不多。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1927\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1928",
     "original": "Anyways,[p/] is Sibyl the victim you want to focus on?",
     "translation": "总之，[p/]要详细问希比尔的案子吗？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1928\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1929",
     "original": "Perhaps you should ask him to elaborate on one of the other murders.",
     "translation": "也许应该让他针对其中一件谋杀案展开说明。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1929\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1931",
     "original": "Tyrion: How did you know her body was there anyways?",
     "translation": "Tyrion: 你们怎么知道尸体在那里？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1931\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1932",
     "original": "Orym: When bodies started dropping,[p/] we noticed that she was nowhere to be found.",
     "translation": "Orym: 屠杀开始后，[p/]我们发现哪儿都找不到她。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1932\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1933",
     "original": "Orym: One of the Kingsguard cast [b]Locate Creature[/b], and realized she was somewhere in the lake.",
     "translation": "Orym: 国王卫队成员之一使用了[b]定位生物[/b]，发现她的位置在湖里。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1933\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1934",
     "original": "Orym: It took us an hour before we finally fished her out.",
     "translation": "Orym: 把她捞出来花了我们一个小时。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1934\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1935",
     "original": "Lucio: Based on the High Speaker's testimony,[p/] she was dead long before that.",
-    "translation": "Lucio: 根据大主教的证言，[p/]她已经死亡多时了。",
-    "stage": 3,
+    "translation": "Lucio: 根据大主教的证言，[p/]她应该已经死亡多时了。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1935\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1937",
     "original": "Tyrion: Out of all the murders,[p/] Pierce's is the one we have the most information about.",
     "translation": "Tyrion: 这些谋杀案里，[p/]皮尔斯的案子情报最多。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1937\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1938",
     "original": "Orym: Yeah.[p/] From what it sounds like,[p/] this Patron wasn't planning to let McCoy live.",
     "translation": "Orym: 对。[p/]目前来看，[p/]签约人也没打算放过麦考伊。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1938\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1939",
     "original": "Orym: That drawn-out fight must have really thrown a wrench into their plans.",
-    "translation": "Orym: 那场持久战想必打了他们一个措手不及。",
+    "translation": "Orym: 那场持久战想必打了签约人一个措手不及。",
     "stage": 3,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1939\",\n  \"keywords\": []\n}"
   },
@@ -12344,161 +12344,161 @@
     "key": "Default (en-US)-sharedassets0.assets-143-1940",
     "original": "Lucio: I find [i]that[/i] a little strange though...",
     "translation": "Lucio: 我觉得<u>这</u>有点奇怪……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1940\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1941",
     "original": "Tyrion: ...How so?",
     "translation": "Tyrion: ……为什么？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1941\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1942",
     "original": "Lucio: My daughter is a worthless soldier.[p/] She has no talent for combat.",
     "translation": "Lucio: 我的女儿可当不了士兵。[p/]她一点战斗天赋都没有。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1942\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1943",
     "original": "Lucio: And [i]I've[/i] experienced McCoy's battle prowess firsthand.",
     "translation": "Lucio: 而且我<u>本人</u>体验过麦考伊的战斗能力。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1943\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1944",
     "original": "Lucio: As much as I hate to admit it,[p/] McCoy should have easily overcome her in an even fight.",
     "translation": "Lucio: 虽然不愿意承认，[p/]但公平战斗的话，麦考伊应该能轻松碾压我的女儿。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1944\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1945",
     "original": "Celeste: I-[p/]It was her magic that was the problem.",
     "translation": "Celeste: 她、[p/]她的魔法很难缠。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1945\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1946",
     "original": "Celeste: And I had no idea what kind of spells she could throw at me.[p/] So I had to be careful.",
     "translation": "Celeste: 我完全不知道她能用什么法术。[p/]所以必须小心应战。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1946\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1947",
     "original": "Celeste: ...And despite everything,[p/] I [i]really[/i] didn't want to hurt her.",
     "translation": "Celeste: ……虽然发生了这么多，[p/]但我当时<u>真的</u>不想伤害她。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1947\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1948",
     "original": "Lucio: Hm...[p/] That kindness could be the death of you, McCoy.",
     "translation": "Lucio: 唔……[p/]太过善良会害死你的，麦考伊。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1948\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1949",
     "original": "Tyrion: ...",
     "translation": "Tyrion: ……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1949\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1950",
     "original": "...It'd be better to just let that slide.",
     "translation": "……还是别深究刚才的话了。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1950\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1951",
     "original": "Anyways,[p/] is Pierce the victim you want to focus on?",
     "translation": "总之，[p/]要详细问皮尔斯的案子吗？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1951\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1952",
     "original": "Perhaps you should ask him to elaborate on one of the other murders.",
     "translation": "也许应该让他针对其中一件谋杀案展开说明。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1952\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1954",
     "original": "Tyrion: ...Which is strangely similar to how he murdered Flinhart McCoy.",
     "translation": "Tyrion: ……和皮尔斯杀害弗林哈特·麦考伊的手法如出一辙。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1954\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1955",
     "original": "Lucio: Lord Pierce [i]was[/i] one of the targets of the Patron.",
     "translation": "Lucio: 皮尔斯勋爵<u>也是</u>签约人的目标之一。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1955\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1956",
     "original": "Lucio: It's likely they knew about what happened during McCoy's trials and drew inspiration from that.",
     "translation": "Lucio: 签约人可能知道麦考伊庭审的事，从中获得了灵感。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1956\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1957",
     "original": "Tyrion: Still, though...[p/] It seems awfully creative for something that they came up with at the moment.",
     "translation": "Tyrion: 话是这么说……[p/]就算是临机应变，也太异想天开了吧。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1957\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1958",
     "original": "Lucio: Well...[p/] Don't the legends say that [i]demons[/i] engage in contrapasso?",
     "translation": "Lucio: 这个嘛……[p/]应该就是<u>恶魔</u>喜欢的“Contrapasso”吧？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1958\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1959",
     "original": "Orym: ...Say what now?",
     "translation": "Orym: ……什么玩意儿？",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1959\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1960",
     "original": "Tyrion: Some people believe that when souls are sent to hell,[p/] they're punished in a way that relates to their sins.",
     "translation": "Tyrion: 这是《神曲》里的概念，[p/]灵魂被送往地狱后，[p/]会依照生前的罪行遭受惩罚。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1960\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1961",
     "original": "Tyrion: In Pierce's case,[p/] he committed murder with a frozen blade.",
     "translation": "Tyrion: 皮尔斯之前利用了冰冻剑刃杀人。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1961\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1962",
     "original": "Tyrion: It's possible this Empress wanted the Patron to murder him in the same way.",
     "translation": "Tyrion: 女皇可能要求签约人用相同手法杀害他。",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1962\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1963",
     "original": "...Although,[p/] you still can't say for sure...",
     "translation": "……虽然，[p/]你还是不敢确定……",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1963\",\n  \"keywords\": []\n}"
   },
   {
@@ -53433,8 +53433,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1893",
     "original": "Orym: We went to the Prayer Room.[p/] That's when we found Steelwind and Cuthbert unconscious next to Pierce's dead body.",
-    "translation": "Orym: 我们就先去了祷告室。[p/]也在那里发现了皮尔斯的尸体，以及旁边失去意识的斯蒂尔文德和卡斯伯特。",
-    "stage": 3,
+    "translation": "Orym: 我们就先去了祷告室。[p/]在那里我们发现了皮尔斯的尸体，以及旁边失去意识的斯蒂尔文德和卡斯伯特。",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1893\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
