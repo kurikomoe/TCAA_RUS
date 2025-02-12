@@ -1,14 +1,12 @@
 #pragma once
 
-#include <iostream>
-#include <format>
 #include <MinHook.h>
 #include <string>
 #include <cstdint>
 #include <map>
 
 #include "game_def.h"
-#include "consts.h"
+#include "helper.hpp"
 
 
 std::map<std::wstring, std::wstring> enum_string_map = {
@@ -25,15 +23,6 @@ std::map<std::wstring, std::wstring> enum_string_map = {
     {L"Illusion", L"幻象术"},
     {L"Abjuration", L"防护术"},
     {L"Necromancy", L"死灵术"},
-
-    // {L"Backspace", L"退格键"},
-    // {L"Space", L"空格键"},
-    // {L"Return", L"回车键"},
-    // {L"Escape", L"ESC键"},
-    // {L"LeftArrow", L"方向键 左"},
-    // {L"RightArrow", L"方向键 右"},
-    // {L"UpArrow", L"方向键 上"},
-    // {L"DownArrow", L"方向键 下"},
 
     // Only for testing
     // {L"地图", L"Map"},
@@ -84,15 +73,12 @@ System_String_array* hook_SystemEnumGetName(void* enumType, void* method) {
 namespace EnumString {
 
     int init(DWORD base) {
-        tgt_SystemEnumGetName += base;
-        std::cout << std::format("System_Enum__GetName: {:#x}\n", tgt_SystemEnumGetName);
-        if (MH_CreateHook((LPVOID)tgt_SystemEnumGetName, &hook_SystemEnumGetName, (LPVOID*)&orig_SystemEnumGetName) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_SystemEnumGetName);
-            return 1;
-        }
-
-        if (MH_EnableHook((LPVOID)tgt_SystemEnumGetName) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
+        if (utils::ApplyPatch(
+            L"SystemEnumGetName",
+            base,
+            tgt_SystemEnumGetName,
+            hook_SystemEnumGetName,
+            orig_SystemEnumGetName) != 0) {
             return 1;
         }
 

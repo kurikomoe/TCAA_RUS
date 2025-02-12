@@ -3,14 +3,10 @@
 */
 #pragma once
 #include <cstdint>
-#include <cstdlib>
-#include <cstring>
 #include <iostream>
-#include <format>
 #include <windows.h>
 
 #include <MinHook.h>
-#include "helper.hpp"
 
 #include "game_def.h"
 

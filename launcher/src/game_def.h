@@ -2,11 +2,8 @@
 
 #include <windows.h>
 #include <cstdint>
-#include <iostream>
-#include <cstddef>
 #include <string>
 #include <map>
-#include <algorithm>
 
 struct __declspec(align(4)) System_String_Fields // sizeof=0x8
 {

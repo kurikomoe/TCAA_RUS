@@ -1,11 +1,8 @@
 #include <MinHook.h>
 #include <cstdint>
 #include <filesystem>
-#include <format>
 #include <cstdlib>
 #include <cstdio>
-#include <ios>
-#include <iostream>
 #include <map>
 #include <mutex>
 #include <set>
@@ -16,8 +13,9 @@
 #include "game_def.h"
 
 #include "tmpro.h"
+#include "helper.hpp"
 
-std::map<std::wstring, std::wstring> tmpro_data = {
+std::map<std::wstring, std::wstring> gTmproData = {
     {L"Courtroom", L"法庭"},
     {L"Backspace", L"退格键"},
     {L"Return", L"回车键"},
@@ -100,8 +98,8 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
     text_out_mutex.unlock();
   }
 
-  if (tmpro_data.contains(ss)) {
-    auto new_name = tmpro_data[ss];
+  if (gTmproData.contains(ss)) {
+    auto new_name = gTmproData[ss];
 
     text = utils::GetSystemString(new_name, text);
   }
@@ -110,22 +108,15 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
 
   return;
 }
+
 int TMPro::init(DWORD base) {
-  tgt_TMPro_TMP_Text__set_text += base;
-  std::cout << std::format("TMPro_TMP_Text__set_text: {:#x}\n",
-                           tgt_TMPro_TMP_Text__set_text);
-  if (MH_CreateHook((LPVOID)tgt_TMPro_TMP_Text__set_text,
-                    &hook_TMPro_TMP_Text__set_text,
-                    (LPVOID *)&orig_TMPro_TMP_Text__set_text) != MH_OK) {
-    std::cout << std::format("MH_CreateHook Failed: {:#x}\n",
-                             (DWORD)tgt_TMPro_TMP_Text__set_text);
-    return 1;
+  if (utils::ApplyPatch(
+      L"TMPro_TMP_Text__set_text",
+      base,
+      tgt_TMPro_TMP_Text__set_text,
+      hook_TMPro_TMP_Text__set_text,
+      orig_TMPro_TMP_Text__set_text) != 0) {
+      return 1;
   }
-
-  if (MH_EnableHook((LPVOID)tgt_TMPro_TMP_Text__set_text) != MH_OK) {
-    std::cout << std::format("MH_EnableHook Failed\n");
-    return 1;
-  }
-
   return 0;
 }

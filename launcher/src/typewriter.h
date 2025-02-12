@@ -12,6 +12,7 @@
 #include <MinHook.h>
 
 #include "game_def.h"
+#include "helper.hpp"
 
 
 System_String_o* new_sep = nullptr;
@@ -58,23 +59,15 @@ namespace Typewriter {
         System_String_Split += base;
         std::cout << std::format("System_String_Split: {:#x}\n", System_String_Split);
 
-        tgt_TypewriterSplitText += base;
-        std::cout << std::format("tgt_TypewriterSplitText: {:#x}\n", tgt_TypewriterSplitText);
-
         tgt_DeductionConcatText += base;
         std::cout << std::format("tgt_DeductionConcatText: {:#x}\n", tgt_DeductionConcatText);
 
-        auto ret = MH_CreateHook(
-            (LPVOID)tgt_TypewriterSplitText,
-            &hook_TypewriterSplitText,
-            (LPVOID*)&orig_TypewriterSplitText);
-        if (ret != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x} {}\n", (DWORD)tgt_TypewriterSplitText, (int)ret);
-            return 1;
-        }
-
-        if (MH_EnableHook((LPVOID)tgt_TypewriterSplitText) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
+        if (utils::ApplyPatch(
+            L"TypewriterSplitText",
+            base,
+            tgt_TypewriterSplitText,
+            hook_TypewriterSplitText,
+            orig_TypewriterSplitText) != 0) {
             return 1;
         }
 

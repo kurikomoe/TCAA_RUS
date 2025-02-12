@@ -1,10 +1,6 @@
 #include <windows.h>
-#include <cstdint>
-#include <iostream>
-#include <cstddef>
 #include <string>
 #include <map>
-#include <algorithm>
 
 #include "game_def.h"
 
@@ -36,4 +32,5 @@ std::wstring wstring(System_String_o *text) {
                   text->fields._stringLength);
   return ss;
 }
+
 }

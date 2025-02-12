@@ -7,13 +7,18 @@
 #include <iostream>
 #include <filesystem>
 #include <cassert>
-#include "helper.hpp"
+#include <map>
 
-const char* new_data_unity = "data.unity3d.chs";
 
 using CreateFileWFnT = decltype(&CreateFileW);
 CreateFileWFnT orig_CreateFileW = NULL;
 CreateFileWFnT tgt_CreateFileW = NULL;
+
+// filename => new_filename
+std::map<std::wstring, std::wstring> gRedirectFiles = {
+    {L"global-metadata.dat", L"global-metadata.dat.chs"},
+    {L"data.unity3d", L"data.unity3d.chs"},
+};
 
 HANDLE WINAPI hook_CreateFileW(
   LPCWSTR               lpFileName,
@@ -25,20 +30,21 @@ HANDLE WINAPI hook_CreateFileW(
   HANDLE                hTemplateFile
 ) {
     if (lpFileName != nullptr) {
-        std::wstring filename(lpFileName);
-        std::wcout << "CreateFileW: " << filename << std::endl;
+        std::wstring filename_raw(lpFileName);
+        std::wcout << "CreateFileW: " << filename_raw << std::endl;
         // MessageBoxW(NULL, lpFileName, L"HOOK", MB_OK);
 
-        auto filename_path = new std::filesystem::path(filename);
-        if (filename_path->filename() == L"global-metadata.dat") {
-            std::wcout << L"Found global-metadata.dat read, redirecting to global-metadata.dat.chs" << std::endl;
-            filename_path->replace_filename(L"global-metadata.dat.chs");
-            lpFileName = filename_path->c_str();
-        } else if (filename_path->filename() == L"data.unity3d") {
-            std::wcout << L"Found data.unity3d read, redirecting to data.unity3d.chs" << std::endl;
-            filename_path->replace_filename(L"data.unity3d.chs");
-            lpFileName = filename_path->c_str();
+        auto filename_path = new std::filesystem::path(filename_raw);
+        auto filename = filename_path->filename();
+
+        if (!gRedirectFiles.contains(filename)) {
+            goto END;
         }
+
+        auto& new_filename = gRedirectFiles.at(filename);
+        std::wcout << std::format(L"Found {} read, redirect to {}\n", filename_raw, new_filename);
+        filename_path->replace_filename(new_filename);
+        lpFileName = filename_path->c_str();
     }
 
 END:
@@ -54,24 +60,24 @@ END:
 }
 
 
-using FSOpenFnT = char __fastcall (int* a1, char* a2);
+// const char* new_data_unity = "data.unity3d.chs";
+// using FSOpenFnT = char __fastcall (int* a1, char* a2);
+// uintptr_t tgt_loading = 0x483ed0;
+// uintptr_t p_aDataUnity3d_0 = 0x14f7b64;
+// FSOpenFnT* orig_loading = nullptr;
 
-uintptr_t tgt_loading = 0x483ed0;
-uintptr_t p_aDataUnity3d_0 = 0x14f7b64;
-FSOpenFnT* orig_loading = nullptr;
+// char __fastcall hook_loading(int* a1, char* a2) {
+//     DWORD player_base = (DWORD)GetModuleHandleW(L"UnityPlayer.dll");
+//     p_aDataUnity3d_0 += player_base;
 
-char __fastcall hook_loading(int* a1, char* a2) {
-    DWORD player_base = (DWORD)GetModuleHandleW(L"UnityPlayer.dll");
-    p_aDataUnity3d_0 += player_base;
+//     char* buf = new char[255];
+//     memset(buf, 0, 255);
+//     strcpy(buf, new_data_unity);
 
-    char* buf = new char[255];
-    memset(buf, 0, 255);
-    strcpy(buf, new_data_unity);
+//     *(DWORD*)(p_aDataUnity3d_0) = (DWORD)buf;
 
-    *(DWORD*)(p_aDataUnity3d_0) = (DWORD)buf;
-
-    return orig_loading(a1, a2);
-}
+//     return orig_loading(a1, a2);
+// }
 
 
 namespace CreateFileHook {

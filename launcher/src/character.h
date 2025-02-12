@@ -9,6 +9,7 @@
 
 #include "game_def.h"
 #include "consts.h"
+#include "helper.hpp"
 
 
 std::atomic_flag is_showing_chara_card;
@@ -123,45 +124,32 @@ namespace Character {
     int init(DWORD base) {
         StringLiteral_6996 += base;
 
-        tgt_CharacterIntro__ShowChar_d__15__MoveNext += base;
-        std::cout << std::format("CharacterIntro__ShowChar_d__15__MoveNext: {:#x}\n", tgt_CharacterIntro__ShowChar_d__15__MoveNext);
-        if (MH_CreateHook((LPVOID)tgt_CharacterIntro__ShowChar_d__15__MoveNext, &hook_CharacterIntro__ShowChar_d__15__MoveNext, (LPVOID*)&orig_CharacterIntro__ShowChar_d__15__MoveNext) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_CharacterIntro__ShowChar_d__15__MoveNext);
-            return 1;
-        }
-
-        if (MH_EnableHook((LPVOID)tgt_CharacterIntro__ShowChar_d__15__MoveNext) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
+        if (utils::ApplyPatch(
+            L"CharacterIntro__ShowChar_d__15__MoveNext",
+            base,
+            tgt_CharacterIntro__ShowChar_d__15__MoveNext,
+            hook_CharacterIntro__ShowChar_d__15__MoveNext,
+            orig_CharacterIntro__ShowChar_d__15__MoveNext) != 0) {
             return 1;
         }
 
 
         orig_GameState__GetOccupationOverride += base;
-        tgt_GameState__GetOccupationOverride += base;
-        std::cout << std::format("GameState__GetOccupationOverride: {:#x}\n", tgt_GameState__GetOccupationOverride);
-        if (MH_CreateHook(
-                (LPVOID)tgt_GameState__GetOccupationOverride,
-                &hook_GameState__GetOccupationOverride,
-                (LPVOID*)&next_GameState__GetOccupationOverride) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_GameState__GetOccupationOverride);
+        if (utils::ApplyPatch(
+            L"GameState__GetOccupationOverride",
+            base,
+            tgt_GameState__GetOccupationOverride,
+            hook_GameState__GetOccupationOverride,
+            next_GameState__GetOccupationOverride) != 0) {
             return 1;
         }
 
-        if (MH_EnableHook((LPVOID)tgt_GameState__GetOccupationOverride) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
-            return 1;
-        }
-
-
-        tgt_CharacterLibrary__GetCharacter += base;
-        std::cout << std::format("CharacterLibrary__GetCharacter: {:#x}\n", tgt_CharacterLibrary__GetCharacter);
-        if (MH_CreateHook((LPVOID)tgt_CharacterLibrary__GetCharacter, &hook_CharacterLibrary__GetCharacter, (LPVOID*)&orig_CharacterLibrary__GetCharacter) != MH_OK) {
-            std::cout << std::format("MH_CreateHook Failed: {:#x}\n", (DWORD)tgt_CharacterLibrary__GetCharacter);
-            return 1;
-        }
-
-        if (MH_EnableHook((LPVOID)tgt_CharacterLibrary__GetCharacter) != MH_OK) {
-            std::cout << std::format("MH_EnableHook Failed\n");
+        if (utils::ApplyPatch(
+            L"CharacterLibrary__GetCharacter",
+            base,
+            tgt_CharacterLibrary__GetCharacter,
+            hook_CharacterLibrary__GetCharacter,
+            orig_CharacterLibrary__GetCharacter) != 0) {
             return 1;
         }
 
