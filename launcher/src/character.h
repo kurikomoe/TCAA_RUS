@@ -13,18 +13,38 @@
 
 std::atomic_flag is_showing_chara_card;
 
-
+// FIXME(kuriko): use NullOrWhitespace instead of this.
 intptr_t StringLiteral_6996 = 0xeaf258;
 
-void ModifyStringWorker(System_String_o** tmp, const wchar_t* size, const wchar_t* voffset) {
+// Some consts
+const wchar_t* name_size = L"100%";
+const wchar_t* name_voffset = L"0.09em";
+
+const wchar_t* occupation_size = L"4em";
+const wchar_t* occupation_voffset = L"0.23em";
+const wchar_t* occupation_space = L"-1em";
+
+void ModifyStringWorker(
+    System_String_o** tmp,
+    const wchar_t* size,
+    const wchar_t* voffset,
+    const wchar_t* space=nullptr
+) {
     auto* system_string_ptr = *tmp;
     auto* ptr = &system_string_ptr->fields;
     std::wstring ss((wchar_t*)&ptr->_firstChar, ptr->_stringLength);
     std::wcout << L"Got occupation/name string: " << ss << std::endl;
 
-    auto* new_string = utils::GetSystemString(
-        std::format(L"<size={}><voffset={}>{}</voffset>", size, voffset, ss),
-        system_string_ptr);
+    System_String_o* new_string = nullptr;
+    if (space) {
+        new_string = utils::GetSystemString(
+            std::format(L"<space={}><size={}><voffset={}>{}</voffset>", space, size, voffset, ss),
+            system_string_ptr);
+    } else {
+        new_string = utils::GetSystemString(
+            std::format(L"<size={}><voffset={}>{}</voffset>", size, voffset, ss),
+            system_string_ptr);
+    }
     *tmp = new_string;
 };
 
@@ -46,7 +66,13 @@ System_String_o* new_GameState__GetOccupationOverride(void* This, void* char_nam
     auto* ptr = (GameState__GetOccupationOverrideT*)orig_GameState__GetOccupationOverride;
     auto* ret = ptr(This, char_name, method);
     if ((intptr_t)ret != *(intptr_t*)StringLiteral_6996 && is_showing_chara_card.test()) {
-        ModifyStringWorker(&ret, L"4em", L"0.23em");
+        // Occupation
+        ModifyStringWorker(
+            &ret,
+            occupation_size,
+            occupation_voffset,
+            occupation_space
+        );
         std::wstring ss((wchar_t*)&ret->fields._firstChar, ret->fields._stringLength);
         std::wcout << L"Override Occupation: " << ss << std::endl;
     }
@@ -73,8 +99,19 @@ CharacterData_o* hook_CharacterLibrary__GetCharacter(void* This, System_String_o
         auto* new_ret = (CharacterData_o*)malloc(sizeof(CharacterData_o));
         memcpy(new_ret, ret, sizeof(CharacterData_o));
 
-        ModifyStringWorker(&new_ret->fields.displayName, L"100%", L"0.09em");
-        ModifyStringWorker(&new_ret->fields.occupation, L"4em", L"0.23em");
+        // DisplayName
+        ModifyStringWorker(
+            &new_ret->fields.displayName,
+            name_size,
+            name_voffset
+        );
+        // Occupation
+        ModifyStringWorker(
+            &new_ret->fields.occupation,
+            occupation_size,
+            occupation_voffset,
+            occupation_space
+        );
         return new_ret;
     }
 

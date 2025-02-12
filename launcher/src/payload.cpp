@@ -27,7 +27,8 @@ BOOL WINAPI hook_SetWindowTextW(HWND hWnd, LPCWSTR lpString) {
         std::wcout << window_name << std::endl;
 
         if (window_name == ORIG_TITLE_NAME) {
-            window_name += TITLE_NAME_SUFFIX;
+            // window_name += TITLE_NAME_SUFFIX;
+            window_name = L"奥术律师 " + TITLE_NAME_SUFFIX;
             lpString = window_name.c_str();
         }
     }
