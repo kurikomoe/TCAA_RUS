@@ -32,16 +32,16 @@ std::map<std::wstring, std::wstring> gTmproData = {
     // {L"Square", L"Ⓧ"},
     // {L"Triangle", L"Ⓨ"},
     // {L"Circle", L"Ⓑ"},
-    {L"Cross", L"手柄 A 键"},
-    {L"Square", L"手柄 X 键"},
-    {L"Triangle", L"手柄 Y 键"},
-    {L"Circle", L"手柄 B 键"},
-    {L"L1", L"左肩键"},
-    {L"R1", L"右肩键"},
-    {L"L2", L"左扳机"},
-    {L"R2", L"右扳机"},
-    {L"L3", L"按下左摇杆"},
-    {L"R3", L"按下右摇杆"},
+    {L"Cross",    L"A键"},
+    {L"Square",   L"X键"},
+    {L"Triangle", L"Y键"},
+    {L"Circle",   L"B键"},
+    {L"L1", L"LB"},
+    {L"R1", L"RB"},
+    {L"L2", L"LT"},
+    {L"R2", L"RT"},
+    {L"L3", L"L3"},
+    {L"R3", L"R3"},
 
     {L"Normal", L"正常"},
     {L"Fast", L"快速"},
@@ -52,6 +52,17 @@ std::map<std::wstring, std::wstring> gTmproData = {
 
     {L"Windowed", L"窗口化"},
     {L"Fullscreen", L"全屏"},
+
+    // <b>[Square]</b>:
+    // Present Evidence
+    // Detect Magic
+    // Psychological Profile
+    // View
+    // Confirm
+    // {L"<b>[Cross]</b>: Present Evidence",    L"[A键]: 出示证据"},
+    // {L"<b>[Square]</b>: Present Evidence",   L"[X键]: 出示证据"},
+    // {L"<b>[Triangle]</b>: Present Evidence", L"[Y键]: 出示证据"},
+    // {L"<b>[Circle]</b>: Present Evidence",   L"[B键]: 出示证据"},
 
     {L"Disabled", L"禁用"},
 };
@@ -115,6 +126,41 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
 }
 
 int TMPro::init(DWORD base) {
+  // Extra inits
+  std::vector<std::tuple<std::wstring, std::wstring>> controller_inputs = {
+    {L"Cross",    L"A键"},
+    {L"Square",   L"X键"},
+    {L"Triangle", L"Y键"},
+    {L"Circle",   L"B键"},
+    {L"L1", L"LB"},
+    {L"R1", L"RB"},
+    {L"L2", L"LT"},
+    {L"R2", L"RT"},
+    {L"L3", L"L3"},
+    {L"R3", L"R3"},
+    {L"Start", L"Start"},
+    {L"Select", L"Select"},
+  };
+
+  std::vector<std::tuple<std::wstring, std::wstring>> special_inputs = {
+    {L"Present Evidence", L"出示证据"},
+    {L"Detect Magic",     L"法术探测"},
+    {L"Psychological Profile", L"心理档案"},
+    {L"View",    L"查看"},
+    {L"Confirm", L"确认"},
+  };
+
+  for (auto& [input, input_trans] : controller_inputs) {
+    for (auto& [ty, ty_trans] : special_inputs) {
+      gTmproData.insert(
+        {
+          std::format(L"<b>[{}]</b>: {}", input, ty),
+          std::format(L"<b>[{}]</b>: {}", input_trans, ty_trans),
+        }
+      );
+    }
+  }
+
   if (utils::ApplyPatch(
       L"TMPro_TMP_Text__set_text",
       base,
