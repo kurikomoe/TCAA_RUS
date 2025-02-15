@@ -5,8 +5,8 @@
 #include <boost/date_time/local_time/local_time.hpp>
 
 // constexpr auto version = L"nightly 2025-01-05";
-constexpr const auto* group_text = L"「TCAA 汉化组，版本: {}」";
-constexpr const auto* version_text = L"Alpha {}";
+constexpr const auto* group_text = L"「奥秘通译事务所汉化组，版本: {}」";
+constexpr const auto* version_text = L"Beta {}";
 
 std::string convertUnixTimestamp(std::time_t unix_time);
 

@@ -69,7 +69,7 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
                                    void *method) {
   auto ss = utils::wstring(text);
 
-  if constexpr (IsDebug) {
+  if constexpr (false && IsDebug) {
     text_out_mutex.lock();
     if (f_text == nullptr) {
       wchar_t buf[2048];
@@ -96,6 +96,11 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
       wprintf_s(L"%ls, len(text_set)=%zu\n", ss.c_str(), text_set.size());
     }
     text_out_mutex.unlock();
+  } else if constexpr (IsDebug){
+    if (text_set.find(ss) == text_set.end()) {
+      text_set.insert(ss);
+      std::wcout << ss << L"\n";
+    }
   }
 
   if (gTmproData.contains(ss)) {

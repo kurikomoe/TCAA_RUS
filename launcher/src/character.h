@@ -21,9 +21,9 @@ intptr_t StringLiteral_6996 = 0xeaf258;
 const wchar_t* name_size = L"100%";
 const wchar_t* name_voffset = L"0.09em";
 
-const wchar_t* occupation_size = L"4em";
-const wchar_t* occupation_voffset = L"0.23em";
-const wchar_t* occupation_space = L"-1em";
+const wchar_t* occupation_size = L"3.9em";
+const wchar_t* occupation_voffset = L"0.215em";
+const wchar_t* occupation_space = L"-1.5em";
 
 void ModifyStringWorker(
     System_String_o** tmp,
