@@ -4029,7 +4029,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-709",
     "original": "Player: What did you see?",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-709\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-709\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Talk_BeatriceRoom1\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-710",
@@ -4185,7 +4185,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-735",
     "original": "Player: Beatrice's Room",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-735\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-735\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Talk_BeatriceRoom1\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-736",
@@ -4245,7 +4245,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-745",
     "original": "Player: William Frega",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-745\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-745\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Talk_BeatriceRoom1\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-746",
@@ -4371,7 +4371,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-766",
     "original": "Player: Beatrice Frega",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-766\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-766\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Talk_BeatriceRoom1\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-767",
@@ -4473,7 +4473,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-783",
     "original": "Player: The Accident",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-783\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-783\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Talk_BeatriceRoom1\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-784",
@@ -4599,7 +4599,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-804",
     "original": "Player: BACK",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-804\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom.yarn-Talk_BeatriceRoom1-804\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Talk_BeatriceRoom1\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-806",
@@ -6417,13 +6417,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1129",
     "original": "Player: Tracker heard rats running in the vents",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce2-1129\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0\",\n          \"Tracker,Beatrice,Harold,The thief\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0\",\n          \"heard,saw,hid,caused\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0\",\n          \"rats running,the lockdown,glass shattering,a dog barking\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0\",\n          \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce2-1129\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TrackerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0\",\n          \"Tracker,Beatrice,Harold,The thief\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0\",\n          \"heard,saw,hid,caused\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0\",\n          \"rats running,the lockdown,glass shattering,a dog barking\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0\",\n          \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1130",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce2-1130\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0\",\n          \"Tracker,Beatrice,Harold,The thief\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0\",\n          \"heard,saw,hid,caused\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0\",\n          \"rats running,the lockdown,glass shattering,a dog barking\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0\",\n          \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce2-1130\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TrackerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0\",\n          \"Tracker,Beatrice,Harold,The thief\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0\",\n          \"heard,saw,hid,caused\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0\",\n          \"rats running,the lockdown,glass shattering,a dog barking\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0\",\n          \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1131",
@@ -6495,13 +6495,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1142",
     "original": "Player: The Familial Bond was nullified by Anti-Magic Field",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce4-1142\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0\",\n          \"The Familial Bond,Beatrice,Tracker,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-23-0\",\n          \"was nullified,was distracted,was ignored,was created\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-24-0\",\n          \"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce4-1142\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TrackerDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0\",\n          \"The Familial Bond,Beatrice,Tracker,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-23-0\",\n          \"was nullified,was distracted,was ignored,was created\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-24-0\",\n          \"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1143",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce4-1143\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0\",\n          \"The Familial Bond,Beatrice,Tracker,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-23-0\",\n          \"was nullified,was distracted,was ignored,was created\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-24-0\",\n          \"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce4-1143\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TrackerDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0\",\n          \"The Familial Bond,Beatrice,Tracker,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-23-0\",\n          \"was nullified,was distracted,was ignored,was created\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce3-24-0\",\n          \"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1144",
@@ -6603,13 +6603,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1160",
     "original": "Player: The stick that Tracker obtained was actually the Sword of Spell Eating",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce6-1160\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0\",\n          \"The stick,The sword,The weapon,The will\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0\",\n          \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0\",\n          \"was actually,was not,was actually,was not\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0\",\n          \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce6-1160\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TrackerDeduce6\",\n      \"指令\": \"\"\n    },\n    \"疑似物品： Sword of Spell Eating\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0\",\n          \"The stick,The sword,The weapon,The will\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0\",\n          \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0\",\n          \"was actually,was not,was actually,was not\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0\",\n          \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1161",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce6-1161\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0\",\n          \"The stick,The sword,The weapon,The will\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0\",\n          \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0\",\n          \"was actually,was not,was actually,was not\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0\",\n          \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/BeatriceRoom2.yarn-TrackerDeduce6-1161\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TrackerDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0\",\n          \"The stick,The sword,The weapon,The will\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0\",\n          \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0\",\n          \"was actually,was not,was actually,was not\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0\",\n          \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1162",
@@ -6855,97 +6855,97 @@
     "key": "Default (en-US)-sharedassets0.assets-148-1208",
     "original": "Player: Barracks",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1208\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1208\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1209",
     "original": "Player: Ballroom1",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1209\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1209\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1210",
     "original": "Player: Study1",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1210\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1210\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1211",
     "original": "Player: Storage",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1211\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1211\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1212",
     "original": "Player: BeatriceRoom1",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1212\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1212\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1213",
     "original": "Player: WaitingRoom1",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1213\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1213\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1214",
     "original": "Player: Gallery1",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1214\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1214\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1215",
     "original": "Player: Back",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1215\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1215\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1216",
     "original": "Player: BallroomIntro",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1216\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1216\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1217",
     "original": "Player: HallwayIntro",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1217\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1217\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1218",
     "original": "Player: GalleryIntro",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1218\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1218\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1219",
     "original": "Player: Back",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1219\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Move-1219\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1220",
     "original": "Player: Examine",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1220\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1220\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1221",
     "original": "Player: Talk",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1221\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1221\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1222",
     "original": "Player: Move",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1222\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1222\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1223",
     "original": "Player: Present",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1223\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Case4Main.yarn-Main-1223\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-1224",
@@ -12801,7 +12801,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2231",
     "original": "Player: Eugene Haroldson",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye3-2231\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-24-0\",\n          \"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye3-2231\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: HaroldAfterEye3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-24-0\",\n          \"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2232",
@@ -12813,7 +12813,7 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2233",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye3-2233\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-24-0\",\n          \"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye3-2233\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: HaroldAfterEye3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-24-0\",\n          \"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2234",
@@ -12873,13 +12873,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2243",
     "original": "Player: Eugene was acting of their own free will",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye5-2243\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-11-0\",\n          \"was acting,was not acting,was acting,was not acting\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-12-0\",\n          \"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye5-2243\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: HaroldAfterEye5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-11-0\",\n          \"was acting,was not acting,was acting,was not acting\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-12-0\",\n          \"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2244",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye5-2244\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-11-0\",\n          \"was acting,was not acting,was acting,was not acting\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-12-0\",\n          \"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye5-2244\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: HaroldAfterEye5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-11-0\",\n          \"was acting,was not acting,was acting,was not acting\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-12-0\",\n          \"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2245",
@@ -12975,13 +12975,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2260",
     "original": "Player: Eugene wore the Armbands of Intellect",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye7-2260\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0\",\n          \"wore,stole,framed,murdered\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0\",\n          \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye7-2260\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: HaroldAfterEye7\",\n      \"指令\": \"\"\n    },\n    \"疑似物品： Armbands of Intellect\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0\",\n          \"wore,stole,framed,murdered\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0\",\n          \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2261",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye7-2261\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0\",\n          \"wore,stole,framed,murdered\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0\",\n          \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-HaroldAfterEye7-2261\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: HaroldAfterEye7\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0\",\n          \"Eugene,Tracker,Harold,Beatrice\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0\",\n          \"wore,stole,framed,murdered\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0\",\n          \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2262",
@@ -13953,13 +13953,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2423",
     "original": "Player: Eugene is wearing the Armbands at this moment",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj3-2423\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0\",\n          \"Eugene,Beatrice,William,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0\",\n          \"is wearing,found,stole,hid\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0\",\n          \"the Armbands,the Sword,the murder weapon,Celeste's sword\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0\",\n          \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj3-2423\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: EugeneObj3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0\",\n          \"Eugene,Beatrice,William,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0\",\n          \"is wearing,found,stole,hid\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0\",\n          \"the Armbands,the Sword,the murder weapon,Celeste's sword\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0\",\n          \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2424",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj3-2424\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0\",\n          \"Eugene,Beatrice,William,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0\",\n          \"is wearing,found,stole,hid\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0\",\n          \"the Armbands,the Sword,the murder weapon,Celeste's sword\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0\",\n          \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-EugeneObj3-2424\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: EugeneObj3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0\",\n          \"Eugene,Beatrice,William,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0\",\n          \"is wearing,found,stole,hid\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0\",\n          \"the Armbands,the Sword,the murder weapon,Celeste's sword\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0\",\n          \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2425",
@@ -15981,13 +15981,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2766",
     "original": "Player: The thief dropped the Sword in the hallway",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj11-2766\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0\",\n          \"dropped,hid,stole,nullified\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0\",\n          \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0\",\n          \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj11-2766\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Eug2Obj11\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0\",\n          \"dropped,hid,stole,nullified\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0\",\n          \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0\",\n          \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2767",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj11-2767\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0\",\n          \"dropped,hid,stole,nullified\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0\",\n          \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0\",\n          \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj11-2767\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Eug2Obj11\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0\",\n          \"dropped,hid,stole,nullified\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0\",\n          \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0\",\n          \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2768",
@@ -16053,13 +16053,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-2778",
     "original": "Player: The thief was sneaking through the air vents",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj13-2778\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0\",\n          \"was sneaking,was walking,was breaking,was tunneling\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0\",\n          \"through,on top of,outside of,under\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0\",\n          \"the air vents,William's Study,the hallway,the manor\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj13-2778\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Eug2Obj13\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0\",\n          \"was sneaking,was walking,was breaking,was tunneling\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0\",\n          \"through,on top of,outside of,under\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0\",\n          \"the air vents,William's Study,the hallway,the manor\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2779",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj13-2779\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0\",\n          \"was sneaking,was walking,was breaking,was tunneling\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0\",\n          \"through,on top of,outside of,under\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0\",\n          \"the air vents,William's Study,the hallway,the manor\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2.yarn-Eug2Obj13-2779\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Eug2Obj13\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0\",\n          \"The thief,Beatrice,Eugene,Tracker\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0\",\n          \"was sneaking,was walking,was breaking,was tunneling\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0\",\n          \"through,on top of,outside of,under\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0\",\n          \"the air vents,William's Study,the hallway,the manor\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-2780",
@@ -19035,13 +19035,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-3280",
     "original": "Player: Beatrice is not Marrunath's master",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj2-3280\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-19-0\",\n          \"Beatrice,Tymora,William,Marrunath\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-20-0\",\n          \"is not,is,is not,is\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-21-0\",\n          \"Marrunath's,Beatrice's,Tymora's,William's\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-22-0\",\n          \"master,client,daughter,familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj2-3280\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: MarrunathObj2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-19-0\",\n          \"Beatrice,Tymora,William,Marrunath\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-20-0\",\n          \"is not,is,is not,is\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-21-0\",\n          \"Marrunath's,Beatrice's,Tymora's,William's\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-22-0\",\n          \"master,client,daughter,familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3281",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj2-3281\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-19-0\",\n          \"Beatrice,Tymora,William,Marrunath\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-20-0\",\n          \"is not,is,is not,is\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-21-0\",\n          \"Marrunath's,Beatrice's,Tymora's,William's\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-22-0\",\n          \"master,client,daughter,familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj2-3281\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: MarrunathObj2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-19-0\",\n          \"Beatrice,Tymora,William,Marrunath\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-20-0\",\n          \"is not,is,is not,is\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-21-0\",\n          \"Marrunath's,Beatrice's,Tymora's,William's\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj-22-0\",\n          \"master,client,daughter,familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3282",
@@ -19095,13 +19095,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-3290",
     "original": "Player: Demons are not able to lie",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj4-3290\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-8-0\",\n          \"Demons,Humans,Dragons,Mages\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-9-0\",\n          \"are not able to,are able to,are not able to,are able to\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-10-0\",\n          \"lie,use magic,murder,steal\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj4-3290\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: MarrunathObj4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-8-0\",\n          \"Demons,Humans,Dragons,Mages\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-9-0\",\n          \"are not able to,are able to,are not able to,are able to\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-10-0\",\n          \"lie,use magic,murder,steal\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3291",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj4-3291\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-8-0\",\n          \"Demons,Humans,Dragons,Mages\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-9-0\",\n          \"are not able to,are able to,are not able to,are able to\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-10-0\",\n          \"lie,use magic,murder,steal\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-MarrunathObj4-3291\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: MarrunathObj4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-8-0\",\n          \"Demons,Humans,Dragons,Mages\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-9-0\",\n          \"are not able to,are able to,are not able to,are able to\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-MarrunathObj3-10-0\",\n          \"lie,use magic,murder,steal\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3292",
@@ -20529,13 +20529,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-3533",
     "original": "Player: Use physical evidence that connects Beatrice and Marrunath",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3533\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-6-0\",\n          \"Use physical evidence,Use testimony,Use deduction,Tell a lie\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-7-0\",\n          \"that connects,that kills,that acquits,that separates\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0\",\n          \"Beatrice,Laefe,Tyrion,Harold\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-9-0\",\n          \"and Marrunath,and Tracker,and Eugene,and Ruby\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3533\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatCornered14a\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-6-0\",\n          \"Use physical evidence,Use testimony,Use deduction,Tell a lie\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-7-0\",\n          \"that connects,that kills,that acquits,that separates\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0\",\n          \"Beatrice,Laefe,Tyrion,Harold\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-9-0\",\n          \"and Marrunath,and Tracker,and Eugene,and Ruby\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3534",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3534\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-6-0\",\n          \"Use physical evidence,Use testimony,Use deduction,Tell a lie\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-7-0\",\n          \"that connects,that kills,that acquits,that separates\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0\",\n          \"Beatrice,Laefe,Tyrion,Harold\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-9-0\",\n          \"and Marrunath,and Tracker,and Eugene,and Ruby\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14a-3534\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatCornered14a\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-6-0\",\n          \"Use physical evidence,Use testimony,Use deduction,Tell a lie\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-7-0\",\n          \"that connects,that kills,that acquits,that separates\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0\",\n          \"Beatrice,Laefe,Tyrion,Harold\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14-9-0\",\n          \"and Marrunath,and Tracker,and Eugene,and Ruby\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3535",
@@ -20589,13 +20589,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-3543",
     "original": "Player: Their connection is facilitated through a Pact",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3543\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0\",\n          \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0\",\n          \"is facilitated through,were committed by,were hidden by,were killed by\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0\",\n          \"a Pact,a weapon,an artifact,a spell\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3543\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatCornered14c\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0\",\n          \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0\",\n          \"is facilitated through,were committed by,were hidden by,were killed by\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0\",\n          \"a Pact,a weapon,an artifact,a spell\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3544",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3544\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0\",\n          \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0\",\n          \"is facilitated through,were committed by,were hidden by,were killed by\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0\",\n          \"a Pact,a weapon,an artifact,a spell\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Courtroom2B.yarn-BeatCornered14c-3544\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatCornered14c\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0\",\n          \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0\",\n          \"is facilitated through,were committed by,were hidden by,were killed by\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0\",\n          \"a Pact,a weapon,an artifact,a spell\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-3545",
@@ -24951,13 +24951,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4287",
     "original": "Player: The thief is a powerful mage",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce2-4287\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-6-0\",\n          \"The thief,Beatrice,Harold,Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-7-0\",\n          \"is a,is not a,might be\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-8-0\",\n          \"powerful mage,demon,noble,master rogue\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce2-4287\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Inves1Deduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-6-0\",\n          \"The thief,Beatrice,Harold,Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-7-0\",\n          \"is a,is not a,might be\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-8-0\",\n          \"powerful mage,demon,noble,master rogue\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4288",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce2-4288\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-6-0\",\n          \"The thief,Beatrice,Harold,Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-7-0\",\n          \"is a,is not a,might be\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-8-0\",\n          \"powerful mage,demon,noble,master rogue\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce2-4288\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Inves1Deduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-6-0\",\n          \"The thief,Beatrice,Harold,Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-7-0\",\n          \"is a,is not a,might be\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce-8-0\",\n          \"powerful mage,demon,noble,master rogue\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4289",
@@ -25101,13 +25101,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-4312",
     "original": "Player: William died after the lockdown activated",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4312\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0\",\n          \"William,Beatrice,Harold,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0\",\n          \"died,was arrested,planted the Sword,met Aster\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0\",\n          \"before,at the moment,after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0\",\n          \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4312\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Inves1Deduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0\",\n          \"William,Beatrice,Harold,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0\",\n          \"died,was arrested,planted the Sword,met Aster\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0\",\n          \"before,at the moment,after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0\",\n          \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4313",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4313\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0\",\n          \"William,Beatrice,Harold,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0\",\n          \"died,was arrested,planted the Sword,met Aster\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0\",\n          \"before,at the moment,after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0\",\n          \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Gallery1.yarn-Inves1Deduce6-4313\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Inves1Deduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0\",\n          \"William,Beatrice,Harold,Laefe\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0\",\n          \"died,was arrested,planted the Sword,met Aster\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0\",\n          \"before,at the moment,after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0\",\n          \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-4314",
@@ -29937,13 +29937,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5176",
     "original": "Player: The murder occurred during the lockdown",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce2-5176\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-12-0\",\n          \"The murder,The theft,The arrest,The Lords' Ball\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-13-0\",\n          \"occurred during,caused,occurred before,occurred after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-14-0\",\n          \"the lockdown,Beatrice's departure,The Sword was found,last night\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce2-5176\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: StudyDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-12-0\",\n          \"The murder,The theft,The arrest,The Lords' Ball\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-13-0\",\n          \"occurred during,caused,occurred before,occurred after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-14-0\",\n          \"the lockdown,Beatrice's departure,The Sword was found,last night\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5177",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce2-5177\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-12-0\",\n          \"The murder,The theft,The arrest,The Lords' Ball\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-13-0\",\n          \"occurred during,caused,occurred before,occurred after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-14-0\",\n          \"the lockdown,Beatrice's departure,The Sword was found,last night\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce2-5177\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: StudyDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-12-0\",\n          \"The murder,The theft,The arrest,The Lords' Ball\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-13-0\",\n          \"occurred during,caused,occurred before,occurred after\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce-14-0\",\n          \"the lockdown,Beatrice's departure,The Sword was found,last night\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5178",
@@ -30123,13 +30123,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5207",
     "original": "Player: The murderer took the murder weapon in Frega's Study",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce5-5207\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0\",\n          \"The murderer,Jan,Laefe,Lord Frega\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0\",\n          \"took,hid,destroyed,heard\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0\",\n          \"the murder weapon,the murder,the altercation,the artifact\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0\",\n          \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce5-5207\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: StudyDeduce5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0\",\n          \"The murderer,Jan,Laefe,Lord Frega\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0\",\n          \"took,hid,destroyed,heard\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0\",\n          \"the murder weapon,the murder,the altercation,the artifact\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0\",\n          \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5208",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce5-5208\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0\",\n          \"The murderer,Jan,Laefe,Lord Frega\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0\",\n          \"took,hid,destroyed,heard\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0\",\n          \"the murder weapon,the murder,the altercation,the artifact\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0\",\n          \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce5-5208\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: StudyDeduce5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0\",\n          \"The murderer,Jan,Laefe,Lord Frega\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0\",\n          \"took,hid,destroyed,heard\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0\",\n          \"the murder weapon,the murder,the altercation,the artifact\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0\",\n          \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5209",
@@ -30177,13 +30177,13 @@
     "key": "Default (en-US)-sharedassets0.assets-148-5216",
     "original": "Player: Beatrice Frega is completely blind",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce7-5216\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-9-0\",\n          \"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-10-0\",\n          \"is completely,is partially,is not,is secretly\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-11-0\",\n          \"blind,a noble,wealthy,a mystery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce7-5216\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: StudyDeduce7\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-9-0\",\n          \"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-10-0\",\n          \"is completely,is partially,is not,is secretly\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-11-0\",\n          \"blind,a noble,wealthy,a mystery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5217",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce7-5217\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-9-0\",\n          \"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-10-0\",\n          \"is completely,is partially,is not,is secretly\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-11-0\",\n          \"blind,a noble,wealthy,a mystery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 4/Study1.yarn-StudyDeduce7-5217\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: StudyDeduce7\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-9-0\",\n          \"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-10-0\",\n          \"is completely,is partially,is not,is secretly\"\n        ],\n        [\n          \"Case 4-sharedassets0.assets-158.json-StudyDeduce6-11-0\",\n          \"blind,a noble,wealthy,a mystery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-148-5218",

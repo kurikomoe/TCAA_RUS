@@ -1197,13 +1197,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-212",
     "original": "Player: A magical trace of necromancy was found on the body",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce2-212\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-11-0\",\n          \"A magical trace,A bloody weapon,A rancid smell,A witness\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-12-0\",\n          \"of necromancy,of alchemy,of illusion,of steel,from the academy\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-13-0\",\n          \"was found,was smelled,was hidden,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-14-0\",\n          \"on the body,in the classroom,in the hallway,outside the academy\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce2-212\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WallaceDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-11-0\",\n          \"A magical trace,A bloody weapon,A rancid smell,A witness\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-12-0\",\n          \"of necromancy,of alchemy,of illusion,of steel,from the academy\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-13-0\",\n          \"was found,was smelled,was hidden,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-14-0\",\n          \"on the body,in the classroom,in the hallway,outside the academy\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-213",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce2-213\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-11-0\",\n          \"A magical trace,A bloody weapon,A rancid smell,A witness\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-12-0\",\n          \"of necromancy,of alchemy,of illusion,of steel,from the academy\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-13-0\",\n          \"was found,was smelled,was hidden,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-14-0\",\n          \"on the body,in the classroom,in the hallway,outside the academy\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce2-213\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WallaceDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-11-0\",\n          \"A magical trace,A bloody weapon,A rancid smell,A witness\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-12-0\",\n          \"of necromancy,of alchemy,of illusion,of steel,from the academy\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-13-0\",\n          \"was found,was smelled,was hidden,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce-14-0\",\n          \"on the body,in the classroom,in the hallway,outside the academy\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-214",
@@ -1269,7 +1269,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-224",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce4-224\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce3-10-0\",\n          \"Necrotic Blight,Prestidigitation,Animate Corpse\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce4-224\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WallaceDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce3-10-0\",\n          \"Necrotic Blight,Prestidigitation,Animate Corpse\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-225",
@@ -1341,13 +1341,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-236",
     "original": "Player: Bellwether's body was covered in blood",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce6-236\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-15-0\",\n          \"Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-16-0\",\n          \"body,Spell Compendium,employees,floor\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-17-0\",\n          \"was covered,was destroyed,was missing,was found\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-18-0\",\n          \"in blood,by Wallace,before the lockdown,during the murder\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce6-236\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WallaceDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-15-0\",\n          \"Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-16-0\",\n          \"body,Spell Compendium,employees,floor\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-17-0\",\n          \"was covered,was destroyed,was missing,was found\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-18-0\",\n          \"in blood,by Wallace,before the lockdown,during the murder\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-237",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce6-237\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-15-0\",\n          \"Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-16-0\",\n          \"body,Spell Compendium,employees,floor\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-17-0\",\n          \"was covered,was destroyed,was missing,was found\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-18-0\",\n          \"in blood,by Wallace,before the lockdown,during the murder\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-WallaceDeduce6-237\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WallaceDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-15-0\",\n          \"Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-16-0\",\n          \"body,Spell Compendium,employees,floor\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-17-0\",\n          \"was covered,was destroyed,was missing,was found\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-WallaceDeduce5-18-0\",\n          \"in blood,by Wallace,before the lockdown,during the murder\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-238",
@@ -1467,67 +1467,67 @@
     "key": "Default (en-US)-sharedassets0.assets-145-263",
     "original": "Player: Barracks",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-263\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-263\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-264",
     "original": "Player: Foyer1",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-264\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-264\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-265",
     "original": "Player: Classroom",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-265\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-265\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-266",
     "original": "Player: Kitchen",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-266\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-266\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-267",
     "original": "Player: Office",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-267\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-267\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-268",
     "original": "Player: Hallway",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-268\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-268\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-269",
     "original": "Player: Back",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-269\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Move-269\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-270",
     "original": "Player: Examine",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-270\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-270\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-271",
     "original": "Player: Talk",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-271\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-271\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-272",
     "original": "Player: Move",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-272\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-272\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-273",
     "original": "Player: Present",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-273\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Case2Main.yarn-Main-273\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-275",
@@ -6795,13 +6795,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-1187",
     "original": "Player: Valentina switched places with Valerie",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_2-1187\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-12-0\",\n          \"Valentina,Wallace,Bellwether,Orym\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-13-0\",\n          \"switched,hid,incorrectly,healed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-14-0\",\n          \"places with,from,spoke with,the wounds of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-15-0\",\n          \"Valerie,Wallace,Bellwether,Orym\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_2-1187\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Val2Obj_2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-12-0\",\n          \"Valentina,Wallace,Bellwether,Orym\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-13-0\",\n          \"switched,hid,incorrectly,healed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-14-0\",\n          \"places with,from,spoke with,the wounds of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-15-0\",\n          \"Valerie,Wallace,Bellwether,Orym\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1188",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_2-1188\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-12-0\",\n          \"Valentina,Wallace,Bellwether,Orym\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-13-0\",\n          \"switched,hid,incorrectly,healed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-14-0\",\n          \"places with,from,spoke with,the wounds of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-15-0\",\n          \"Valerie,Wallace,Bellwether,Orym\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_2-1188\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Val2Obj_2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-12-0\",\n          \"Valentina,Wallace,Bellwether,Orym\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-13-0\",\n          \"switched,hid,incorrectly,healed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-14-0\",\n          \"places with,from,spoke with,the wounds of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Val2Obj_1-15-0\",\n          \"Valerie,Wallace,Bellwether,Orym\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1189",
@@ -12975,13 +12975,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-2258",
     "original": "Player: Redmond's series of commands was interrupted by the lockdown",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_4-2258\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-5-0\",\n          \"Redmond's,Bellwether's,Frega's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-6-0\",\n          \"series of commands,rapier,body,Compendium\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-7-0\",\n          \"was interrupted,was planted,was stolen,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-8-0\",\n          \"by the lockdown,by Redmond,by Steelwind,by Wallace\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_4-2258\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TheoAfterEye_4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-5-0\",\n          \"Redmond's,Bellwether's,Frega's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-6-0\",\n          \"series of commands,rapier,body,Compendium\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-7-0\",\n          \"was interrupted,was planted,was stolen,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-8-0\",\n          \"by the lockdown,by Redmond,by Steelwind,by Wallace\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2259",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_4-2259\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-5-0\",\n          \"Redmond's,Bellwether's,Frega's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-6-0\",\n          \"series of commands,rapier,body,Compendium\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-7-0\",\n          \"was interrupted,was planted,was stolen,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-8-0\",\n          \"by the lockdown,by Redmond,by Steelwind,by Wallace\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_4-2259\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TheoAfterEye_4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-5-0\",\n          \"Redmond's,Bellwether's,Frega's,Wallace's\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-6-0\",\n          \"series of commands,rapier,body,Compendium\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-7-0\",\n          \"was interrupted,was planted,was stolen,was destroyed\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-8-0\",\n          \"by the lockdown,by Redmond,by Steelwind,by Wallace\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2260",
@@ -16300,12 +16300,6 @@
     "original": "You just hope you did enough to acquit Wallace.",
     "translation": null,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-DormEnd_2-2828\",\n  \"keywords\": []\n}"
-  },
-  {
-    "key": "Default (en-US)-sharedassets0.assets-145-2829",
-    "original": "Player: Statue",
-    "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2829\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2830",
@@ -23955,13 +23949,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4180",
     "original": "Player: The spell cast on Valentina healed her",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce-4180\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-56-0\",\n          \"The spell,The weapon,The witness,The room\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-57-0\",\n          \"cast,swung,who saw,contained\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-58-0\",\n          \"on Valentina,at Bellwether,within the lecture hall,during the murder\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-59-0\",\n          \"healed her,killed her,hid her,attacked her\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce-4180\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: ValDeduce\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-56-0\",\n          \"The spell,The weapon,The witness,The room\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-57-0\",\n          \"cast,swung,who saw,contained\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-58-0\",\n          \"on Valentina,at Bellwether,within the lecture hall,during the murder\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-59-0\",\n          \"healed her,killed her,hid her,attacked her\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4181",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce-4181\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-56-0\",\n          \"The spell,The weapon,The witness,The room\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-57-0\",\n          \"cast,swung,who saw,contained\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-58-0\",\n          \"on Valentina,at Bellwether,within the lecture hall,during the murder\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-59-0\",\n          \"healed her,killed her,hid her,attacked her\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-ValDeduce-4181\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: ValDeduce\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-56-0\",\n          \"The spell,The weapon,The witness,The room\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-57-0\",\n          \"cast,swung,who saw,contained\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-58-0\",\n          \"on Valentina,at Bellwether,within the lecture hall,during the murder\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-Talk_Kitchen-59-0\",\n          \"healed her,killed her,hid her,attacked her\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4182",
@@ -25041,7 +25035,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4371",
     "original": "Player: Books",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4371\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4371\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Examine_Library2\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4372",
@@ -25059,7 +25053,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4374",
     "original": "Player: Holy Text",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4374\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4374\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Examine_Library2\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4375",
@@ -25077,7 +25071,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4377",
     "original": "Player: Table",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4377\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4377\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Examine_Library2\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4378",
@@ -25095,7 +25089,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4380",
     "original": "Player: Globe",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4380\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4380\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Examine_Library2\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4381",
@@ -25137,7 +25131,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4387",
     "original": "Player: Notice",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4387\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4387\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Examine_Library2\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4388",
@@ -25155,7 +25149,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4390",
     "original": "Player: Back",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4390\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Examine_Library2-4390\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Examine_Library2\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4391",
@@ -27873,13 +27867,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4867",
     "original": "Player: Paranoia",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4867\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4867\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4868",
     "original": "Player: Arrogance",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4868\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4868\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4869",
@@ -27903,7 +27897,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4872",
     "original": "Player: Logic",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4872\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4872\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4873",
@@ -27927,7 +27921,7 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4876",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4876\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce2-4876\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0\",\n          \"Arrogance,Paranoia,Logic\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4877",
@@ -27981,13 +27975,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4885",
     "original": "Player: Tyrion and Celeste",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce4-4885\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce3-12-0\",\n          \"Tyrion and Celeste,The Headmaster,Wallace,Commander White\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce4-4885\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce3-12-0\",\n          \"Tyrion and Celeste,The Headmaster,Wallace,Commander White\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4886",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce4-4886\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce3-12-0\",\n          \"Tyrion and Celeste,The Headmaster,Wallace,Commander White\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce4-4886\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce3-12-0\",\n          \"Tyrion and Celeste,The Headmaster,Wallace,Commander White\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4887",
@@ -28047,13 +28041,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4896",
     "original": "Player: Tyrion isn't controlled by the nobility",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce6-4896\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-10-0\",\n          \"Tyrion,Wallace,Steelwind,The Headmaster\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-11-0\",\n          \"isn't, is,isn't,is\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-12-0\",\n          \"controlled by,capable of,a member of,an employee of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-13-0\",\n          \"the nobility,using magic,the faculty,the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce6-4896\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-10-0\",\n          \"Tyrion,Wallace,Steelwind,The Headmaster\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-11-0\",\n          \"isn't, is,isn't,is\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-12-0\",\n          \"controlled by,capable of,a member of,an employee of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-13-0\",\n          \"the nobility,using magic,the faculty,the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4897",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce6-4897\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-10-0\",\n          \"Tyrion,Wallace,Steelwind,The Headmaster\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-11-0\",\n          \"isn't, is,isn't,is\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-12-0\",\n          \"controlled by,capable of,a member of,an employee of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-13-0\",\n          \"the nobility,using magic,the faculty,the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce6-4897\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-10-0\",\n          \"Tyrion,Wallace,Steelwind,The Headmaster\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-11-0\",\n          \"isn't, is,isn't,is\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-12-0\",\n          \"controlled by,capable of,a member of,an employee of\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce5-13-0\",\n          \"the nobility,using magic,the faculty,the Inquisition\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4898",
@@ -28119,13 +28113,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4908",
     "original": "Player: The witness is a noble",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce8-4908\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0\",\n          \"The witness,Steelwind\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0\",\n          \"is a,isn't a,is a,isn't a\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0\",\n          \"noble,murderer,student,suspect\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce8-4908\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce8\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0\",\n          \"The witness,Steelwind\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0\",\n          \"is a,isn't a,is a,isn't a\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0\",\n          \"noble,murderer,student,suspect\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4909",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce8-4909\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0\",\n          \"The witness,Steelwind\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0\",\n          \"is a,isn't a,is a,isn't a\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0\",\n          \"noble,murderer,student,suspect\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce8-4909\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: LockerDeduce8\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0\",\n          \"The witness,Steelwind\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0\",\n          \"is a,isn't a,is a,isn't a\"\n        ],\n        [\n          \"Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0\",\n          \"noble,murderer,student,suspect\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4910",
@@ -28401,13 +28395,13 @@
     "key": "Default (en-US)-sharedassets0.assets-145-4955",
     "original": "Player: Miriam Frega",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-AfterLockerDeduce2-4955\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0\",\n          \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-AfterLockerDeduce2-4955\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: AfterLockerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0\",\n          \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4956",
     "original": "Player: Fail",
     "translation": null,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-AfterLockerDeduce2-4956\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0\",\n          \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-AfterLockerDeduce2-4956\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: AfterLockerDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0\",\n          \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4957",

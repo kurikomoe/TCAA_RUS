@@ -36,6 +36,8 @@ parser.add_argument('--type', type=str, choices=[
     "item",
     "tooltips",
     "location",
+    "courtroom",
+    "credits",
     "metadata",
     "episode",
     "save",
@@ -86,6 +88,9 @@ def export_mode():
     elif args.type == "location":  # protobuf dumps
         from utils.location import ToParaTranz
         ret = ToParaTranz(in_root)
+    elif args.type == "credits":  # protobuf dumps
+        from utils.credits import ToParaTranz
+        ret = ToParaTranz(in_root)
     elif args.type == "metadata":  # protobuf dumps
         from utils.metadata import ToParaTranz
         ret = ToParaTranz(in_root)
@@ -97,6 +102,9 @@ def export_mode():
         ret = ToParaTranz(in_root)
     elif args.type == "inputs":  # protobuf dumps
         from utils.inputs import ToParaTranz
+        ret = ToParaTranz(in_root)
+    elif args.type == "courtroom":  # protobuf dumps
+        from utils.courtroom import ToParaTranz
         ret = ToParaTranz(in_root)
 
     assert ret is not None
@@ -149,6 +157,12 @@ def import_mode():
         ret = ToRaw(raw_root, paraz_root)
     elif args.type == "inputs":  # protobuf dumps
         from utils.inputs import ToRaw
+        ret = ToRaw(raw_root, paraz_root)
+    elif args.type == "courtroom":  # protobuf dumps
+        from utils.courtroom import ToRaw
+        ret = ToRaw(raw_root, paraz_root)
+    elif args.type == "credits":  # protobuf dumps
+        from utils.credits import ToRaw
         ret = ToRaw(raw_root, paraz_root)
 
     assert ret is not None

@@ -61,6 +61,12 @@ commands = {
     "StartArgument": [1, ],
 
     "CorneredWitness": [1, ],
+
+    # OverrideOccupation "Tyrion Cuthbert" "Lead Prosecutor"
+    "OverrideOccupation": [2, ],
+
+    # CorneredEmpress "Empress of Discord" 6"'
+    "CorneredEmpress": [1, ],
 }
 
 def extractor(op: List[str], pos: List[int]):

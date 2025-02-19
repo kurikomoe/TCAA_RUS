@@ -19562,28 +19562,28 @@
     "original": "Player: Examine",
     "translation": "",
     "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-763\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-763\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-764",
     "original": "Player: Talk",
     "translation": "",
     "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-764\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-764\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-765",
     "original": "Player: Move",
     "translation": "",
     "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-765\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-765\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-766",
     "original": "Player: Present",
     "translation": "",
     "stage": -1,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-766\",\n  \"keywords\": [\n    \"选项文本\",\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Case1Main.yarn-Main-766\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Main\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-951",
@@ -19653,42 +19653,42 @@
     "original": "Player: Flinhart didn't move during the murder",
     "translation": "Player: 弗林哈特 谋杀 过程中 没有移动",
     "stage": 3,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce-1820\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0\",\n          \"didn't move,attacked Flinhart,framed Celeste\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0\",\n          \"after,during,before\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0\",\n          \"the murder,the investigation,the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce-1820\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Orym_Deduce\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0\",\n          \"didn't move,attacked Flinhart,framed Celeste\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0\",\n          \"after,during,before\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0\",\n          \"the murder,the investigation,the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1821",
     "original": "Player: Fail",
     "translation": "",
     "stage": 3,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce-1821\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0\",\n          \"didn't move,attacked Flinhart,framed Celeste\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0\",\n          \"after,during,before\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0\",\n          \"the murder,the investigation,the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce-1821\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Orym_Deduce\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0\",\n          \"didn't move,attacked Flinhart,framed Celeste\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0\",\n          \"after,during,before\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0\",\n          \"the murder,the investigation,the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1834",
     "original": "Player: Flinhart dropped the bottle during the attack",
     "translation": "Player: 弗林哈特 在袭击中 掉落 瓶子",
     "stage": 3,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce3-1834\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0\",\n          \"dropped,threw,placed\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0\",\n          \"the bottle,the sword,the killer\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0\",\n          \"during the attack,after the attack,before the attack\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce3-1834\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Orym_Deduce3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0\",\n          \"dropped,threw,placed\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0\",\n          \"the bottle,the sword,the killer\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0\",\n          \"during the attack,after the attack,before the attack\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1835",
     "original": "Player: Fail",
     "translation": "",
     "stage": 3,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce3-1835\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0\",\n          \"dropped,threw,placed\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0\",\n          \"the bottle,the sword,the killer\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0\",\n          \"during the attack,after the attack,before the attack\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce3-1835\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Orym_Deduce3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0\",\n          \"Celeste,The killer,Flinhart\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0\",\n          \"dropped,threw,placed\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0\",\n          \"the bottle,the sword,the killer\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0\",\n          \"during the attack,after the attack,before the attack\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1852",
     "original": "Player: The crime scene had no lighting during the murder",
     "translation": "Player: 谋杀 过程中 犯罪现场 没有照明",
     "stage": 3,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce5-1852\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0\",\n          \"The crime scene,The town,The basement\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0\",\n          \"had no lighting,had no customers, had no witnesses\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0\",\n          \"before,during,after\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0\",\n          \"the murder,the trial,the investigation\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce5-1852\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Orym_Deduce5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0\",\n          \"The crime scene,The town,The basement\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0\",\n          \"had no lighting,had no customers, had no witnesses\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0\",\n          \"before,during,after\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0\",\n          \"the murder,the trial,the investigation\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1853",
     "original": "Player: Fail",
     "translation": "",
     "stage": 3,
-    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce5-1853\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0\",\n          \"The crime scene,The town,The basement\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0\",\n          \"had no lighting,had no customers, had no witnesses\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0\",\n          \"before,during,after\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0\",\n          \"the murder,the trial,the investigation\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
+    "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Deduction.yarn-Orym_Deduce5-1853\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Orym_Deduce5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0\",\n          \"The crime scene,The town,The basement\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0\",\n          \"had no lighting,had no customers, had no witnesses\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0\",\n          \"before,during,after\"\n        ],\n        [\n          \"Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0\",\n          \"the murder,the trial,the investigation\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2854",

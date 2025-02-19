@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 141
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2123
+  },
+  "m_Name": "",
+  "courtroomList": {
+    "Array": [
+      {
+        "name": "Default",
+        "prefab": "Assets/Prefabs/Resources/Courtroom.prefab",
+        "wideShotPrefab": "Assets/Prefabs/Resources/Courtroom Wide Shot.prefab",
+        "locationData": {
+          "name": "Courtroom",
+          "displayName": "法庭",
+          "backgroundPath": "Assets/Visuals/Resources/Courtroom.png",
+          "examinationMap": "",
+          "particle": "",
+          "occupant": "",
+          "occupantEmotion": ""
+        }
+      },
+      {
+        "name": "Ruby v Aria",
+        "prefab": "Assets/Prefabs/Resources/Courtroom Ruby.prefab",
+        "wideShotPrefab": "Assets/Prefabs/Resources/Courtroom Wide Shot Ruby v Aria.prefab",
+        "locationData": {
+          "name": "Courtroom",
+          "displayName": "法庭",
+          "backgroundPath": "Assets/Visuals/Resources/Courtroom.png",
+          "examinationMap": "",
+          "particle": "",
+          "occupant": "",
+          "occupantEmotion": ""
+        }
+      },
+      {
+        "name": "Ruby v Tyrion",
+        "prefab": "Assets/Prefabs/Resources/Courtroom Ruby Tyrion Int.prefab",
+        "wideShotPrefab": "Assets/Prefabs/Resources/Courtroom Wide Shot.prefab",
+        "locationData": {
+          "name": "Courtroom",
+          "displayName": "法庭",
+          "backgroundPath": "Assets/Visuals/Resources/Courtroom.png",
+          "examinationMap": "",
+          "particle": "",
+          "occupant": "",
+          "occupantEmotion": ""
+        }
+      },
+      {
+        "name": "Tyrion v Ruby",
+        "prefab": "Assets/Prefabs/Resources/Courtroom Tyrion v Ruby.prefab",
+        "wideShotPrefab": "Assets/Prefabs/Resources/Courtroom Wide Shot Tyrion v Ruby.prefab",
+        "locationData": {
+          "name": "Courtroom",
+          "displayName": "法庭",
+          "backgroundPath": "Assets/Visuals/Resources/Courtroom.png",
+          "examinationMap": "",
+          "particle": "",
+          "occupant": "",
+          "occupantEmotion": ""
+        }
+      },
+      {
+        "name": "Final No Drag",
+        "prefab": "Assets/Prefabs/Resources/Courtroom No Drag.prefab",
+        "wideShotPrefab": "Assets/Prefabs/Resources/Dragon Wide Shot.prefab",
+        "locationData": {
+          "name": "Lair of the Scaled Lord",
+          "displayName": "Lair of the Scaled Lord",
+          "backgroundPath": "Assets/Visuals/Resources/Dragon Temple.png",
+          "examinationMap": "",
+          "particle": "",
+          "occupant": "",
+          "occupantEmotion": ""
+        }
+      },
+      {
+        "name": "Final",
+        "prefab": "Assets/Prefabs/Resources/Courtroom Dragon.prefab",
+        "wideShotPrefab": "Assets/Prefabs/Resources/Dragon Wide Shot.prefab",
+        "locationData": {
+          "name": "Lair of the Scaled Lord",
+          "displayName": "Lair of the Scaled Lord",
+          "backgroundPath": "Assets/Visuals/Resources/Dragon Temple.png",
+          "examinationMap": "",
+          "particle": "",
+          "occupant": "",
+          "occupantEmotion": ""
+        }
+      }
+    ]
+  },
+  "orderInLayer": 3,
+  "galleryMurmurTime": 3.0
+}
