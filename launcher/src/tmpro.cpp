@@ -16,7 +16,6 @@
 #include "helper.hpp"
 
 std::map<std::wstring, std::wstring> gTmproData = {
-    {L"Courtroom", L"法庭"},
     {L"Backspace", L"退格键"},
     {L"Return", L"回车键"},
     {L"Tab", L"Tab 键"},
@@ -52,6 +51,12 @@ std::map<std::wstring, std::wstring> gTmproData = {
 
     {L"Windowed", L"窗口化"},
     {L"Fullscreen", L"全屏"},
+
+    // {L"Courtroom", L"法庭"},
+    // {L"Queen", L""},
+    // {L"King", L""},
+    // {L"Lair of the Scaled Lord", L""},
+    // {L"Lead Prosecutor", L""},
 
     // <b>[Square]</b>:
     // Present Evidence
