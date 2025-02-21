@@ -75,9 +75,16 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
         ss = getter("credits", item)
 
-        if "：" in ss:
+        if "：" in ss:  # Two line text
             orig, trans = ss.split("|")
             ss = f'<size="80em">{orig}|<voffset=-5em><size="80em">{trans}</voffset>'
+        elif "@" in ss:
+            ss = ss.replace("@", "")
+            orig, trans = ss.split("|")
+            ss = f'<size="80em">{orig}|<size="80em">{trans}'
+        else:  # title then name
+            orig, trans = ss.split("|")
+            ss = f'<size="80em">- {orig} -|<size="80em">{trans}'
 
         tmp.append(ss)
 
