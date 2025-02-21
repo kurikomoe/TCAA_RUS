@@ -63,6 +63,7 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
 
     tmp = []
     for idx, item in enumerate(str(data["credits"]).split("\r\n")):
+        # <size="80em">游戏总监：Stephen Charles|<voffset=-5em><size="80em">汉化组-主催：KurikoMoe</voffset>
         def getter(tag, data, idx=idx):
             key = Key(tag, idx)
             assert key in paraz_acc
@@ -72,7 +73,13 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
             # TODO(kuriko): add checker here
             return paraz_data.translation
 
-        tmp.append(getter("credits", item))
+        ss = getter("credits", item)
+
+        if "：" in ss:
+            orig, trans = ss.split("|")
+            ss = f'<size="80em">{orig}|<voffset=-5em><size="80em">{trans}</voffset>'
+
+        tmp.append(ss)
 
     final_credits = "\r\n".join(tmp)
     data["credits"] = final_credits
