@@ -8,6 +8,7 @@
 #include <set>
 #include <string>
 #include <windows.h>
+#include <regex>
 
 #include "flags.h"
 #include "game_def.h"
@@ -27,14 +28,14 @@ std::map<std::wstring, std::wstring> gTmproData = {
     {L"RightButton", L"鼠标右键"},
     {L"MiddleButton", L"鼠标中键"},
 
-    // {L"Cross", L"Ⓐ"},
-    // {L"Square", L"Ⓧ"},
-    // {L"Triangle", L"Ⓨ"},
-    // {L"Circle", L"Ⓑ"},
-    {L"Cross",    L"A键"},
-    {L"Square",   L"X键"},
-    {L"Triangle", L"Y键"},
-    {L"Circle",   L"B键"},
+    {L"Cross", L"Ⓐ"},
+    {L"Square", L"Ⓧ"},
+    {L"Triangle", L"Ⓨ"},
+    {L"Circle", L"Ⓑ"},
+    // {L"Cross",    L"A键"},
+    // {L"Square",   L"X键"},
+    // {L"Triangle", L"Y键"},
+    // {L"Circle",   L"B键"},
     {L"L1", L"LB"},
     {L"R1", L"RB"},
     {L"L2", L"LT"},
@@ -48,6 +49,7 @@ std::map<std::wstring, std::wstring> gTmproData = {
 
     // {L"Normal", L"正常"},
     {L"Large", L"大"},
+    {L"CROWDFUNDERS", L"众筹名单"},
 
     {L"Windowed", L"窗口化"},
     {L"Fullscreen", L"全屏"},
@@ -83,49 +85,57 @@ TMPro_TMP_Text__set_textT *orig_TMPro_TMP_Text__set_text = nullptr;
 
 void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
                                    void *method) {
-  auto ss = utils::wstring(text);
+  try {
+    auto ss = utils::wstring(text);
 
-  if constexpr (false && IsDebug) {
-    text_out_mutex.lock();
-    if (f_text == nullptr) {
-      wchar_t buf[2048];
-      GetModuleFileNameW(NULL, buf, 2048);
-      std::filesystem::path root_path(buf);
-      auto file_path = root_path.parent_path() / L"texts.txt";
+    if constexpr (false && IsDebug) {
+      text_out_mutex.lock();
+      if (f_text == nullptr) {
+        wchar_t buf[2048];
+        GetModuleFileNameW(NULL, buf, 2048);
+        std::filesystem::path root_path(buf);
+        auto file_path = root_path.parent_path() / L"texts.txt";
 
-      _wfopen_s(&f_text, file_path.wstring().c_str(), L"a+");
-      fseek(f_text, 0, SEEK_SET);
+        _wfopen_s(&f_text, file_path.wstring().c_str(), L"a+");
+        fseek(f_text, 0, SEEK_SET);
 
-      constexpr size_t MAX_BUF_SIZE = 2048;
-      wchar_t line[MAX_BUF_SIZE];
-      while (~fwscanf_s(f_text, L"%ls\n", line, _countof(line))) {
-        // std::wcout << "Reading: " << line << std::endl;
-        text_set.insert(line);
+        constexpr size_t MAX_BUF_SIZE = 2048;
+        wchar_t line[MAX_BUF_SIZE];
+        while (~fwscanf_s(f_text, L"%ls\n", line, _countof(line))) {
+          // std::wcout << "Reading: " << line << std::endl;
+          text_set.insert(line);
+        }
+        fseek(f_text, 0, SEEK_END);
       }
-      fseek(f_text, 0, SEEK_END);
+
+      if (text_set.find(ss) == text_set.end()) {
+        fwprintf(f_text, L"%s\n", ss.c_str());
+        fflush(f_text);
+        text_set.insert(ss);
+        wprintf_s(L"%ls, len(text_set)=%zu\n", ss.c_str(), text_set.size());
+      }
+      text_out_mutex.unlock();
+    } else if constexpr (IsDebug) {
+      if (text_set.find(ss) == text_set.end()) {
+        text_set.insert(ss);
+        std::wcout << ss << L"\n";
+      }
     }
 
-    if (text_set.find(ss) == text_set.end()) {
-      fwprintf(f_text, L"%s\n", ss.c_str());
-      fflush(f_text);
-      text_set.insert(ss);
-      wprintf_s(L"%ls, len(text_set)=%zu\n", ss.c_str(), text_set.size());
+    if (gTmproData.contains(ss)) {
+      auto new_name = gTmproData[ss];
+
+      text = utils::GetSystemString(new_name, text);
+    } else if (auto pos = ss.find(L"CROWDFUNDERS"); pos != std::wstring::npos) {
+      auto new_name =
+          std::regex_replace(ss, std::wregex(L"CROWDFUNDERS"), L"众筹名单");
+      text = utils::GetSystemString(new_name, text);
     }
-    text_out_mutex.unlock();
-  } else if constexpr (IsDebug){
-    if (text_set.find(ss) == text_set.end()) {
-      text_set.insert(ss);
-      std::wcout << ss << L"\n";
-    }
+
+    orig_TMPro_TMP_Text__set_text(This, text, method);
+  } catch (...) {
+    std::wcout << L"Error in TMPro" << std::endl;
   }
-
-  if (gTmproData.contains(ss)) {
-    auto new_name = gTmproData[ss];
-
-    text = utils::GetSystemString(new_name, text);
-  }
-
-  orig_TMPro_TMP_Text__set_text(This, text, method);
 
   return;
 }
@@ -133,10 +143,14 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
 int TMPro::init(DWORD base) {
   // Extra inits
   std::vector<std::tuple<std::wstring, std::wstring>> controller_inputs = {
-    {L"Cross",    L"A键"},
-    {L"Square",   L"X键"},
-    {L"Triangle", L"Y键"},
-    {L"Circle",   L"B键"},
+    {L"Cross", L"Ⓐ"},
+    {L"Square", L"Ⓧ"},
+    {L"Triangle", L"Ⓨ"},
+    {L"Circle", L"Ⓑ"},
+    // {L"Cross",    L"A键"},
+    // {L"Square",   L"X键"},
+    // {L"Triangle", L"Y键"},
+    // {L"Circle",   L"B键"},
     {L"L1", L"LB"},
     {L"R1", L"RB"},
     {L"L2", L"LT"},
