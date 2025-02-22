@@ -126,10 +126,6 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
       auto new_name = gTmproData[ss];
 
       text = utils::GetSystemString(new_name, text);
-    } else if (auto pos = ss.find(L"CROWDFUNDERS"); pos != std::wstring::npos) {
-      auto new_name =
-          std::regex_replace(ss, std::wregex(L"CROWDFUNDERS"), L"众筹名单");
-      text = utils::GetSystemString(new_name, text);
     }
 
     orig_TMPro_TMP_Text__set_text(This, text, method);
