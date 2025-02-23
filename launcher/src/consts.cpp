@@ -48,7 +48,8 @@ std::string convertUnixTimestamp(std::time_t unix_time) {
   return oss.str();
 }
 std::wstring version_string() {
-  std::string date = convertUnixTimestamp(__TIME_UNIX__);
-  std::wstring wdate(date.begin(), date.end());
-  return std::format(version_text, wdate);
+  return version_text;
+  // std::string date = convertUnixTimestamp(__TIME_UNIX__);
+  // std::wstring wdate(date.begin(), date.end());
+  // return std::format(version_text, wdate);
 }
