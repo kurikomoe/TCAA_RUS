@@ -88,7 +88,7 @@ void hook_TMPro_TMP_Text__set_text(void *This, System_String_o *text,
   try {
     auto ss = utils::wstring(text);
 
-    if (false && IsDebug) {
+    if constexpr (false && IsDebug) {
       text_out_mutex.lock();
       if (f_text == nullptr) {
         wchar_t buf[2048];
