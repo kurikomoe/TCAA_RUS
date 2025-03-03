@@ -1,5 +1,6 @@
 #include <atomic>
 #include <cstdio>
+#include <filesystem>
 #include <windows.h>
 #include <fcntl.h>
 
@@ -23,6 +24,10 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call,
     if (!Initialized.test_and_set()) {
       version.dll = LoadLibraryW(LR"(C:\Windows\SysWOW64\version.dll)");
       setupFunctions();
+
+      if (std::filesystem::exists(L"debug")) {
+        IsDebug = true;
+      }
 
       if (IsDebug) {
         AllocConsole();

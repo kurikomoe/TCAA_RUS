@@ -13,6 +13,7 @@
 #include "enum_string.h"
 #include "character.h"
 #include "tmpro.h"
+#include "savefile.h"
 #include "yarn.h"
 
 std::wstring ORIG_TITLE_NAME(L"Attorney of the Arcane");
@@ -85,6 +86,10 @@ DWORD __stdcall payload_main(void*) {
     // if (Yarn::init(base) != 0) {
     //     std::cout << "Yarn hook failed" << std::endl;
     // }
+
+    if (SaveFile::init(base) != 0) {
+        std::cout << "SaveFile hook failed" << std::endl;
+    }
 
     if (Character::init(base) != 0) {
         std::cout << "Character hook failed" << std::endl;
