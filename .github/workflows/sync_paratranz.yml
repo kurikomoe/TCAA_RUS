@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - 'main'
-  schedule:
-    - cron: "0 */1 * * *"   # Every 1h
+  # schedule:
+  #   - cron: "0 */1 * * *"   # Every 1h
   workflow_dispatch:
     inputs:
       logLevel:
