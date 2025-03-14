@@ -11,7 +11,7 @@ steam 评论区链接：https://steamcommunity.com/id/KurikoMoe/recommended/1590
 
 2dfan 链接：https://2dfan.com/downloads/34253
 
-其乐（steamcn）链接：[好评如潮《Tyrion Cuthbert Attorney of the Arcane》(奥术律师)steam 1.78/1.79 版汉化补丁 - 华语汉化 - 其乐 Keylol](https://keylol.com/t991746-1-1) 
+其乐（steamcn）链接：https://keylol.com/t991746-1-1
 
 
 
@@ -21,9 +21,9 @@ steam 评论区链接：https://steamcommunity.com/id/KurikoMoe/recommended/1590
 
 ## 运行图
 
-<center><bold>让我们说中文！</bold></center>
+<p><center><bold>让我们说中文！</bold></center></p>
 
-<center><bold>Let's speek Chinese! </bold></center>
+<p><center><bold>Let's speek Chinese! </bold></center></p>
 
 ![logo](docs/logo.png)
 
