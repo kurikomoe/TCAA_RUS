@@ -3,15 +3,37 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Github All Releases](https://img.shields.io/github/downloads/kurikomoe/TCAA_CHS/total.svg)]()
 
+
+
+**20240303：汉化全部完成！撒花~**
+
+steam 评论区链接：https://steamcommunity.com/id/KurikoMoe/recommended/1590230
+
+2dfan 链接：https://2dfan.com/downloads/34253
+
+其乐（steamcn）链接：[好评如潮《Tyrion Cuthbert Attorney of the Arcane》(奥术律师)steam 1.78/1.79 版汉化补丁 - 华语汉化 - 其乐 Keylol](https://keylol.com/t991746-1-1) 
+
+
+
+> Unity 汉化教程在写啦，咕咕咕
+
+
+
 ## 运行图
 
 <center><bold>让我们说中文！</bold></center>
+
+<center><bold>Let's speek Chinese! </bold></center>
+
+![logo](docs/logo.png)
 
 ![运行图](docs/title.png)
 
 ![中文测试](docs/first_scene.png)
 
 ![教程](./docs/tutorial.png)
+
+![拼句子](docs/deduction.png)
 
 
 
