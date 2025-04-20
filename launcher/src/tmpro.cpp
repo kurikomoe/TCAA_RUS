@@ -17,16 +17,16 @@
 #include "helper.hpp"
 
 std::map<std::wstring, std::wstring> gTmproData = {
-    {L"Backspace", L"退格键"},
-    {L"Return", L"回车键"},
-    {L"Tab", L"Tab 键"},
-    {L"None", L"无"},
-    {L"LeftMeta", L"左 Win 键"},
+    {L"Backspace", L"Backspac"},
+    {L"Return", L"Return"},
+    {L"Tab", L"Tab"},
+    {L"None", L"None"},
+    {L"LeftMeta", L"LeftMeta"},
 
-    {L"Space", L"空格键"},
-    {L"LeftButton", L"鼠标左键"},
-    {L"RightButton", L"鼠标右键"},
-    {L"MiddleButton", L"鼠标中键"},
+    {L"Space", L"Space"},
+    {L"LeftButton", L"LeftButton"},
+    {L"RightButton", L"RightButton"},
+    {L"MiddleButton", L"MiddleButton"},
 
     {L"Cross", L"Ⓐ"},
     {L"Square", L"Ⓧ"},
@@ -43,16 +43,16 @@ std::map<std::wstring, std::wstring> gTmproData = {
     {L"L3", L"L3"},
     {L"R3", L"R3"},
 
-    {L"Normal", L"正常"},
-    {L"Fast", L"快速"},
-    {L"Instant", L"立即显示「汉化组推荐」"},
+    {L"Normal", L"Нормальная"},
+    {L"Fast", L"Быстрая"},
+    {L"Instant", L"Мгновенная"},
 
-    // {L"Normal", L"正常"},
-    {L"Large", L"大"},
-    {L"CROWDFUNDERS", L"众筹名单"},
+    // {L"Normal", L"Нормальный"},
+    {L"Large", L"Большой"},
+    {L"CROWDFUNDERS", L"КРАУДФАНДЕРЫ"},
 
-    {L"Windowed", L"窗口化"},
-    {L"Fullscreen", L"全屏"},
+    {L"Windowed", L"Оконный"},
+    {L"Fullscreen", L"Полноэкранный"},
 
     // {L"Courtroom", L"法庭"},
     // {L"Queen", L""},
@@ -71,7 +71,7 @@ std::map<std::wstring, std::wstring> gTmproData = {
     // {L"<b>[Triangle]</b>: Present Evidence", L"[Y键]: 出示证据"},
     // {L"<b>[Circle]</b>: Present Evidence",   L"[B键]: 出示证据"},
 
-    {L"Disabled", L"禁用"},
+    {L"Disabled", L"Отключить"},
 };
 
 std::set<std::wstring> text_set;
@@ -158,11 +158,11 @@ int TMPro::init(DWORD base) {
   };
 
   std::vector<std::tuple<std::wstring, std::wstring>> special_inputs = {
-    {L"Present Evidence", L"出示证据"},
-    {L"Detect Magic",     L"法术探测"},
-    {L"Psychological Profile", L"心理档案"},
-    {L"View",    L"查看"},
-    {L"Confirm", L"确认"},
+    {L"Present Evidence", L"Предъявить Улику"},
+    {L"Detect Magic",     L"Обнаружить Магию"},
+    {L"Psychological Profile", L"Психологический Профиль"},
+    {L"View",    L"Осмотреть"},
+    {L"Confirm", L"Подтвердить"},
   };
 
   for (auto& [input, input_trans] : controller_inputs) {

@@ -10,19 +10,19 @@
 
 
 std::map<std::wstring, std::wstring> enum_string_map = {
-    {L"Autopsy", L"尸检报告"},
-    {L"Compendium", L"法术汇编"},
-    {L"Testimony", L"证词"},
-    {L"Contract", L"契约"},
-    {L"Map", L"地图"},
+    {L"Autopsy", L"Вскрытие"},
+    {L"Compendium", L"Компендиум"},
+    {L"Testimony", L"Показания"},
+    {L"Contract", L"Контракт"},
+    {L"Map", L"Карта"},
 
-    {L"Evocation", L"塑能术"},
-    {L"Transmutation", L"形变术"},
-    {L"Conjuration", L"召唤术"},
-    {L"Divination", L"占卜术"},
-    {L"Illusion", L"幻象术"},
-    {L"Abjuration", L"防护术"},
-    {L"Necromancy", L"死灵术"},
+    {L"Evocation", L"Призывание"},
+    {L"Transmutation", L"Трансмутация"},
+    {L"Conjuration", L"Колдовство"},
+    {L"Divination", L"Прорицание"},
+    {L"Illusion", L"Иллюзия"},
+    {L"Abjuration", L"Отречение"},
+    {L"Necromancy", L"Некромантия"},
 
     // Only for testing
     // {L"地图", L"Map"},
