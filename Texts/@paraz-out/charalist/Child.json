@@ -2,8 +2,8 @@
   {
     "key": "Child-displayName",
     "original": "Child",
-    "translation": "孩童",
-    "stage": 3,
+    "translation": "Ребёнок",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Child\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
@@ -16,15 +16,15 @@
   {
     "key": "Child-arcaneArt",
     "original": "???",
-    "translation": "？？？",
-    "stage": 3,
+    "translation": "???",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Child\",\n  \"Attr\": \"arcaneArt\"\n}"
   },
   {
     "key": "Child-occupation",
     "original": "???",
-    "translation": "？？？",
-    "stage": 3,
+    "translation": "???",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Child\",\n  \"Attr\": \"occupation\"\n}"
   }
 ]

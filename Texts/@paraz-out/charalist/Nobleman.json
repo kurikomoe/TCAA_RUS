@@ -2,8 +2,8 @@
   {
     "key": "Nobleman-displayName",
     "original": "Nobleman",
-    "translation": "贵族男性",
-    "stage": 3,
+    "translation": "Аристократ",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Nobleman\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
@@ -16,15 +16,15 @@
   {
     "key": "Nobleman-arcaneArt",
     "original": "???",
-    "translation": "？？？",
-    "stage": 3,
+    "translation": "???",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Nobleman\",\n  \"Attr\": \"arcaneArt\"\n}"
   },
   {
     "key": "Nobleman-occupation",
     "original": "???",
-    "translation": "？？？",
-    "stage": 3,
+    "translation": "???",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Nobleman\",\n  \"Attr\": \"occupation\"\n}"
   }
 ]

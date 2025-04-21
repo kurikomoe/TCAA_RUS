@@ -2,8 +2,8 @@
   {
     "key": "Prisoners-displayName",
     "original": "Prisoners",
-    "translation": "囚犯",
-    "stage": 3,
+    "translation": "Заключенные",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Prisoners\",\n  \"Attr\": \"displayName\"\n}"
   },
   {
@@ -16,15 +16,15 @@
   {
     "key": "Prisoners-arcaneArt",
     "original": "???",
-    "translation": "？？？",
-    "stage": 3,
+    "translation": "???",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Prisoners\",\n  \"Attr\": \"arcaneArt\"\n}"
   },
   {
     "key": "Prisoners-occupation",
     "original": "???",
-    "translation": "？？？",
-    "stage": 3,
+    "translation": "???",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Prisoners\",\n  \"Attr\": \"occupation\"\n}"
   }
 ]

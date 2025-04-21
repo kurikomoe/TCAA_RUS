@@ -11,7 +11,7 @@
   "m_Name": "",
   "courtroom": {
     "name": "Courtroom",
-    "displayName": "法庭",
+    "displayName": "Зал Суда",
     "backgroundPath": "Assets/Visuals/Resources/Courtroom.png",
     "examinationMap": "",
     "particle": "",
@@ -35,7 +35,7 @@
     "Array": [
       {
         "name": "Intro Scene",
-        "displayName": "麦考伊酒馆",
+        "displayName": "Таверна МакКоев",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn Night Conjure Light.png",
         "examinationMap": "",
         "particle": "",
@@ -44,7 +44,7 @@
       },
       {
         "name": "Town Intro",
-        "displayName": "科尔哈文街道",
+        "displayName": "Улица Корнхевена",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Village.png",
         "examinationMap": "",
         "particle": "",
@@ -53,7 +53,7 @@
       },
       {
         "name": "Inside the Tavern",
-        "displayName": "麦考伊酒馆",
+        "displayName": "Таверна МакКоев",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn (Day).png",
         "examinationMap": "",
         "particle": "",
@@ -62,7 +62,7 @@
       },
       {
         "name": "Looking for Celeste",
-        "displayName": "科尔哈文街道",
+        "displayName": "Улица Корнхевена",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Village Night.png",
         "examinationMap": "",
         "particle": "",
@@ -71,7 +71,7 @@
       },
       {
         "name": "Celeste Barracks",
-        "displayName": "收容处",
+        "displayName": "Темница",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
         "examinationMap": "",
         "particle": "",
@@ -80,7 +80,7 @@
       },
       {
         "name": "Lobby",
-        "displayName": "法庭：大厅",
+        "displayName": "Здание Суда: Лобби",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
         "examinationMap": "",
         "particle": "",
@@ -89,7 +89,7 @@
       },
       {
         "name": "Tavern",
-        "displayName": "麦考伊酒馆",
+        "displayName": "Таверна МакКоев",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn (Crime Scene).png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/McCoy Tavern.prefab",
         "particle": "",
@@ -98,7 +98,7 @@
       },
       {
         "name": "Barracks",
-        "displayName": "裁判所收容处",
+        "displayName": "Темница Инквизиции",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Dungeon.prefab",
         "particle": "",
@@ -107,7 +107,7 @@
       },
       {
         "name": "Upstairs",
-        "displayName": "麦考伊酒馆：二层",
+        "displayName": "Таверна МакКоев: Верхний Этаж",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn Upperfloor.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Upstairs.prefab",
         "particle": "",
@@ -116,7 +116,7 @@
       },
       {
         "name": "Lobby1",
-        "displayName": "瑞思霍姆法院",
+        "displayName": "Здание Суда Ратхолма",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Lobby.prefab",
         "particle": "",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Bedroom",
-        "displayName": "麦考伊酒馆：塞莱斯特的卧室",
+        "displayName": "Таверна МакКоев: Комната Селест",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Celeste Bedroom.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Bedroom.prefab",
         "particle": "",

@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-24-Stone Skin-displayName",
     "original": "Stone Skin",
-    "translation": "岩石护甲",
-    "stage": 3,
+    "translation": "Каменная Кожа",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Stone Skin\",\n  \"Idx\": 24,\n  \"Attr\": \"displayName\"\n}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-description",
     "original": "The caster creates a thick layer of stone around their body. This stone layer will deflect and protect the caster from any physical trauma. The stone layer can be slowly broken through continuous attacks. But as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.",
-    "translation": "施法者给身体覆上一层厚厚的岩石。岩石层可以反弹冲击力，保护施法者不受物理攻击伤害。随着被攻击次数增多，岩石护甲会渐渐破损。但只要施法者能集中注意力施法，岩石护甲就可以自动进行自我修复。",
-    "stage": 3,
+    "translation": "Колдун создаёт прочный слой камня вокруг своего тела. Этот каменный слой способен защитить заклинателя от всех физических атак и отражать их. Эта защиту можно медленно разрушать постоянными атаками. Но пока есть концентрация, каменный слой будет постоянно восстанавливаться.",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Stone Skin\",\n  \"Idx\": 24,\n  \"Attr\": \"description\"\n}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-incantation",
     "original": "\"Ter-pro-tec\"",
     "translation": "“Ter-pro-tec”",
-    "stage": 3,
+    "stage": 5,
     "context": "{\n  \"Name\": \"Stone Skin\",\n  \"Idx\": 24,\n  \"Attr\": \"incantation\"\n}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-gesture",
     "original": "Create an X with both arms",
-    "translation": "用双臂摆出“X”形",
-    "stage": 3,
+    "translation": "Образовать X руками",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Stone Skin\",\n  \"Idx\": 24,\n  \"Attr\": \"gesture\"\n}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-duration",
     "original": "While concentrating",
-    "translation": "注意力集中时",
-    "stage": 3,
+    "translation": "При концентрации",
+    "stage": 5,
     "context": "{\n  \"Name\": \"Stone Skin\",\n  \"Idx\": 24,\n  \"Attr\": \"duration\"\n}"
   }
 ]
