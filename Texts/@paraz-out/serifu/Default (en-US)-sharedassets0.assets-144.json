@@ -11909,7 +11909,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1807",
     "original": "Defend [d=\"You have no proof that she’s a “crook”. And you sure don’t have any proof that <i>I’m</i> one either.\"/]",
-    "translation": "Defend [d=\"У вас нет доказательств, что она \"подлая\". Как и доказательств, что <i>я</i> такой же.\"/]",
+    "translation": "Defend [d=\"У вас нет доказательств, что она “подлая”. Как и доказательств, что <i>я</i> такой же.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution3-1807\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -11923,7 +11923,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1809",
     "original": "Tyrion: You have no proof that she’s a “crook”.[p/] And you sure don’t have any proof that [i]I’m[/i] one either.",
-    "translation": "Tyrion: У вас нет доказательств, что она \"подлая\".[p/] Как и доказательств, что [i]я[/i] такой же.",
+    "translation": "Tyrion: У вас нет доказательств, что она “подлая”.[p/] Как и доказательств, что [i]я[/i] такой же.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution3-1809\",\n  \"keywords\": []\n}"
   },
