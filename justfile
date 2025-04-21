@@ -74,14 +74,14 @@ import:
     python3 ../third/il2cpp-stringliteral-patcher/patch.py \
         -i @old/metadata/global-metadata.dat \
         -p @dist/global-metadata.patch.json \
-        -o @dist/il2cpp_data/Metadata/global-metadata.dat.chs
+        -o @dist/il2cpp_data/Metadata/global-metadata.dat.rus
 
     #-o @dist/global-metadata.dat.stage1
 
     # python3 ../scripts/patchMetaData.py \
     #     -t @dist/global-metadata.name.json \
     #     -i @dist/global-metadata.dat.stage1 \
-    #     -o @dist/il2cpp_data/Metadata/global-metadata.dat.chs
+    #     -o @dist/il2cpp_data/Metadata/global-metadata.dat.rus
 
     # cleanup
     rm -rf \

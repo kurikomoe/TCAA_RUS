@@ -262,8 +262,17 @@ def process_sdf(font_def: FontDef, old_root: Path, old_sdf, new_root: Path, new_
     old_file_path = old_root / old_sdf
     new_file_path = new_root / new_sdf
 
-    old_file_data = json.load(open(old_file_path, 'r', encoding="utf8"))
-    new_file_data = json.load(open(new_file_path, 'r', encoding="utf8"))
+    try:
+        old_file_data = json.load(open(old_file_path, 'r', encoding="utf8"))
+    except Exception as e:
+        print(old_file_path)
+        raise e
+
+    try:
+        new_file_data = json.load(open(new_file_path, 'r', encoding="utf8"))
+    except Exception as e:
+        print(new_file_path)
+        raise e
 
     DictCopyAttr("m_Name", new_file_data, old_file_data)
     DictCopyAttr("m_GameObject", new_file_data, old_file_data)
