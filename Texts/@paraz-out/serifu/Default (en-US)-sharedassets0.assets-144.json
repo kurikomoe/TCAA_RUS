@@ -7450,14 +7450,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1144",
     "original": "You arrive back at the McCoy tavern.[p/] Luckily for you,[p/] the Inquisition set up a teleportation circle for you to use.",
-    "translation": "Ты вернулся в Таверну МакКоев.[p/]Повезло,[p/] что Инквизиция установила круги телепортации.",
+    "translation": "Ты вернулся в Таверну МакКоев.[p/] Повезло,[p/] что Инквизиция установила круги телепортации.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Check_Events_Tavern-1144\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1145",
     "original": "With that circle,[p/] you could magically teleport between the capital and the crime scene instantaneously.",
-    "translation": "С помощью этих кругом можно магически перемещаться из столицы до сцены преступления за секунду.",
+    "translation": "С помощью этих кругов можно магически перемещаться из столицы до сцены преступления за секунду.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Check_Events_Tavern-1145\",\n  \"keywords\": []\n}"
   },
@@ -11881,7 +11881,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1803",
     "original": "Rationalize [d=\"Have you seen me engage in any “crook”-like behavior?.\"/]",
-    "translation": "Rationalize [d=\"Разве я на ваших глазах творил что-то \"подлое\"?\"/]",
+    "translation": "Rationalize [d=\"Разве я на ваших глазах творил что-то “подлое”?\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution3-1803\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
