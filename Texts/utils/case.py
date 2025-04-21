@@ -120,7 +120,8 @@ def ToRaw(raw_root: Path, paraz_root: Path) -> Dict[Path, Dict]:
         "speaker": True,
         "underline": True,
         "tags": True,
-        "punctuations": True,
+        #  "punctuations": True,
+        "punctuations": False,  # Turn off for rus
         "pangu": True,
     }
 

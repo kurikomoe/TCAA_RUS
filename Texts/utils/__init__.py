@@ -325,7 +325,8 @@ def GetParazAcc(paraz_file: Path, checks: Dict[str, bool] = {}) -> Dict[str, Par
     :
         checks["speaker"] = True
         checks["pair"] = True
-        checks["punctuations"] = True
+        #  checks["punctuations"] = True
+        checks["punctuations"] = False  # Turn off for rus
         checks["pangu"] = False
 
     # print(paraz_file.name)
