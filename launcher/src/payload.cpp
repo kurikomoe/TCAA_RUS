@@ -29,7 +29,7 @@ BOOL WINAPI hook_SetWindowTextW(HWND hWnd, LPCWSTR lpString) {
 
         if (window_name == ORIG_TITLE_NAME) {
             // window_name += TITLE_NAME_SUFFIX;
-            window_name = L"奥术律师 " + TITLE_NAME_SUFFIX;
+            window_name = L"Адвокат Арканы " + TITLE_NAME_SUFFIX;
             lpString = window_name.c_str();
         }
     }
