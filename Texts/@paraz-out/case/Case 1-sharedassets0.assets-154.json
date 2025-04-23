@@ -184,8 +184,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-1",
     "original": "For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.",
-    "translation": "Для определённых УТВЕРЖДЕНИЙ, вам необходимо ПРЕДСТАВИТЬ улику для опровержения./n/n Для продолжения, ПРЕДСТАВЬТЕ улику, которая противоречит УТВЕРЖДЕНИЮ оппонента.",
-    "stage": 5,
+    "translation": "Для определённых УТВЕРЖДЕНИЙ, вам необходимо ПРЕДСТАВИТЬ улику для опровержения./n/nДля продолжения, ПРЕДСТАВЬТЕ улику, которая противоречит УТВЕРЖДЕНИЮ оппонента.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Merchant_Present\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\",\n    \"Presenting During Arguments\",\n    \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
