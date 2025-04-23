@@ -2,176 +2,176 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1",
     "original": "There's only one locked door that leads into the cell.",
-    "translation": "仅有一扇门通向牢房。",
-    "stage": 3,
+    "translation": "Тут всего одна дверь в камеру заключения.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-1\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2",
     "original": "The door seems to be locked by some kind of magical mechanism.",
-    "translation": "门锁看起来是某种魔法装置。",
-    "stage": 3,
+    "translation": "И, судя по всему, замок двери работает от магического механизма.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-2\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4",
     "original": "Lit torches are hanging on the wall of the cell.",
-    "translation": "牢房墙上挂着点燃的火把。",
-    "stage": 3,
+    "translation": "Маленькие факела весят на стенах.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-4\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-5",
     "original": "It seems a bit irresponsible to put a potentially harmful item in here with the prisoners.",
-    "translation": "把这种可能有害的东西放在囚犯触手可及的地方，好像不太安全。",
-    "stage": 3,
+    "translation": "Как-то это безответственно - оставлять предмет потенциальной опасности в камере с заключенным.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-5\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-6",
     "original": "...But perhaps the Inquisition doesn't care.",
-    "translation": "……也许裁判所根本不在乎。",
-    "stage": 3,
+    "translation": "...Хотя возможно Инквизиция и не беспокоиться об этом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-6\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-8",
     "original": "The cell has a barred window.",
-    "translation": "牢房有扇铁栅窗。",
-    "stage": 3,
+    "translation": "У камеры есть окно с решетками.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-8\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-9",
     "original": "Even if a prisoner somehow broke through the bars,[p/] there's a potential three-story drop.",
-    "translation": "就算囚犯能打破铁栏，[p/]离自由也隔着一个三层楼的自由落体。",
-    "stage": 3,
+    "translation": "Даже если заключенный и сможет выбраться,[p/] от свободы ещё три этажа полёта.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-9\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-10",
     "original": "You doubt that Wallace would try something like that.",
-    "translation": "华莱士恐怕不会干这种傻事。",
-    "stage": 3,
+    "translation": "Сомнительно, что Уоллес бы собрался совершить что-то подобное.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Examine_Barracks-10\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-13",
     "original": "WALLACE: I-[p/][s/]I don’t understand...",
-    "translation": "WALLACE: 我、[p/][s/]我搞不明白……",
-    "stage": 3,
+    "translation": "WALLACE: Я-[p/][s/]Я не понимаю...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-13\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-14",
     "original": "WALLACE: I was with you in the library the entire time...",
-    "translation": "WALLACE: 我一直都和你们待在图书馆……",
-    "stage": 3,
+    "translation": "WALLACE: Я же всё время был в библиотеке...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-14\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-15",
     "original": "WALLACE: But why do they still think I’m the murderer? [mind=\"It makes no sense… unless.\"/]",
-    "translation": "WALLACE: 为什么他们觉得我是凶手？ [mind=\"这说不通啊……除非……\"/]",
-    "stage": 3,
+    "translation": "WALLACE: Почему они думают, что я убийца? [mind=\"Какой-то бред... но может быть.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-15\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-16",
     "original": "WALLACE: Y-[p/][s/]You told the Inquisition, right?!",
-    "translation": "WALLACE: 你、[p/][s/]你和裁判所的人说了对不对？！",
-    "stage": 3,
+    "translation": "WALLACE: В-[p/][s/]Вы сказали обо всём Инквизиции, да?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-16\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-17",
     "original": "WALLACE: Did you tell them that I’m innocent?! [mind=\"Did they frame me?!\"/]",
-    "translation": "WALLACE: 你跟他们说了我是无辜的吗？！ [mind=\"难道是他们陷害我？！\"/]",
-    "stage": 3,
+    "translation": "WALLACE: Вы сказали, что я невиновен?! [mind=\"Они подставили меня?!\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-17\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-18",
     "original": "TYRION: W-[p/]We did.[p/] But as we said before,[p/] there are traces of [b]necromancy[/b] on the body.",
-    "translation": "TYRION: 我、[p/]我们替你辩解了，[p/]但我们之前也说过，[p/]尸体上有[b]死灵术[/b]的痕迹。",
-    "stage": 3,
+    "translation": "TYRION: Н-[p/]Ну, да. [p/]Но как мы и сказали ранее,[p/] следы [b]некромантии[/b] были найдена на теле.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-18\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-19",
     "original": "TYRION: And with the state of the body,[p/] they believe that she was murdered with a [b]necromancy[/b] spell.",
-    "translation": "TYRION: 根据尸体的状况推断，[p/]他们认为她是被某种[b]死灵术[/b]类法术杀害。",
-    "stage": 3,
+    "translation": "TYRION: И учитывая состояние тела,[p/] они уверены, что её убили с помощью [b]некромантии[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-19\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-20",
     "original": "WALLACE: …!",
-    "translation": "WALLACE: ……！",
-    "stage": 3,
+    "translation": "WALLACE: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-20\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-21",
     "original": "TYRION: …Apparently,[p/] that makes [i]you[/i] their prime suspect.",
-    "translation": "TYRION: ……就目前来看，[p/]<u>你</u>是头号嫌疑人。",
-    "stage": 3,
+    "translation": "TYRION: ...И как итог,[p/] это делает [i]тебя[/i] главным подозреваемым.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-21\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-22",
     "original": "WALLACE: I-[p/]I see…",
-    "translation": "WALLACE: 我、[p/]我明白了……",
-    "stage": 3,
+    "translation": "WALLACE: В-[p/]Вот как...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-22\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-24",
     "original": "TYRION: Wallace…[p/] We heard about the type of magic that you’re studying.",
-    "translation": "TYRION: 华莱士……[p/]关于你正在学习的法术类型，我们打听了点情报。",
-    "stage": 3,
+    "translation": "TYRION: Уоллес...[p/] Мы знаем о том, какую магию ты изучаешь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-24\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-25",
     "original": "WALLACE: …!",
-    "translation": "WALLACE: ……！",
-    "stage": 3,
+    "translation": "WALLACE: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-25\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-26",
     "original": "CELESTE: D-[p/][s/]Don’t worry!",
-    "translation": "CELESTE: 别、[p/][s/]别误会！",
-    "stage": 3,
+    "translation": "CELESTE: Н-[p/][s/]Не волнуйся!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-26\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-27",
     "original": "CELESTE: The headmaster explained it to us already.",
-    "translation": "CELESTE: 校长已经和我们解释清楚了。",
-    "stage": 3,
+    "translation": "CELESTE: Директор нам всё объяснил.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-27\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-28",
     "original": "Celeste: You just want to use [b]necromancy[/b] to become a doctor, right?",
-    "translation": "Celeste: 你学习[b]死灵术[/b]是为了当医生，对吧？",
-    "stage": 3,
+    "translation": "Celeste: Ты хочешь использовать [b]некромантию[/b], чтобы стать доктором, да?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-28\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-29",
     "original": "WALLACE: I-[p/][s/]I…",
-    "translation": "WALLACE: 我、[p/][s/]我……",
-    "stage": 3,
+    "translation": "WALLACE: Я-[p/][s/]Я...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-29\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-30",
     "original": "TYRION: I understand that you have reservations about talking about your magic.",
-    "translation": "TYRION: 我能理解你在这方面有所顾虑。",
-    "stage": 3,
+    "translation": "TYRION: Я понимаю, что ты слегка колеблешься о своей магии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Talk_Barracks-30\",\n  \"keywords\": []\n}"
   },
   {
