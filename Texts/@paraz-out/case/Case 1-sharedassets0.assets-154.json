@@ -198,8 +198,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Aria_Retort-60-0",
     "original": "Which spell did Lord Pierce use to commit murder?",
-    "translation": "Какое заклинание\\u200B использовал\\u200B Лорд Пирс\\u200Bдля убийства?",
-    "stage": 5,
+    "translation": "Какое \\u200Bзаклинание\\u200B использовал\\u200B Лорд Пирс\\u200B для \\u200Bубийства?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Aria_Retort\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Which spell did Lord Pierce use to commit murder?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -226,8 +226,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered-9-0",
     "original": "I saw the murder! I witnessed everything!",
-    "translation": "Я\\u200B видел\\u200Bубийство!\\u200BСвоими\\u200Bглазами!",
-    "stage": 5,
+    "translation": "Я\\u200B видел\\u200B убийство!\\u200B Своими\\u200B глазами!",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"GarrickCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I saw the murder! I witnessed everything!\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -331,8 +331,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered4-78-1",
     "original": "You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.",
-    "translation": "Вы активировали УСИЛИННЫЙ ГЛАЗ. С ним, вы получаете возможность видеть больше, чем мысли свидетеля. Также, вы можете влиять на путь их мыслей. ПРОИЦИРУЙТЕ предметы в разуме Пирса, чтобы проявить мысли. Вам нужно ПРОИЦИРОВАТЬ вещи, которые заставят его думать об убийстве. Проявление правильных мыслей будут заполнять ОСОЗНАНИЕ. Когда ОСОЗНАНИЕ заполнено, вы получите всё, что вам нужно.",
-    "stage": 5,
+    "translation": "Вы активировали УСИЛИННЫЙ ГЛАЗ. С ним, вы получаете возможность видеть больше, чем мысли свидетеля. Также, вы можете влиять на путь их мыслей. ПРОЯВИТЕ предметы в разуме Пирса, чтобы проявить мысли. Вам нужно ПРОЯВИТЬ вещи, которые заставят его думать об убийстве. Проявление правильных мыслей будут заполнять ПРОЗРЕНИЕ. Когда ПРОЗРЕНИЕ заполнено, вы получите всё, что вам нужно.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"GarrickCornered4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\",\n    \"Empowered Eye\",\n    \"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
