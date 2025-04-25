@@ -9,7 +9,7 @@
   {
     "key": "SpellLibrary-6-Mend Wounds-description",
     "original": "Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.",
-    "translation": "Залечивает раны цели в во время действия. Раны магически залечиваются не оставляя шрамом или синяков. Заклинание не способно восстановить утерянную конечность или воскресить мёртвого.",
+    "translation": "Залечивает раны цели во время действия. Раны магически заживают, не оставляя шрамом или синяков. Заклинание не способно восстановить утерянную конечность или воскресить мёртвого.",
     "stage": 5,
     "context": "{\n  \"Name\": \"Mend Wounds\",\n  \"Idx\": 6,\n  \"Attr\": \"description\"\n}"
   },
