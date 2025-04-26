@@ -10978,1289 +10978,1289 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1701",
     "original": "JAN: She knocked over a vase and shattered it.",
-    "translation": "JAN: 她撞倒了一个花瓶，那个花瓶摔碎了。",
-    "stage": 3,
+    "translation": "JAN: Она уронила вазу и разбила её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1701\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1702",
     "original": "JAN: It [i]might[/i] have been an accident…[p/] But she’s done stuff like that on purpose before.",
-    "translation": "JAN: 本来这<u>可能</u>是个意外……[p/]但是她以前也故意做过类似的事情。",
-    "stage": 3,
+    "translation": "JAN: Это [i]могла[/i] быть случайность...[p/] Но она уже не один раз делала что-то подобное.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1702\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1703",
     "original": "Did she make any sounds?",
-    "translation": "她有发出什么声音吗？",
-    "stage": 3,
+    "translation": "Она издавала какие-то звуки?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1703\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1704",
     "original": "TYRION: Did you hear her make any sounds?",
-    "translation": "TYRION: 你有听到她发出什么声音吗？",
-    "stage": 3,
+    "translation": "TYRION: Она что-то говорила?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1704\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1705",
     "original": "JAN: Oh…[p/] Yeah…",
-    "translation": "JAN: 哦……[p/]对……",
-    "stage": 3,
+    "translation": "JAN: Ох...[p/] ну, да...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1705\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1706",
     "original": "JAN: After she knocked over the vase,[p/] she yelled at me to [s/]“Be Quiet!”.",
-    "translation": "JAN: 她撞倒花瓶之后，[p/]朝我大喊[s/]“安静！”。",
-    "stage": 3,
+    "translation": "JAN: После того, как ваза упала,[p/] она крикнула на меня[s/] \"Тишина!\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1706\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1707",
     "original": "JAN: …But I didn’t even say anything.",
-    "translation": "JAN: ……但我当时一个字都没说。",
-    "stage": 3,
+    "translation": "JAN: ...Но я даже ничего не сказал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1707\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1708",
     "original": "TYRION: This detail could be extremely important.",
-    "translation": "TYRION: 这个细节可能至关重要。",
-    "stage": 3,
+    "translation": "TYRION: Эта деталь может быть очень важна.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1708\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1709",
     "original": "TYRION: Please add it to your testimony, Mr. Hughes.",
-    "translation": "TYRION: 请将此加到你的证言里，休斯先生。",
-    "stage": 3,
+    "translation": "TYRION: Пожалуйста, добавьте эту деталь в ваши показания, Мистер Хьюз.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1709\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1710",
     "original": "JAN: Whatever you say, man…",
-    "translation": "JAN: 随便啦……",
-    "stage": 3,
+    "translation": "JAN: Че скажешь, пацан...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanPress-1710\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1711",
     "original": "TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.",
-    "translation": "TYRION: 休斯先生。[p/]你有提到贝尔维瑟向你吼过。",
-    "stage": 3,
+    "translation": "TYRION: Мистер Хьюз.[p/] Вы сказали, что Беллвезер кричала на вас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1711\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1712",
     "original": "TYRION: What were her exact words?",
-    "translation": "TYRION: 她朝你吼了什么？",
-    "stage": 3,
+    "translation": "TYRION: Что она сказала конкретно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1712\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1713",
     "original": "JAN: Uh…[p/] I think she yelled at me to “Be Quiet!”.",
-    "translation": "JAN: 唔……[p/]我记得她朝我吼道“安静！”。",
-    "stage": 3,
+    "translation": "JAN: Ух...[p/] Я думаю, это было \"Тишина!\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1713\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1714",
     "original": "ARIA: What...?",
-    "translation": "ARIA: 什么……？",
-    "stage": 3,
+    "translation": "ARIA: Какого...?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1714\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1715",
     "original": "JAN: I thought it was weird.[p/] I didn’t even say anything.",
-    "translation": "JAN: 我感觉很怪，[p/]因为当时我什么都没说。",
-    "stage": 3,
+    "translation": "JAN: Мне тоже показалось это странным. [p/]Я даже ничего не сказал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1715\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1716",
     "original": "JAN: But I know better than to talk back to her.",
-    "translation": "JAN: 但我知道最好别顶嘴。",
-    "stage": 3,
+    "translation": "JAN: Но мне лучше знать, чем что-то ей отвечать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1716\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1717",
     "original": "TYRION: That’s the thing, Hughes.",
-    "translation": "TYRION: 就是这个！休斯先生。",
-    "stage": 3,
+    "translation": "TYRION: В этом и дело, Хьюз.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1717\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1718",
     "original": "Tyrion: The prosecution’s theory is as such:",
-    "translation": "Tyrion: 检方的理论如下：",
-    "stage": 3,
+    "translation": "Tyrion: Теория обвинения гласит следующее.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1718\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1719",
     "original": "TYRION: The professor was murdered in the library and was reanimated using [b]Animate Corpse[/b].",
-    "translation": "TYRION: 教授在图书馆被杀害，有人对尸体用了[b]活化死尸[/b]。",
-    "stage": 3,
+    "translation": "TYRION: Профессор была убита в библиотеке и оживлена с помощью [b]Оживления Трупа[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1719\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1720",
     "original": "TYRION: With a quick [b]illusion[/b] spell,[p/] no one would notice that she was undead.",
-    "translation": "TYRION: 在某种[b]幻象术[/b]的伪装下，[p/]没人会注意到她是死尸。",
-    "stage": 3,
+    "translation": "TYRION: И с помощью небольшой [b]иллюзии[/b],[p/] никто бы и не заметил, что она нежить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1720\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1721",
     "original": "TYRION: However,[p/][s/] if what you saw was [i]truly[/i] the undead Bellwether…",
-    "translation": "TYRION: 不过，[p/][s/]如果你见到的<u>真的是</u>活尸贝尔维瑟的话……",
-    "stage": 3,
+    "translation": "TYRION: Однако,[p/][s/] если то, что вы видели - [i]на самом деле[/i] мёртвая Беллвезер...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1721\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1722",
     "original": "TYRION: …How did she speak to you?!",
-    "translation": "TYRION: ……她怎么可能和你说话？！",
-    "stage": 3,
+    "translation": "TYRION: ...Тогда как она говорила с вами?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1722\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1723",
     "original": "JAN: Huh…?",
-    "translation": "JAN: 哈……？",
-    "stage": 3,
+    "translation": "JAN: Че...?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1723\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1724",
     "original": "ARIA: This…[p/][s/] doesn’t make any sense!",
-    "translation": "ARIA: 这……[p/][s/]这根本说不通！",
-    "stage": 3,
+    "translation": "ARIA: Это...[p/][s/] полный бред!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1724\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1725",
     "original": "TYRION: Mr. Hughes,[p/] undead can follow simple orders but they don’t have the intelligence to speak.",
-    "translation": "TYRION: 休斯先生，[p/]虽然活尸能遵从简单的命令，但它们没有足够的智力来说话。",
-    "stage": 3,
+    "translation": "TYRION: Мистер Хьюз,[p/] нежить может исполнять простые приказы, но она не способна говорить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1725\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1726",
     "original": "ARIA: Perhaps…[p/][s/] the witness was mistaken!",
-    "translation": "ARIA: 或许……[p/][s/]是证人记错了！",
-    "stage": 3,
+    "translation": "ARIA: Может...[p/][s/] свидетель просто ошибся!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1726\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1727",
     "original": "JAN: N-[p/][s/]No![p/][s/] I’m sure I heard her yell at me!",
-    "translation": "JAN: 不、[p/][s/]不是这样的！[p/][s/]我很清楚地记得她朝我吼过！",
-    "stage": 3,
+    "translation": "JAN: Н-[p/][s/]Нет![p/][s/] Я четко помню, как она накричала на меня!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1727\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1728",
     "original": "JAN: I remembered because what she said didn’t make any sense!",
-    "translation": "JAN: 因为她吼得我一头雾水，所以我记得很清楚！",
-    "stage": 3,
+    "translation": "JAN: Я это помню, потому что всё это не имела смысла!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj-1728\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1729",
     "original": "TYRION: Exactly![p/][s/] He didn’t say anything,[p/] but she still yelled at him to “Be quiet!”.",
-    "translation": "TYRION: 正是如此！[p/][s/]他什么都没说，[p/]但她仍旧吼了“安静！”。",
-    "stage": 3,
+    "translation": "TYRION: Вот именно![p/][s/] Он сказали лишь одно[p/] - она крикнула \"Тишина!\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1729\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1730",
     "original": "…Wait a minute.",
-    "translation": "……等下。",
-    "stage": 3,
+    "translation": "...Погодите минуту.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1730\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1731",
     "original": "JUDGE: I’m…[p/] afraid I don’t understand.",
-    "translation": "JUDGE: 我……[p/]怕是不太明白。",
-    "stage": 3,
+    "translation": "JUDGE: Я...[p/] не до конца понимаю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1731\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1732",
     "original": "JUDGE: We’ve already established that the victim was dead long before her encounter with Mr. Hughes.",
-    "translation": "JUDGE: 我们已经确定，死者在遇到休斯先生之前就已经死了。",
-    "stage": 3,
+    "translation": "JUDGE: Мы уже установили, что жертва была мертва уже давно до встречи с Мистером Хьюзом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1732\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1733",
     "original": "JUDGE: But…[p/] if what he saw wasn’t an undead,[p/][s/] what was it?",
-    "translation": "JUDGE: 但……[p/]如果他所见的教授并非活尸，[p/][s/]那会是什么呢？",
-    "stage": 3,
+    "translation": "JUDGE: Но...[p/] если он не видел её в форме нежити,[p/][s/] что это было?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1733\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1734",
     "original": "ARIA: It [i]had[/i] to be an undead!",
-    "translation": "ARIA: 那<u>肯定</u>是个活尸！",
-    "stage": 3,
+    "translation": "ARIA: Она [i]точно[/i] была нежитью!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1734\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1735",
     "original": "Aria: What other explanation is there?!",
-    "translation": "Aria: 不然还有什么解释？！",
-    "stage": 3,
+    "translation": "Aria: Какое этому есть ещё объяснение?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1735\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1736",
     "original": "TYRION: …",
-    "translation": "TYRION: ……",
-    "stage": 3,
+    "translation": "TYRION: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1736\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1737",
     "original": "It couldn’t have been a [b]Major Illusion[/b].",
-    "translation": "不可能是[b]高等幻象术[/b]。",
-    "stage": 3,
+    "translation": "Это не могло быть сделано с помощью [b]Крупной Иллюзии[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1737\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1738",
     "original": "Otherwise,[p/] it wouldn’t have been able to shove Jan out of the way or knock over the vase.",
-    "translation": "否则，[p/]她当时也不可能把简推开或者撞倒花瓶。",
-    "stage": 3,
+    "translation": "Иначе же,[p/] она бы не смогла толкнуть Яна или опрокинуть вазу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1738\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1739",
     "original": "Whatever it was,[p/] someone probably used [b]Illusory Disguise[/b] to make it look like Bellwether.",
-    "translation": "无论那是什么，[p/]某人可能用了[b]幻象伪装[/b]来假扮贝尔维瑟。",
-    "stage": 3,
+    "translation": "Чтобы это не было,[p/] кто-то явно использовал [b]Иллюзорное Прикрытие[/b], замаскировать под Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1739\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1740",
     "original": "Does that mean it was a person?",
-    "translation": "是不是意味着那是个人呢？",
-    "stage": 3,
+    "translation": "Значит ли это, что это был человек?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1740\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1741",
     "original": "No…[p/] If it was a person,[p/] how did Bellwether’s body end up in the lecture hall?",
-    "translation": "不对……[p/]如果是人假扮的话，[p/]那又如何解释贝尔维瑟的尸体在讲堂呢？",
-    "stage": 3,
+    "translation": "Нет...[p/] Если это был человек,[p/] как тело Беллвезер оказалось в лектории?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1741\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1742",
     "original": "Bellwether wouldn’t have been able to turn herself invisible if she was dead.",
-    "translation": "如果贝尔维瑟死了，她也没办法隐身。",
-    "stage": 3,
+    "translation": "Беллвезер не могла быть сделать саму себя невидимой, будучи мёртвой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1742\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1743",
     "original": "And whatever Jan saw,[p/] it needs to be something that could have transported Bellwether’s body unseen.",
-    "translation": "无论简看到了什么，[p/]一定得是某种能不被人发现，并转移贝尔维瑟尸体的东西。",
-    "stage": 3,
+    "translation": "И чтобы Ян не увидел,[p/] это было что-то, что переносило тело Беллвезеор незаметно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1743\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1744",
     "original": "It would have also needed to have a mass [i]and[/i] the ability to speak.",
-    "translation": "同时也得有实体<u>和</u>说话的能力。",
-    "stage": 3,
+    "translation": "У этого также должна быть масса [i]и[/i] способность говорить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1744\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1745",
     "original": "Or at the very least,[p/] it needs to be something that can recreate Bellwether’s voice.",
-    "translation": "或者说至少得是某种能模仿贝尔维瑟声音的东西。",
-    "stage": 3,
+    "translation": "Или по крайней мере,[p/] возможность повторить голос Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-JanObj_2-1745\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1746",
     "original": "What could have done that?",
-    "translation": "什么东西能满足这些条件呢？",
-    "stage": 3,
+    "translation": "Как это можно было провернуть?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPres-1746\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1749",
     "original": "No…[p/] That’s not right.",
-    "translation": "不对……[p/]再好好想想。",
-    "stage": 3,
+    "translation": "Нет...[p/] Что-то не так.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPres-1749\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1750",
     "original": "There has to [i]something[/i] you've seen that could have recreated Bellwether's voice.",
-    "translation": "你一定见过能模仿贝尔维瑟声音的<u>什么东西</u>。",
-    "stage": 3,
+    "translation": "Должно быть [i]что-то[/i] в твоей памяти, что могло повторить голос Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPres-1750\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1751",
     "original": "TYRION: …!",
-    "translation": "TYRION: ……！",
-    "stage": 3,
+    "translation": "TYRION: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1751\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1752",
     "original": "TYRION: That’s it!",
-    "translation": "TYRION: 就是这个！",
-    "stage": 3,
+    "translation": "TYRION: Точно!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1752\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1753",
     "original": "ARIA: …!",
-    "translation": "ARIA: ……！",
-    "stage": 3,
+    "translation": "ARIA: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1753\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1754",
     "original": "JUDGE: Do you have an answer for us, Mr. Cuthbert?",
-    "translation": "JUDGE: 卡斯伯特先生，你有答案了吗？",
-    "stage": 3,
+    "translation": "JUDGE: Вы нашли ответ, Мистер Катберт?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1754\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1755",
     "original": "JUDGE: What did the witness actually see?!",
-    "translation": "JUDGE: 证人当时看到的到底是什么？！",
-    "stage": 3,
+    "translation": "JUDGE: Что на самом деле видел свидетель?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1755\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1756",
     "original": "TYRION: Your Honor.[p/] The witness didn’t actually hear the dead victim speaking.",
-    "translation": "TYRION: 法官阁下，[p/]证人听见的并不是受害者的尸体在说话。",
-    "stage": 3,
+    "translation": "TYRION: Ваша Честь.[p/] Свидетель не слышал того, как жертва говорила мёртвой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1756\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1757",
     "original": "TYRION: What he [i]actually[/i] heard was her voice being recreated using magic.",
-    "translation": "TYRION: 他听到的受害者的声音<u>其实</u>是魔法模拟出来的。",
-    "stage": 3,
+    "translation": "TYRION: То, что он слышал [i]на самом деле[/i], это воссоздание её голоса магией.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1757\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1758",
     "original": "ARIA: Are you trying to say that her voice was recreated using a spell…?",
-    "translation": "ARIA: 你难不成要说她的声音是通过某种法术模拟出来的……？",
-    "stage": 3,
+    "translation": "ARIA: Вы хотите сказать, что её голос был воссоздан с помощью заклинаний...?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1758\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1759",
     "original": "TYRION: Not a spell, Steelwind.[p/] It was artificery.",
-    "translation": "TYRION: 不是法术，斯蒂尔文德。[p/]是奥术装置。",
-    "stage": 3,
+    "translation": "TYRION: Не заклинания, Стилвинд.[p/] Это была артифа.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1759\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1760",
     "original": "TYRION: And whoever the murderer is,[p/] they had the perfect piece of artificery available to them.",
-    "translation": "TYRION: 无论真凶是谁，[p/]学院里都有完美的奥术装置供其使用。",
-    "stage": 3,
+    "translation": "TYRION: И кем бы не был убийца,[p/] у них во владении был прекрасный прибор артифы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1760\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1761",
     "original": "TYRION: One programmed with Catherine Bellwether’s voice.",
-    "translation": "TYRION: 一个集成了凯瑟琳·贝尔维瑟的声音的奥术装置。",
-    "stage": 3,
+    "translation": "TYRION: Который был настроен на голос Кэтрин Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1761\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1762",
     "original": "ARIA: …!",
-    "translation": "ARIA: ……！",
-    "stage": 3,
+    "translation": "ARIA: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1762\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1763",
     "original": "Aria: You can’t possibly mean-!",
-    "translation": "Aria: 难不成是——！",
-    "stage": 3,
+    "translation": "Aria: Вы же не хотите сказать-!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1763\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1764",
     "original": "TYRION: That’s right, Steelwind!",
-    "translation": "TYRION: 没错，斯蒂尔文德！",
-    "stage": 3,
+    "translation": "TYRION: Именно так, Стилвинд!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter-1764\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1765",
     "original": "TYRION: What Mr. Hughes saw was an Arcane Construct!",
-    "translation": "TYRION: 休斯先生当时看到的是一个奥术构造体！",
-    "stage": 3,
+    "translation": "TYRION: То, что увидел Мистер Хьюз, было Конструктом Арканы!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1765\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1766",
     "original": "JUDGE: An “Arcane Construct”?",
-    "translation": "JUDGE: 一个“奥术构造体”？",
-    "stage": 3,
+    "translation": "JUDGE: \"Конструкт Арканы\"? ",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1766\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1767",
     "original": "TYRION: Think of it as a magically animated suit of armor, Your Honor.",
-    "translation": "TYRION: 请把它当成一个由魔法驱动的全套盔甲，法官阁下。",
-    "stage": 3,
+    "translation": "TYRION: Думайте об них как о магических ходящих доспехах, Ваша Честь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1767\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1768",
     "original": "JUDGE: But we ruled out such a possibility, hadn’t we?",
-    "translation": "JUDGE: 但我们排除了这种可能性，不是吗？",
-    "stage": 3,
+    "translation": "JUDGE: Но разве мы не вывели из хода подобную вероятность?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1768\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1769",
     "original": "JUDGE: Construct or not,[p/] no one could disguise themselves [i]and[/i] carry the body to the classroom.",
-    "translation": "JUDGE: 无论是不是奥术构造体，[p/]都没人能在用法术伪装自己的同时，把尸体搬到教室。",
-    "stage": 3,
+    "translation": "JUDGE: Конструкт или нет,[p/] никто не смог бы замаскировать себя [i]и[/i] пронести тело в лекторию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1769\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1770",
     "original": "TYRION: A person wouldn’t have been able to do it…",
-    "translation": "TYRION: 一个人确实做不到……",
-    "stage": 3,
+    "translation": "TYRION: Человек может быть и не смог...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1770\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1771",
     "original": "TYRION: But Arcane Constructs are a different thing entirely.",
-    "translation": "TYRION: 但奥术构造体就另说了。",
-    "stage": 3,
+    "translation": "TYRION: Но Конструкт Арканы - это другой разговор.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1771\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1772",
     "original": "TYRION: Those suits of armor are extremely large.[p/] But more importantly,[p/][s/] they’re hollow!",
-    "translation": "TYRION: 那些盔甲非常大，[p/]更重要的是，[p/][s/]它们是中空的！",
-    "stage": 3,
+    "translation": "TYRION: Эти ходячие доспехи очень тяжелые.[p/] Но что более важно,[p/][s/] они полые внутри!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1772\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1773",
     "original": "JUDGE: I see…",
-    "translation": "JUDGE: 我明白了……",
-    "stage": 3,
+    "translation": "JUDGE: Понятно...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1773\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1774",
     "original": "JUDGE: That means that theoretically,[p/] someone could have placed the victim’s body inside it...",
-    "translation": "JUDGE: 理论上来说，[p/]某人很可能把受害者的尸体放在里面……",
-    "stage": 3,
+    "translation": "JUDGE: Значит, теоретически,[p/] кто-то мог поместить тело жертвы внутрь...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1774\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1775",
     "original": "TYRION: The Arcane Construct wouldn’t [i]just[/i] transport the body.",
-    "translation": "TYRION: 奥术构造体<u>不只是</u>转移尸体。",
-    "stage": 3,
+    "translation": "TYRION: Конструкт не смог бы [i]так просто[/i] перенести тело.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1775\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1776",
     "original": "TYRION: With an [b]Illusory Disguise[/b],[p/] it would also confuse and mislead anyone who saw it!",
-    "translation": "TYRION: 通过[b]幻象伪装[/b]，[p/]它还能误导所有看见它的人！",
-    "stage": 3,
+    "translation": "TYRION: С помощью [b]Иллюзорно Прикрытия[/b],[p/] он смог бы также запутать любого, кто его увидел!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1776\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1777",
     "original": "ARIA: …",
-    "translation": "ARIA: ……",
-    "stage": 3,
+    "translation": "ARIA: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1777\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1778",
     "original": "ARIA: I commend your deduction, Mr. Cuthbert.[p/] I would have never considered that possibility.",
-    "translation": "ARIA: 你的推理很精彩，卡斯伯特先生，[p/]我从未想过这种可能性。",
-    "stage": 3,
+    "translation": "ARIA: Ваша дедукция не перестаёт меня удивлять, Мистер Катберт.[p/] Я бы никогда не додумалась до того сценария.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1778\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1779",
     "original": "ARIA: It’s certainly plausible,[p/] but what does this prove exactly?",
-    "translation": "ARIA: 听起来很有可能，[p/]但这证明了什么？",
-    "stage": 3,
+    "translation": "ARIA: Это явно возможно,[p/] но что это доказывает?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1779\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1780",
     "original": "TYRION: It proves that the body wasn’t animated using [b]necromancy[/b].",
-    "translation": "TYRION: 这证明了尸体没有被[b]死灵术[/b]活化。",
-    "stage": 3,
+    "translation": "TYRION: Это доказывает, что тело не было оживленно с помощью [b]некромантии[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1780\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1781",
     "original": "TYRION: My client isn’t the murderer!",
-    "translation": "TYRION: 我的委托人不是凶手！",
-    "stage": 3,
+    "translation": "TYRION: Мой клиент не убийца!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1781\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1782",
     "original": "ARIA: The defendant is still capable of performing all of the acts that you described.",
-    "translation": "ARIA: 被告仍然具备能力实施这些行动。",
-    "stage": 3,
+    "translation": "ARIA: Подсудимый всё ещё способен на сотворение действий, описанных вами.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1782\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1783",
     "original": "ARIA: His [b]Compendium[/b] contains [b]Illusory Disguise[/b] after all.",
-    "translation": "ARIA: 毕竟他的[b]法术汇编[/b]包含[b]幻象伪装[/b]。",
-    "stage": 3,
+    "translation": "ARIA: В конце концов, его [b]Компендиум[/b] содержит [b]Иллюзорное Прикрытие[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1783\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1784",
     "original": "TYRION: There were several students in the library that day.",
-    "translation": "TYRION: 案发当天图书馆有许多学生。",
-    "stage": 3,
+    "translation": "TYRION: В библиотеке было множество студентов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1784\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1785",
     "original": "TYRION: [i]Any[/i] of them could have committed the murder!",
-    "translation": "TYRION: 他们中的<u>任何一个</u>都有可能实施犯罪！",
-    "stage": 3,
+    "translation": "TYRION: [i]Любой[/i] из них мог совершить убийство!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1785\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1786",
     "original": "ARIA: One [i]might[/i] come to that conclusion,[p/] if they didn’t have one crucial piece of evidence.",
-    "translation": "ARIA: 如果没有关键性的证据的话，[p/]是有可能得出这样的结论。",
-    "stage": 3,
+    "translation": "ARIA: Такое [i]могло бы[/i] быть,[p/] если бы не одна важная улика.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1786\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1787",
     "original": "ARIA: I’d like to present a new piece of evidence to the court.",
-    "translation": "ARIA: 我想向法庭出示新证据。",
-    "stage": 3,
+    "translation": "ARIA: Я бы хотела предоставить новую улику для суда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1787\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1788",
     "original": "From under her table,[p/] you see Ms. Steelwind pull out the bloody rapier.",
-    "translation": "你看到斯蒂尔文德从桌子下拿出了一把沾血的刺剑。",
-    "stage": 3,
+    "translation": "Из-под своего стола,[p/] Мисс Стилвинд достаёт окровавленную рапиру.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1788\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1789",
     "original": "JUDGE: Blood…[p/][s/] I-[p/][s/]Is that…?!",
-    "translation": "JUDGE: 血迹……[p/][s/]那、[p/][s/]那难道就是……？！",
-    "stage": 3,
+    "translation": "JUDGE: Кровь...[p/][s/] Э-[p/][s/]Это...?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1789\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1790",
     "original": "ARIA: Yes, Your Honor.",
-    "translation": "ARIA: 没错，法官阁下。",
-    "stage": 3,
+    "translation": "ARIA: Всё верно, Ваша Честь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_2-1790\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1791",
     "original": "ARIA: [i]This[/i] is the murder weapon.",
-    "translation": "ARIA: <u>这</u>就是凶器。",
-    "stage": 3,
+    "translation": "ARIA: [i]Это[/i] - настоящее орудие убийства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1791\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1792",
     "original": "CELESTE: Ugh…[p/] She was saving that for the perfect moment, wasn’t she?",
-    "translation": "CELESTE: 呃啊……[p/]她可真会伺机而动。",
-    "stage": 3,
+    "translation": "CELESTE: Ух...[p/] Оставила её до идеального момента, не так ли?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1792\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1793",
     "original": "ARIA: This rapier was reported stolen by Miriam Frega weeks before the murder.",
-    "translation": "ARIA: 在谋杀发生几周前，米莉亚姆·弗雷加通报称这把刺剑失窃。",
-    "stage": 3,
+    "translation": "ARIA: Было сообщено, что эту рапиру украли у Мириам Фреги за несколько недель до убийства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1793\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1794",
     "original": "ARIA: And during the investigation,[p/] it was finally found…",
-    "translation": "ARIA: 在调查过程中，[p/]它是在……",
-    "stage": 3,
+    "translation": "ARIA: И во время расследования,[p/] она была найдена...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1794\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1795",
     "original": "ARIA: …in the defendant’s locker.",
-    "translation": "ARIA: ……被告的储物柜里找到的。",
-    "stage": 3,
+    "translation": "ARIA: ...в шкафчике подсудимого.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1795\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1796",
     "original": "TYRION: W-[p/][s/]Wait!",
-    "translation": "TYRION: 等、[p/][s/]等下！",
-    "stage": 3,
+    "translation": "TYRION: П-[p/][s/]Подождите!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1796\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1797",
     "original": "ARIA: He was clearly trying to use one of her possessions in a paltry attempt to frame her.",
-    "translation": "ARIA: 显然被告想利用米莉亚姆的所有物来陷害她。",
-    "stage": 3,
+    "translation": "ARIA: Он явно пытался использовать её личную вещь, дабы подставить её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1797\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1798",
     "original": "ARIA: Why…[p/] he even stole her locker’s nameplate and placed it over his.",
-    "translation": "ARIA: 他甚至……[p/]偷换了自己和弗雷加女士储物柜的名牌。",
-    "stage": 3,
+    "translation": "ARIA: А потому...[p/] он даже поменял местами таблички на шкафчиках.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1798\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1799",
     "original": "TYRION: …!",
-    "translation": "TYRION: ……！",
-    "stage": 3,
+    "translation": "TYRION: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1799\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1800",
     "original": "Damn it…[p/][s/] That’s [i]not[/i] what happened!",
-    "translation": "可恶……[p/][s/]事情<u>不是</u>这样的！",
-    "stage": 3,
+    "translation": "Проклятие...[p/][s/] Этого [i]не[/i] должно происходить!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1800\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1801",
     "original": "But honestly...[p/] it sounds more plausible than what [i]really[/i] took place…",
-    "translation": "但说实话……[p/]这听起来比<u>实际</u>发生的要可信得多……",
-    "stage": 3,
+    "translation": "Хотя по правде...[p/] всё это звучит [i]куда[/i] логичнее...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1801\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1802",
     "original": "CELESTE: …We’re basically back to square one, aren’t we?",
-    "translation": "CELESTE: ……我们基本是又回到了起点，不是吗？",
-    "stage": 3,
+    "translation": "CELESTE: ...Мы вернулись к начале, да?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1802\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1803",
     "original": "CELESTE: Anyone could have told that Construct to do all those things.",
-    "translation": "CELESTE: 谁都能让那些奥术构造体去做这些事。",
-    "stage": 3,
+    "translation": "CELESTE: Любой мог приказать Конструкту совершить всё это...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1803\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1804",
     "original": "Wait…[p/] “Anyone”?[p/] Is that really true?",
-    "translation": "等下……[p/]“谁都能”？[p/]真的谁都可以吗？",
-    "stage": 3,
+    "translation": "Погодите-ка...[p/] \"Любой\"?[p/] Точно-ли?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1804\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1805",
     "original": "The Construct transported the professor’s body.[p/] And someone used an [b]illusion[/b] to make it look like her.",
-    "translation": "奥术构造体搬运了教授的尸体，[p/]还被人用[b]幻象术[/b]伪装成贝尔维瑟的样子。",
-    "stage": 3,
+    "translation": "Конструкт перенёс тело профессора.[p/] И кто-то наложил [b]иллюзию[/b], замаскировав под неё.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1805\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1806",
     "original": "They even used a pre-recorded voice to make the illusion more convincing…",
-    "translation": "甚至用了提前录制好的声音，来使幻象更加可信……",
-    "stage": 3,
+    "translation": "Они даже использовали заранее записанный голос, дабы сделать маскировку более реальной...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1806\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1807",
     "original": "Could [i]anyone[/i] have done that?",
-    "translation": "有<u>谁</u>能做到这一点呢？",
-    "stage": 3,
+    "translation": "Мог ли это сделать [i]любой[/i]?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-ConstPresAfter_3-1807\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1810",
     "original": "No…[p/] That’s not right.",
-    "translation": "不对……[p/]再好好想想。",
-    "stage": 3,
+    "translation": "Нет...[p/] Что-то не так.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPres-1810\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1811",
     "original": "The Constructs are available to the students.[p/] But not all of their functions are enabled.",
-    "translation": "学生们也可以用那些构造体，[p/]但不是所有的功能都对学生开放。",
-    "stage": 3,
+    "translation": "Конструкт доступен для студентов.[p/] Но не всего его функции такие.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPres-1811\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1812",
     "original": "Who would have every function available to them?",
-    "translation": "谁会有完整的使用权限呢？",
-    "stage": 3,
+    "translation": "Кто может иметь доступ ко всем функциям?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPres-1812\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1813",
     "original": "Several memories flood back to you.",
-    "translation": "些许记忆涌向你的脑海。",
-    "stage": 3,
+    "translation": "Несколько вспоминании всплывают в памати.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1813\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1814",
     "original": "TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.",
-    "translation": "TYRION: 休斯先生。[p/]你有提到贝尔维瑟向你吼过。",
-    "stage": 3,
+    "translation": "TYRION: Мистер Хьюз.[p/] Вы сказали, что Беллвезер кричала на вас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1814\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1815",
     "original": "TYRION: What were her exact words?",
-    "translation": "TYRION: 她朝你吼了什么？",
-    "stage": 3,
+    "translation": "TYRION: Что она сказала конкретно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1815\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1816",
     "original": "JAN: Uh…[p/] I think she yelled at me to “be quiet”.",
-    "translation": "JAN: 唔……[p/]我记得她朝我吼道“安静！”。",
-    "stage": 3,
+    "translation": "JAN: Ух...[p/] Я думаю, это было \"Тишина!\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1816\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1817",
     "original": "MIRIAM: She yelled at me to “Be quiet!”",
-    "translation": "MIRIAM: 她吼我，让我“安静”！",
-    "stage": 3,
+    "translation": "MIRIAM: Она просто крикнула \"Тишина!\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1817\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1818",
     "original": "MIRIAM: But until then we had always been nothing but courteous with each other...",
-    "translation": "MIRIAM: 在此之前，我们相处一直很客气的……",
-    "stage": 3,
+    "translation": "MIRIAM: Но до этого у нас всегда были вежливые отношения...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1818\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1819",
     "original": "MIRIAM: I don’t know what got into her that day…[p/] But something put her in a foul mood.",
-    "translation": "MIRIAM: 也不知道她那天是遇到什么事了……[p/]惹得她一肚子邪火。",
-    "stage": 3,
+    "translation": "MIRIAM: Я не знаю, что на неё нашло в тот день...[p/] Может она была в плохом настроении.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter-1819\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1820",
     "original": "Catherine: Be quiet!",
-    "translation": "Catherine: 安静！",
-    "stage": 3,
+    "translation": "Catherine: Тишина!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1820\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1821",
     "original": "TYRION: S-[p/][s/]Sorry!",
-    "translation": "TYRION: 抱、[p/][s/]抱歉！",
-    "stage": 3,
+    "translation": "TYRION: И-[p/][s/]Извините!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1821\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1822",
     "original": "Catherine: BE QUIET!",
-    "translation": "Catherine: <size=1.5em>安静！</size>",
-    "stage": 3,
+    "translation": "Catherine: ТИШИНА!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1822\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1823",
     "original": "Eris begins giggling.[p/] She seems amused by what’s happening.",
-    "translation": "厄莉斯咯咯笑了起来，[p/]似乎觉得这一出很滑稽。",
-    "stage": 3,
+    "translation": "Эрис начала хихикать.[p/] Её точно позабавило случившееся.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1823\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1824",
     "original": "ERIS: The construct’s “voice” is just a series of pre-recorded messages.",
-    "translation": "ERIS: 奥术构造体的“声音”只是一系列提前录制好的片段。",
-    "stage": 3,
+    "translation": "ERIS: Голос конструкта - это серия заранее записанных сообщений.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1824\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1825",
     "original": "ERIS: I’m not sure if you noticed,[p/] but it uses the voice of Professor Bellwether.",
-    "translation": "ERIS: 不知道你有没有注意到，[p/]它用的是贝尔维瑟教授的声音。",
-    "stage": 3,
+    "translation": "ERIS: Не знаю, заметили ли вы,[p/] но этот использует голос Профессора Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1825\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1826",
     "original": "ERIS: Unfortunately,[p/] you can’t make them say anything other than what’s recorded.",
-    "translation": "ERIS: 不过遗憾的是，[p/]它们只能说那些提前录制好的语句。",
-    "stage": 3,
+    "translation": "ERIS: К сожалению,[p/] вы не можете заставить его сказать что-то, что не записано.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1826\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1827",
     "original": "ERIS: Only the headmaster can change those settings.",
-    "translation": "ERIS: 只有校长能更改这些设定。",
-    "stage": 3,
+    "translation": "ERIS: Только директор может изменить такие настройки.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_1-1827\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1828",
     "original": "TYRION: No…![p/][s/] It can’t be him!",
-    "translation": "TYRION: 不……！[p/][s/]不可能会是他！",
-    "stage": 3,
+    "translation": "TYRION: Нет...![p/][s/] Не может быть, что это он!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1828\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1829",
     "original": "CELESTE: What is it, Tyrion?!",
-    "translation": "CELESTE: 怎么了，提利昂？！",
-    "stage": 3,
+    "translation": "CELESTE: Что такое, Тирион?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1829\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1830",
     "original": "CELESTE: Did you figure something out?!",
-    "translation": "CELESTE: 你弄明白什么东西了吗？！",
-    "stage": 3,
+    "translation": "CELESTE: Ты что-то понял?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1830\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1831",
     "original": "TYRION: I-[p/]I…[p/] did.",
-    "translation": "TYRION: 我、[p/]我……[p/]明白了。",
-    "stage": 3,
+    "translation": "TYRION: Д-[p/]Да...[p/] понял.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1831\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1832",
     "original": "But is [i]he[/i] seriously the one behind all of this?",
-    "translation": "但<u>他</u>真的会是幕后黑手吗？",
-    "stage": 3,
+    "translation": "Но правда ли [i]он[/i] стоит за всем этим?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1832\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1833",
     "original": "TYRION: …Ms. Steelwind.[p/] Earlier you said that my client could have orchestrated this entire ruse.",
-    "translation": "TYRION: ……斯蒂尔文德女士。[p/]先前你提到我的委托人也能自导自演这一切。",
-    "stage": 3,
+    "translation": "TYRION: ...Мисс Стилвинд.[p/] Ранее вы сказали, что мой клиент мог бы совершить всё это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1833\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1834",
     "original": "TYRION: But that’s simply not true.",
-    "translation": "TYRION: 但这是不可能的。",
-    "stage": 3,
+    "translation": "TYRION: Но это не так.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1834\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1835",
     "original": "ARIA: How so?[p/] Anyone could have ordered the Construct to carry out the victim’s body.",
-    "translation": "ARIA: 怎么会？[p/]谁都能命令奥术构造体搬运死者的尸体。",
-    "stage": 3,
+    "translation": "ARIA: Почему же?[p/] Любой может приказать Конструкту перенести тело жертвы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1835\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1836",
     "original": "TYRION: Yes.[p/] But not everyone can [i]change[/i] what the Constructs are able to say.",
-    "translation": "TYRION: 这确实不假，[p/]但不是所有人都有权限<u>更改</u>构造体能说的话。",
-    "stage": 3,
+    "translation": "TYRION: Да.[p/] Но не каждый может [i]изменить[/i] то, что может говорить Конструкт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1836\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1837",
     "original": "TYRION: Only one individual has the credentials for that…",
-    "translation": "TYRION: 只有一个人有权限做到这一点……",
-    "stage": 3,
+    "translation": "TYRION: Только один человек способен на это...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1837\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1838",
     "original": "TYRION: Theodore Redmond:[p/] Headmaster of the Imperial Academy!",
-    "translation": "TYRION: 那就是西奥多·雷德蒙，[p/]帝国学院的校长！",
-    "stage": 3,
+    "translation": "TYRION: Теодор Редмонд[p/] - Директор Императорской Академии!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1838\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1839",
     "original": "CELESTE: Wait,[p/][s/] you’re not serious, are you?!",
-    "translation": "CELESTE: 等下，[p/][s/]你不是认真的吧？！",
-    "stage": 3,
+    "translation": "CELESTE: Подожди, [p/][s/] ты серьёзно?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1839\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1840",
     "original": "CELESTE: You think the [i]headmaster[/i] did all this?!",
-    "translation": "CELESTE: 你认为<u>校长</u>是幕后黑手？！",
-    "stage": 3,
+    "translation": "CELESTE: Ты думаешь, что это был [i]директор[/i]?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1840\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1841",
     "original": "TYRION: I…[p/] don’t want to believe it.",
-    "translation": "TYRION: 我……[p/]我也不想相信是他。",
-    "stage": 3,
+    "translation": "TYRION: Я...[p/] не хочу в это верить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1841\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1842",
     "original": "TYRION: But he’s the only person who [i]could[/i] have done it.",
-    "translation": "TYRION: 但他是唯一一个<u>能做到</u>这些事的人。",
-    "stage": 3,
+    "translation": "TYRION: Но он единственный, кто [i]мог[/i] это сделать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1842\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1843",
     "original": "ARIA: That’s completely ridiculous!",
-    "translation": "ARIA: 这太荒谬了！",
-    "stage": 3,
+    "translation": "ARIA: Это полный абсурд!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_2-1843\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1844",
     "original": "ARIA: Headmaster Redmond would [i]never[/i] do something like this!",
-    "translation": "ARIA: 雷德蒙校长<u>绝不是</u>会做这种事情的人！",
-    "stage": 3,
+    "translation": "ARIA: Директор Редмонд [i]никогда[/i] бы такое не сотворил!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1844\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1845",
     "original": "TYRION: Ms. Steelwind,[p/] there’s one common element between each of the witness’ encounters with Bellwether.",
-    "translation": "TYRION: 斯蒂尔文德，[p/]每次证人与贝尔维瑟接触时都有一个共同点。",
-    "stage": 3,
+    "translation": "TYRION: Мисс Стилвинд[p/], если одна общая деталь между каждой встречей свидетелей с Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1845\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1846",
     "original": "TYRION: It’s what Bellwether said to them.",
-    "translation": "TYRION: 就是贝尔维瑟对他们说的话。",
-    "stage": 3,
+    "translation": "TYRION: То, что им сказала Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1846\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1847",
     "original": "ARIA: …!",
-    "translation": "ARIA: ……！",
-    "stage": 3,
+    "translation": "ARIA: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1847\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1848",
     "original": "ARIA: She yelled at both of them to “Be quiet!”…",
-    "translation": "ARIA: 她对遇到的所有的人都说了“安静”……",
-    "stage": 3,
+    "translation": "ARIA: Она на обоих крикнула \"Тишина!\"...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1848\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1849",
     "original": "TYRION: Miriam Frega was particularly surprised.",
-    "translation": "TYRION: 米莉亚姆·弗雷加对此特别惊讶。",
-    "stage": 3,
+    "translation": "TYRION: Мириам Фрега была этому сильно удивлена.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1849\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1850",
     "original": "TYRION: She had a good relationship with the professor.",
-    "translation": "TYRION: 她与教授关系不错。",
-    "stage": 3,
+    "translation": "TYRION: У неё были хорошие отношения с профессором.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1851",
     "original": "TYRION: But when greeted by the professor,[p/] Bellwether just shouted at her.",
-    "translation": "TYRION: 但当她向教授问候时，[p/]贝尔维瑟却吼了回去。",
-    "stage": 3,
+    "translation": "TYRION: Но когда она поздоровалась с профессором,[p/] Беллвезер просто крикнула на неё.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1851\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1852",
     "original": "TYRION: …Almost as if the professor was responding indiscriminately.",
-    "translation": "TYRION: ……仿佛教授是在不分对象的进行回答。",
-    "stage": 3,
+    "translation": "TYRION: ...Словно профессор отвечала без разбора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1852\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1853",
     "original": "ARIA: …",
-    "translation": "ARIA: ……",
-    "stage": 3,
+    "translation": "ARIA: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1853\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1854",
     "original": "TYRION: And recall her encounter with Jan Hughes.",
-    "translation": "TYRION: 也请回忆一下她遇到简·休斯的时候。",
-    "stage": 3,
+    "translation": "TYRION: И вспомните её встречу с Яном Хьюзом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1854\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1855",
     "original": "TYRION: The professor knocked over a vase and shouted at him to \"Be quiet!\" immediately after.",
-    "translation": "TYRION: 教授撞倒了花瓶，然后立刻朝着休斯先生吼道“安静！”",
-    "stage": 3,
+    "translation": "TYRION: Профессор опрокинула вазу и крикнула ему \"Тишина!\" сразу после этого.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1855\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1856",
     "original": "TYRION: Even though he hadn’t said anything.",
-    "translation": "TYRION: 但当时休斯先生一个字都没说。",
-    "stage": 3,
+    "translation": "TYRION: Даже с учетом, что но ничего не сказал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1856\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1857",
     "original": "CELESTE: …She was responding to the sound of the vase breaking!",
-    "translation": "CELESTE: ……她当时是在回应花瓶碎掉的声音！",
-    "stage": 3,
+    "translation": "CELESTE: ...Она отвечала на шум сломанной вазы!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1857\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1858",
     "original": "TYRION: Now let me ask you this, Steelwind.",
-    "translation": "TYRION: 现在让我问问你，斯蒂尔文德。",
-    "stage": 3,
+    "translation": "TYRION: А теперь позвольте задать вопрос, Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1858\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1859",
     "original": "TYRION: Where did Bellwether come from [i]before[/i] she encountered Ms. Frega and Mr. Hughes?",
-    "translation": "TYRION: 在遇到弗雷加女士和休斯先生<u>之前</u>，贝尔维瑟是从哪里走过来的？",
-    "stage": 3,
+    "translation": "TYRION: Откуда шла Беллвезер [i]до того[/i], как встретилась с Мисс Фрегой и Мистером Хьюзом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1859\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1860",
     "original": "ARIA: Her meeting…",
-    "translation": "ARIA: 她和校长……",
-    "stage": 3,
+    "translation": "ARIA: Со встречи...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1860\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1861",
     "original": "TYRION: …With the headmaster.",
-    "translation": "TYRION: ……的会议。",
-    "stage": 3,
+    "translation": "TYRION: ...С директором.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_3-1861\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1862",
     "original": "JUDGE: It appears that the defense truly means to indict Theodore Redmond.",
-    "translation": "JUDGE: 看来辩方真心打算起诉西奥多·雷德蒙。",
-    "stage": 3,
+    "translation": "JUDGE: Судя по всему, защита обвиняет Теодора Редмонда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1862\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1863",
     "original": "JUDGE: If so,[p/] we have no choice but to take a brief recess until he can be brought here.",
-    "translation": "JUDGE: 这样的话，[p/]我们别无选择，只能在他被护送至此之前短暂休庭。",
-    "stage": 3,
+    "translation": "JUDGE: Если это так,[p/] у нас нет выбора, кроме как объявить небольшой перерыв до его прибытия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1863\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1864",
     "original": "Theodore: There’s no need.",
-    "translation": "Theodore: 没有休庭的必要。",
-    "stage": 3,
+    "translation": "Theodore: В этом нет нужды.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1864\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1865",
     "original": "THEODORE: Fortunately for you,[p/] I’m already in the gallery.",
-    "translation": "THEODORE: 你们很幸运，[p/]因为我就在旁听席。",
-    "stage": 3,
+    "translation": "THEODORE: К вашей удаче,[p/] я уже был в галереи.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1865\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1866",
     "original": "The headmaster stood up from the gallery seats behind you and slowly walked onto the witness stand.",
-    "translation": "校长从你身后的旁观席上站起身，并慢慢地走上证人席。",
-    "stage": 3,
+    "translation": "Директор встал с сиденья в галереи сзади тебя и медленно вышел к стойке свидетеля.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1866\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1867",
     "original": "…Has he been here the entire time?!",
-    "translation": "……他原来一直都在这？！",
-    "stage": 3,
+    "translation": "...Он был здесь всё это время?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1867\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1868",
     "original": "THEODORE: Now…[p/] please correct me if I’m wrong, Mr. Cuthbert.",
-    "translation": "THEODORE: 现在……[p/]如果我说的有问题，请纠正我，卡斯伯特先生。",
-    "stage": 3,
+    "translation": "THEODORE: Теперь...[p/] пожалуйста, поправьте меня, если я не прав, Мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1868\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1869",
     "original": "THEODORE: But do you think [i]I[/i] am the one who committed this crime?",
-    "translation": "THEODORE: 但你认为<u>我</u>是本案真凶？",
-    "stage": 3,
+    "translation": "THEODORE: Вы [i]правда[/i] считаете, что я был тем, кто совершил убийство?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1869\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1870",
     "original": "TYRION: …I’m sorry, Redmond.",
-    "translation": "TYRION: ……我很抱歉，雷德蒙校长。",
-    "stage": 3,
+    "translation": "TYRION: ...Прошу прощения, Редмонд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1870\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1871",
     "original": "TYRION: But no matter how I look at it,[p/] everything I’ve found points to you.",
-    "translation": "TYRION: 无论我怎么看，[p/]一切的证据都指向你。",
-    "stage": 3,
+    "translation": "TYRION: Но не важно, как посмотреть,[p/] всё указывает на вас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1871\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1872",
     "original": "THEODORE: No.[p/] There’s no need to apologize.",
-    "translation": "THEODORE: 嗯，[p/]没必要道歉。",
-    "stage": 3,
+    "translation": "THEODORE: Нет. [p/]Не стоит извиняться.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1872\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1873",
     "original": "THEODORE: In fact,[p/] I should commend you on the lengths that you’re going to defend dear Wallace.",
-    "translation": "THEODORE: 实际上，[p/]我应该向你为华莱士辩护到这一步致谢。",
-    "stage": 3,
+    "translation": "THEODORE: На деле,[p/] я хочу поблагодарить вас за то, как вы защищаете драгоценного Уоллеса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1873\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1874",
     "original": "ARIA: …The court appreciates your understanding, Mr. Redmond.",
-    "translation": "ARIA: ……法庭感谢你的理解，雷德蒙先生。",
-    "stage": 3,
+    "translation": "ARIA: ...Суд принимает ваш мнение, Мистер Редмонд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1874\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1875",
     "original": "THEODORE: ...",
-    "translation": "THEODORE: ……",
-    "stage": 3,
+    "translation": "THEODORE: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1875\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1876",
     "original": "THEODORE: Now then…[p/] To clear the air,[p/] I suppose I should give [i]my[/i] testimony on what happened that day.",
-    "translation": "THEODORE: 好了……[p/]为了消除误会，[p/]<u>我</u>应该向法庭陈述那天发生了什么。",
-    "stage": 3,
+    "translation": "THEODORE: А теперь...[p/] Дабы нам стало легче дышать,[p/] полагаю, я должен дать [i]свои[/i] показания о событиях того дня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_4-1876\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1877",
     "original": "Theodore: That day,[p/] I had a meeting scheduled with the professor at noon.",
-    "translation": "Theodore: 那天，[p/]我和教授约好在中午见面。",
-    "stage": 3,
+    "translation": "Theodore: В тот день,[p/] у меня была назначена встреча с профессором в полдень.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1877\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1878",
     "original": "Theodore: She showed up at the expected time,[p/] and we discussed various administrative matters.",
-    "translation": "Theodore: 她准时到场，[p/]我们一起探讨了许多管理方面的事项。",
-    "stage": 3,
+    "translation": "Theodore: Она пришла в назначенное время,[p/] и мы обсудили некоторые административные вопросы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1878\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1879",
     "original": "Theodore: Our meeting went on for an hour.[p/] After which, she left to prepare for her next class.",
-    "translation": "Theodore: 我们的会谈持续了一小时，[p/]在那之后，她便离开去准备下一堂课。",
-    "stage": 3,
+    "translation": "Theodore: Наша встреча продлилась около часа.[p/] После этого, она ушла подготовиться к следующему занятию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1879\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1880",
     "original": "Theodore: Despite our many disagreements,[p/] we still knew how to be civil with one another.",
-    "translation": "Theodore: 虽然有许多分歧，[p/]但我们都知道尊重对方。",
-    "stage": 3,
+    "translation": "Theodore: Несмотря на многие разногласия,[p/] мы умели оставаться вежливыми друг к другу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1880\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1881",
     "original": "Theodore: After all,[p/] I had no reason to bear a personal grudge against her.",
-    "translation": "Theodore: 毕竟，[p/]我没有理由对她怀恨在心。",
-    "stage": 3,
+    "translation": "Theodore: В конце концов,[p/] у меня не было причин для личное ненависти к ней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1881\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1882",
     "original": "CELESTE: I…[p/] just can’t see it.",
-    "translation": "CELESTE: 我……[p/]我就是不理解。",
-    "stage": 3,
+    "translation": "CELESTE: Я...[p/] просто не понимаю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1882\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1883",
     "original": "CELESTE: He seems like such a nice person.",
-    "translation": "CELESTE: 他看起来是个很好的人。",
-    "stage": 3,
+    "translation": "CELESTE: Он всегда был таким добрым человеком.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1883\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1884",
     "original": "CELESTE: Is he [i]really[/i] the person we’re looking for?",
-    "translation": "CELESTE: 他<u>真的</u>就是我们要找的真凶吗？",
-    "stage": 3,
+    "translation": "CELESTE: Неужели он [i]на самом деле[/i] тот, кто всё совершил?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1884\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1885",
     "original": "TYRION: He has to be.[p/] No one else could have orchestrated this entire plot.",
-    "translation": "TYRION: 一定是他，[p/]除了他没有人能做到这一切。",
-    "stage": 3,
+    "translation": "TYRION: Должен быть.[p/] Никто иной не мог бы этого сделать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1885\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1886",
     "original": "You just need to find out how...[p/] and why.",
-    "translation": "你只需要弄明白他是怎么做到的……[p/]以及为什么要这样做。",
-    "stage": 3,
+    "translation": "Теперь нужно понять, как...[p/] и почему.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-RedPresAfter_5-1886\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1888",
     "original": "TYRION: What was this meeting for?",
-    "translation": "TYRION: 会面是为了什么？",
-    "stage": 3,
+    "translation": "TYRION: О чем была эта встреча?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1888\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1889",
     "original": "THEODORE: Oh,[p/] nothing of note.",
-    "translation": "THEODORE: 哦，[p/]没什么值得注意的。",
-    "stage": 3,
+    "translation": "THEODORE: Ох,[p/] ничего особенного.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo-1889\",\n  \"keywords\": []\n}"
   },
   {
