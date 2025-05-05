@@ -12868,7 +12868,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1987",
     "original": "THEODORE: To think that the professor [i]and[/i] the board would go around my back like that.",
-    "translation": "THEODORE: Только подумать, что профессор [i]и[/i] руководство предают меня за спиной.",
+    "translation": "THEODORE: Только подумать, что профессор [i]и[/i] совет предают меня за спиной.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-Cross-Examination_Theo2-1987\",\n  \"keywords\": []\n}"
   },
@@ -14576,7 +14576,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2266",
     "original": "MIRIAM: When the Construct gets to that task,[p/] it will deem the entire series impossible to complete.",
-    "translation": "MIRIAM: Когда Конструкт переходит к этой задаче,[p/] это делает все следующие серии команд невозможными к выполнению.",
+    "translation": "MIRIAM: Когда Конструкт переходит к этой задаче,[p/] это делает [i]всю[/i] следующую серию команд невозможным к выполнению.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom2.yarn-TheoAfterEye_5-2266\",\n  \"keywords\": []\n}"
   },
@@ -16333,246 +16333,246 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2524",
     "original": "CSteel: Where did this happen?",
-    "translation": "CSteel: 是在哪儿见到的？",
-    "stage": 3,
+    "translation": "CSteel: Где это случилось?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2524\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2525",
     "original": "MIRIAM: I was in the hallways when I saw her coming out of the headmaster’s office.",
-    "translation": "MIRIAM: 我在走廊里，看到她从校长室出来。",
-    "stage": 3,
+    "translation": "MIRIAM: Я ходила по коридорам, когда увидела, как она покидает кабинет директора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2525\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2526",
     "original": "MIRIAM: She was heading towards the library.",
-    "translation": "MIRIAM: 她正往图书馆的方向走。",
-    "stage": 3,
+    "translation": "MIRIAM: Она шла в сторону библиотеки.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2526\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2527",
     "original": "CSteel: Do you remember what time this happened?",
-    "translation": "CSteel: 你还记得这一切发生在什么时候吗？",
-    "stage": 3,
+    "translation": "CSteel: Не помните, когда это случилось?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2527\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2528",
     "original": "MIRIAM: Ah…[p/] I’m not really sure, honestly.",
-    "translation": "MIRIAM: 啊……[p/]讲实话，我不太确定。",
-    "stage": 3,
+    "translation": "MIRIAM: Ах...[p/] Если честно, я не помню.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2528\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2529",
     "original": "MIRIAM: It’s a little embarrassing…[p/] But I have a bad habit of getting too absorbed in my work.",
-    "translation": "MIRIAM: 说来有点尴尬……[p/]但我有个坏习惯，容易沉浸在学习中。",
-    "stage": 3,
+    "translation": "MIRIAM: Это немного неловко...[p/] Но у меня плохая привычка с погружением в работу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2529\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2530",
     "original": "MIRIAM: Sometimes I’ll let entire [i]hours[/i] pass by without noticing.",
-    "translation": "MIRIAM: 有时候，<u>好几个小时</u>过去了我都注意不到。",
-    "stage": 3,
+    "translation": "MIRIAM: Иногда [i]несколько[/i] часов могут пройти для меня незаметно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2530\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2531",
     "original": "TYRION: Do…[p/] you have a rough idea at least?",
-    "translation": "TYRION: 你……[p/]大致上有个数吗？",
-    "stage": 3,
+    "translation": "TYRION: У вас...[p/] есть хотя бы предположение?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2531\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2532",
     "original": "MIRIAM: I…[p/] think it was in the morning.",
-    "translation": "MIRIAM: 我觉得……[p/]大概是在上午。",
-    "stage": 3,
+    "translation": "MIRIAM: Я думаю...[p/] это было утром.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2532\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2533",
     "original": "She \"[i]thinks[/i]\" it was in the morning?",
-    "translation": "“<u>她觉得</u>”是在上午？",
-    "stage": 3,
+    "translation": "Она \"[i]думает[/i]\", что это было утром?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2533\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2534",
     "original": "CSteel: But anyways…[p/] did anything seem…[p/] off about her?",
-    "translation": "CSteel: 那总之……[p/]她有什么……[p/]不对劲的吗？",
-    "stage": 3,
+    "translation": "CSteel: Так или иначе...[p/] было ли в ней...[p/] что-то странное?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2534\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2535",
     "original": "MIRIAM: ...No.[p/] It was a short encounter.",
-    "translation": "MIRIAM: ……没有。[p/]我们就简单寒暄了一下。",
-    "stage": 3,
+    "translation": "MIRIAM: ...Нет.[p/] Это была короткая встреча.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2536",
     "original": "MIRIAM: I-[p/]I merely greeted her,[p/] and she responded in kind. [mind=\"Or at least… that’s what [i]should[/i] have happened…\"/]",
-    "translation": "MIRIAM: 我、[p/]我就是向她问了好，[p/]然后她和蔼地回应了。[mind=\"至少……<u>本该</u>是这样……\"/]",
-    "stage": 3,
+    "translation": "MIRIAM: Я-[p/]Я лишь поздоровалась с ней.[p/] И она это сделала в ответ. [mind=\"По крайней мере... это [i]должно[/i] было быть так...\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2537",
     "original": "That thought just now…[p/] What does it mean?",
-    "translation": "她的心理活动……[p/]是什么意思？",
-    "stage": 3,
+    "translation": "Эта мысль....[p/] Что это значит?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2537\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2538",
     "original": "You slowly glance at Celeste and catch her attention.",
-    "translation": "你缓缓扫了一眼塞莱斯特，引起了她的注意。",
-    "stage": 3,
+    "translation": "Ты медленно переводишь взгляд на Селест, привлекая её внимание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2539",
     "original": "In small motions,[p/] you shake your head to indicate that Miriam is holding something back.",
-    "translation": "你微微摇了摇头，[p/]示意米莉亚姆在隐藏着什么东西。",
-    "stage": 3,
+    "translation": "Мелким движением,[p/] ты киваешь своей головой, указывая, что Мириам что-то скрывает.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2539\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2540",
     "original": "CSTeel: Were you and the professor [i]really[/i] on good terms?",
-    "translation": "CSTeel: 您和教授之间<u>真的</u>相处融洽吗？",
-    "stage": 3,
+    "translation": "CSTeel: У вас с профессором [i]правда[/i] были хорошие отношения?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2540\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2541",
     "original": "CSTeel: I heard she was pretty mean towards the other students.",
-    "translation": "CSTeel: 我听说她对其他学生挺凶的。",
-    "stage": 3,
+    "translation": "CSTeel: Я слышала, что она довольно грубая к остальным студентам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2542",
     "original": "MIRIAM: Towards the riff-raff, maybe.[p/] But not to students like us.",
-    "translation": "MIRIAM: 对那些乌合之众来说，或许是吧。[p/]不过，对我这样的学生可不一样。",
-    "stage": 3,
+    "translation": "MIRIAM: По отношению к сброду - может быть.[p/] Но не к таким, как мы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2543",
     "original": "MIRIAM: She was a great ally to House Frega. [mind=\"Or at least… she used to be.\"/]",
-    "translation": "MIRIAM: 她是弗雷加家族的重要盟友。[mind=\"至少……她曾经是。\"/]",
-    "stage": 3,
+    "translation": "MIRIAM: Она была прекрасным союзником Дома Фрега. [mind=\"По крайней мере... раньше была.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2543\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2544",
     "original": "MIRIAM: That’s why we were planning on appointing her as the new headmaster.",
-    "translation": "MIRIAM: 这就是为什么我们打算任命她为新一任校长。",
-    "stage": 3,
+    "translation": "MIRIAM: Именно поэтому мы планировали наметит её как нового директора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2544\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2545",
     "original": "CSteel: Wait…[p/][s/] What did you just say?!",
-    "translation": "CSteel: 等等……[p/][s/]你刚说什么？！",
-    "stage": 3,
+    "translation": "CSteel: Постойте...[p/][s/] Что вы сказали?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2547",
     "original": "CSteel: Did you just say that your family was going to appoint [i]Bellwether[/i] as the new headmaster?!",
-    "translation": "CSteel: 你说你们家族打算任用<u>贝尔维瑟</u>做新校长？",
-    "stage": 3,
+    "translation": "CSteel: Вы сказали, что ваша семья собиралась поставить [i]Беллвезер[/i] как нового директора?! ",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2547\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2548",
     "original": "MIRIAM: Oh, I’m surprised you didn’t know.",
-    "translation": "MIRIAM: 哦，你不知道这件事才让我惊讶呢。",
-    "stage": 3,
+    "translation": "MIRIAM: Ох, я удивлена, что вы не в курсе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2549",
     "original": "MIRIAM: House Frega holds several seats on the academy’s board.",
-    "translation": "MIRIAM: 弗雷加家族在校董事会有几个席位。",
-    "stage": 3,
+    "translation": "MIRIAM: Дом Фрега удерживает несколько мест в совете академии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2549\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2550",
     "original": "MIRIAM: We were making plans to have her replace that lout:[p/] Redmond.",
-    "translation": "MIRIAM: 我们正打算让她代替那个废物雷德蒙呢。",
-    "stage": 3,
+    "translation": "MIRIAM: Мы собирались заменить ей этого оболтуса Редмонда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2550\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2551",
     "original": "They were going to sack the headmaster?!",
-    "translation": "他们要开除校长？",
-    "stage": 3,
+    "translation": "Они собирались убрать директора?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2551\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2552",
     "original": "CSteel: …Did Headmaster Redmond know about this?",
-    "translation": "CSteel: ……雷德蒙校长知道这事吗？",
-    "stage": 3,
+    "translation": "CSteel: ...Директор Редмонд знает об этом?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2553",
     "original": "MIRIAM: Oh, of course not.[p/] This was part of a large-scale plan.",
-    "translation": "MIRIAM: 哦，当然不了。[p/]这只是一个更大的计划的一部分。",
-    "stage": 3,
+    "translation": "MIRIAM: Ох, ну конечно нет.[p/] Это часть крупного плана.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2554",
     "original": "MIRIAM: Along with Redmond,[p/] we were also going to replace all of the staff members with Arcane Constructs.",
-    "translation": "MIRIAM: 连同雷德蒙在内，我们要用奥术构造体换掉全部的教职工。",
-    "stage": 3,
+    "translation": "MIRIAM: Вместе с Редмондом,[p/] мы также собираемся заменить весь рабочий состав Конструктами Арканы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2555",
     "original": "MIRIAM: We had to keep everything under wraps,[p/] or else the help would have left prematurely.",
-    "translation": "MIRIAM: 一切都得严格保密，[p/]不然帮工们就要在时机成熟前逃跑了。",
-    "stage": 3,
+    "translation": "MIRIAM: Нам пришлось держать всё в секрете,[p/] иначе бы вся помощь ушла на самотёк.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2555\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2556",
     "original": "Miriam: And where would [i]that[/i] leave us?",
-    "translation": "Miriam: <u>这样的话</u>，我们该如何自处？",
-    "stage": 3,
+    "translation": "Miriam: И с чем бы нас [i]это[/i] оставило?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2557",
     "original": "But Jan supposedly overheard Bellwether talking about the Constructs.",
-    "translation": "但是简在不经意间听到了贝尔维瑟提起那些奥术构造体。",
-    "stage": 3,
+    "translation": "Но Ян, по его словам, подслушал разговор Беллвезер о Конструктах.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2557\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2558",
     "original": "Did Bellwether prematurely reveal the plan…?[p/] Or was Jan lying about how he found out?",
-    "translation": "贝尔维瑟提前暴露了计划吗……？[p/]还是简在他怎么发现这件事上说谎了？",
-    "stage": 3,
+    "translation": "Неужели Беллвезер поспешно раскрыла план...?[p/] Или Ян солгал о том, что слышал?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2559",
     "original": "MIRIAM: …But alas.[p/] With Bellwether gone,[p/] we’ll have to delay our plans.",
-    "translation": "MIRIAM: ……随便吧。[p/]贝尔维瑟死后，我们只能推迟计划了。",
-    "stage": 3,
+    "translation": "MIRIAM: ...Но так или иначе.[p/] Со смертью Беллвезер,[p/] план придётся отложить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2559\",\n  \"keywords\": []\n}"
   },
   {
@@ -16585,603 +16585,603 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2562",
     "original": "CSteel: So…[p/] We heard that Aria took your rapier as evidence for the case.",
-    "translation": "CSteel: 是这样的……[p/]我们听说阿莉亚把你的刺剑当作本案的证据拿走了。",
-    "stage": 3,
+    "translation": "CSteel: Что ж...[p/] Мы слышали, что Ария забрала твою рапиру в качестве улики.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2563",
     "original": "MIRIAM: Can you believe her?![p/][s/] She [i]still[/i] won’t give it back to me!",
-    "translation": "MIRIAM: 你敢信她吗？[p/][s/]她<u>还是</u>不把它还给我！",
-    "stage": 3,
+    "translation": "MIRIAM: Можете в это поверить?![p/][s/] И она [i]всё ещё[/i] не хочет её возвращать!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2563\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2564",
     "original": "MIRIAM: My father will have my head if I can’t get it back soon!",
-    "translation": "MIRIAM: 如果我不能马上拿回剑，父亲会要了我的命！",
-    "stage": 3,
+    "translation": "MIRIAM: Мой отец отрубит мне голову, если я не верну её!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2564\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2565",
     "original": "CSteel: How did it even become a part of the investigation anyways?",
-    "translation": "CSteel: 它到底怎么和调查扯上关系的？",
-    "stage": 3,
+    "translation": "CSteel: Как это вообще стало частью расследования?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2565\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2566",
     "original": "MIRIAM: I don’t know![p/][s/] Aria won’t tell me anything!",
-    "translation": "MIRIAM: 我不知道！[p/][s/]阿莉亚什么都不告诉我！",
-    "stage": 3,
+    "translation": "MIRIAM: Я не знаю![p/][s/] Ария ничего об этом не говорит!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2567",
     "original": "MIRIAM: I swear...[p/] if that [i]necromancer[/i] was the one who stole it,[p/] I’ll execute him myself.",
-    "translation": "MIRIAM: 我发誓……[p/]如果是被那个<u>死灵法师</u>偷走的，[p/]我会亲手处决他。",
-    "stage": 3,
+    "translation": "MIRIAM: Клянусь...[p/] если вором был этот [i]некромант[/i],[p/] я его повешу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2568",
     "original": "CSteel: ...So someone [i]did[/i] steal it from you?",
-    "translation": "CSteel: ……所以某人<u>确实</u>从你那里把它偷走了？",
-    "stage": 3,
+    "translation": "CSteel: ...Значит, её [i]на самом деле[/i] украли?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2569",
     "original": "MIRIAM: Yes…[p/] From right out of my room…",
-    "translation": "MIRIAM: 是的……[p/]就从我的房间里……",
-    "stage": 3,
+    "translation": "MIRIAM: Да...[p/] Прямо из моей комнаты...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2570",
     "original": "CSteel: When did this happen?",
-    "translation": "CSteel: 这是什么时候的事？",
-    "stage": 3,
+    "translation": "CSteel: Когда это случилось?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2570\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2571",
     "original": "MIRIAM: About a few weeks ago.",
-    "translation": "MIRIAM: 大概几周前吧。",
-    "stage": 3,
+    "translation": "MIRIAM: Несколько недель назад.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2571\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2572",
     "original": "MIRIAM: I noticed when I came back from one of my classes.",
-    "translation": "MIRIAM: 我有一次下课回来，发现了这事。",
-    "stage": 3,
+    "translation": "MIRIAM: Я заметила это, когда вернулась с одного из занятий.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2572\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2573",
     "original": "MIRIAM: Someone removed the rapier from its display case in my room.",
-    "translation": "MIRIAM: 有人从我房间里的展示柜里把刺剑拿走了。",
-    "stage": 3,
+    "translation": "MIRIAM: Кто-то забрал рапиру из витрины в моей комнате.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2573\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2574",
     "original": "TYRION: ...How did they get into your room in the first place?",
-    "translation": "TYRION: ……他们一开始是怎么进入你的房间的？",
-    "stage": 3,
+    "translation": "TYRION: ...Как вор вообще прошел в вашу комнату?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2574\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2575",
     "original": "CSteel: Do you think someone used magic to teleport past the door?",
-    "translation": "CSteel: 你觉得是有人用魔法传送进来的吗？",
-    "stage": 3,
+    "translation": "CSteel: Может, они использовали магию для телепортации?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2575\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2576",
     "original": "MIRIAM: Please.[p/] I’m a master of [b]conjuration[/b] magic.",
-    "translation": "MIRIAM: 得了吧。[p/]我是[b]召唤术[/b]魔法的大师。",
-    "stage": 3,
+    "translation": "MIRIAM: Прошу вас.[p/] Я - мастер магии [b]колдовства[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2577",
     "original": "MIRIAM: If someone attempted that,[p/] my enchantments would have shunted them out.",
-    "translation": "MIRIAM: 如果有人尝试这么做，[p/]只会因我的法术吃闭门羹。",
-    "stage": 3,
+    "translation": "MIRIAM: Если бы кто-то и попытался,[p/] мои чары бы остановили их.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2578",
     "original": "TYRION: This means the thief came through one of the doors or windows.",
-    "translation": "TYRION: 这意味着，行窃者是从其中一扇门或者窗进来的。",
-    "stage": 3,
+    "translation": "TYRION: Это значит, что вор проник через дверь или окна.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2578\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2579",
     "original": "MIRIAM: I bet it was that necromancer.",
-    "translation": "MIRIAM: 我敢打赌是那个<u>死灵法师</u>干的。",
-    "stage": 3,
+    "translation": "MIRIAM: Ставлю на то, что этот был некромант.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2579\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2580",
     "original": "Miriam: I’m sure a street child like him just [i]knows[/i] how to pick a lock.",
-    "translation": "Miriam: 我确信，像他那样的街头混子恰好<u>知道</u>怎么撬锁。",
-    "stage": 3,
+    "translation": "Miriam: Я уверена, что дитя с улиц, как он, [i]знает[/i], как взламывать замки.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2580\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2581",
     "original": "CSteel: …",
-    "translation": "CSteel: ……",
-    "stage": 3,
+    "translation": "CSteel: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2581\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2583",
     "original": "CSteel: I’ve heard that you’re one of the academy’s top students.",
-    "translation": "CSteel: 听说你是学院的顶尖学生之一。",
-    "stage": 3,
+    "translation": "CSteel: Я слышала, что ты одна из выдающихся студентов академии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2583\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2584",
     "original": "CSteel: ...Your grades must be amazing!",
-    "translation": "CSteel: ……你的成绩一定很好吧！",
-    "stage": 3,
+    "translation": "CSteel: ...Должно быть, твои оценки прекрасны!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2584\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2585",
     "original": "MIRIAM: Of course![p/] As an inheritor of House Frega,[p/] my grades are impeccable! [mind=\"It feels good to have my greatness recognized.\"/]",
-    "translation": "MIRIAM: 这是自然！[p/]作为弗雷加家族的继承人之一，[p/]我的成绩无可挑剔！[mind=\"我的卓越为人所识，这感觉真是太好了。\"/]",
-    "stage": 3,
+    "translation": "MIRIAM: Ну конечно![p/] Как наследник Дома Фрега,[p/] мои оценки безупречны! [mind=\"Приятно чувствовать, что моё великолепие признано.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2585\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2586",
     "original": "That’s strange…[p/] You don’t see anything contradictory through the Eye this time.",
-    "translation": "奇了怪了……[p/]这次，你没通过荷鲁斯之眼看出什么矛盾。",
-    "stage": 3,
+    "translation": "Странно...[p/] Ты не видишь никаких противоречивых мыслей через Глаз в этот раз.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2587",
     "original": "You make a gesture towards Celeste to continue pressing her.",
-    "translation": "你向塞莱斯特示意，让她继续施压。",
-    "stage": 3,
+    "translation": "Ты сделал жест в сторону Селест, дабы она продолжила задавать вопросы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2588",
     "original": "CSteel: O-[p/]Oh…[p/] Um…",
-    "translation": "CSteel: 哦、[p/]哦……[p/]呃……",
-    "stage": 3,
+    "translation": "CSteel: О-[p/]Ох...[p/] Эм...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2588\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2589",
     "original": "CSteel: What kind of magic do you study here?",
-    "translation": "CSteel: 你在这里学习什么魔法？",
-    "stage": 3,
+    "translation": "CSteel: Какую магию вы изучаете?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2590",
     "original": "MIRIAM: You must be joking.[p/] I study magic from the school of [b]conjuration[/b].",
-    "translation": "MIRIAM: 你在开玩笑吧。[p/]我学习[b]召唤术[/b]学派的魔法。",
-    "stage": 3,
+    "translation": "MIRIAM: Вы, должно быть, шутите.[p/] Я изучаю магию из раздела [b]колдовства[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2590\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2591",
     "original": "MIRIAM: Just like…[p/] most members of my house.",
-    "translation": "MIRIAM: 就像……[p/]我家族的大多数人一样。",
-    "stage": 3,
+    "translation": "MIRIAM: Также как...[p/] и большая часть членов моего дома.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2591\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2592",
     "original": "CSteel: The school of [b]conjuration[/b]…",
-    "translation": "CSteel: [b]召唤术[/b]学派……",
-    "stage": 3,
+    "translation": "CSteel: Магия [b]колдовства[/b]...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2592\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2593",
     "original": "CSteel: That’s the type of magic that specializes in spatial manipulation and teleportation, right?",
-    "translation": "CSteel: 那是专精操纵空间和传送的魔法，对吧？",
-    "stage": 3,
+    "translation": "CSteel: Это тот вид магии, с помощью которого можно манипулировать пространством и телепортироваться, верно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2594",
     "original": "MIRIAM: Yes.[p/] I consider myself quite the expert in that field.",
-    "translation": "MIRIAM: 是的。[p/]我认为自己在那个领域算是颇有学识。",
-    "stage": 3,
+    "translation": "MIRIAM: Именно так.[p/] Я в этой области большой эксперт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2595",
     "original": "MIRIAM: Why,[p/] the crown prince himself has asked for my assistance in a research study. [mind=\"It's nice to work with someone of my caliber.\"/]",
-    "translation": "MIRIAM: 王储殿下甚至亲自请求我协助一个研究项目。[mind=\"能和我这样水平的人一起工作真是不错。\"/]",
-    "stage": 3,
+    "translation": "MIRIAM: К чему скромность,[p/] даже наследный принц самолично попросил моей помощи с исследованиями. [mind=\"Приятно работать с людьми моего уровня.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2596",
     "original": "Again,[p/] you don’t see any thoughts that contradict what she’s saying.",
-    "translation": "这次她的想法和发言之间也没有矛盾。",
-    "stage": 3,
+    "translation": "И вновь никаких противоречий с мыслями.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2597",
     "original": "Does that mean she’s not lying…?",
-    "translation": "这意味着她没有在说谎吗……？",
-    "stage": 3,
+    "translation": "Неужели она не врёт...?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2598",
     "original": "If she’s smart enough to get the crown prince’s attention,[p/] why would she be cheating?",
-    "translation": "如果她聪明到能被王储殿下注意，[p/]她为什么要作弊？",
-    "stage": 3,
+    "translation": "Если она настолько умна, что привлекла внимание наследного принца,[p/] зачем ей нужно было жульничать?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2600",
     "original": "CSteel: You said something about “my wayward relative” before.",
-    "translation": "CSteel: 你之前提到了“叛逆的亲戚”。",
-    "stage": 3,
+    "translation": "CSteel: Ты что-то упомянули о \"моей заблудшей родственнице\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2601",
     "original": "CSteel: Were you talking about Aria?",
-    "translation": "CSteel: 你是说阿莉亚吗？",
-    "stage": 3,
+    "translation": "CSteel: Вы говорили об Арии?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2602",
     "original": "MIRIAM: O-[p/][s/]Oh…[p/] I’m terribly sorry if I offended you.",
-    "translation": "MIRIAM: 哦、[p/][s/]哦……[p/]如果我冒犯了你，我感到万分抱歉。",
-    "stage": 3,
+    "translation": "MIRIAM: О-[p/][s/]Ох...[p/] Прошу прощения, если это звучало оскорбительно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2603",
     "original": "MIRIAM: But I’m sure it must pain you to see the way that she’s been acting lately.",
-    "translation": "MIRIAM: 但我相信，她最近的行事风格一定让你颇感心痛。",
-    "stage": 3,
+    "translation": "MIRIAM: Но я уверена, что вам болезненно смотреть на то, как она себя ведёт в последнее время.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2603\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2604",
     "original": "CSteel: Y-[p/]Yes…[p/] It’s…[p/] been [i]extremely[/i] hard.",
-    "translation": "CSteel: 是、[p/]是的……[p/]这……[p/]确实<u>极其</u>艰难。",
-    "stage": 3,
+    "translation": "CSteel: Д-[p/]Да... [p/] Это...[p/] [i]очень[/i] болезненно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2605",
     "original": "Hang in there, Celeste.",
-    "translation": "坚持住，塞莱斯特。",
-    "stage": 3,
+    "translation": "Держись, Селест.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2605\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2606",
     "original": "MIRIAM: Did you know that she even interrogated [p/][i]me[/i] about the murder yesterday?",
-    "translation": "MIRIAM: 你知道她昨天就谋杀案一事审问了[p/]<u>我</u>吗？",
-    "stage": 3,
+    "translation": "MIRIAM: Вы знали, что она даже допрашивала [p/][i]меня[/i] об убийстве вчера?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2606\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2607",
     "original": "MIRIAM: Can you believe it?[p/] A [i]Steelwind[/i] running around a crime scene like a common knight.",
-    "translation": "MIRIAM: 你敢信吗？[p/]<u>斯蒂尔文德家的人</u>像个普通骑士一样在犯罪现场忙活。",
-    "stage": 3,
+    "translation": "MIRIAM: Можете в такое поверить?[p/] [i]Стилвинд[/i] бегает по стене преступления, подобно простому рыцарю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2607\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2608",
     "original": "MIRIAM: Why if I tried something like that,[p/] my father would disown me.",
-    "translation": "MIRIAM: 我要是这么干，[p/]我父亲会和我断绝关系。",
-    "stage": 3,
+    "translation": "MIRIAM: Если бы я совершила что-то подобное,[p/] мой отец бы от меня отказался.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2609",
     "original": "Does the nobility not approve of Steelwind becoming a prosecutor?",
-    "translation": "贵族们是不是不赞成斯蒂尔文德成为检察官？",
-    "stage": 3,
+    "translation": "Знать не одобряет решение Стилвинд стать прокурором?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2609\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2610",
     "original": "You always thought that it is strange…[p/] What is motivating her to do this?",
-    "translation": "你一直觉得这很奇怪……[p/]是什么促使她这样做？",
-    "stage": 3,
+    "translation": "Тебе всего казалось это странным...[p/] Что же стало мотивацией?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2610\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2611",
     "original": "MIRIAM: Honestly,[p/] she probably thinks she can do anything just because of her betrothed. [mind=\"Aster deserves better.\"/]",
-    "translation": "MIRIAM: 说真的，[p/]因为她未婚夫在，她大概觉得自己能为所欲为。[mind=\"阿斯特值得更好的。\"/]",
-    "stage": 3,
+    "translation": "MIRIAM: Честное слово,[p/] она, видимо, думает, что может делать всё подряд, только из-за её суженного. [mind=\"Астер заслуживает лучшего.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2612",
     "original": "CSteel: …!",
-    "translation": "CSteel: ……！",
-    "stage": 3,
+    "translation": "CSteel: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2612\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2613",
     "original": "Celeste's eyes perk up upon hearing this.",
-    "translation": "塞莱斯特听到这话，眼睛一下子亮了起来。",
-    "stage": 3,
+    "translation": "Услышав это, Селест оживилась.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2613\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2614",
     "original": "…You’d be lying if you weren’t [i]also[/i] curious about who this “Aster” is.",
-    "translation": "……你承认自己<u>也</u>对这个“阿斯特”的身份感到好奇。",
-    "stage": 3,
+    "translation": "...И ты солжёшь, если скажешь, что тебе [i]не интересно[/i], кто этот \"Астер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2614\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2615",
     "original": "But you shoot her a stern look that tells her to stay focused.",
-    "translation": "但是你投去一个严厉的眼神，告诉她保持专注。",
-    "stage": 3,
+    "translation": "Но ты бросаешь на неё строгий взгляд, намекая вернуться к делу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2615\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2616",
     "original": "You can’t risk blowing your cover for some gossip.",
-    "translation": "你不能因为一些绯闻而暴露伪装。",
-    "stage": 3,
+    "translation": "Тебе не стоит рисковать из-за слухов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2616\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2618",
     "original": "CSteel: You have an Arcane Construct in your room.",
-    "translation": "CSteel: 你屋子里有一个奥术构造体。",
-    "stage": 3,
+    "translation": "CSteel: У вас есть Конструкт Арканы в комнате.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2618\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2619",
     "original": "CSteel: I thought they only had them in the library and the locker room.",
-    "translation": "CSteel: 我以为他们只放在图书馆和储物室里。",
-    "stage": 3,
+    "translation": "CSteel: Я думала, что они есть только в библиотеке и гардеробе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2619\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2620",
     "original": "MIRIAM: [i]This[/i] Construct was a gift from House von Sanctus.",
-    "translation": "MIRIAM: <u>这个</u>奥术构造体是来自冯·桑克图斯家族的礼物。",
-    "stage": 3,
+    "translation": "MIRIAM: [i]Этот[/i] Конструкт был подарком от Дома вон Санктус.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2620\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2621",
     "original": "MIRIAM: I have to say,[p/] they’re quite convenient to have around.",
-    "translation": "MIRIAM: 不得不说，[p/]有他们在手边真是太方便了。",
-    "stage": 3,
+    "translation": "MIRIAM: Должна признать,[p/] он довольно полезный.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2622",
     "original": "CSteel: They look really cool.[p/] Maybe I should get one.",
-    "translation": "CSteel: 他们看起来真的很酷。[p/]也许我也该弄一个。",
-    "stage": 3,
+    "translation": "CSteel: Он выглядит потрясающе.[p/] Думаю, стоит получить одного.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2622\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2623",
     "original": "MIRIAM: You should.",
-    "translation": "MIRIAM: 你是应该这么做。",
-    "stage": 3,
+    "translation": "MIRIAM: Вам правда стоит.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2623\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2624",
     "original": "Miriam: A Construct would be far more useful than this attendant of yours.",
-    "translation": "Miriam: 奥术构造体会比你现在这个随侍更有用。",
-    "stage": 3,
+    "translation": "Miriam: Конструкт точно будет полезнее вашего прислуги.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2624\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2625",
     "original": "CSteel: ...",
-    "translation": "CSteel: ……",
-    "stage": 3,
+    "translation": "CSteel: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2626",
     "original": "MIRIAM: Unfortunately,[p/] there are still some issues with their intelligence.",
-    "translation": "MIRIAM: 只是可惜，[p/]他们的智能还有些问题。",
-    "stage": 3,
+    "translation": "MIRIAM: Но к сожалению,[p/] есть некоторые проблемы с их интеллектом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2627",
     "original": "CSteel: Their “intelligence”?",
-    "translation": "CSteel: 他们的“智能”？",
-    "stage": 3,
+    "translation": "CSteel: Их \"Интеллектом\"?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2628",
     "original": "MIRIAM: There are issues when you give them complex commands.",
-    "translation": "MIRIAM: 给他们下达复杂命令时，会有些问题。",
-    "stage": 3,
+    "translation": "MIRIAM: Происходит ошибка, если дать им сложный порядок команд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2629",
     "original": "MIRIAM: Hm…[p/] It might be easier to show you.",
-    "translation": "MIRIAM: 嗯……[p/]向你展示一下可能更直观些。",
-    "stage": 3,
+    "translation": "MIRIAM: Хм...[p/] Легче будет показать в деле.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2630",
     "original": "Miriam turns to the Construct and begins gesturing towards it.",
-    "translation": "米莉亚姆转向奥术构造体，对它做出指示。",
-    "stage": 3,
+    "translation": "Мириам поворачивается к Конструкту и приказывает ему.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2630\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2631",
     "original": "MIRIAM: Construct.[p/] Please retrieve my textbooks and bring them here.",
-    "translation": "MIRIAM: 奥术构造体。[p/]请取来我的课本。",
-    "stage": 3,
+    "translation": "MIRIAM: Конструкт.[p/] Пожалуйста, достань мои тетради и принеси их ко мне.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2631\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2632",
     "original": "MIRIAM: Then,[p/] cast [b]Steelwind Strike[/b] at this location.",
-    "translation": "MIRIAM: 然后，[p/]在此处吟唱[b]斯蒂尔文德剑刃风暴[/b]。",
-    "stage": 3,
+    "translation": "MIRIAM: Затем,[p/] используй [b]Удар Стилвинд[/b] в этом месте.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2632\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2633",
     "original": "MIRIAM: After that,[p/] retrieve some plates and set them out at this table.",
-    "translation": "MIRIAM: 这之后，[p/]取来一些盘子，然后把它们摆到这张桌子上。",
-    "stage": 3,
+    "translation": "MIRIAM: После этого,[p/] возьми несколько тарелок и расставь их на столе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2633\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2634",
     "original": "Arcane: ACKNOWLEDGED.",
-    "translation": "Arcane: <size=1.5em>遵命。</size>",
-    "stage": 3,
+    "translation": "Arcane: ПОВИНУЮСЬ.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2634\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2635",
     "original": "CSteel: W-[p/][s/]What?!",
-    "translation": "CSteel: 啥、[p/][s/]啥？！",
-    "stage": 3,
+    "translation": "CSteel: Ч-[p/][s/]Чего?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2635\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2636",
     "original": "The Construct stands up and retrieves Miriam’s textbooks from one of the shelves in the room.",
-    "translation": "奥术构造体起身，从房间内的一个书架上取来了米莉亚姆的课本。",
-    "stage": 3,
+    "translation": "Конструкт встал и достал тетради Мириам с одной из полок в её комнате.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2636\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2637",
     "original": "It brings them to the table you’re sitting at,[p/] just like she ordered.",
-    "translation": "它将课本放在你旁边的桌子上，[p/]就像她要求的一样。",
-    "stage": 3,
+    "translation": "Он принёс их к вам на стол,[p/] как она и приказала.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2637\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2638",
     "original": "But then…[p/] it suddenly stops moving.",
-    "translation": "但这之后……[p/]它忽然停下了。",
-    "stage": 3,
+    "translation": "Но затем...[p/] он, внезапно, остановился.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2638\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2639",
     "original": "CSteel: Wait…[p/] What happened?",
-    "translation": "CSteel: 等等……[p/]发生了什么？",
-    "stage": 3,
+    "translation": "CSteel: Погоди...[p/] Что случилось?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2640",
     "original": "MIRIAM: The Construct obviously can’t cast [b]Steelwind Strike[/b].[p/] So my second command was impossible to carry out.",
-    "translation": "MIRIAM: 奥术构造体当然不能吟唱[b]斯蒂尔文德剑刃风暴[/b]。[p/]所以我的第二个指令是不可能完成的。",
-    "stage": 3,
+    "translation": "MIRIAM: Очевидно, что Конструкт не способен использовать [b]Удар Стилвинд[/b].[p/] А потому, моя вторая команда была невозможна к исполнению.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2640\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2641",
     "original": "MIRIAM: But did you notice something else?",
-    "translation": "MIRIAM: 但是你注意到别的什么的了吗？",
-    "stage": 3,
+    "translation": "MIRIAM: Но вы заметили кое-что ещё?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2641\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2642",
     "original": "CSteel: …It ignored your third command too.",
-    "translation": "CSteel: ……它也无视了你的第三个指令。",
-    "stage": 3,
+    "translation": "CSteel: ...Он проигнорировал третью команду.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2642\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2643",
     "original": "MIRIAM: Correct.[p/] My third command [i]was[/i] possible to carry out.",
-    "translation": "MIRIAM: 没错。[p/]我的第三个指令<u>应当</u>是能完成的。",
-    "stage": 3,
+    "translation": "MIRIAM: Именно.[p/] Моя третья команда [i]была[/i] возможна к исполнению.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2643\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2644",
     "original": "CSteel: So why did it ignore [i]that[/i] command?",
-    "translation": "CSteel: 那它为什么无视了<u>那个</u>指令？",
-    "stage": 3,
+    "translation": "CSteel: Тогда почему он её не исполнил?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2644\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2645",
     "original": "MIRIAM: Constructs execute a series of commands in the order that they are given.",
-    "translation": "MIRIAM: 奥术构造体会按照顺序，执行收到的一系列指令。",
-    "stage": 3,
+    "translation": "MIRIAM: Конструкт исполняет серию команд в порядке их получения.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2645\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2646",
     "original": "MIRIAM: But let’s say one of those tasks is impossible to complete.",
-    "translation": "MIRIAM: 但我们假设其中有些任务是无法完成的。",
-    "stage": 3,
+    "translation": "MIRIAM: Но давайте предположим, что одна из задач невозможна к выполнению.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2646\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2647",
     "original": "MIRIAM: When the Construct gets to that task,[p/] it will deem the [i]entire[/i] series impossible to complete.",
-    "translation": "MIRIAM: 当奥术构造体开始执行无法完成的任务时，[p/]它会认定<u>整套</u>命令都无法执行。",
-    "stage": 3,
+    "translation": "MIRIAM: Когда Конструкт переходит к этой задаче,[p/] это делает [i]всю[/i] следующую серию команд невозможным к выполнению.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2647\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2648",
     "original": "MIRIAM: As a result,[p/] it will stop executing the series altogether.",
-    "translation": "MIRIAM: 结果就是，[p/]它会停止执行全部任务。",
-    "stage": 3,
+    "translation": "MIRIAM: И как итог,[p/] он прекращает выполнение всех задач.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2648\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2649",
     "original": "CSteel: So if a task in a series of commands is impossible,[p/] then that command will interrupt the sequence of commands.",
-    "translation": "CSteel: 也就是说如果一系列任务中之一无法完成，[p/]那么这个任务会中断后续任务的进行。",
-    "stage": 3,
+    "translation": "CSteel: Значит, если одна задача из серии команд невозможна,[p/] то эта команда прерывает всю серию задач.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2649\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2650",
     "original": "MIRIAM: Exactly.",
-    "translation": "MIRIAM: 正是如此。",
-    "stage": 3,
+    "translation": "MIRIAM: Всё верно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2650\",\n  \"keywords\": []\n}"
   },
   {
@@ -17194,365 +17194,365 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2654",
     "original": "Miriam: Your attendant doesn't appear to actually do much.",
-    "translation": "Miriam: 你的随侍看起来并没有干什么活。",
-    "stage": 3,
+    "translation": "Miriam: Похоже, ваш прислуга мало что делает.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2654\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2655",
     "original": "Miriam: How [i]do[/i] you put up with him?",
-    "translation": "Miriam: 你<u>到底</u>是怎么忍受他的？",
-    "stage": 3,
+    "translation": "Miriam: Зачем вы [i]вообще[/i] взяли его с собой? ",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2655\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2656",
     "original": "CSteel: O-[p/]Oh...[p/] You know how it is...",
-    "translation": "CSteel: 哦、[p/]哦……[p/]你也知道这是怎么回事……",
-    "stage": 3,
+    "translation": "CSteel: О-[p/]Ох...[p/] Вы знаете, как это бывает...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2656\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2657",
     "original": "You're a little touched about how angry she's getting on your behalf.",
-    "translation": "你对她为你生气的样子感到一丝感动。",
-    "stage": 3,
+    "translation": "Ты немного тронут тем, как она злиться из-за тебя.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2657\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2659",
     "original": "Miriam: I wasn't aware another Steelwind had enrolled at the academy.",
-    "translation": "Miriam: 我并不知道另一个斯蒂尔文德家的人也在学院就读。",
-    "stage": 3,
+    "translation": "Miriam: Я даже не знала, что ещё один Стилвинд поступил в Академию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2659\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2660",
     "original": "Miriam: Which branch family were you from again?",
-    "translation": "Miriam: 你是哪个分家出身的来着？",
-    "stage": 3,
+    "translation": "Miriam: Напомните, из какой вы ветви семьи?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2660\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2661",
     "original": "CSteel: I-[p/][s/]It's one of the far-off branches.",
-    "translation": "CSteel: 是、[p/][s/]是个很旁支的家族。",
-    "stage": 3,
+    "translation": "CSteel: Э-[p/][s/]Это одна из отдалённых веток.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2661\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2662",
     "original": "CSteel: We're not that well-known.",
-    "translation": "CSteel: 我们没那么出名。",
-    "stage": 3,
+    "translation": "CSteel: Мы не особо знакомы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2662\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2663",
     "original": "Miriam: I…[p/] see.",
-    "translation": "Miriam: 我……[p/]我明白了。",
-    "stage": 3,
+    "translation": "Miriam: ...[p/]Понятно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2663\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2665",
     "original": "Miriam: Honestly,[p/] I don't know what Aria is thinking...",
-    "translation": "Miriam: 老实说，[p/]我不知道阿莉亚在想什么……",
-    "stage": 3,
+    "translation": "Miriam: Честно,[p/] я не знаю, о чем Ария вообще думает...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2665\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2666",
     "original": "Miriam: At this rate,[p/] it won't matter [i]which[/i] House she belongs to.",
-    "translation": "Miriam: 照这样下去，[p/]不管她出身<u>什么</u>家族都没用。",
-    "stage": 3,
+    "translation": "Miriam: В таком случае,[p/] уже не важно [i]из какого[/i] ты Дома.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2666\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2667",
     "original": "Miriam: She'll be ruined...",
-    "translation": "Miriam: 她会完蛋的……",
-    "stage": 3,
+    "translation": "Miriam: Она всё испортит...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2667\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2668",
     "original": "CSteel: Are you...[p/] actually concerned about her?",
-    "translation": "CSteel: 你真的……这么在乎她吗？",
-    "stage": 3,
+    "translation": "CSteel: Вы...[p/] правда беспокоитесь о ней?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2668\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2669",
     "original": "Miriam: W-[p/][s/]What?![p/][s/] Of course, not!",
-    "translation": "Miriam: 什、[p/][s/]什么？！[p/][s/]我才不在乎她！",
-    "stage": 3,
+    "translation": "Miriam: Ч-[p/][s/]Чего?![p/][s/] Конечно нет!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2669\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2671",
     "original": "CSteel: By the way,[p/] do you happen to know Eris Illmater?",
-    "translation": "CSteel: 顺带一提，[p/]你知道厄莉斯·伊尔马特这个人吗？",
-    "stage": 3,
+    "translation": "CSteel: Кроме прочего,[p/] вы знакомы с Эрис Иллмейтер?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2671\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2672",
     "original": "Miriam: O-[p/]Oh...",
-    "translation": "Miriam: 啊、[p/]哦……",
-    "stage": 3,
+    "translation": "Miriam: О-[p/]Ох...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2672\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2673",
     "original": "Miriam: I would stay away from her if I were you.",
-    "translation": "Miriam: 如果我是你的话，我会离她远远的。",
-    "stage": 3,
+    "translation": "Miriam: На вашем месте я бы держалась от неё подальше.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2673\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2674",
     "original": "Miriam: I've heard some...[p/] unsavory things have happened to people that cross her.",
-    "translation": "Miriam: 我听说……[p/]和她扯上关系的人都出了些难以启齿的事。",
-    "stage": 3,
+    "translation": "Miriam: Я слышала несколько...[p/] противных историй о людях, что пересекались с ней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2674\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2675",
     "original": "Miriam: It's no wonder that she joined forces with that necromancer...",
-    "translation": "Miriam: 也难怪她和那个死灵法师走的那么近……",
-    "stage": 3,
+    "translation": "Miriam: Неудивительно, что она обледенила свои силы с этим некромантом...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2675\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2677",
     "original": "Miriam: It's such a shame what happened to the professor...",
-    "translation": "Miriam: 教授的事真是太遗憾了……",
-    "stage": 3,
+    "translation": "Miriam: Так печально, что профессор ушла навсегда...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2677\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2678",
     "original": "Miriam: She truly was the best and brightest among the faculty.",
-    "translation": "Miriam: 她真的是教职员工里最开朗最有实力的教授。",
-    "stage": 3,
+    "translation": "Miriam: Она, правда, была лучшим и ярким членом преподавателей.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2678\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2679",
     "original": "Well…[p/] She was certainly [i]something[/i]...",
-    "translation": "嗯……[p/]她确实有<u>实力</u>……",
-    "stage": 3,
+    "translation": "Ну...[p/] Она точно была [i]чем-то[/i]...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2679\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2681",
     "original": "Miriam: I can't believe it took so long for that necromancer to be detained!",
-    "translation": "Miriam: 真不敢相信拘留那个死灵法师要用这么久！",
-    "stage": 3,
+    "translation": "Miriam: Не могу поверить, что некроманта так долго пытались задержать!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2681\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2682",
     "original": "Miriam: All it took was a [i]literal[/i] murder!",
-    "translation": "Miriam: 竟然要等到<u>真的</u>杀了人才把他捉拿归案！",
-    "stage": 3,
+    "translation": "Miriam: И для этого понадобилось [i]настоящее[/i] убийство!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2682\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2683",
     "original": "Tyrion: ...The trial isn't over yet.[p/] He's innocent until proven guilty.",
-    "translation": "Tyrion: ……审理还未结束。[p/]他在被证明有罪之前都是无辜的。",
-    "stage": 3,
+    "translation": "Tyrion: ...Суд ещё не окончен.[p/] Её невиновность ещё требуется доказать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2683\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2684",
     "original": "Miriam: Oh,[p/] of course,[p/] [i]you[/i] would say that.",
-    "translation": "Miriam: 哦，[p/]<u>你</u>自然会这么想。",
-    "stage": 3,
+    "translation": "Miriam: Ох,[p/] разумеется,[p/] [i]вы[/i] бы сказали такое.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2684\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2685",
     "original": "Miriam: You commoners can't [i]help[/i] but sympathize with each other.",
-    "translation": "Miriam: 你们这些平民只会<u>忍不住</u>同情彼此。",
-    "stage": 3,
+    "translation": "Miriam: Вам, простолюдинам, не получается не сочувствовать друг другу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2685\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2686",
     "original": "CSteel: Do [i]not[/i] talk to him like that.",
-    "translation": "CSteel: <u>不许</u>这样跟他说话。",
-    "stage": 3,
+    "translation": "CSteel: [i]Не[/i] смейте так с ним говорить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2686\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2687",
     "original": "Miriam: W-[p/][s/]Wha-?!",
-    "translation": "Miriam: 啊、[p/][s/]啊——？！",
-    "stage": 3,
+    "translation": "Miriam: Ч-[p/][s/]Чт-?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2687\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2688",
     "original": "CSteel: S-[p/]Sorry...[p/] Just tone it down,[p/] okay?",
-    "translation": "CSteel: 抱、[p/]抱歉……[p/]总之我们心平气和地聊天，[p/]好吗？",
-    "stage": 3,
+    "translation": "CSteel: И-[p/]Извините...[p/] Давайте сбавим тон,[p/] ладно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2688\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2689",
     "original": "Miriam: O-[p/]Of course...",
-    "translation": "Miriam: 当、[p/]当然可以……",
-    "stage": 3,
+    "translation": "Miriam: К-[p/]Конечно...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2689\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2691",
     "original": "Miriam: Ugh...[p/] With the professor gone,[p/] the headmaster is just going to bring more of those street urchins into the academy.",
-    "translation": "Miriam: 唔呃……[p/]教授不在了的话，[p/]校长又要让那些流浪儿童入学了。",
-    "stage": 3,
+    "translation": "Miriam: Угх...[p/] С уходом профессора,[p/] директор наверняка приведёт ещё больше уличных бродяг в академию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2691\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2692",
     "original": "CSteel: ...Is that really so bad, though?",
-    "translation": "CSteel: ……倒也没那么坏吧？",
-    "stage": 3,
+    "translation": "CSteel: ...Неужели это настолько плохо?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2692\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2693",
     "original": "CSteel: Every mage should have the right to develop their powers.",
-    "translation": "CSteel: 每个法师都有挖掘自己潜力的权利。",
-    "stage": 3,
+    "translation": "CSteel: Каждый маг должен иметь право развивать свои силы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2693\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2694",
     "original": "Miriam: ...Don't tell me that Aria got to you.",
-    "translation": "Miriam: ……别跟我说是阿莉亚教你这一套的。",
-    "stage": 3,
+    "translation": "Miriam: ...Только не говорите мне, что Ария и вас на это подписала.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2694\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2695",
     "original": "Miriam: Mages were chosen by the Scaled Lord through divine right.",
-    "translation": "Miriam: 法师是由鳞甲领主拉萨利昂通过圣权选出来的。",
-    "stage": 3,
+    "translation": "Miriam: Маги были выбрана Чешуйчатым Лордом по древнему праву.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2695\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2696",
     "original": "Miriam: Magic is something that should [i]only[/i] be held by the nobility.",
-    "translation": "Miriam: 魔法这种东西就<u>只</u>应该被贵族所拥有。",
-    "stage": 3,
+    "translation": "Miriam: Магия - это то, что может быть [i]лишь[/i] в руках знати.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2696\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2697",
     "original": "Miriam: Those [i]bastard[/i] children have no right to call themselves mages!",
-    "translation": "Miriam: 那些<u>野种</u>们没权自称法师！",
-    "stage": 3,
+    "translation": "Miriam: Эти [i]бастарды[/i] не имеют права зваться магами!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2697\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2698",
     "original": "CSteel: R-[p/]Right...",
-    "translation": "CSteel: 没、[p/]没错……",
-    "stage": 3,
+    "translation": "CSteel: В-[p/]Верно...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2698\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2699",
     "original": "…You feel a twinge of regret for putting Celeste in this situation.",
-    "translation": "……你为把塞莱斯特置于这种境地而感到有些后悔。",
-    "stage": 3,
+    "translation": "...Ты чувствуешь сожаление, пустив Селест в такую ситуацию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2699\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2701",
     "original": "CSteel: The Fregas primarily control Wyverngarde's finances, right?",
-    "translation": "CSteel: 弗雷加家主要掌控维文加德的经济对吗？",
-    "stage": 3,
+    "translation": "CSteel: Семья Фрега контролирует финансы Вивернгарда, верно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2701\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2702",
     "original": "Miriam: But of course!",
-    "translation": "Miriam: 那是当然！",
-    "stage": 3,
+    "translation": "Miriam: Ну разумеется!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2702\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2703",
     "original": "Miriam: The Fregas own nearly every banking house in the kingdom.",
-    "translation": "Miriam: 弗雷加家掌控着几乎国家里的每一家银行。",
-    "stage": 3,
+    "translation": "Miriam: Семья Фрега владеет почти каждым банком в королевстве.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2703\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2704",
     "original": "Miriam: One could even say that we alone are responsible for Wyverngarde's prosperity.",
-    "translation": "Miriam: 甚至可以说维文加德能经济繁荣，都是我们一家的功劳。",
-    "stage": 3,
+    "translation": "Miriam: Можно даже сказать, что мы одни в ответе за процветание Вивернгарда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2704\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2705",
     "original": "...How about sharing that \"prosperity\" with the commonfolk?",
-    "translation": "……那为什么不与平民分享那份“繁荣”呢？",
-    "stage": 3,
+    "translation": "...Как насчет поделиться \"процветанием\" с простолюдинами?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2705\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2707",
     "original": "Miriam: Ugh...[p/] I really hope Aria returns my rapier soon.",
-    "translation": "Miriam: 呃啊……[p/]真希望阿莉亚能早点把我的剑还给我。",
-    "stage": 3,
+    "translation": "Miriam: Ух...[p/] Надеюсь, Ария скоро вернёт мою рапиру.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2707\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2708",
     "original": "CSteel: It must be pretty important to you.",
-    "translation": "CSteel: 那把剑对你来说一定很重要。",
-    "stage": 3,
+    "translation": "CSteel: Должно быть, она очень дорога вам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2708\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2709",
     "original": "Miriam: It is an ancient family heirloom,[p/] owned by one of the first heroes of Wyverngarde.",
-    "translation": "Miriam: 那是我家从上古时期代代相传的传家宝，[p/]曾是维文加德最初几位英雄之一的佩剑。",
-    "stage": 3,
+    "translation": "Miriam: Это древняя реликвия из наследия,[p/] которой когда-то владел один из первых героев Вивернгарда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2709\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2710",
     "original": "Miriam: My father will throw a fit if he finds out that it was stolen.",
-    "translation": "Miriam: 我父亲要是知道那把剑被偷走了，肯定会大发雷霆。",
-    "stage": 3,
+    "translation": "Miriam: Мой отец впадёт в ярость, если узнает, что она была украдена.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2710\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2712",
     "original": "CSteel: You have an Arcane Construct in your room.",
-    "translation": "CSteel: 你房间里有个奥术构造体。",
-    "stage": 3,
+    "translation": "CSteel: У вас есть Конструкт Арканы в комнате.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2712\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2713",
     "original": "CSteel: I thought they only had them in the Library and Locker Room.",
-    "translation": "CSteel: 我以为他们只放在图书馆和储物室里。",
-    "stage": 3,
+    "translation": "CSteel: Я думала, что они есть только в библиотеке и гардеробе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2713\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2714",
     "original": "MIRIAM: [i]This[/i] Construct was a gift from House von Sanctus.",
-    "translation": "MIRIAM: <u>这个</u>奥术构造体是来自冯·桑克图斯家族的礼物。",
-    "stage": 3,
+    "translation": "MIRIAM: [i]Этот[/i] Конструкт был подарком от Дома вон Санктус.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2714\",\n  \"keywords\": []\n}"
   },
   {
