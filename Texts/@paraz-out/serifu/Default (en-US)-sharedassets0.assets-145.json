@@ -4293,7 +4293,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-685",
     "original": "Aria: I'm glad to see you under less...[p/] dire circumstances, Ms. McCoy.",
-    "translation": "Aria: Ради видеть вас под менее...[p/] неприятными обстоятельствами, Мисс МакКой.",
+    "translation": "Aria: Рада видеть вас под менее...[p/] неприятными обстоятельствами, Мисс МакКой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-685\",\n  \"keywords\": []\n}"
   },
@@ -4370,7 +4370,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-696",
     "original": "Aria: ...I suppose that makes more sense.",
-    "translation": "Aria: ...Полагаю, в этом есть смысл.",
+    "translation": "Aria: ...Полагаю, в этом больше смысла.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-696\",\n  \"keywords\": []\n}"
   },
@@ -4468,14 +4468,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-713",
     "original": "Aria: I constantly clashed with her over her treatment of the students.",
-    "translation": "Aria: Я постоянно боролась с ней на счет травли студентов.",
+    "translation": "Aria: Я постоянно боролась с ней насчет травли студентов.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-713\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-714",
     "original": "Aria: One of my biggest regrets is failing to remove her from her position before I graduated.",
-    "translation": "Aria: Она из моих больших сожалений - это провал в попытке лишить её своей позиции до выпуска.",
+    "translation": "Aria: Одно из моих больших сожалений - это провал в попытке лишить её своей позиции до выпуска.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-714\",\n  \"keywords\": []\n}"
   },
@@ -28527,22 +28527,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4410",
     "original": "ARIA: I decided to look through her belongings…",
-    "translation": "ARIA: 我决定看看她的随身物品……",
-    "stage": 3,
+    "translation": "ARIA: Я решила изучить её личные вещи...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4410\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4411",
     "original": "ARIA: And I mistakenly looked through the locker with her ID.",
-    "translation": "ARIA: 我不小心翻看了标着她名牌的储物柜。",
-    "stage": 3,
+    "translation": "ARIA: И случайно нашла номер её шкафчика.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4411\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4412",
     "original": "ARIA: ...I found this in that locker.",
-    "translation": "ARIA: ……我在那里找到了这个。",
-    "stage": 3,
+    "translation": "ARIA: ...И там я нашла это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4412\",\n  \"keywords\": []\n}"
   },
   {
@@ -28555,1016 +28555,1016 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4414",
     "original": "TYRION: This is…!",
-    "translation": "TYRION: 这是……！",
-    "stage": 3,
+    "translation": "TYRION: Это...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4414\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4415",
     "original": "ARIA: It’s very likely that [i]this[/i] is the murder weapon.",
-    "translation": "ARIA: <u>这</u>很可能就是凶器。",
-    "stage": 3,
+    "translation": "ARIA: Судя по всему, [i]это[/i] - настоящее оружие убийства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4415\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4416",
     "original": "ARIA: This rapier is a valuable family heirloom for House Frega.",
-    "translation": "ARIA: 这把刺剑是弗雷加家的贵重传家宝。",
-    "stage": 3,
+    "translation": "ARIA: Рапира, наследная реликвия из Дома Фрега.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4416\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4417",
     "original": "ARIA: And a few weeks ago,[p/] Miriam reported that the rapier was stolen from her room.",
-    "translation": "ARIA: 而且几周前，[p/]米莉亚姆报案称这把刺剑被从她的房间里偷走了。",
-    "stage": 3,
+    "translation": "ARIA: И несколько недель назад,[p/] Мириам сообщила о краже рапиры из её комнаты.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4417\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4418",
     "original": "CELESTE: And then it was found in Wallace’s locker…",
-    "translation": "CELESTE: 然后在华莱士的储物柜里找到了……",
-    "stage": 3,
+    "translation": "CELESTE: И затем была найдена в шкафчике Уоллеса...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4418\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4419",
     "original": "TYRION: Not that I’m complaining,[p/] but why didn’t you present this in court?",
-    "translation": "TYRION: 我不是有意见，[p/]但你怎么不在法庭上出示这个证据呢？",
-    "stage": 3,
+    "translation": "TYRION: Я не жалуюсь,[p/] но почему ты не показала это на суде?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4419\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4420",
     "original": "ARIA: To be honest,[p/] I’d like to avoid involving House Frega by any means necessary.",
-    "translation": "ARIA: 说实话，[p/]我想尽一切手段避免把弗雷加家牵扯进来。",
-    "stage": 3,
+    "translation": "ARIA: Если честно,[p/] я хотела бы избежать любого вовлечения Дома Фреги любыми средствами.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4420\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4421",
     "original": "CELESTE: I knew it![p/][s/] You’re just protecting her, aren’t you?!",
-    "translation": "CELESTE: 我就知道！[p/][s/]你是在保护她对吧？！",
-    "stage": 3,
+    "translation": "CELESTE: Так и знала![p/][s/] Ты просто защищаешь её, верно?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4421\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4422",
     "original": "ARIA: …Ms. McCoy.[p/] Do you recall how Wyverngarde's justice system works?",
-    "translation": "ARIA: ……麦考伊女士。[p/]你还记得维文加德的司法系统是怎么运作的吗？",
-    "stage": 3,
+    "translation": "ARIA: ...Мисс МакКой.[p/] Вы помните, как работает судебная система Вивернгарда?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4422\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4423",
     "original": "ARIA: To acquit a defendant,[p/] you need to unequivocally prove that they didn’t commit the crime.",
-    "translation": "ARIA: 要无罪释放一个被告，[p/]你需要明确证明他们并未实施犯罪。",
-    "stage": 3,
+    "translation": "ARIA: Для оправдания подсудимого,[p/] вам нужно безоговорочно доказать, что он не совершал преступление.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4423\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4424",
     "original": "ARIA: To do that,[p/] they either need a solid alibi-",
-    "translation": "ARIA: 要达成这一点，[p/]要么有充分的不在场证明——",
-    "stage": 3,
+    "translation": "ARIA: Чтобы сделать это,[p/] нужно найти железное алиби-",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4424\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4425",
     "original": "TYRION: Or we need to prove that someone [i]else[/i] committed the crime...",
-    "translation": "TYRION: 要么就得证明是<u>其他人</u>实施了犯罪……",
-    "stage": 3,
+    "translation": "TYRION: Или же найти [i]того[/i], кто на самом деле совершил преступление...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4425\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4426",
     "original": "ARIA: What do you suppose will happen if you bring Miriam Frega onto the stand?",
-    "translation": "ARIA: 你觉得把米莉亚姆·弗雷加带到法庭上会是什么后果？",
-    "stage": 3,
+    "translation": "ARIA: Как ты думаешь, что случиться, если вы приведёте Мириам Фрегу к стойке?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4426\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4427",
     "original": "ARIA: House Frega won’t allow one of its members to be indicted in a court of law.",
-    "translation": "ARIA: 弗雷加家肯定不会袖手旁观，在一旁看着自己的家族成员被法庭定罪。",
-    "stage": 3,
+    "translation": "ARIA: Дом Фрег не позволит так просто обвинять одного из членов из семьи в суде.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4427\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4428",
     "original": "ARIA: They’ll plant and forge evidence to implicate your defendant.",
-    "translation": "ARIA: 他们会伪造证据来栽赃你的委托人。",
-    "stage": 3,
+    "translation": "ARIA: Они пропустят через дело все сфабрикованные улики для обвинения подсудимого.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4428\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4429",
     "original": "ARIA: And they’ll use the Inquisition to do so.",
-    "translation": "ARIA: 他们还会利用裁判所来达成目的。",
-    "stage": 3,
+    "translation": "ARIA: И используют Инквизицию для этого.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4429\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4430",
     "original": "TYRION: So [i]that’s[/i] why you’ve been keeping them away from the investigation.",
-    "translation": "TYRION: 所以<u>这</u>就是你一直尽力把他们排除在外的原因。",
-    "stage": 3,
+    "translation": "TYRION: Значит [i]это[/i] причина тому, что ты держишь их вне расследования.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4430\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4431",
     "original": "CELESTE: Can’t [i]you[/i] do anything?!",
-    "translation": "CELESTE: <u>你</u>就不能做点什么吗？！",
-    "stage": 3,
+    "translation": "CELESTE: Разве ты не можешь [i]что-то[/i] сделать?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4431\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4432",
     "original": "CELESTE: The Steelwinds are powerful too, aren't they?!",
-    "translation": "CELESTE: 斯蒂尔文德家不是也很强大吗？！",
-    "stage": 3,
+    "translation": "CELESTE: Стилвинды тоже властные, разве нет?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4432\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4433",
     "original": "ARIA: …",
-    "translation": "ARIA: ……",
-    "stage": 3,
+    "translation": "ARIA: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4433\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4434",
     "original": "ARIA: I don’t have the support of my House.",
-    "translation": "ARIA: 我得不到家族的支援。",
-    "stage": 3,
+    "translation": "ARIA: Мой Дом не поддерживает меня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4434\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4435",
     "original": "Aria: Right now,[p/] I'm just a prosecutor,[p/] nothing more.",
-    "translation": "Aria: 现在，[p/]我只是一个普通的检察官，[p/]仅此而已。",
-    "stage": 3,
+    "translation": "Aria: Сейчас,[p/] я простой прокурор,[p/] не более.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4435\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4436",
     "original": "CELESTE: …",
-    "translation": "CELESTE: ……",
-    "stage": 3,
+    "translation": "CELESTE: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4436\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4437",
     "original": "CELESTE: ...Steelwind.[p/] You [i]know[/i] that this isn’t fair for us.",
-    "translation": "CELESTE: ……斯蒂尔文德。[p/]你<u>知道</u>这对我们不公平。",
-    "stage": 3,
+    "translation": "CELESTE: ...Стилвинд.[p/] Ты же [i]знаешь[/i], что это несправедливо.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4437\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4438",
     "original": "CELESTE: Just do nothing![p/][s/] Do nothing and let us win!",
-    "translation": "CELESTE: 停手吧！[p/][s/]让我们胜诉！",
-    "stage": 3,
+    "translation": "CELESTE: Просто ничего не делай![p/][s/] Ничего не делай и дай нам победить!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4438\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4439",
     "original": "TYRION: Celeste!",
-    "translation": "TYRION: 塞莱斯特！",
-    "stage": 3,
+    "translation": "TYRION: Селест!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4439\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4440",
     "original": "Celeste: If we can't go after Miriam,[p/][s/] then you can at least help us save Wallace!",
-    "translation": "Celeste: 就算我们不能追查米莉亚姆，[p/][s/]你也至少能帮我们救华莱士一命！",
-    "stage": 3,
+    "translation": "Celeste: Если мы не можем привлечь Мириам,[p/][s/] тогда хотя бы помоги нам спасти Уоллеса!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4440\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4441",
     "original": "ARIA: I’m [i]not[/i] going to do that.",
-    "translation": "ARIA: 我<u>不会</u>那样做的。",
-    "stage": 3,
+    "translation": "ARIA: Я [i]не[/i] собираюсь этого делать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4441\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4442",
     "original": "CELESTE: Why?![p/][s/] What if Miriam Frega is the real killer?!",
-    "translation": "CELESTE: 为什么？！[p/][s/]如果米莉亚姆·弗雷加是真凶怎么办？！",
-    "stage": 3,
+    "translation": "CELESTE: Почему?![p/][s/] Что, если Мириам Фрега - настоящий убийца?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4442\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4443",
     "original": "CELESTE: Her sword is the murder weapon [i]and[/i] Bellwether was trying to blackmail her!",
-    "translation": "CELESTE: 她那把剑是凶器，贝尔维瑟<u>还</u>曾试图敲诈她！",
-    "stage": 3,
+    "translation": "CELESTE: Её меч - орудие убийства [i]и[/i] Беллвезер пыталась шантажировать её!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4443\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4444",
     "original": "ARIA: I seem to recall [i]another[/i] case where an innocent person’s sword was used to frame them.",
-    "translation": "ARIA: 我似乎记得有<u>一起</u>无辜被告的剑被真凶利用的案件。",
-    "stage": 3,
+    "translation": "ARIA: Похоже, мне стоит напомнить о [i]другом[/i] деле, где меч невиновной использовали, дабы подставить её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4444\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4445",
     "original": "CELESTE: T-[p/][s/]That’s…!",
-    "translation": "CELESTE: 那、[p/][s/]那是……！",
-    "stage": 3,
+    "translation": "CELESTE: Э-[p/][s/]Это...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4445\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4446",
     "original": "ARIA: As a prosecutor,[p/] it is [i]not[/i] my place to decide who’s guilty and who’s not.",
-    "translation": "ARIA: 作为一名检察官，[p/]我<u>无权</u>决定一个人有罪与否。",
-    "stage": 3,
+    "translation": "ARIA: Как прокурор,[p/] я [i]не[/i] имею правда решать, кто виновен, а кто нет.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4446\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4447",
     "original": "ARIA: I won’t engage in corruption…[p/] Even if it’s to counter corruption from another noble house.",
-    "translation": "ARIA: 我不会做以权谋私的事……[p/]即便是为了对抗腐败的贵族家庭。",
-    "stage": 3,
+    "translation": "ARIA: Я не поддерживаю коррупцию...[p/] Даже если это коррупция от другого знатного дома.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4447\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4448",
     "original": "ARIA: …I’m sorry.",
-    "translation": "ARIA: ……我很抱歉。",
-    "stage": 3,
+    "translation": "ARIA: ...Мне жаль.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4448\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4449",
     "original": "TYRION: …Do you know where Miriam is right now?",
-    "translation": "TYRION: ……你知道米莉亚姆现在在哪吗？",
-    "stage": 3,
+    "translation": "TYRION: ...Ты знаешь, где Мириам прямо сейчас?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4449\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4450",
     "original": "ARIA: …Didn’t you hear what I just said?",
-    "translation": "ARIA: ……你还没听懂我的意思吗？",
-    "stage": 3,
+    "translation": "ARIA: ...Ты вообще слушал меня?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4450\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4451",
     "original": "ARIA: You can’t let her think that there’s even the [i]slightest[/i] possibility you’ll indict her.",
-    "translation": "ARIA: 你不能让她意识到有<u>一丁点</u>你会起诉她的可能性。",
-    "stage": 3,
+    "translation": "ARIA: Вы не должны даже [i]намекать[/i] ей на возможность, что вы подозреваете её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4451\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4452",
     "original": "ARIA: She’ll bring the entire wrath of House Frega down on you.",
-    "translation": "ARIA: 她会给你身上引来整个弗雷加家的怒火。",
-    "stage": 3,
+    "translation": "ARIA: Она придёт весь гнев Дома Фрег и сокрушит вас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4452\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4453",
     "original": "TYRION: Regardless,[p/] I can’t do anything for Wallace unless I know everything that happened.",
-    "translation": "TYRION: 就算如此，[p/]除非知晓一切真相，否则我没办法就这样放着华莱士不管。",
-    "stage": 3,
+    "translation": "TYRION: Что бы там не было,[p/] я не могу чем-либо помочь Уоллеса пока я не знаю всё о случившемся.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4453\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4454",
     "original": "TYRION: Frega has the last piece I need to put everything together.",
-    "translation": "TYRION: 弗雷加她有我需要的最后一片拼图。",
-    "stage": 3,
+    "translation": "TYRION: Фрега - последняя деталь, которая сложит всё вместе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4454\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4455",
     "original": "ARIA: …",
-    "translation": "ARIA: ……",
-    "stage": 3,
+    "translation": "ARIA: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4455\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4456",
     "original": "ARIA: *sigh*[p/] Well, I suppose I don’t have much of a choice, do I?",
-    "translation": "ARIA: *叹气* [p/]好吧，看来我也没什么别的选择了。",
-    "stage": 3,
+    "translation": "ARIA: *вздох* [p/] Что ж, полагаю, у меня нет выбора, да?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4456\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4457",
     "original": "ARIA: …Her dormitory is room 107.[p/] I imagine that she’ll be there considering that classes are suspended.",
-    "translation": "ARIA: ……她住在 107 号宿舍。[p/]学院所有的课都暂停了，她应该会在那里。",
-    "stage": 3,
+    "translation": "ARIA: ...Её комната в общежитии - 107.[p/] Думаю, она там, раз уж все занятия отменены.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4457\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4458",
     "original": "TYRION: Thank you, Steelwind.",
-    "translation": "TYRION: 谢谢你，斯蒂尔文德。",
-    "stage": 3,
+    "translation": "TYRION: Благодарю, Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4458\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4459",
     "original": "ARIA: If I don’t tell you,[p/] I’m sure you’ll probably just find out using some other means…",
-    "translation": "ARIA: 就算我不告诉你，[p/]我估计你也会想方设法找到她的宿舍……",
-    "stage": 3,
+    "translation": "ARIA: Даже если бы я не сказала вам,[p/] я уверена, вы разузнали бы это другими путями...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4459\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4460",
     "original": "ARIA: But please, Mr. Cuthbert,[p/] be careful.",
-    "translation": "ARIA: 但是请切记，卡斯伯特先生，[p/]务必小心行事。",
-    "stage": 3,
+    "translation": "ARIA: Но, прошу, Мистер Катберт,[p/] будьте осторожны.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4460\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4463",
     "original": "TYRION: Have you had any luck finding the scene of the crime?",
-    "translation": "TYRION: 你有找到第一案发现场吗？",
-    "stage": 3,
+    "translation": "TYRION: Обернулась ли вам удача найти сцену преступления?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4463\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4464",
     "original": "ARIA: Unfortunately,[p/] I haven’t.",
-    "translation": "ARIA: 很可惜，[p/]还没。",
-    "stage": 3,
+    "translation": "ARIA: К сожалению,[p/] нет.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4464\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4465",
     "original": "ARIA: From the witness’ testimonies,[p/] we have a rough idea of the route Bellwether took.",
-    "translation": "ARIA: 根据目击者的证言，[p/]我们粗略推断出了贝尔维瑟当天的行迹。",
-    "stage": 3,
+    "translation": "ARIA: Судя по показаниям свидетеля,[p/] у нас есть примерный маршрут, по которому шла Беллвезер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4465\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4466",
     "original": "ARIA: But none of the rooms we’ve checked have any sign of a struggle.",
-    "translation": "ARIA: 但我们检查过的房间内都没有争斗的痕迹。",
-    "stage": 3,
+    "translation": "ARIA: Но ни в одной из комнат, которые мы проверили, не было следов борьбы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4466\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4467",
     "original": "CELESTE: Why are you so sure that a struggle happened?",
-    "translation": "CELESTE: 你为什么如此确定被害者遇害前反抗过？",
-    "stage": 3,
+    "translation": "CELESTE: Почему вы уверены, что была борьба?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4467\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4468",
     "original": "ARIA: I'm mainly basing that off of the Ianus sisters’ testimonies.",
-    "translation": "ARIA: 这我主要是根据伊努斯姐妹的证言推断的。",
-    "stage": 3,
+    "translation": "ARIA: Я стараюсь отталкиваться от показаний сестёр Янус.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4468\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4469",
     "original": "ARIA: Valerie,[p/] in particular,[p/] noticed that the bleeding came from a wound in her stomach.",
-    "translation": "ARIA: 特别是瓦莱丽，[p/]她注意到教授腹部的伤口失血严重。",
-    "stage": 3,
+    "translation": "ARIA: Валери,[p/] в частности,[p/] видела кровотечение, исходящее из раны в животе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4469\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4470",
     "original": "ARIA: Regrettably,[p/] the body’s wounds were mended.",
-    "translation": "ARIA: 遗憾的是，[p/]尸体的伤口已经被治愈。",
-    "stage": 3,
+    "translation": "ARIA: Увы,[p/] но рана на теле была залечена.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4470\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4471",
     "original": "ARIA: So, we can’t determine what kind of weapon the murderer used.",
-    "translation": "ARIA: 因此，我们无法判定凶手使用何种武器行凶。",
-    "stage": 3,
+    "translation": "ARIA: А потому, мы не можем узнать, каким оружием её убили.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4471\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4473",
     "original": "TYRION: During the trial,[p/] you mentioned that another witness saw Bellwether walking around yesterday.",
-    "translation": "TYRION: 在庭审中，[p/]你有提到另一个目击者在昨天看到贝尔维瑟四处走动。",
-    "stage": 3,
+    "translation": "TYRION: Во время суда,[p/] вы упомянули о другом свидетеле, который видел Беллвезер вчера.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4473\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4474",
     "original": "TYRION: Would you be willing to tell us who that person is?",
-    "translation": "TYRION: 你可以告诉我那个人是谁吗？",
-    "stage": 3,
+    "translation": "TYRION: Не могли бы вы нам рассказать о том, кто это?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4474\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4475",
     "original": "ARIA: …I’m sorry,[p/] but I can’t tell you that.",
-    "translation": "ARIA: ……抱歉，[p/]我不能告诉你他是谁。",
-    "stage": 3,
+    "translation": "ARIA: ...Мне жаль,[p/] но я не могу рассказать вам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4475\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4476",
     "original": "You’re caught a little off-guard.",
-    "translation": "这回答有点让你措手不及。",
-    "stage": 3,
+    "translation": "Вот так внезапность.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4476\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4477",
     "original": "Tyrion: ...You've been pretty transparent with your investigation so far.",
-    "translation": "Tyrion: ……目前为止你的调查结果都愿意和我们分享。",
-    "stage": 3,
+    "translation": "Tyrion: ...До этого вы куда откровеннее говорили о своём расследовании.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4477\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4478",
     "original": "Tyrion: What's changed?",
-    "translation": "Tyrion: 怎么突然就不愿意说了？",
-    "stage": 3,
+    "translation": "Tyrion: Что изменилось?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4478\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4479",
     "original": "ARIA: I have no obligation to justify myself to you.",
-    "translation": "ARIA: 我没有向你解释的义务。",
-    "stage": 3,
+    "translation": "ARIA: Я не обязана объясняться перед тобой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4479\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4480",
     "original": "ARIA: Nor do I have an obligation to help the opposition.",
-    "translation": "ARIA: 我也没有帮助对手的职责。",
-    "stage": 3,
+    "translation": "ARIA: Также, как и не обязана помогать сопернику.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4480\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4481",
     "original": "TYRION: Didn’t we have a deal?",
-    "translation": "TYRION: 不是说过吗？",
-    "stage": 3,
+    "translation": "TYRION: Разве мы не совершили сделку?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4481\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4482",
     "original": "TYRION: Hiding information doesn’t exactly seem fair to us.",
-    "translation": "TYRION: 隐瞒情报对我们不公平。",
-    "stage": 3,
+    "translation": "TYRION: Прятать информацию не звучит честно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4482\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4483",
     "original": "ARIA: I believe I’ve given you plenty of information already.",
-    "translation": "ARIA: 我觉得我已经告诉你很多情报了。",
-    "stage": 3,
+    "translation": "ARIA: Я уверена, что уже дала вам достаточно информации.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4483\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4484",
     "original": "ARIA: …So regardless of what I said before,[p/] the answer is still “no”. [mind=\"Her family is dangerous.\" /]",
-    "translation": "ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。[mind=\"她的家族太危险了。\" /]",
-    "stage": 3,
+    "translation": "ARIA: ...Так что, не важно, что я сказала ранее,[p/] мой ответ - \"нет\". [mind=\"Её семья слишком опасная.\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4484\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4485",
     "original": "The Eye of Horus catches a stray thought from her.",
-    "translation": "荷鲁斯之眼捕获了她流露出的一条思绪。",
-    "stage": 3,
+    "translation": "Глаз Горо заметил блуждающую мысль.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4485\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4486",
     "original": "“[i]Her[/i] family is dangerous”?[p/] What does that mean?",
-    "translation": "“<u>她的</u>家族太危险了”？[p/]这是何意？",
-    "stage": 3,
+    "translation": "\"[i]Её[/i] семья слишком опасная\"?[p/] Что это значит?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4486\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4487",
     "original": "TYRION: Is there something about this witness’s family that you’re worried about?",
-    "translation": "TYRION: 你是在顾虑这个证人的家族势力吗？",
-    "stage": 3,
+    "translation": "TYRION: Что-то, связанное с семьёй свидетеля, пугает вас?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4487\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4488",
     "original": "ARIA: …!",
-    "translation": "ARIA: ……！",
-    "stage": 3,
+    "translation": "ARIA: ...!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4488\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4489",
     "original": "ARIA: … [mind=\"No... This could be a feint.\"/]",
-    "translation": "ARIA: …… [mind=\"不……他可能只是在套话。\"/]",
-    "stage": 3,
+    "translation": "ARIA: ... [mind=\"Нет... Это наверняка обманный манёвр.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4489\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4490",
     "original": "ARIA: I’m sorry,[p/] but you’ll have to try harder than that if you want to bluff me.",
-    "translation": "ARIA: 抱歉，[p/]但在我面前虚张声势你还嫩了点。",
-    "stage": 3,
+    "translation": "ARIA: Прошу прощения,[p/] но вам стоит потрудиться, если хотите обмануть меня блефом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4490\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4491",
     "original": "She referred to the witness as “her”…",
-    "translation": "她称那个证人为“她”……",
-    "stage": 3,
+    "translation": "Она думала о свидетеле в женском роде...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4491\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4492",
     "original": "Furthermore,[p/] she said that “her family is dangerous”.",
-    "translation": "而且，[p/]她还提到“她的家族太危险了”。",
-    "stage": 3,
+    "translation": "Более того,[p/] она сказала \"её семья слишком опасная\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4492\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4493",
     "original": "Why would she go to such lengths to hide the witness's identity?",
-    "translation": "为什么她要如此费尽心思来隐瞒证人的身份呢？",
-    "stage": 3,
+    "translation": "Почему она решил зайти настолько далеко, дабы спрятать личность свидетеля?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4493\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4494",
     "original": "In any case,[p/] it looks like she's not willing to share more at the moment.",
-    "translation": "不管怎样，[p/]她现在似乎不愿意分享更多信息。",
-    "stage": 3,
+    "translation": "В любом случае,[p/] похоже, сейчас, она не будет нам говорить что-либо.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4494\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4495",
     "original": "Maybe you should try looking somewhere else.",
-    "translation": "或许你应该去别处看看。",
-    "stage": 3,
+    "translation": "Возможно, стоит изучить что-то ещё.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Talk_Library2-4495\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4498",
     "original": "Aria: You always have a habit of confounding my investigations, Mr. Cuthbert.",
-    "translation": "Aria: 卡斯伯特先生，你总喜欢给我的调查添乱。",
-    "stage": 3,
+    "translation": "Aria: У вас есть привычка постоянно усложнять мои расследования, Мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4498\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4499",
     "original": "Tyrion: I doubt that it's [i]my[/i] presence that's doing that.",
-    "translation": "Tyrion: 我不觉得添乱的是<u>我</u>。",
-    "stage": 3,
+    "translation": "Tyrion: Сомневаюсь, что это из-за [i]моего[/i] присутствия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4499\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4500",
     "original": "Tyrion: You can't take everything at face value with these things.",
-    "translation": "Tyrion: 涉及魔法的事不能总按表面现象解读。",
-    "stage": 3,
+    "translation": "Tyrion: Нельзя принимать всё за чистую монету.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4500\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4501",
     "original": "Aria: Clearly...",
-    "translation": "Aria: 这倒没错……",
-    "stage": 3,
+    "translation": "Aria: Очевидно...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4501\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4503",
     "original": "Aria: I'm glad to see you under less...[p/] dire circumstances, Ms. McCoy.",
-    "translation": "Aria: 我很高兴看到你比……[p/]那个时候好一些了，麦考伊女士。",
-    "stage": 3,
+    "translation": "Aria: Рада видеть вас под менее...[p/] неприятными обстоятельствами, Мисс МакКой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4503\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4504",
     "original": "Aria: Are you accompanying Mr. Cuthbert on his investigation?",
-    "translation": "Aria: 你是在协助卡斯伯特先生调查吗？",
-    "stage": 3,
+    "translation": "Aria: Сопровождаешь Мистера Катберта в его расследовании?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4504\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4505",
     "original": "Celeste: Yeah.[p/] I'm working as Tyrion's bodyguard now.",
-    "translation": "Celeste: 没错。[p/]我现在担任提利昂的护卫。",
-    "stage": 3,
+    "translation": "Celeste: Да.[p/] Я работаю телохранителем Тириона.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4505\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4506",
     "original": "Aria: I see.[p/] Well, you certainly have the credentials for it.",
-    "translation": "Aria: 明白了。[p/]毕竟，你确实有资格做这个。",
-    "stage": 3,
+    "translation": "Aria: Вот как.[p/] Ну, у тебя точно есть для этого навыки.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4506\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4507",
     "original": "Aria: Although,[p/] I'm surprised he's able to afford your services.",
-    "translation": "Aria: 不过，[p/]我挺意外他请得起你。",
-    "stage": 3,
+    "translation": "Aria: Хотя,[p/] удивительно, что он смог оплатить твои услуги.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4507\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4508",
     "original": "Tyrion: ...What's [i]that[/i] supposed to mean?",
-    "translation": "Tyrion: ……你这个<u>意外</u>是什么意思？",
-    "stage": 3,
+    "translation": "Tyrion: ...И что [i]это[/i] должно значит?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4508\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4509",
     "original": "Aria: I meant no offense.",
-    "translation": "Aria: 我无意冒犯。",
-    "stage": 3,
+    "translation": "Aria: Я не хотела никого обидеть.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4509\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4510",
     "original": "Aria: But work like this [i]does[/i] appear to be below Ms. McCoy's pay grade.",
-    "translation": "Aria: 但这种工作<u>确实</u>看起来低于麦考伊女士通常的价位。",
-    "stage": 3,
+    "translation": "Aria: Но работа, подобная [i]этой[/i], явно не соответствует жалованию Мисс МакКой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4510\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4511",
     "original": "Celeste: Yeah.[p/] I was surprised too.",
-    "translation": "Celeste: 是啊。[p/]其实我也挺意外的。",
-    "stage": 3,
+    "translation": "Celeste: Ага.[p/] Я сама была этому удивлена.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4511\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4512",
     "original": "Celeste: But Ruby pays me a lot to protect this guy.",
-    "translation": "Celeste: 但鲁比付了我一大笔钱来保护这家伙。",
-    "stage": 3,
+    "translation": "Celeste: Но Руби заплатила мне достаточно много для его защиты.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4512\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4513",
     "original": "Aria: Ah.[p/] Ruby Tymora is paying you.",
-    "translation": "Aria: 啊。[p/]所以是鲁比·泰摩拉在支付你的薪酬。",
-    "stage": 3,
+    "translation": "Aria: Ах.[p/] Руби Тимора платит тебе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4513\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4514",
     "original": "Aria: ...I suppose that makes more sense.",
-    "translation": "Aria: ……那就说得通了。",
-    "stage": 3,
+    "translation": "Aria: ...Полагаю, в этом больше смысла.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4514\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4516",
     "original": "Tyrion: I was surprised to see [i]you[/i] conducting the investigation, Steelwind.",
-    "translation": "Tyrion: 我很意外是<u>你</u>在主导现场调查，斯蒂尔文德。",
-    "stage": 3,
+    "translation": "Tyrion: Я был удивлён, когда увидел [i]вас[/i] во главе расследования, Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4516\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4517",
     "original": "Tyrion: Why aren’t you leaving things to Commander White?",
-    "translation": "Tyrion: 为什么不直接交给怀特指挥官呢？",
-    "stage": 3,
+    "translation": "Tyrion: Почему не оставить это на руки Командора Вайта?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4517\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4518",
     "original": "Aria: Please.[p/] I can barely trust that oaf to get me coffee properly.",
-    "translation": "Aria: 拜托。[p/]我连让那傻大个煮个咖啡都不太放心。",
-    "stage": 3,
+    "translation": "Aria: Прошу вас.[p/] Я даже не могу доверить ему сделать мне чашку кофе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4518\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4519",
     "original": "Aria: After last time,[p/] I feel much more confident overseeing the investigation myself.",
-    "translation": "Aria: 上次那件事之后，[p/]我觉得还是自己监督调查更有信心。",
-    "stage": 3,
+    "translation": "Aria: Последнее дело показало,[p/] что правильнее будет самолично вести расследование.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4519\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4520",
     "original": "But the Inquisition doesn't seem to be helping her at all.",
-    "translation": "但裁判所那边看起来完全没有想帮助她。",
-    "stage": 3,
+    "translation": "Однако Инквизиция не особо ей помогает.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4520\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4521",
     "original": "They're just standing guard while she does all the work.",
-    "translation": "他们只是在<u>她</u>完成所有工作的时候杵在一边看守。",
-    "stage": 3,
+    "translation": "Всё, что они делают, это стоят на охране, пока она делает всю работу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4521\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4523",
     "original": "Aria: I can't believe Orym fell for such a simple trick.",
-    "translation": "Aria: 真不敢相信奥蒙竟然会被这种小把戏骗。",
-    "stage": 3,
+    "translation": "Aria: Не могу поверить, что Орим купился на такой простой трюк.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4523\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4524",
     "original": "Aria: He made me look like an absolute fool.",
-    "translation": "Aria: 他搞得我像个彻头彻尾的蠢货。",
-    "stage": 3,
+    "translation": "Aria: Он выставил меня полной дурочкой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4524\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4525",
     "original": "Celeste: You're not...[p/] actually going to fire him, are you?",
-    "translation": "Celeste: 你不会……[p/]打算要开除他吧？",
-    "stage": 3,
+    "translation": "Celeste: Вы же...[p/] не собираетесь уволить его, да?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4525\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4526",
     "original": "Aria: ...No, I doubt I would.",
-    "translation": "Aria: ……不，不会的。",
-    "stage": 3,
+    "translation": "Aria: ...Нет, не думаю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4526\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4527",
     "original": "Aria: Don't tell him this.[p/] But despite his lack of passion,[p/] he is the most experienced member of the Inquisition.",
-    "translation": "Aria: 偷偷告诉你，[p/]虽然缺乏工作热情，[p/]但他是裁判所里最有调查经验的成员了。",
-    "stage": 3,
+    "translation": "Aria: Только не говорите ему.[p/]Но несмотря на нехватку пылкости,[p/] он самый опытный член Инквизиции.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4527\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4528",
     "original": "Aria: ...He'd be a great asset if he'd just show a little initiative in his work.",
-    "translation": "Aria: ……但凡他能对自己的工作有点积极性，都会是一个非常优秀的助手。",
-    "stage": 3,
+    "translation": "Aria: ...Он был бы прекрасным помощником, если бы хоть немного отдавал отчет в своей работе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4528\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4530",
     "original": "Tyrion: As a mage from a noble house,[p/] you must have gone to school here.",
-    "translation": "Tyrion: 作为一个贵族出身的法师，[p/]你肯定也在这里上过学。",
-    "stage": 3,
+    "translation": "Tyrion: Как и все маги из знатных домов,[p/] ты тоже тут училась.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4530\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4531",
     "original": "Tyrion: Did you know Catherine Bellwether while you were here?",
-    "translation": "Tyrion: 你还在这里的时候认识凯瑟琳·贝尔维瑟吗？",
-    "stage": 3,
+    "translation": "Tyrion: Ты была знакома с Кэтрин Беллвезер, когда училась?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4531\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4532",
     "original": "Aria: Unfortunately, I did.",
-    "translation": "Aria: 很不幸，我认识。",
-    "stage": 3,
+    "translation": "Aria: К сожалению, была.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4532\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4533",
     "original": "Aria: I constantly clashed with her over her treatment of the students.",
-    "translation": "Aria: 我经常因为她对待学生的方式而和她发生冲突。",
-    "stage": 3,
+    "translation": "Aria: Я постоянно боролась с ней насчет травли студентов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4533\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4534",
     "original": "Aria: One of my biggest regrets is failing to remove her from her position before I graduated.",
-    "translation": "Aria: 我最后悔的事情之一，就是没能在我毕业前解除她的职务。",
-    "stage": 3,
+    "translation": "Aria: Aria: Одно из моих больших сожалений - это провал в попытке лишить её своей позиции до выпуска.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4534\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4535",
     "original": "It sounds like [i]many[/i] people didn't get along with the professor...",
-    "translation": "听起来<u>许多</u>人都跟这个教授处得不好……",
-    "stage": 3,
+    "translation": "Звучи так, словно тех, кто не особо уважал профессора, [i]ещё больше[/i]...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4536",
     "original": "Aria: I would say more.[p/] But it doesn't feel right to speak ill of the dead.",
-    "translation": "Aria: 我本来还能接着说，[p/]但说死者的坏话感觉不太好。",
-    "stage": 3,
+    "translation": "Aria: Я бы сказала и больше.[p/] Но не гоже говорить такое о мёртвых.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4538",
     "original": "Aria: I would have never guessed that one of the Ianus twins was a mage.",
-    "translation": "Aria: 我真没想到伊努斯姐妹之一是个法师。",
-    "stage": 3,
+    "translation": "Aria: Я бы никогда не догадалась, что одна из сестёр Янус была магом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4539",
     "original": "Tyrion: I'm just glad I was able to prove it in court.",
-    "translation": "Tyrion: 我很高兴能在法庭上证明这一点。",
-    "stage": 3,
+    "translation": "Tyrion: Я рад, что смог доказать это в суде.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4539\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4540",
     "original": "Aria: It's strange, though.",
-    "translation": "Aria: 但那还是很怪。",
-    "stage": 3,
+    "translation": "Aria: И всё же, это странно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4540\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4541",
     "original": "Aria: Studies say that identical twins share the exact same genetic code.",
-    "translation": "Aria: 研究表明同卵双胞胎共享遗传信息。",
-    "stage": 3,
+    "translation": "Aria: Ученые говорят, что идентичные близнецы целиком разделают общий ген.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4542",
     "original": "Aria: If the gift of magic is hereditary,[p/] why is only [i]one[/i] of the twins a mage?",
-    "translation": "Aria: 如果魔法是遗传性的，[p/]那为什么她们姐妹俩只有<u>一个人</u>是法师？",
-    "stage": 3,
+    "translation": "Aria: И раз дар магии - наследственное,[p/] почему только [i]одна[/i] из близняшек стала магом?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4543",
     "original": "Tyrion: That [i]is[/i] pretty strange...",
-    "translation": "Tyrion: 那<u>确实</u>挺奇怪的……",
-    "stage": 3,
+    "translation": "Tyrion: Это [i]правда[/i] довольно странно...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4543\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4545",
     "original": "Tyrion: What do you think about this, Ms. Steelwind?",
-    "translation": "Tyrion: 你怎么看，斯蒂尔文德女士？",
-    "stage": 3,
+    "translation": "Tyrion: Что вы думаете об этом, Мисс Стилвинд?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4546",
     "original": "Aria: I'm sorry.[p/] But I'm afraid I can't say much about that.",
-    "translation": "Aria: 抱歉。[p/]但我恐怕没什么能说的。",
-    "stage": 3,
+    "translation": "Aria: Прошу прощения.[p/] Боюсь, мне нечего сказать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Present_Library2-4546\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4548",
     "original": "ARIA: Oh.[p/] It’s you, Mr. Cuthbert.",
-    "translation": "ARIA: 哦，[p/]是你，卡斯伯特先生。",
-    "stage": 3,
+    "translation": "ARIA: Ох.[p/] Это вы, Мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4549",
     "original": "TYRION: Steelwind?[p/] What are you doing here?",
-    "translation": "TYRION: 斯蒂尔文德？[p/]你在这儿干嘛？",
-    "stage": 3,
+    "translation": "TYRION: Стилвинд?[p/] Что вы здесь делаете?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4549\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4550",
     "original": "ARIA: After what happened at the trial yesterday,[p/] I decided it would be best to start my investigation here.",
-    "translation": "ARIA: 鉴于昨天庭审发生的事，[p/]我决定最好自己来进行调查。",
-    "stage": 3,
+    "translation": "ARIA: После всего случившегося на вчерашнем суде,[p/] я решила, что лучше всё начать расследование отсюда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4550\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4551",
     "original": "Right.[p/] Wallace [i]was[/i] in the library for the entire morning.",
-    "translation": "没错。[p/]华莱士整个上午都<u>在</u>图书馆。",
-    "stage": 3,
+    "translation": "Верно.[p/] Уоллес [i]был[/i] в библиотеке всё утро.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4551\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4552",
     "original": "So, it would make sense that she’d start her search here.",
-    "translation": "所以，她说要从这里开始调查也不无道理。",
-    "stage": 3,
+    "translation": "Так что, это логично, что она начала поиски здесь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4553",
     "original": "ARIA: Actually,[p/] since I have you here,[p/] have you seen Eris Illmater anywhere?",
-    "translation": "ARIA: 那个，[p/]既然你们在这儿，[p/]我想问问你们见到过厄莉斯·伊尔马特吗？",
-    "stage": 3,
+    "translation": "ARIA: К слову,[p/] раз уж вы здесь,[p/] вы видели где-нибудь Эрис Иллмейтер?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4554",
     "original": "ARIA: It’s my understanding that you're both acquainted with each other.",
-    "translation": "ARIA: 据我所知你们都和她认识。",
-    "stage": 3,
+    "translation": "ARIA: Я так поняла, что вы вдвоём знакомы с ней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4555",
     "original": "TYRION: Eris?[p/] What do you want with her?",
-    "translation": "TYRION: 厄莉斯？[p/]你找她有什么事吗？",
-    "stage": 3,
+    "translation": "TYRION: Эрис?[p/] Тебе от неё что-то нужно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4555\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4556",
     "original": "ARIA: It’s not for anything serious, mind you.",
-    "translation": "ARIA: 倒也不是什么大事。",
-    "stage": 3,
+    "translation": "ARIA: Ничего серьёзного.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4557",
     "original": "ARIA: It’s just that oaf of a commander lost her [b]Spell Compendium[/b].",
-    "translation": "ARIA: 只是那个大傻蛋指挥官把她的[b]法术汇编[/b]弄丢了。",
-    "stage": 3,
+    "translation": "ARIA: Просто это подобие командора потерял её [b]Компендиум Заклинаний[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4557\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4558",
     "original": "ARIA: Now we need her to produce another one for our records.",
-    "translation": "ARIA: 为了调查取证，我们需要她重新绑定一个。",
-    "stage": 3,
+    "translation": "ARIA: И теперь нам нужна она, дабы создать ещё один для отчета.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4559",
     "original": "ARIA: If you see her,[p/] please let her know that we’d like to speak to her.",
-    "translation": "ARIA: 你要是看见她的话，[p/]麻烦转告她，我们正在找她。",
-    "stage": 3,
+    "translation": "ARIA: Если увидите её,[p/] прошу, скажите ей, что мы хотели бы поговорить с ней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4559\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4560",
     "original": "TYRION: We saw her earlier in the cemetery nearby.[p/] But I have no idea where she is now.",
-    "translation": "TYRION: 我们刚才在墓地附近看到她了，[p/]但我不知道她现在去哪了。",
-    "stage": 3,
+    "translation": "TYRION: Мы видели её недавно на кладбище неподалёку.[p/] Но я без понятия, где она сейчас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4560\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4561",
     "original": "ARIA: Ugh…[p/] Once again,[p/] I have to compensate for that idiot’s mistakes…",
-    "translation": "ARIA: 呃啊……[p/]又来了，[p/]我又得收拾那个蠢货的烂摊子。",
-    "stage": 3,
+    "translation": "ARIA: Ух...[p/] И вновь,[p/] я должна исправлять ошибки этого идиота...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4561\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4562",
     "original": "TYRION: …Anyways,[p/] I was wondering if I could ask you some questions about the case.",
-    "translation": "TYRION: ……话说回来，[p/]我能不能问你些关于案件的事？",
-    "stage": 3,
+    "translation": "TYRION: ...В любом случае,[p/] я бы хотел узнать, если бы я могу задать пару вопросов по делу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4563",
     "original": "ARIA: …Very well. I suppose I still need to honor our deal from earlier.",
-    "translation": "ARIA: ……好吧，我想我得好好履行之前的约定。",
-    "stage": 3,
+    "translation": "ARIA: ...Хорошо. Полагаю, наша сделка всё ещё в силе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4563\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4564",
     "original": "ARIA: Oh?[p/] You’re back.",
-    "translation": "ARIA: 哦？[p/]你回来了。",
-    "stage": 3,
+    "translation": "ARIA: Ох?[p/] Вы вернулись.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4564\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4565",
     "original": "TYRION: We’ve uncovered a few things during our investigation.",
-    "translation": "TYRION: 我们调查清楚了一些事。",
-    "stage": 3,
+    "translation": "TYRION: Я обнаружил несколько деталей во время нашего расследования.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4565\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4566",
     "original": "TYRION: Ms. Steelwind…[p/] Are you acquainted with a student named Miriam Frega?",
-    "translation": "TYRION: 斯蒂尔文德女士……[p/]请问你认识一位名叫米莉亚姆·弗雷加的学生吗？",
-    "stage": 3,
+    "translation": "TYRION: Мисс Стилвинд...[p/] Вы знакомы со студенткой по имени Мириам Фрега?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4567",
     "original": "ARIA: … [mind=\"Hmph... I underestimated him...\"/]",
-    "translation": "ARIA: ……[mind=\"唔……是我小看他了……\"/]",
-    "stage": 3,
+    "translation": "ARIA: ... [mind=\"Хмф... Я недооценила его.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4568",
     "original": "ARIA: …I said it before, Mr. Cuthbert. I won’t fall for such an obvious bluff.",
-    "translation": "ARIA: ……我之前说过，卡斯伯特先生，你的虚张声势在我这儿行不通。",
-    "stage": 3,
+    "translation": "ARIA: ...Как я и сказала ранее, Мистер Катберт. Я не попадусь на такой очевидный блеф.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4569",
     "original": "TYRION: It’s not a bluff, Ms. Steelwind.",
-    "translation": "TYRION: 这并非虚张声势，斯蒂尔文德女士。",
-    "stage": 3,
+    "translation": "TYRION: Это не блеф, Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4570",
     "original": "TYRION: And I’ll prove it using the evidence we’ve gathered.",
-    "translation": "TYRION: 我会用我们找到的证据证明这一点。",
-    "stage": 3,
+    "translation": "TYRION: И я докажу это с помощью найденных нами улик.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Check_Events_Library2-4570\",\n  \"keywords\": []\n}"
   },
   {
@@ -29577,22 +29577,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4572",
     "original": "Aria: It doesn't matter how many false claims you make.",
-    "translation": "Aria: 这和你做出多少错误的声明无关。",
-    "stage": 3,
+    "translation": "Aria: Не важно, как много неверных заявлений вы сделаете.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-AriaArgument_Fail-4572\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4573",
     "original": "Aria: I'm under no obligation to share those details with you.",
-    "translation": "Aria: 我没有向你透露这些细节的义务。",
-    "stage": 3,
+    "translation": "Aria: Я не обязана делиться с вами этими деталями с вами.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-AriaArgument_Fail-4573\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4574",
     "original": "Damn it…[p/] She's still not budging...",
-    "translation": "可恶……[p/]她还没改变主意……",
-    "stage": 3,
+    "translation": "Вот чёрт...[p/] Она всё ещё не поддаётся...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-AriaArgument_Fail-4574\",\n  \"keywords\": []\n}"
   },
   {
@@ -29605,190 +29605,190 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4576",
     "original": "Steelwind is paranoid.[p/] And for whatever reason,[p/] it’s due to the involvement of Miriam Frega.",
-    "translation": "斯蒂尔文德在疑神疑鬼。[p/]而且无论原因为何，[p/]一定与米莉亚姆·弗雷加有关。",
-    "stage": 3,
+    "translation": "У Стилвинд явная паранойя.[p/] И по какой-то причине,[p/] это связано с Мириам Фрега.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4577",
     "original": "If you could convince her to reveal why she’s being so secretive,[p/] she might give you more information.",
-    "translation": "若你能说服她坦白如此神经兮兮的原因，[p/]她或许能给你提供更多有用的情报。",
-    "stage": 3,
+    "translation": "Если бы ты мог убедить её рассказать о причине её скрытности,[p/] может, она даст больше информации.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4578",
     "original": "Yes",
-    "translation": "是",
-    "stage": 3,
+    "translation": "Да",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4578\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4579",
     "original": "No",
-    "translation": "否",
-    "stage": 3,
+    "translation": "Нет",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4579\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Confirmation\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4580",
     "original": "Tyrion: You’ve been behaving strangely, Steelwind.",
-    "translation": "Tyrion: 你表现的很怪异，斯蒂尔文德。",
-    "stage": 3,
+    "translation": "Tyrion: В последнее время вы ведёте себя странно, Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4580\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4581",
     "original": "Tyrion: Even the knights of the Inquisition have noticed.",
-    "translation": "Tyrion: 就连裁判所的骑士们都注意到了。",
-    "stage": 3,
+    "translation": "Tyrion: Даже рыцари Инквизиции это заметили.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4581\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4582",
     "original": "Tyrion: Please just tell me…[p/] Why are you being so paranoid?",
-    "translation": "Tyrion: 告诉我吧……[p/]为什么你要这么疑神疑鬼？",
-    "stage": 3,
+    "translation": "Tyrion: Прошу, скажите мне...[p/] С чего у вас такая паранойя?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4582\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4583",
     "original": "ARIA: I’m not sure what you’re trying to imply, Mr. Cuthbert.",
-    "translation": "ARIA: 我不知道你在含沙射影什么，卡斯伯特先生。",
-    "stage": 3,
+    "translation": "ARIA: Я не до конца понимаю, что вы хотите сказать, Мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4583\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4584",
     "original": "ARIA: I’ve approached this case objectively,[p/] just like I have with every other case.",
-    "translation": "ARIA: 我客观地调查此案，[p/]和我对待其他案子的态度一样。",
-    "stage": 3,
+    "translation": "ARIA: Я отношусь к делу объективно,[p/] также, как ко всем другим делам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4584\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4586",
     "original": "TYRION: You’ve ordered the knights to stay away from the crime scene.",
-    "translation": "TYRION: 你命令那些骑士远离犯罪现场。",
-    "stage": 3,
+    "translation": "TYRION: Вы приказали рыцарям оставаться вне сцены преступления.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4587",
     "original": "TYRION: And you’ve even taken it upon yourself to conduct the investigation yourself.",
-    "translation": "TYRION: 然后你一个人接管了整个调查过程。",
-    "stage": 3,
+    "translation": "TYRION: И вы самолично взялись за расследование.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4588",
     "original": "TYRION: That is [i]not[/i] normal behavior for a prosecutor.",
-    "translation": "TYRION: 这可<u>不是</u>作为一名检察官的正常行为。",
-    "stage": 3,
+    "translation": "TYRION: Это [i]ненормальное[/i] поведения для прокурора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4588\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4589",
     "original": "ARIA: I took those actions because the Inquisition is incompetent.",
-    "translation": "ARIA: 我采取这些措施是因为裁判所的无能。",
-    "stage": 3,
+    "translation": "ARIA: Я взялась за это лично из-за некомпетентности Инквизиции.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4590",
     "original": "ARIA: How could I possibly trust them with anything?",
-    "translation": "ARIA: 我怎么可能相信他们？",
-    "stage": 3,
+    "translation": "ARIA: Как я могу вообще что-то им доверить?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4590\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4591",
     "original": "TYRION: The knights [i]are[/i] incompetent,[p/] but even you can see the value of delegation.",
-    "translation": "TYRION: 这些骑士<u>确实</u>无能，[p/]但即便是你也明白权力下放的价值。",
-    "stage": 3,
+    "translation": "TYRION: Может рыцари [i]правда[/i] некомпетентен,[p/] но даже вы понимаете ценность делегирования полномочий.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4591\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4592",
     "original": "TYRION: During Celeste’s case,[p/] you still delegated tasks to the Inquisition.[p/] And you could have easily investigated the McCoy Tavern yourself.",
-    "translation": "TYRION: 在塞莱斯特的案件中，[p/]你会给裁判所分配任务，[p/]但你本来也可以自己调查麦考伊酒馆。",
-    "stage": 3,
+    "translation": "TYRION: Во время дела Селест,[p/] вы раздавали приказы Инквизиции.[p/] И вы могли с лёгкость изучить Таверну МакКоев самостоятельно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4592\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4593",
     "original": "TYRION: This academy is huge.[p/] You wouldn’t conduct your investigation this way unless you had a good reason.",
-    "translation": "TYRION: 学院很大，[p/]除非你有什么难言之隐，否则绝不会自己一人进行调查。",
-    "stage": 3,
+    "translation": "TYRION: Эта академия огромна.[p/] Вы бы не могли проводить расследование самостоятельно, если на то нет хорошей причины.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4594",
     "original": "Aria: ...",
-    "translation": "Aria: ……",
-    "stage": 3,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4596",
     "original": "Aria: ...And what is this supposed to be?",
-    "translation": "Aria: ……这又是什么意思？",
-    "stage": 3,
+    "translation": "Aria: ...И что это такое?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4597",
     "original": "Tyrion: It's clear evidence that your behavior has changed!",
-    "translation": "Tyrion: 是你行为与先前不一的证据！",
-    "stage": 3,
+    "translation": "Tyrion: Это доказательство того, что ваше поведение изменилось!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4598",
     "original": "ARIA: Please.[p/] What kind of fool do you take me for?",
-    "translation": "ARIA: 拜托。[p/]你这是把我当成什么好糊弄的笨蛋了？",
-    "stage": 3,
+    "translation": "ARIA: Прошу вас.[p/] За какого дурака вы меня держите?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4599",
     "original": "ARIA: I’ve already told you.[p/] Your bluffs won’t work on me.",
-    "translation": "ARIA: 我已经和你说过了，[p/]你的虚张声势对我无效。",
-    "stage": 3,
+    "translation": "ARIA: Я уже вам это говорила.[p/] Ваш блеф не сработает.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument2-4599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4600",
     "original": "Aria: Then why don’t you enlighten me?",
-    "translation": "Aria: 那就请你点醒我。",
-    "stage": 3,
+    "translation": "Aria: Тогда почему бы вам не просветить меня?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument3-4600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4601",
     "original": "Aria: What would cause me to behave so \"strangely\"?",
-    "translation": "Aria: 到底是什么难言之隐会让我的行为如此“奇怪”？",
-    "stage": 3,
+    "translation": "Aria: Что именно могло заставить меня действовать \"странно\"?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument3-4601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4603",
     "original": "Tyrion: You know that the Inquisition is corrupt and will bend to the nobility.",
-    "translation": "Tyrion: 你明知裁判所已经腐败至极，且趋附于权贵。",
-    "stage": 3,
+    "translation": "Tyrion: Вы знаете, что Инквизиция продажна и подчиняется знати.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument4-4603\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4604",
     "original": "Tyrion: So, what would happen if a powerful noble were publicly involved in this case?",
-    "translation": "Tyrion: 因此，如果某个声名显赫的贵族被公开发现与此案有关联，那事情会怎么样呢？",
-    "stage": 3,
+    "translation": "Tyrion: А потому, что может произойти, если могущественный аристократ будет публично вовлечен в дело?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument4-4604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4605",
     "original": "Tyrion: With that noble’s influence,[p/] they’d probably order the Inquisition to conceal their involvement.",
-    "translation": "Tyrion: 以那贵族的影响力，[p/]他们或许会命令裁判所隐瞒贵族有所牵连的证据。",
-    "stage": 3,
+    "translation": "Tyrion: Под вилянием знати,[p/] они могут с лёгкость приказать Инквизиции прикрыть их причастность.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument4-4605\",\n  \"keywords\": []\n}"
   },
   {
@@ -29885,8 +29885,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4621",
     "original": "Aria: ...",
-    "translation": "Aria: ……",
-    "stage": 3,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument6-4621\",\n  \"keywords\": []\n}"
   },
   {
