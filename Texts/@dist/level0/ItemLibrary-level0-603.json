@@ -261,9 +261,9 @@
           "Array": [
             {
               "name": "Attorney's Runestone",
-              "displayName": "<line-height=1.6em>律师符石",
+              "displayName": "<line-height=1.6em>Рунный Камень Адвоката",
               "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_57_runecrystal.png",
-              "description": "<line-height=1.6em>一个魔法符石，可以让你拍摄犯罪现场的照片，并且通过心灵感应做笔记。每位律师都有一个，基本等同于他们的徽章。",
+              "description": "<line-height=1.6em>Магический рунный камень, позволяющий делать снимки сцен преступления и делать телепатические записи. Каждый адвокат имеет подобный при себе, словно это их значок.",
               "viewable": "",
               "label": 0,
               "isBattleMap": 0,
@@ -271,9 +271,9 @@
             },
             {
               "name": "Imperial Academy Map",
-              "displayName": "<line-height=1.6em>帝国学院地图",
+              "displayName": "<line-height=1.6em>Карта Императорской Академии",
               "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
-              "description": "<line-height=1.6em>帝国学院的地图。能显示凯瑟琳·贝尔维瑟当日被目击的地点。",
+              "description": "<line-height=1.6em>Карта Императорской Академии. На ней показаны основные области, где была Кэтрин Беллвезер в этот день.",
               "viewable": "Assets/Visuals/Resources/CGs/Case 2/Academy Map.png",
               "label": 5,
               "isBattleMap": 0,
@@ -361,9 +361,9 @@
             },
             {
               "name": "Unattuned Spell Compendium",
-              "displayName": "<line-height=1.6em>尚未绑定的法术汇编",
+              "displayName": "<line-height=1.6em>Ненастроенный Компендиум Заклинаний",
               "iconPath": "Assets/Visuals/Resources/Icons/Quest_39.png",
-              "description": "<line-height=1.6em>一本还没有绑定的法术汇编。如果某位法师随身携带法术汇编超过 10 分钟，法术汇编就会与法师的魔力绑定，展示出他们所能施展的法术。一旦绑定后，法术汇编就无法再与其他法师绑定。",
+              "description": "<line-height=1.6em>Ненастроенный Компендиум Заклинаний. Если маг будет держать этот предмет 10 минут, он настроиться на его магию и покажет заклинания, на который он способен. После первой настройки, никто иной не настроит его.",
               "viewable": "",
               "label": 2,
               "isBattleMap": 0,
@@ -371,9 +371,9 @@
             },
             {
               "name": "Bellwether’s Reputation",
-              "displayName": "<line-height=1.6em>贝尔维瑟的名声",
+              "displayName": "<line-height=1.6em>Репутация Беллвезер",
               "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
-              "description": "<line-height=1.6em>凯瑟琳·贝尔维瑟和学院里几乎所有人关系都不怎么样。她会霸凌、欺负平民出身的学生与工作人员。这几年里，她一直利用自己的职位给贵族之家牟利。",
+              "description": "<line-height=1.6em>Кэтрин Беллвезер заработала напряженную репутацию перед всеми в академии. Есть множество случаев, как она травила студентов из простолюдин и угрожала персоналу академии. На протяжении нескольких лет, она использовала своё положение в поисках расположения знатных домов.",
               "viewable": "",
               "label": 0,
               "isBattleMap": 0,
@@ -381,9 +381,9 @@
             },
             {
               "name": "Wallace's Spell Compendium",
-              "displayName": "<line-height=1.6em>华莱士的法术汇编",
+              "displayName": "<line-height=1.6em>Компендиум Заклинаний Уоллеса",
               "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Wallace.png",
-              "description": "<line-height=1.6em>华莱士·奈特格雷夫的法术汇编。包含了以下法术：魔术戏法、疗愈术、幻象伪装、复活术、活化死尸、以及索命咒。",
+              "description": "Компендиум Заклинаний Уоллеса. Содержит формулы следующих заклинаний: <line-height=1.6em>Фокус-Покус, Излечение Ран, Иллюзорное Прикрытие, Воскрешение, Оживление Трупа и Некротическая Погибель.",
               "viewable": "",
               "label": 2,
               "isBattleMap": 0,
@@ -391,7 +391,7 @@
             },
             {
               "name": "Jan's Statement",
-              "displayName": "<line-height=1.6em>简的证言",
+              "displayName": "<line-height=1.6em>Показания Яна",
               "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Jan.png",
               "description": "<line-height=1.6em>伊努斯双子发现尸体半小时前，贝尔维瑟在走廊西翼与简擦肩而过。贝尔维瑟仿佛觉得简挡路，直接把他推开了。之后，凯瑟琳·贝尔维瑟还打碎了一个花瓶。简虽然什么都没说，但还是被骂“安静！”。之后贝尔维瑟进了 2-B 讲堂。",
               "viewable": "",
