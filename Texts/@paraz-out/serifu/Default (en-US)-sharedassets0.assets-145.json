@@ -29843,7 +29843,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4614",
     "original": "Aria: I’ve said it before, and I’ll say it again.",
-    "translation": "Aria: Я уже это говорило, и скажу вновь.",
+    "translation": "Aria: Я уже это говорила, и скажу вновь.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument5-4614\",\n  \"keywords\": []\n}"
   },
@@ -29927,7 +29927,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4628",
     "original": "Tyrion: If I had to guess,[p/] I’d say that [i]you[/i] took the bloody object as evidence.",
-    "translation": "Tyrion: И если бы мне пришлось гадать,[p/] я бы сказал, что это вы [i]вы[/i] забрали окровавленный предмет.",
+    "translation": "Tyrion: И если бы мне пришлось гадать,[p/] я бы сказал, что это [i]вы[/i] забрали окровавленный предмет.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument7-4628\",\n  \"keywords\": []\n}"
   },
@@ -29969,7 +29969,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4634",
     "original": "Threaten [d=\"If you don’t present what you found to the court, I’ll have no choice but to pull the “owner” of that locker onto the stand.\"/]",
-    "translation": "Threaten [d=\"Если вы не предоставите найденный вами предмет суду, у меня не остаётся выбора, кроме как вызвать \"владельца\" этого шкафчика к стойке.\"/]",
+    "translation": "Threaten [d=\"Если вы не предоставите найденный вами предмет суду, у меня не остаётся выбора, кроме как вызвать “владельца” этого шкафчика к стойке.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument8-4634\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
