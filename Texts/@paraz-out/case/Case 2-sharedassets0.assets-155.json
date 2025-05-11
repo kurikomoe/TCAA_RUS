@@ -380,8 +380,8 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-4-0",
     "original": "Whose locker had the most suspicious evidence?",
-    "translation": "Чей\\u200B шкафчик\\u200B хранит\\u200B наиболее\\u200B подозрительную\\u200B улику?",
-    "stage": 5,
+    "translation": "Чей\\u200B шкафчик\\u200B хранит\\u200B наиболее\\u200B тревожную\\u200B улику?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"AfterLockerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Whose locker had the most suspicious evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -394,8 +394,8 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-8-0",
     "original": "Whose locker had the most suspicious evidence?",
-    "translation": "Чей шкафчик хранит наиболее подозрительную улику?",
-    "stage": 5,
+    "translation": "Чей шкафчик хранит наиболее тревожную улику?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"AfterLockerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Whose locker had the most suspicious evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -548,7 +548,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-32-0",
     "original": "Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.",
-    "translation": "Стилвинд - чересчур логичный человек и не примет аргументы без доказательств. Однако, в последнее время она действует скрытно, и её действия параноидальные./n/n Её сильно раздражают элементы дела, связанные с Мириам Фрегой. И она не позволит вовлечь Фрег в это дело любой ценой.",
+    "translation": "Стилвинд - чересчур логичный человек и не примет аргументы без доказательств. Однако, в последнее время она действует скрытно, и её действия параноидальные./n/nЕё сильно беспокоят элементы дела, связанные с Мириам Фрегой. И она не позволит вовлечь Фрег в это дело любой ценой.",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.\"\n  ],\n  \"keywords\": []\n}"
   },

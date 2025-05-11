@@ -29612,7 +29612,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4577",
     "original": "If you could convince her to reveal why she’s being so secretive,[p/] she might give you more information.",
-    "translation": "Если бы ты мог убедить её рассказать о причине её скрытности,[p/] может, она даст больше информации.",
+    "translation": "Если ты сможешь убедить её рассказать о причине её скрытности,[p/] может, она даст больше информации.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Library2.yarn-Aria_Argument-4577\",\n  \"keywords\": []\n}"
   },
@@ -30193,7 +30193,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4666",
     "original": "Wallace Nightgrave",
-    "translation": "Уоллес Найтгрейв.",
+    "translation": "Уоллес Найтгрейв",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4666\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -30235,7 +30235,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4672",
     "original": "Miriam Frega",
-    "translation": "Мириам Фрега.",
+    "translation": "Мириам Фрега",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4672\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -30424,7 +30424,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4699",
     "original": "Warren Sibyl",
-    "translation": "Варрен Сибил.",
+    "translation": "Варрен Сибил",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4699\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -31551,7 +31551,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4879",
     "original": "Tyrion: There’s only one reason why she wouldn’t utilize the Inquisition like she usually does.",
-    "translation": "Tyrion: И тут только одна причина, почему она не пользуется Инквизиция как обычно.",
+    "translation": "Tyrion: И тут только одна причина, почему она не пользуется Инквизицией как обычно.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce3-4879\",\n  \"keywords\": []\n}"
   },
@@ -31677,7 +31677,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4901",
     "original": "Tyrion: Steelwind doesn’t know much about us.",
-    "translation": "Tyrion: Стилвинд не так много о на знает.",
+    "translation": "Tyrion: Стилвинд не так много о нас знает.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce7-4901\",\n  \"keywords\": []\n}"
   },
@@ -31691,7 +31691,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4903",
     "original": "CELESTE: Right…[p/] You indicted a noble during the last case.",
-    "translation": "CELESTE: Точно...[p/] Ты обвинили аристократа в последнем деле.",
+    "translation": "CELESTE: Точно...[p/] Ты обвинил аристократа в последнем деле.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce7-4903\",\n  \"keywords\": []\n}"
   },
@@ -32132,7 +32132,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4970",
     "original": "Tyrion: It’s possible that she really did steal these items from him.",
-    "translation": "Tyrion: Может быть, она правда украло что-то у него.",
+    "translation": "Tyrion: Может быть, она правда украла что-то у него.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-AfterLockerDeduce3-4970\",\n  \"keywords\": []\n}"
   },
