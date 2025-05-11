@@ -4104,7 +4104,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-655",
     "original": "Tyrion: \"Quirks\"...?",
-    "translation": "Tyrion: \"Причудливы\"...?",
+    "translation": "Tyrion: \"Причудливыми\"...?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-655\",\n  \"keywords\": []\n}"
   },
@@ -6666,7 +6666,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1053",
     "original": "JUDGE: Are you accusing the witness of committing perjury, Mr. Cuthbert?",
-    "translation": "JUDGE: Вы обвиняете свидетеля в дале ложных показаний, Мистер Катберт?",
+    "translation": "JUDGE: Вы обвиняете свидетеля в даче ложных показаний, Мистер Катберт?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-ValObj-1053\",\n  \"keywords\": []\n}"
   },
@@ -6715,7 +6715,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1060",
     "original": "TYRION: Valerie Ianus [i]did[/i] try to save the victim's life by addressing her wounds.",
-    "translation": "TYRION: Валени Янус [i]действительно[/i] пыталась спасти жертву, пытаясь обработать раны.",
+    "translation": "TYRION: Валери Янус [i]действительно[/i] пыталась спасти жертву, пытаясь обработать раны.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-ValObj_1-1060\",\n  \"keywords\": []\n}"
   },
@@ -6827,7 +6827,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1076",
     "original": "Damn it![p/] Were you wrong about Valerie being a mage, then…?",
-    "translation": "Проклятие![p/] Если я ошибся в том, что Валери - ман, то...?",
+    "translation": "Проклятие![p/] Если я ошибся в том, что Валери - маг, то...?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-ValObj_1-1076\",\n  \"keywords\": []\n}"
   },
@@ -7107,7 +7107,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1116",
     "original": "Tyrion: I'm just not sure why they felt the need to lie to the Inquisition.",
-    "translation": "Tyrion: Я просто не понимаю, зачем они могли лгать Инквизиции.",
+    "translation": "Tyrion: Я просто не понимаю, зачем им пришлось лгать Инквизиции.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Test-1116\",\n  \"keywords\": []\n}"
   },
@@ -7506,7 +7506,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1180",
     "original": "Tyrion: \"Quirks\"...?",
-    "translation": "Tyrion: \"Причудливы\"...? ",
+    "translation": "Tyrion: \"Причудливыми\"...?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj-1180\",\n  \"keywords\": []\n}"
   },
@@ -7807,7 +7807,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1225",
     "original": "JUDGE: Bailiff![p/][s/] Escort Valerie Ianus to the stand,[p/] and bring two unattuned [b]Spell Compendiums[/b]!",
-    "translation": "JUDGE: Ghbcnfd![p/][s/] Приведите Валери Янус к стойке,[p/] и запросите два ненастроенных [b]Компендиума Заклинаний[/b]!",
+    "translation": "JUDGE: Пристав![p/][s/] Приведите Валери Янус к стойке,[p/] и запросите два ненастроенных [b]Компендиума Заклинаний[/b]!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_4-1225\",\n  \"keywords\": []\n}"
   },
@@ -8045,7 +8045,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1259",
     "original": "Valerie: My sister and I were walking in the hallway from the kitchen to the foyer.",
-    "translation": "Valerie: Мы с моей сестрой гуляли по коридору от кухни до вестибюль.",
+    "translation": "Valerie: Мы с моей сестрой гуляли по коридору от кухни до вестибюля.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1259\",\n  \"keywords\": []\n}"
   },
@@ -8115,43 +8115,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1269",
     "original": "He clearly doesn’t want to pass a verdict when there’s no clear culprit.",
-    "translation": "在没有找到明确凶手的情况下，法官并不想下达判决。",
-    "stage": 3,
+    "translation": "Он точно не собирается выносить вердикт, пока не будет найден настоящий преступник.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1269\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1270",
     "original": "But he has no choice.[p/] The case against Wallace is predicated on Bellwether being killed by [b]necromancy[/b].",
-    "translation": "但他也没有选择，[p/]对华莱士的指控内容是他用[b]死灵术[/b]杀死了贝尔维瑟。",
-    "stage": 3,
+    "translation": "Но у него нет выбора.[p/] Дело против Уоллеса основано на том, что Беллвезер была убита [b]некромантией[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1270\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1271",
     "original": "With Valerie’s testimony,[p/] the prosecution doesn’t have a shred of evidence implicating him.",
-    "translation": "有了瓦莱丽的证词，[p/]检方没有任何证据表明他有罪。",
-    "stage": 3,
+    "translation": "С показанием Валери,[p/] обвинение потеряла любую возможность обвинять его.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1271\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1272",
     "original": "JUDGE: …",
-    "translation": "JUDGE: ……",
-    "stage": 3,
+    "translation": "JUDGE: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1272\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1273",
     "original": "JUDGE: *sigh*[p/] Very well.[p/] The court sees no reason to prolong this trial.",
-    "translation": "JUDGE: *叹气* [p/]好吧。[p/]看起来本庭也没有理由继续本次审理。",
-    "stage": 3,
+    "translation": "JUDGE: *вздох*[p/] Хорошо.[p/] Суд не видит причин продолжать заседание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1273\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1274",
     "original": "JUDGE: With these new developments,[p/] the court has no choice but to find Wallace Nightgrave not-",
-    "translation": "JUDGE: 依据新发现的事实，[p/]本法庭已经没有其他选择，我们只能判定华莱士·奈特格雷夫没有——",
-    "stage": 3,
+    "translation": "JUDGE: Учитывая все новшества дела,[p/] суд не имеет выбора, кроме как признать Уоллеса Найтгрейва не-",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_6-1274\",\n  \"keywords\": []\n}"
   },
   {
@@ -8311,7 +8311,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1297",
     "original": "ARIA: How could one make a dead body move and walk around?",
-    "translation": "ARIA: Как можно заставить мёртвое тело заставить двигаться и ходить?",
+    "translation": "ARIA: Как можно заставить мёртвое тело двигаться и ходить?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_8-1297\",\n  \"keywords\": []\n}"
   },
@@ -8549,7 +8549,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1331",
     "original": "TYRION: Ah…![p/] What...?",
-    "translation": "TYRION: Ах...![p/] Что...:",
+    "translation": "TYRION: Ах...![p/] Что...?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_10-1331\",\n  \"keywords\": []\n}"
   },
@@ -8598,7 +8598,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1338",
     "original": "TYRION: I don’t think so.[p/] The prosecution’s case is hinged on one clear fact:",
-    "translation": "TYRION: Я не уверен.[p/] Но дело обвинения содержит только дин четкий факт...",
+    "translation": "TYRION: Я не уверен.[p/] Но дело обвинения содержит только один четкий факт...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_11-1338\",\n  \"keywords\": []\n}"
   },
@@ -8808,7 +8808,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-1368",
     "original": "CELESTE: But when I’m near Eris,[p/] none of those creatures come even close.",
-    "translation": "CELESTE: Но когда я рядом с Эрис,[p/] все и ужасы и рядом не стояли.",
+    "translation": "CELESTE: Но когда я рядом с Эрис,[p/] все эти ужасы и рядом не стояли.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Courtroom1.yarn-Val2Obj_12-1368\",\n  \"keywords\": []\n}"
   },
