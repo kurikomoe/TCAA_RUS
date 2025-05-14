@@ -6883,7 +6883,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1050",
     "original": "Orym: That damn noble comes in here,[p/] telling [i]me[/i] how to do [i]my[/i] job?",
-    "translation": "Orym: Эта знатная особо приходит сюда,[p/] рассказывая [i]мне[/i]как делать [i]мою[/i] работу?",
+    "translation": "Orym: Эта знатная особа приходит сюда,[p/] рассказывая [i]мне[/i]как делать [i]мою[/i] работу?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1050\",\n  \"keywords\": []\n}"
   },
@@ -7170,7 +7170,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1096",
     "original": "Orym: That damn noble comes in here,[p/] telling [i]me[/i] how to do [i]my[/i] job?",
-    "translation": "Orym: Эта знатная особо приходит сюда,[p/] рассказывая [i]мне[/i]как делать [i]мою[/i] работу?",
+    "translation": "Orym: Эта знатная особа приходит сюда,[p/] рассказывая [i]мне[/i]как делать [i]мою[/i] работу?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1096\",\n  \"keywords\": []\n}"
   },
@@ -11706,7 +11706,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1778",
     "original": "Orym: Forgery,[p/] bribery,[p/] blackmail.[p/] You name it.",
-    "translation": "Orym: Фабрикация,[p/] подкуп,[p/] шантаж.[p/] И так далее.",
+    "translation": "Orym: Фальсификация,[p/] подкуп,[p/] шантаж.[p/] И так далее.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Argument2-1778\",\n  \"keywords\": []\n}"
   },
@@ -11755,14 +11755,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1785",
     "original": "Rationalize [d=\"“Forgery, bribery, blackmail”? Have you seen me do any of those things? Because all I’ve done so far is point out the mistakes that [i]you’ve[/i] made.\"/]",
-    "translation": "Rationalize [d=\"”Фабрикация, подкуп, шантаж”? Я делал что-то такое на ваших глазах? Потому что я всего-лишь указал на [i]вашу[/i] ошибку.\"/]",
+    "translation": "Rationalize [d=\"”Фальсификация, подкуп, шантаж”? Я делал что-то такое на ваших глазах? Потому что я всего-лишь указал на [i]вашу[/i] ошибку.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution2-1785\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1786",
     "original": "Tyrion: “Forgery,[p/] bribery,[p/] blackmail”?[p/] Have you seen me do [i]any[/i] of those things?",
-    "translation": "Tyrion: \"Фабрикация,[p/] подкуп,[p/] шантаж\"? Я делал что-то такое на ваших глазах?",
+    "translation": "Tyrion: \"Фальсификация,[p/] подкуп,[p/] шантаж\"? Я делал что-то такое на ваших глазах?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution2-1786\",\n  \"keywords\": []\n}"
   },
@@ -11853,7 +11853,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1799",
     "original": "Orym: Anyone taught by that woman can’t be anything more than a crook.",
-    "translation": "Orym: Любой ученик такой девчонки не станет кем-то, кроме подлецом.",
+    "translation": "Orym: Любой ученик такой девчонки не станет кем-то, кроме как подлецом.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Argument3-1799\",\n  \"keywords\": []\n}"
   },
