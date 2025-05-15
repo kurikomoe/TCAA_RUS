@@ -9,8 +9,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-22-0",
     "original": "Which piece of evidence would connect the murder to von Sanctus?",
-    "translation": "Какая\\u200B улика\\u200B могла бы\\u200B соединить\\u200B убийство\\u200B и\\u200B вон Санктуса?",
-    "stage": 5,
+    "translation": "Какая\\u200B улика\\u200B могла бы\\u200B соединить\\u200B убийство\\u200B и\\u200B фон Санктуса?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Which piece of evidence would connect the murder to von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -30,8 +30,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-28-0",
     "original": "Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor",
-    "translation": "Ллойд вон Санктус,Джастин Вей,Стефаник Дракоген,Мосоурика Тюдор",
-    "stage": 5,
+    "translation": "Ллойд фон Санктус,Джастин Вей,Стефаник Дракоген,Мосоурика Тюдор",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
@@ -44,8 +44,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-30-0",
     "original": "Which piece of evidence would connect the murder to von Sanctus?",
-    "translation": "Какая улика могла бы соединить убийство и вон Санктуса?",
-    "stage": 5,
+    "translation": "Какая\\u200B улика\\u200B могла бы\\u200B соединить\\u200B убийство\\u200B и\\u200B фон Санктуса?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Which piece of evidence would connect the murder to von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -163,8 +163,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-13-0",
     "original": "How could von Sanctus easily destroy the evidence?",
-    "translation": "Как\\u200B вон Санктус\\u200B мог\\u200B уничтожить\\u200B улику.",
-    "stage": 5,
+    "translation": "Как\\u200B фон Санктус\\u200B мог\\u200B уничтожить\\u200B улику.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How could von Sanctus easily destroy the evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -191,22 +191,22 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-21-0",
     "original": "of volatile liquid,of Von Sanctus,owned by Dracogen",
-    "translation": "нестабильной жидкости,вон Санктуса, Стефаника Дракогена",
-    "stage": 5,
+    "translation": "нестабильной жидкости,фон Санктуса, Стефаника Дракогена",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"of volatile liquid,of Von Sanctus,owned by Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-22-0",
     "original": "How could von Sanctus easily destroy the evidence?",
-    "translation": "Как вон Санктус мог уничтожить улику.",
-    "stage": 5,
+    "translation": "Как\\u200B фон Санктус\\u200B мог\\u200B уничтожить\\u200B улику.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How could von Sanctus easily destroy the evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-29-0",
     "original": "Why did von Sanctus sabotage the guard rail?",
-    "translation": "Почему\\u200B вон Санктус\\u200B сломал\\u200B поручни?",
-    "stage": 5,
+    "translation": "Почему\\u200B фон Санктус\\u200B сломал\\u200B перегородки?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did von Sanctus sabotage the guard rail?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -240,15 +240,15 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-37-0",
     "original": "Why did von Sanctus sabotage the guard rail?",
-    "translation": "Почему\\u200B вон Санктус\\u200B сломал\\u200B поручни?",
-    "stage": 5,
+    "translation": "Почему\\u200B фон Санктус\\u200B сломал\\u200B перегородки?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why did von Sanctus sabotage the guard rail?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-20-0",
     "original": "What piece of evidence would von Sanctus also dispose of?",
-    "translation": "От\\u200B какой\\u200B улики\\u200B хотел бы\\u200B избавиться\\u200B вон Санктус?",
-    "stage": 5,
+    "translation": "От\\u200B какой\\u200B улики\\u200B хотел бы\\u200B избавиться\\u200B фон Санктус?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What piece of evidence would von Sanctus also dispose of?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -261,8 +261,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-24-0",
     "original": "What piece of evidence would von Sanctus also dispose of?",
-    "translation": "От какой улики хотел бы избавиться вон Санктус?",
-    "stage": 5,
+    "translation": "От\\u200B какой\\u200B улики\\u200B хотел бы\\u200B избавиться\\u200B фон Санктус?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What piece of evidence would von Sanctus also dispose of?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -499,8 +499,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered-0-0",
     "original": "Lloyd von Sanctus",
-    "translation": "Ллойд вон Санктус",
-    "stage": 5,
+    "translation": "Ллойд фон Санктус",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"SanctusCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Lloyd von Sanctus\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
   }
 ]

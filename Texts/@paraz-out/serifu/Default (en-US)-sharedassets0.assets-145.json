@@ -16970,7 +16970,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2620",
     "original": "MIRIAM: [i]This[/i] Construct was a gift from House von Sanctus.",
-    "translation": "MIRIAM: [i]Этот[/i] Конструкт был подарком от Дома вон Санктус.",
+    "translation": "MIRIAM: [i]Этот[/i] Конструкт был подарком от Дома фон Санктус.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Talk_Dorm-2620\",\n  \"keywords\": []\n}"
   },
@@ -17551,7 +17551,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2714",
     "original": "MIRIAM: [i]This[/i] Construct was a gift from House von Sanctus.",
-    "translation": "MIRIAM: [i]Этот[/i] Конструкт был подарком от Дома вон Санктус.",
+    "translation": "MIRIAM: [i]Этот[/i] Конструкт был подарком от Дома фон Санктус.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Dorm.yarn-Present_Dorm-2714\",\n  \"keywords\": []\n}"
   },
@@ -30347,14 +30347,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4688",
     "original": "Jaiden von Sanctus",
-    "translation": "Джейден вон Санктус",
+    "translation": "Джейден фон Санктус",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4688\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4689",
     "original": "You open Jaiden von Sanctus’ locker.",
-    "translation": "Ты открываешь шкафчик Джейдена вон Санктуса.",
+    "translation": "Ты открываешь шкафчик Джейдена фон Санктуса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-Examine_Lockers-4689\",\n  \"keywords\": []\n}"
   },
@@ -31873,7 +31873,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4931",
     "original": "TYRION: If I recall correctly,[p/] the Four Pillars are House Frega,[p/] House von Sanctus,[p/] House Sibyl,[p/] and House Steelwind.",
-    "translation": "TYRION: Если я не ошибаюсь,[p/] Четыре Столпа - это Дом Фрега,[p/] Дом вон Санктус,[p/] Дом Сибил[p/] и дом Стилвинд.",
+    "translation": "TYRION: Если я не ошибаюсь,[p/] Четыре Столпа - это Дом Фрега,[p/] Дом фон Санктус,[p/] Дом Сибил[p/] и дом Стилвинд.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Lockers.yarn-LockerDeduce10-4931\",\n  \"keywords\": []\n}"
   },
