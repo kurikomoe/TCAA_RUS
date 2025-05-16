@@ -12784,7 +12784,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1965",
     "original": "Tyrion: It's a power box.[p/] It contains artificery hardware and an arcane power cell.",
-    "translation": "Tyrion: Это юлок питания.[p/] Содержит артифное оборудование и арканический генератор.",
+    "translation": "Tyrion: Это блок питания.[p/] Содержит артифное оборудование и арканический генератор.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Examine_Factory-1965\",\n  \"keywords\": []\n}"
   },
@@ -14100,204 +14100,204 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2170",
     "original": "Tyrion: It's the walkway that Justin fell from.",
-    "translation": "Tyrion: 这就是贾斯汀跌落的走道。",
-    "stage": 3,
+    "translation": "Tyrion: Это пути, с которых упал Джастин.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2170\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2171",
     "original": "Tyrion: According to Dracogen,[p/] this walkway also leads to his office.",
-    "translation": "Tyrion: 据德拉科根所说，[p/]这条走道还通往他的办公室。",
-    "stage": 3,
+    "translation": "Tyrion: По словам Дракогена,[p/] этот путь ведёт к его кабинету.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2171\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2173",
     "original": "Tyrion: A set of stairs lead up to the walkway that Justin fell from.",
-    "translation": "Tyrion: 这段楼梯通往贾斯汀掉下去的走道。",
-    "stage": 3,
+    "translation": "Tyrion: Металлические лестницы ведут на путь, с которых упал Джастин.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2173\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2174",
     "original": "Tyrion: Rika supposedly saw Justin here on the night of the accident.",
-    "translation": "Tyrion: 里卡作证说，事故发生当晚看到贾斯汀在这里。",
-    "stage": 3,
+    "translation": "Tyrion: Как оказалось, Рика видела Джастина здесь в ночь инцидента.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2174\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2176",
     "original": "Tyrion: The chemicals in these vats are infused with extremely volatile magic.",
-    "translation": "Tyrion: 这些桶里的化学品含有腐蚀性极强的魔法。",
-    "stage": 3,
+    "translation": "Tyrion: Химикаты в чанах, переполненные чрезвычайно неустойчивой магией.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2176\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2177",
     "original": "Tyrion: ...This magic is volatile enough to dissolve at least one human body.",
-    "translation": "Tyrion: ……这种魔法腐蚀性强到足以溶解一具尸体。",
-    "stage": 3,
+    "translation": "Tyrion: ...Достаточно неустойчивой для растворения одно человеческого тела.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2177\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2178",
     "original": "They might have even dissolved [i]two[/i] bodies.",
-    "translation": "甚至可能已经溶解了<u>两具</u>尸体。",
-    "stage": 3,
+    "translation": "Возможно, даже [i]двух[/i] тел.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2178\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2180",
     "original": "Tyrion: It's a power box with artificery hardware inside of it.",
-    "translation": "Tyrion: 一个装有奥术能源硬件的动力箱。",
-    "stage": 3,
+    "translation": "Tyrion: Блок питания с артифным оборудованием внутри.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2180\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2181",
     "original": "Tyrion: Apparently,[p/] it controls the power to the various machines in the refinery.",
-    "translation": "Tyrion: 看起来，[p/]它控制着精炼厂各种机器的动力。",
-    "stage": 3,
+    "translation": "Tyrion: Похоже,[p/] это контролирует энергопотребление некоторых машин на фабрике.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2181\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2183",
     "original": "Celeste: There are traces of [b]transmutation[/b] magic on this power box.",
-    "translation": "Celeste: 这个动力箱上有[b]形变术[/b]魔法的痕迹。",
-    "stage": 3,
+    "translation": "Celeste: Тут следы магии [b]трансмутации[/b] на блоках питания.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2183\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2184",
     "original": "Tyrion: Now that we know that someone sabotaged the guard rail...[p/] I'm a little suspicious of every trace of magic here.",
-    "translation": "Tyrion: 知道有人对护栏动了手脚之后……[p/]这里的每一处魔法痕迹都让我有点怀疑。",
-    "stage": 3,
+    "translation": "Tyrion: Учитывая, что теперь мы знаем, что кто-то саботировал перегородки...[p/] Меня слегка смущают почти все такие следы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2184\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2185",
     "original": "Tyrion: But this [i]is[/i] an artificery device,[p/] so a trace of magic on it is to be expected.",
-    "translation": "Tyrion: 但这<u>是</u>一个奥术能源装置，[p/]上面有魔法痕迹也很正常。",
-    "stage": 3,
+    "translation": "Tyrion: Но это [i]всё-таки[/i] артифное устройство,[p/] так что ожидаемо, что на них есть магия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2185\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2187",
     "original": "Celeste: There are traces of [b]transmutation[/b] magic on these parts of the vat.",
-    "translation": "Celeste: 桶的这些部位有[b]形变术[/b]魔法的痕迹。",
-    "stage": 3,
+    "translation": "Celeste: Следы магии [b]трансмутации[/b] на некоторых элементах чанов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2187\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2188",
     "original": "You take a closer look at the part of the vat that the traces are on.",
-    "translation": "你仔细看了看有痕迹的部位。",
-    "stage": 3,
+    "translation": "Ты внимательнее рассматриваешь часть чана, где есть следы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2188\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2189",
     "original": "Sure enough,[p/] there are small flecks of rust on them.",
-    "translation": "果然，[p/]上面有小片的锈迹。",
-    "stage": 3,
+    "translation": "Ну конечно,[p/] тут есть небольшие следы ржавчины.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2189\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2190",
     "original": "Was someone trying to sabotage parts of the refinery?",
-    "translation": "是因为有人试图破坏精炼厂的部分设施吗？",
-    "stage": 3,
+    "translation": "Кто-то пытался саботировать всю фабрику?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2190\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2191",
     "original": "Tyrion: Now that we know that someone sabotaged the guard rail...[p/] I'm a little suspicious of every trace of magic here.",
-    "translation": "Tyrion: 知道有人对护栏动了手脚之后……[p/]这里的每一处魔法痕迹都让我有点怀疑。",
-    "stage": 3,
+    "translation": "Tyrion: Учитывая, что теперь мы знаем, что кто-то саботировал перегородки...[p/] Меня слегка смущают почти все такие следы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2191\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2192",
     "original": "Tyrion: But this refines magical materials,[p/] so a trace of magic on it is to be expected.",
-    "translation": "Tyrion: 但这个装置是用于提炼魔法材料的，[p/]上面有魔法痕迹也很正常。",
-    "stage": 3,
+    "translation": "Tyrion: Но это место очистки магических материалов,[p/] так что ожидаемо, что тут есть следы магии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2192\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2193",
     "original": "But the shape of the trace is strange, isn't it?",
-    "translation": "但痕迹的形状很奇怪，不是吗？",
-    "stage": 3,
+    "translation": "Но эта форма странная, не так ли?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Examine_Factory2-2193\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2196",
     "original": "Stefanic: I'm quite pleased with your work during the trial.",
-    "translation": "Stefanic: 你在审理过程中的表现让我很满意。",
-    "stage": 3,
+    "translation": "Stefanic: Я весьма благодарен за вашу работу на суде.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2196\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2197",
     "original": "Stefanic: I'm glad I put my trust in you.",
-    "translation": "Stefanic: 很高兴我选择信任你。",
-    "stage": 3,
+    "translation": "Stefanic: Рад, что смог довериться вам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2197\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2198",
     "original": "Tyrion: Thank you...[p/] But we're still a [i]long[/i] way from getting your case dismissed.",
-    "translation": "Tyrion: 谢谢……[p/]但我们距离撤销指控还有<u>很长</u>的路要走。",
-    "stage": 3,
+    "translation": "Tyrion: Спасибо...[p/] Но мы всё ещё в [i]дали[/i] от закрытия этого дела.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2198\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2199",
     "original": "Tyrion: And showing the possibility of a murder definitely made things much more complicated...",
-    "translation": "Tyrion: 谋杀可能性的出现肯定让事情更加复杂了……",
-    "stage": 3,
+    "translation": "Tyrion: И признаки, указывающие на возможное убийство, делают всё только сложнее...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2199\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2200",
     "original": "Stefanic: I see no reason to blame yourself.[p/] You merely played the cards that you were dealt.",
-    "translation": "Stefanic: 没必要自责，[p/]你只是打出了自己手里的牌。",
-    "stage": 3,
+    "translation": "Stefanic: Не вижу причин винить себя.[p/] Вы сыграли картами, которые вы получили.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2200\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2201",
     "original": "Stefanic: Honestly,[p/] I'm [i]still[/i] trying to make sense of what happened.",
-    "translation": "Stefanic: 说实话，[p/]我<u>还在</u>努力弄明白发生了什么。",
-    "stage": 3,
+    "translation": "Stefanic: Честно,[p/] я сам [i]всё ещё[/i] пытаюсь склеить все события.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2201\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2202",
     "original": "Celeste: Do you have any idea who the second victim might be?",
-    "translation": "Celeste: 你知道第二个受害者可能是谁吗？",
-    "stage": 3,
+    "translation": "Celeste: У вас есть идеи, кто мог быть второй жертвой?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2202\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2203",
     "original": "Stefanic: I have no idea.",
-    "translation": "Stefanic: 我一点头绪都没有。",
-    "stage": 3,
+    "translation": "Stefanic: Без понятия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2203\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2204",
     "original": "Stefanic: But all of my other employees are accounted for.[p/] I doubt that it was anyone who worked for me.",
-    "translation": "Stefanic: 但我手下的其他员工都联系到了。[p/]我不觉得会是其中之一遇害。",
-    "stage": 3,
+    "translation": "Stefanic: Но все остальные мои рабочие сообщили о себе.[p/] Я сомневаюсь, что это был кто-то из них.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2204\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2205",
     "original": "But then who was it?",
-    "translation": "那会是谁呢？",
-    "stage": 3,
+    "translation": "Но тогда кто это был?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2205\",\n  \"keywords\": []\n}"
   },
   {
@@ -14310,148 +14310,148 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2207",
     "original": "Stefanic: To be perfectly honest,[p/] I'm a little concerned with how many unauthorized people were there that day.",
-    "translation": "Stefanic: 老实说，[p/]那天未经许可进入精炼厂的人多到让我不安。",
-    "stage": 3,
+    "translation": "Stefanic: Если бы полностью откровенным,[p/] я несколько обеспокоен тем, как же много посторонних было здесь в тот день.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2207\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2208",
     "original": "He has a point.[p/] It seems strange that Justin, Rika, [i]and[/i] Morrison were all there.",
-    "translation": "他说得有道理。[p/]贾斯汀、里卡<u>和</u>莫里森都在那里，这确实有点奇怪。",
-    "stage": 3,
+    "translation": "Тут он прав.[p/] Всё это странно, что Джастин, Рика [i]и[/i] Моррисон были здесь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2208\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2210",
     "original": "Tyrion: Dracogen.[p/] We spoke with the Inquisition about what they found in the vat.",
-    "translation": "Tyrion: 德拉科根，[p/]我们向裁判所问了桶里的遗留物。",
-    "stage": 3,
+    "translation": "Tyrion: Дракоген.[p/] Мы поговорили с Инквизицией о том, что было найдено в чане.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2210\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2211",
     "original": "Tyrion: And they could only find bone matter belonging to Justin.",
-    "translation": "Tyrion: 他们在里面找到的碎骨都是贾斯汀的。",
-    "stage": 3,
+    "translation": "Tyrion: И они смогли найти только остатки костей Джастина.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2211\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2212",
     "original": "Tyrion: Well [i]that[/i],[p/] and several metallic shards.",
-    "translation": "Tyrion: 除<u>此</u>之外，[p/]还有一些金属碎片。",
-    "stage": 3,
+    "translation": "Tyrion: Ну, [i]это[/i],[p/] и ещё несколько металлических осколков.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2212\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2213",
     "original": "Stefanic: ...What?[p/] That can't be right...",
-    "translation": "Stefanic: ……什么？[p/]这不可能……",
-    "stage": 3,
+    "translation": "Stefanic: ...Чего?[p/] Не может быть...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2213\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2214",
     "original": "Tyrion: I know...[p/] I was hoping to find some hard evidence to prove my theory.",
-    "translation": "Tyrion: 我知道……[p/]我本来也希望能有确凿证据证明我的理论。",
-    "stage": 3,
+    "translation": "Tyrion: Знаю...[p/] Я сам надеялся найти что-то более убедительное для моей теории.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2214\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2215",
     "original": "Tyrion: I'll have to find another approach to prove it.",
-    "translation": "Tyrion: 现在我得找其他方法了。",
-    "stage": 3,
+    "translation": "Tyrion: Я найду другой путь, дабы доказать её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2215\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2216",
     "original": "Stefanic: No.[p/] That's not what I meant.",
-    "translation": "Stefanic: 不。[p/]我不是这个意思。",
-    "stage": 3,
+    "translation": "Stefanic: Нет.[p/] Я не об этом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2216\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2217",
     "original": "Stefanic: There shouldn't be [i]any[/i] solid matter in those vats.",
-    "translation": "Stefanic: 桶里面不应该有<u>任何</u>固体物质。",
-    "stage": 3,
+    "translation": "Stefanic: В этих чана вообще не должно быть [i]какого-либо[/i] твёрдого вещества.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2217\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2218",
     "original": "Tyrion: Are you talking about the metallic shards?[p/] I just assumed that those were some kind of magical by-product.",
-    "translation": "Tyrion: 你是在说那些金属碎片吗？[p/]我本以为那些是某种魔法副产品。",
-    "stage": 3,
+    "translation": "Tyrion: Вы о металлических осколках?[p/] Я предполагал, что это какой-то результат магии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2218\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2219",
     "original": "Stefanic: No.[p/] The refinement process requires that everything in that vat remains a liquid.",
-    "translation": "Stefanic: 不是。[p/]提炼过程要求桶里的所有东西都保持液态。",
-    "stage": 3,
+    "translation": "Stefanic: Нет.[p/] Процесс очистки требует, чтобы в чане была только жидкость.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2219\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2220",
     "original": "Stefanic: Solid matter would absorb the liquid's magical properties and taint the entire batch.",
-    "translation": "Stefanic: 固体物质会吸收液体的魔法特性，污染整批产品。",
-    "stage": 3,
+    "translation": "Stefanic: Твёрдое вещество могло поглотить магию жидкости и забраковать всю партию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2220\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2221",
     "original": "Celeste: So those metal shards weren't [i]supposed[/i] to be in there.",
-    "translation": "Celeste: 那些金属碎片根本不<u>应该</u>出现。",
-    "stage": 3,
+    "translation": "Celeste: Значит эти металлические осколки [i]не должно были быть[/i] там.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2221\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2222",
     "original": "Celeste: Do you think they came from the broken pieces of the railing?",
-    "translation": "Celeste: 这些会不会是护栏的碎片？",
-    "stage": 3,
+    "translation": "Celeste: Думаете, они оказались там из-за сломанных частей огорождения?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2222\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2223",
     "original": "Tyrion: Possibly...[p/] We'll probably want to double-check with the commander to make sure.",
-    "translation": "Tyrion: 有可能……[p/]我们最好再和指挥官确认一下。",
-    "stage": 3,
+    "translation": "Tyrion: Возможно...[p/] Нам стоит ещё раз убедиться в этом с командором.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2223\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2224",
     "original": "...But this is definitely strange.",
-    "translation": "……但这确实很奇怪。",
-    "stage": 3,
+    "translation": "...Но это очень странно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2224\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2225",
     "original": "You'll need to take a moment to work through all of this.",
-    "translation": "你需要花点时间梳理这些事情。",
-    "stage": 3,
+    "translation": "Тебе нужно уделить немного времени, дабы изучить всё это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2225\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2228",
     "original": "Tyrion: Would you happen to know anything about the blockade surrounding the city?",
-    "translation": "Tyrion: 你知道什么封城的情况吗？",
-    "stage": 3,
+    "translation": "Tyrion: Вы, случайно, не в курсе о причинах блокады этого города?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Present_Factory2-2228\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2229",
     "original": "Stefanic: I know that the Kingsguard is involved,[p/] but that's about all I know.",
-    "translation": "Stefanic: 我知道国王卫队介入了，[p/]但我就只知道这么点。",
-    "stage": 3,
+    "translation": "Stefanic: Я знаю, что в этом замешана Королевская Гвардия,[p/] но не более.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Present_Factory2-2229\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2230",
     "original": "Stefanic: I [i]am[/i] a bit curious as to what's caused such a stir.",
-    "translation": "Stefanic: 我<u>确实</u>有点好奇是什么引起了这么大骚动。",
-    "stage": 3,
+    "translation": "Stefanic: Я [i]сам[/i] несколько заинтересован в причине тряски.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Present_Factory2-2230\",\n  \"keywords\": []\n}"
   },
   {
