@@ -177,7 +177,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-0",
     "original": "Presenting During Arguments",
-    "translation": "Представление Во Время Прений",
+    "translation": "Представление во время прений",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Merchant_Present\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\",\n    \"Presenting During Arguments\",\n    \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -185,7 +185,7 @@
     "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-1",
     "original": "For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.",
     "translation": "Для определённых УТВЕРЖДЕНИЙ, вам необходимо ПРЕДСТАВИТЬ улику для опровержения./n/nДля продолжения, ПРЕДСТАВЬТЕ улику, которая противоречит УТВЕРЖДЕНИЮ оппонента.",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"node_name\": \"Merchant_Present\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\",\n    \"Presenting During Arguments\",\n    \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -359,7 +359,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-TownIntroScene4-12-1",
     "original": "Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.",
-    "translation": "Тирион делает ментальные записи о важных уликах, которые он находит. Эти ЗАПИСИ - ваш инструмент для разгадки тайны и продолжения игры. Вы можете проверять ЗАПИСИ в любой момент с помощью кнопки меню слева-сверху на экране.",
+    "translation": "Тирион делает ментальные записи о важных уликах, которые он находит. Эти ЗАПИСИ - ваш инструмент для разгадки тайн и продолжения игры. Вы можете проверять ЗАПИСИ в любой момент с помощью кнопки меню слева-сверху на экране.",
     "stage": 5,
     "context": "{\n  \"node_name\": \"TownIntroScene4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\",\n    \"Notes\",\n    \"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -429,7 +429,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-1-0",
     "original": "Heh… I usually only sell this stuff for 5sp a flask.",
-    "translation": "Хах... Обычно я продают это по 5 серебра за флакон.",
+    "translation": "Хах... Обычно я продаю по 5 серебра за фляжку.",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Merchant_Interpret\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"Heh… I usually only sell this stuff for 5sp a flask.\",\n    \"\"\n  ],\n  \"keywords\": []\n}"
   },
