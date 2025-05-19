@@ -10656,7 +10656,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1624",
     "original": "Rhys: I was transporting a client in my carriage that evening.",
-    "translation": "Rhys: Я перевозил своего клиента в своей карете в этот вечер.",
+    "translation": "Rhys: Вечером того дня я перевозил клиента в своей карете",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TeaserScene-1624\",\n  \"keywords\": []\n}"
   },
@@ -10698,7 +10698,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1630",
     "original": "Tyrion Cuthbert: Mr. Rudolf.[p/] You testified that you saw my client [i]murdering[/i] the victim.",
-    "translation": "Tyrion Cuthbert: Мистер Рудольф.[p/] Вы заявляете, что видели, как мой клиент [i]убивал[/i] жертву.",
+    "translation": "Tyrion Cuthbert: Мистер Рудольф.[p/] Вы заявляете, что видели, как мой клиент [i]убивает[/i] жертву.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TeaserScene-1630\",\n  \"keywords\": []\n}"
   },
@@ -10761,14 +10761,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1639",
     "original": "Aria Steelwind: Are you accusing the witness of perjury?",
-    "translation": "Aria Steelwind: Вы обвиняете свидетеля в лжесвидетельстве?",
+    "translation": "Aria Steelwind: Вы обвиняете свидетеля в даче ложных показаний?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TeaserScene2-1639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1640",
     "original": "Aria Steelwind: Surely you know that such accusations can't be made lightly, Mr. Cuthbert.",
-    "translation": "Aria Steelwind: Уверена вы знаете, что такие обвинения не делаются без оснований, Мистер Катберт.",
+    "translation": "Aria Steelwind: Уверена вы знаете, что такие обвинения не делаются без оснований, мистер Катберт.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TeaserScene2-1640\",\n  \"keywords\": []\n}"
   },
@@ -10810,7 +10810,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1646",
     "original": "But you have to wonder sometimes...[p/] Are these ideals truly \"just\"?",
-    "translation": "Но иногда ты задумываешь...[p/] Действительно ли эти идеалы \"праведны\"?",
+    "translation": "Но иногда ты задумываешься...[p/] Действительно ли эти идеалы \"праведны\"?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TeaserScene2-1646\",\n  \"keywords\": []\n}"
   },
@@ -10894,7 +10894,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1658",
     "original": "Garrick: Alert the town guard.[p/] Tell them that you saw his daughter fleeing the scene.",
-    "translation": "Garrick: Сообщи об этом караулу.[p/] Скажи им, что ты видел как его дочь уходила отсюда.",
+    "translation": "Garrick: Сообщи об этом караулу.[p/] Скажи им, что ты видел, как его дочь уходила отсюда.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-IntroScene-1658\",\n  \"keywords\": []\n}"
   },
@@ -10971,21 +10971,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1669",
     "original": "Tyrion Cuthbert: D-[p/][s/]Don’t worry about me, Ms. Tymora![p/][s/] I’m fine!",
-    "translation": "Tyrion Cuthbert: Н-[p/][s/]Не беспокойтесь, Мисс Тимора![p/][s/] Я в порядке!",
+    "translation": "Tyrion Cuthbert: Н-[p/][s/]Не беспокойтесь, мисс Тимора![p/][s/] Я в порядке!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene-1669\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1670",
     "original": "You’ve been riding in this carriage for [i]days[/i].[p/] You are definitely [i]not[/i] fine.",
-    "translation": "Ты провёл в это поездке [i]насколько дней[/i].[p/] Ты точно [i]не[/i] в порядке.",
+    "translation": "Ты провёл в этой поездке [i]несколько дней[/i].[p/] Ты точно [i]не[/i] в порядке.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene-1670\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1671",
     "original": "With each bump in the road,[p/] you feel yourself becoming more and more nauseous.",
-    "translation": "С каждой ямой на дороге,[p/] тебя всё сильнее укачивает.",
+    "translation": "С каждой ямой на дороге тебя всё сильнее укачивает.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene-1671\",\n  \"keywords\": []\n}"
   },
@@ -11083,7 +11083,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1685",
     "original": "Tyrion Cuthbert:  I suppose they don’t get a lot of traffic here.",
-    "translation": "Tyrion Cuthbert:  Полагаю тут мало, кто проезжает.",
+    "translation": "Tyrion Cuthbert:  Полагаю, тут мало, кто проезжает.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene2-1685\",\n  \"keywords\": []\n}"
   },
@@ -11104,21 +11104,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1688",
     "original": "Supposedly,[p/] he’s been a voice of dissidence against King Olivier for the last few decades.",
-    "translation": "Предполагается,[p/] он был причастен к бунтам против Короля Оливера за последние несколько десятилетий.",
+    "translation": "Предполагается,[p/] что он был причастен к бунтам против Короля Оливера за последние несколько десятилетий.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene3-1688\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1689",
     "original": "You have no idea what kind of business Ms. Tymora would have with him.",
-    "translation": "Ты без понятия, какие дела у Мисс Тиморы могут быть с ним.",
+    "translation": "Ты без понятия, какие дела у мисс Тиморы могут быть с ним.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene3-1689\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1690",
     "original": "...But you know better than to ask questions about her affairs.",
-    "translation": "...Но ты прекрасно знаешь, что не стоит расспрашивать о её работе.",
+    "translation": "...Но ты прекрасно знаешь, что не стоит расспрашивать её о работе.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene3-1690\",\n  \"keywords\": []\n}"
   },
@@ -11146,7 +11146,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1694",
     "original": "Merchant: Would a pair of [p/][i]dignified[/i] individuals such as yourselves care for a refreshing drink? [mind=\"Hmph… Those clothes. They must be from the city.\"/]",
-    "translation": "Merchant: Не желает ли парочка[p/] [i]достопочтенных[/i] личностей, вроде вас, купить бодрящий напиток? [mind=\"Хмф... Эта одежда... Вероятно, они из города.\"/]",
+    "translation": "Merchant: Не желает ли парочка столь[p/] [i]достопочтенных[/i] личностей, вроде вас, купить бодрящий напиток? [mind=\"Хмф... Эта одежда... Вероятно, они из города.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene3-1694\",\n  \"keywords\": []\n}"
   },
@@ -11188,7 +11188,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1700",
     "original": "But the merchant’s expression doesn’t betray a hint of what he’s truly thinking.",
-    "translation": "Однако выражение лица торговца не выдаёт и намёка на его настоящие мысли.",
+    "translation": "Однако, выражение лица торговца не выдаёт и намёка на его настоящие мысли.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Intro.yarn-TownIntroScene3-1700\",\n  \"keywords\": []\n}"
   },
@@ -15549,7 +15549,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2352",
     "original": "Rhys: I was transporting a client in my carriage that evening.",
-    "translation": "Rhys: Я перевозил своего клиента в своей карете в этот вечер.",
+    "translation": "Rhys: Вечером того дня я перевозил клиента в своей карете",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Testimony_Rhys-2352\",\n  \"keywords\": []\n}"
   },
@@ -19812,7 +19812,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2371",
     "original": "Rhys: I was transporting a client in my carriage that evening.",
-    "translation": "Rhys: Я перевозил своего клиента в своей карете в этот вечер.",
+    "translation": "Rhys: Вечером того дня я перевозил клиента в своей карете",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Trial 2 Intro.yarn-Cross-Examination_Rhys-2371\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
