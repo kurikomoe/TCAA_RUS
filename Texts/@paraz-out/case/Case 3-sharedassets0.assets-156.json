@@ -23,8 +23,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-27-0",
     "original": "that,that,that",
-    "translation": "который,который,которые",
-    "stage": 5,
+    "translation": "на который,который,которые",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"that,that,that\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
@@ -37,8 +37,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-29-0",
     "original": "attuned to,broke,stole,fell into",
-    "translation": "соеденил,сломал,украл,бросил в него",
-    "stage": 5,
+    "translation": "настроился,сломал,украл,бросил в него",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"attuned to,broke,stole,fell into\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
@@ -464,8 +464,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-10-0",
     "original": "the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen",
-    "translation": "поручней,химического чана,перехода,Джастина Вейя,Стефаника Дракогена",
-    "stage": 5,
+    "translation": "ограждения,химического чана,перехода,Джастина Вейя,Стефаника Дракогена",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {

@@ -28478,36 +28478,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-880",
     "original": "Player: Tyrion Cuthbert",
-    "translation": "Player: 提利昂·卡斯伯特",
-    "stage": 3,
+    "translation": "Player: Тирион Катберт",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-880\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-895",
     "original": "Player: Rika's Café",
-    "translation": "Player: 里卡的咖啡馆",
-    "stage": 3,
+    "translation": "Player: Кафе Рики",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-895\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-912",
     "original": "Player: Aurinax City",
-    "translation": "Player: 欧奥耐克斯城",
-    "stage": 3,
+    "translation": "Player: Город Ауринакс",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-912\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-926",
     "original": "Player: The Chess Tournament",
-    "translation": "Player: 国际象棋比赛",
-    "stage": 3,
+    "translation": "Player: Шахматный турнир.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-926\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-944",
     "original": "Player: The \"Thing\"",
-    "translation": "Player: “那个东西”",
-    "stage": 3,
+    "translation": "Player: \"Это\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/CafeIntro.yarn-Talk_CafeIntro-944\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28576,8 +28576,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1067",
     "original": "Player: Back",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: Назад",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Case3Main.yarn-Move-1067\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Move\",\n      \"指令\": \"\"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28611,8 +28611,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1739",
     "original": "Player: The object that Lloyd von Sanctus attuned to",
-    "translation": "Player: 与 洛伊德·冯·桑克图斯 绑定的 物体",
-    "stage": 3,
+    "translation": "Player: Объект на который Ллойд фон Санктус настроился",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce-1739\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Last_Deduce\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-26-0\",\n          \"The object,The Rod of Mending,The vat,The guard rail\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-27-0\",\n          \"that,that,that\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-28-0\",\n          \"Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-29-0\",\n          \"attuned to,broke,stole,fell into\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28625,8 +28625,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1761",
     "original": "Player: The evidence was thrown into the vat of volatile liquid",
-    "translation": "Player: 证据 被扔进 装有腐蚀性液体的 桶里",
-    "stage": 3,
+    "translation": "Player: Улика была брошена в чан нестабильной жидкости",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce3-1761\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Last_Deduce3\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce2-18-0\",\n          \"The evidence,Justin Waye,The Rod of Mending,The guard rail\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce2-19-0\",\n          \"was thrown,was hidden,was stolen,was taken back\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce2-20-0\",\n          \"into the vat,to the Manor,from the Refinery\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce2-21-0\",\n          \"of volatile liquid,of Von Sanctus,owned by Dracogen\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28639,8 +28639,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1784",
     "original": "Player: The Arcane Construct",
-    "translation": "Player: 奥术构造体",
-    "stage": 3,
+    "translation": "Player: Конструкт Арканы",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce5-1784\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Last_Deduce5\",\n      \"指令\": \"\"\n    },\n    \"疑似物品： Arcane Construct\",\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce4-23-0\",\n          \"The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28653,8 +28653,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1815",
     "original": "Player: Von Sanctus wanted Justin's death to look like an accident",
-    "translation": "Player: 冯·桑克图斯想让 贾斯汀之死 看起来像 一起事故",
-    "stage": 3,
+    "translation": "Player: Вон Санктус хотел скрыть смерть Джастина под несчастный случай",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce7-1815\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: Last_Deduce7\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce6-33-0\",\n          \"Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce6-34-0\",\n          \"Justin's death,The broken guard rail,The sabotage,The Construct\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce6-35-0\",\n          \"to look like,to be hidden from,to send a message to\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-Last_Deduce6-36-0\",\n          \"an accident,nothing,The Inquisition,Stefanic Dracogen\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28667,64 +28667,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1975",
     "original": "Player: The Accident",
-    "translation": "Player: 事故",
-    "stage": 3,
+    "translation": "Player: Инцидент",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-1975\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1990",
     "original": "Player: The Victim",
-    "translation": "Player: 受害者",
-    "stage": 3,
+    "translation": "Player: Жертва",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-1990\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2009",
     "original": "Player: The Walkway",
-    "translation": "Player: 走道",
-    "stage": 3,
+    "translation": "Player: Пути",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2009\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2020",
     "original": "Player: Witnesses",
-    "translation": "Player: 目击证人",
-    "stage": 3,
+    "translation": "Player: Свидетели",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2020\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2041",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Talk_Factory-2041\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2195",
     "original": "Player: The Trial",
-    "translation": "Player: 庭审",
-    "stage": 3,
+    "translation": "Player: Суд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2195\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2209",
     "original": "Player: Vat Contents",
-    "translation": "Player: 桶里的东西",
-    "stage": 3,
+    "translation": "Player: Содержимое чана",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2209\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Vat Contents\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2226",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-Talk_Factory2-2226\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2338",
     "original": "Player: A metal object was thrown into the vat",
-    "translation": "Player: 金属物体 被扔进 桶里",
-    "stage": 3,
+    "translation": "Player: Металлический объект был брошен чан",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce2-2338\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: VatDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce-7-0\",\n          \"A metal object,Justin Waye,Mosourika Tudor,The killer\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce-8-0\",\n          \"was thrown into,jumped into,sabotaged,murdered\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce-9-0\",\n          \"the vat,the killer,Justin Waye,the refinery\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28737,8 +28737,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2348",
     "original": "Player: The vat liquid should have completely destroyed the metal object",
-    "translation": "Player: 桶里的液体 本应彻底 摧毁 金属物体",
-    "stage": 3,
+    "translation": "Player: Жидкость должна была полностью уничтожить металлический объект",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce4-2348\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: VatDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce3-9-0\",\n          \"The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce3-10-0\",\n          \"should have completely,should have partially,should not have\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce3-11-0\",\n          \"destroyed,sabotaged,saved,killed\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce3-12-0\",\n          \"the metal object,the guard rail,Justin Waye,the vat liquid\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28751,8 +28751,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2357",
     "original": "Player: The vat liquid was neutralized shortly after the accident was reported",
-    "translation": "Player: 桶里的液体 在事故通报 之后不久 被中和",
-    "stage": 3,
+    "translation": "Player: Жидкость в чане была нейтрализована прямо после сообщения об инциденте",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory2.yarn-VatDeduce6-2357\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: VatDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce5-8-0\",\n          \"The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce5-9-0\",\n          \"was neutralized,died,fell into the vat,called for help\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce5-10-0\",\n          \"shortly after,shortly before,today,the night of\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-VatDeduce5-11-0\",\n          \"the accident was reported,Mosourika arrived,the refinery opened,Orym arrived\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28765,43 +28765,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2397",
     "original": "Player: What did you see?",
-    "translation": "Player: 你看到了什么？",
-    "stage": 3,
+    "translation": "Player: Что вы видели?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2397\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2416",
     "original": "Player: The Guard Rail",
-    "translation": "Player: 护栏",
-    "stage": 3,
+    "translation": "Player: Ограждение",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2416\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2427",
     "original": "Player: Your \"Patron\"",
-    "translation": "Player: 你的“签约人”",
-    "stage": 3,
+    "translation": "Player: Ваш \"покровитель\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2427\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2438",
     "original": "Player: The Blockade",
-    "translation": "Player: 封锁",
-    "stage": 3,
+    "translation": "Player: Блокада",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2438\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2453",
     "original": "Player: \"Aster\"",
-    "translation": "Player: “阿斯特”",
-    "stage": 3,
+    "translation": "Player: \"Астер\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2453\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2465",
     "original": "Player: Back",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: Назад",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Talk_Harbour-2465\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28814,57 +28814,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2822",
     "original": "Player: \"Aster\"",
-    "translation": "Player: “阿斯特”",
-    "stage": 3,
+    "translation": "Player: \"Астер\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2822\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2842",
     "original": "Player: The Accident",
-    "translation": "Player: 事故",
-    "stage": 3,
+    "translation": "Player: Инцидент",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2842\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2861",
     "original": "Player: The \"Way He Fell\"",
-    "translation": "Player: “跌落的方式”",
-    "stage": 3,
+    "translation": "Player: \"Как он упал\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2861\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2884",
     "original": "Player: Are You a Mage?",
-    "translation": "Player: 你是法师吗？",
-    "stage": 3,
+    "translation": "Player: Вы - маг?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2884\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2920",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2920\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2992",
     "original": "Player: The Investigation",
-    "translation": "Player: 调查",
-    "stage": 3,
+    "translation": "Player: Расследование",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-2992\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3027",
     "original": "Player: Next Lead",
-    "translation": "Player: 下一个线索",
-    "stage": 3,
+    "translation": "Player: Следующая цель",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-3027\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3065",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare.yarn-Talk_TownSquare-3065\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -28954,64 +28954,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3159",
     "original": "Player: The Investigation",
-    "translation": "Player: 调查",
-    "stage": 3,
+    "translation": "Player: Расследование",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3159\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3192",
     "original": "Player: Next Lead",
-    "translation": "Player: 下一个线索",
-    "stage": 3,
+    "translation": "Player: Следующая цель",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3192\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3214",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3214\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3779",
     "original": "Player: The Trial",
-    "translation": "Player: 庭审",
-    "stage": 3,
+    "translation": "Player: Суд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3779\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3801",
     "original": "Player: Aria Steelwind",
-    "translation": "Player: 阿莉亚·斯蒂尔文德",
-    "stage": 3,
+    "translation": "Player: Ария Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3801\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3818",
     "original": "Player: Missing Attendant",
-    "translation": "Player: 缺席的人",
-    "stage": 3,
+    "translation": "Player: Пропавший слуга",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3818\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3834",
     "original": "Player: Von Sanctus Industries",
-    "translation": "Player: 冯·桑克图斯工业",
-    "stage": 3,
+    "translation": "Player: Индустрия Фон Санктус",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3834\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3848",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/VonSanctusManor.yarn-Talk_Manor-3848\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4065",
     "original": "Player: The spell weakened the structural integrity of the guard rails",
-    "translation": "Player: 法术 削弱了 护栏的 结构完整性",
-    "stage": 3,
+    "translation": "Player: Заклинание ослабило целостность ограждения",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway.yarn-WalkwayDeduce2-4065\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WalkwayDeduce2\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce-7-0\",\n          \"The spell,Justin Waye,The rust,Stefanic Dracogen\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce-8-0\",\n          \"weakened,strengthened,repaired,covered\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce-9-0\",\n          \"the structural integrity of,the corrosiveness of,the body of,the business of\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce-10-0\",\n          \"the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -29024,8 +29024,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4077",
     "original": "Player: The unknown mage wanted someone to fall into the vat",
-    "translation": "Player: 未知的法师 想要 有人落入 桶里",
-    "stage": 3,
+    "translation": "Player: Неизвестный маг хотел заставить кого-то упасть в чан",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway.yarn-WalkwayDeduce4-4077\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: WalkwayDeduce4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-9-0\",\n          \"The unknown mage,Justin Waye,Stefanic Dracogen\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-10-0\",\n          \"wanted,didn't want,accidentally caused\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-11-0\",\n          \"someone to fall,someone to discover,Stefanic to fall\"\n        ],\n        [\n          \"Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-12-0\",\n          \"into the vat,off of the walkway,the body\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -29038,92 +29038,92 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4125",
     "original": "Player: Metallic Shards",
-    "translation": "Player: 金属碎片",
-    "stage": 3,
+    "translation": "Player: Металлические осколки",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4125\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4184",
     "original": "Player: The Investigation",
-    "translation": "Player: 调查",
-    "stage": 3,
+    "translation": "Player: Расследование",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4184\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4195",
     "original": "Player: Magical Traces",
-    "translation": "Player: 魔法痕迹",
-    "stage": 3,
+    "translation": "Player: Магические следы",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4195\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4205",
     "original": "Player: A Second Body",
-    "translation": "Player: 第二具尸体",
-    "stage": 3,
+    "translation": "Player: Второе тело",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4205\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4229",
     "original": "Player: Vat Liquid",
-    "translation": "Player: 桶里的液体",
-    "stage": 3,
+    "translation": "Player: Жидкость в чане",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4229\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4240",
     "original": "Player: Crown Prince Aster",
-    "translation": "Player: 王储阿斯特",
-    "stage": 3,
+    "translation": "Player: Наследный Принц Астер",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4240\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4257",
     "original": "Player: Aria Steelwind",
-    "translation": "Player: 阿莉亚·斯蒂尔文德",
-    "stage": 3,
+    "translation": "Player: Ария Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4257\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-4275",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 3,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Walkway2.yarn-Talk_Walkway2-4275\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1168",
     "original": "Mosourika: That day,[p/] I was looking for Justin in the freight area.[p/] But I couldn't find him.",
-    "translation": "Mosourika: 那天，[p/]我在货运区找贾斯汀，[p/]但我找不到他。",
-    "stage": 3,
+    "translation": "Mosourika: 那天，[p/]我在货运区找贾斯汀，[p/]但我Mosourika: В тот день,[p/] я искала Джастина на территории погрузки.[p/] Но не смогла найти его.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1168\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1173",
     "original": "Mosourika: I decided to look for him in the refinery's main building.",
-    "translation": "Mosourika: 于是我决定去精炼厂的主楼找他。",
-    "stage": 3,
+    "translation": "Mosourika: Я решил поискать его в главное здании фабрики.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1173\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1180",
     "original": "Mosourika: There was some kind of magical door leading into it,[p/] but it was unlocked.",
-    "translation": "Mosourika: 有一道通往大楼的魔法门，[p/]但它没有上锁。",
-    "stage": 3,
+    "translation": "Mosourika: Там было подобие магической двери,[p/] он она была открыта.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1180\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1205",
     "original": "Mosourika: Mr. Dracogen must have disabled the lock.[p/] No one else could have disabled it.",
-    "translation": "Mosourika: 一定是德拉科根先生解除了锁，[p/]没有其他人能这么做。",
-    "stage": 3,
+    "translation": "Mosourika: Должно быть, мистер Дракоген отключил замок.[p/] Никто иной не смог бы это сделать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1205\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1214",
     "original": "Mosourika: Nothing really stopped me from entering the refinery building.",
-    "translation": "Mosourika: 我进入精炼厂时确实没遇见什么阻碍。",
-    "stage": 3,
+    "translation": "Mosourika: На деле, ничто не помешало мне войти на фабрику.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2-1214\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -29143,29 +29143,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1308",
     "original": "Mosourika: Plenty of people could have disabled the locks.",
-    "translation": "Mosourika: 很多人都可以解除门锁。",
-    "stage": 3,
+    "translation": "Mosourika: Множество людей могли отключить этот замок.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1308\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1316",
     "original": "Mosourika: Maybe one of the employees got lazy and forcefully broke it.",
-    "translation": "Mosourika: 可能员工之一犯懒了，用武力破坏了锁。",
-    "stage": 3,
+    "translation": "Mosourika: Возможно кто-то из работником поленился и силой сломал его.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1316\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1322",
     "original": "Mosourika: There was also that nobleman who was with Mr. Morrison.[p/] [i]He's[/i] a mage and he could have used magic to do it.",
-    "translation": "Mosourika: 还有那位和莫里森先生一起的贵族，[p/]<u>他</u>是一名法师，可以利用魔法。",
-    "stage": 3,
+    "translation": "Mosourika: Тут также был аристократ вместе с Мистером Моррисоном.[p/] [i]Он[/i]- маг, и он мог использовать свою магию для этого.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1322\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1333",
     "original": "Mosourika: It could have also been one of the Maintenance Constructs.[p/] I saw one working on the machines.[p/] Maybe one of [i]them[/i] broke the lock.",
-    "translation": "Mosourika: 也有可能是维护构造体。[p/]我曾看到它们在维护机器，[p/]也许是<u>它们</u>中的某一个破坏了锁。",
-    "stage": 3,
+    "translation": "Mosourika: Это также мог сделать один из Обслуживающих Конструктов.[p/]Я видела одного из них, работающего там.[p/] Может именно [i]он[/i] сломал замок.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_RikaC2B-1333\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -29185,43 +29185,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1473",
     "original": "Lloyd: It [i]is[/i] possible to order a Construct to complete a complex list of tasks.[p/] But doing so is ill-advised.",
-    "translation": "Lloyd: <u>确实</u>有可能命令构造体去完成一系列复杂的任务。[p/]但这么做是不明智的。",
-    "stage": 3,
+    "translation": "Lloyd: Это [i]возможно[/i] - приказать Конструкту выполнить сложный список задач.[p/] Но подобная затея очень ненадёжная.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1473\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1482",
     "original": "Lloyd: I'm sure you observed this with the Nightgrave trial.[p/] Constructs are extremely prone to error when completing a long list of tasks.",
-    "translation": "Lloyd: 我相信你在奈特格雷夫一案中也注意到了这一点。[p/]构造体在完成一长串任务时极易出错。",
-    "stage": 3,
+    "translation": "Lloyd: Я уверен, вы сами это наблюдали в деле Найтгрейва.[p/] Конструкты чересчур склонны к ошибкам, когда выполняют сложный список команд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1482\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1494",
     "original": "Lloyd: According to the defense,[p/] the saboteur stole a Rod of Mending and used it to sabotage very [i]specific[/i] sections of the refinery.",
-    "translation": "Lloyd: 根据辩方的说法，[p/]破坏者偷了一根修复之杖，并用它来破坏精炼厂的<u>特定</u>部分。",
-    "stage": 3,
+    "translation": "Lloyd: По словам защиты,[p/] саботажник украл Жезл Ремонта и использовал его для саботирования [i]определной[/i] секции фабрики.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1494\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： Rod of Mending\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1499",
     "original": "Lloyd: I would never trust a Construct to discreetly complete such an intricate set of tasks unsupervised.",
-    "translation": "Lloyd: 我绝不会信任构造体能单独，隐秘完成这样复杂的任务。",
-    "stage": 3,
+    "translation": "Lloyd: Я бы никогда не доверил Конструкту исполнить подобный противоречивый порядок команд без наблюдения.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1499\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1506",
     "original": "Lloyd: And before you ask,[p/] I was miles away from the refinery at the time of the accident.[p/] I have several associates who can confirm this alibi.",
-    "translation": "Lloyd: 而且我要告诉你，[p/]事故发生时，我离精炼厂有好几英里远。[p/]有几个熟人可以证实我的不在场证明。",
-    "stage": 3,
+    "translation": "Lloyd: И перед вашими вопросами,[p/] я был в милях от фабрики во время инцидента.[p/] У меня есть несколько знакомых, способных подтвердить моё алиби.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1506\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-1517",
     "original": "Lloyd: Therefore,[p/] I had no way of observing this Construct from afar.[p/] Nor did I have any way to communicate with it.",
-    "translation": "Lloyd: 所以，[p/]我是没有办法在远处监督这个构造体的。[p/]我也无法与它进行沟通。",
-    "stage": 3,
+    "translation": "Lloyd: Также,[p/] у меня не было бы возможности наблюдать за Конструктом издалека.[p/] Как и не было бы возможности связаться с ним.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Cross-Examination_SanctusTest-1517\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -29241,57 +29241,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3359",
     "original": "Noah: I was showing a visitor around the city.[p/] And for some reason,[p/] he really wanted to see the Aurinax Arcane Refinery.",
-    "translation": "Noah: 我当时正带一个访客参观城市。[p/]出于某些原因，[p/]他很想看看欧奥耐克斯奥术精炼厂。",
-    "stage": 3,
+    "translation": "Noah: Я показывал посетителю город.[p/] И по какой-то причине,[p/] он очень хотел увидеть Арканическую Фабрику Ауринакса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3359\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3366",
     "original": "Noah: He was inspecting the machines there.[p/] When,[p/] suddenly,[p/] Mosourika ran up to us.",
-    "translation": "Noah: 他正在察看那里的机器。[p/]突然间，[p/]莫苏里卡朝我们跑来。",
-    "stage": 3,
+    "translation": "Noah: Он изучал машины.[p/] Затем,[p/] внезапно,[p/] Мосоурика подбежала к нам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3366\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3373",
     "original": "Noah: She was desperately trying to tell us something,[p/] but there was just too much noise.",
-    "translation": "Noah: 她拼命想跟我们说什么，[p/]但那里太吵了。",
-    "stage": 3,
+    "translation": "Noah: Она отчаянно пыталась что-то сказать нам,[p/] но там было слишком много шума.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3373\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3378",
     "original": "Noah: After a while,[p/] she just pointed at the walkway overlooking the refinery.[p/] That's where we saw someone fall into that accursed vat.",
-    "translation": "Noah: 过了一会儿，[p/]她指向俯瞰精炼厂的走道。[p/]就在那儿，我们看到有人掉进那个该死的桶里。",
-    "stage": 3,
+    "translation": "Noah: Через некоторое время,[p/] она просто указала на пути поверх фабрики.[p/] Тогда мы увидели, как кто-то упал в этот треклятый чан.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3378\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3415",
     "original": "Noah: ...There was a guard rail that [i]should[/i] have prevented him from falling.[p/] But he broke through it as he fell.",
-    "translation": "Noah: ……有道护栏<u>本该</u>能阻止他掉下去的，[p/]但护栏直接断裂了。",
-    "stage": 3,
+    "translation": "Noah: ...Тут были ограждения, которые [i]должны[/i] были предотвратить его падение.[p/] Но он сломал их во время падения.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3415\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3425",
     "original": "Noah: Mosourika pointed it out.[p/] That's when we saw Justin fall.",
-    "translation": "Noah: 莫苏里卡指向那里，[p/]我们就在这时目睹了贾斯汀坠落。",
-    "stage": 3,
+    "translation": "Noah: Мосоурика указала туда.[p/] Тогда мы увидели падение Джастина.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3425\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3429",
     "original": "Noah: My companion stood there with me.[p/] He also saw Justin fall.",
-    "translation": "Noah: 我的同伴就站在旁边，[p/]他也看到了贾斯汀坠落。",
-    "stage": 3,
+    "translation": "Noah: Мой попутчик стоял рядом со мной.[p/] Он также видел падение Джастина",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3429\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3436",
     "original": "Noah: It was a bit far away.[p/] So, I couldn't see if there was any rust on the guard rail.",
-    "translation": "Noah: 距离有点儿远。[p/]我看不出来护栏上是否有锈迹。",
-    "stage": 3,
+    "translation": "Noah: Всё было довольно далеко.[p/] Так что, я не смог разглядеть следы ржавчины на ограждении.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Noah-3436\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -29311,36 +29311,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3540",
     "original": "Mosourika: I was at the refinery when I heard a strange sound from the walkway.",
-    "translation": "Mosourika: 我在精炼厂时听到走道那边传来奇怪的声音。",
-    "stage": 3,
+    "translation": "Mosourika: Я была на фабрике, когда услышала странные звуки с путей.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3540\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3548",
     "original": "Mosourika: When I looked to see what it was,[p/] I saw that Justin had tumbled over the walkway's guard rail.",
-    "translation": "Mosourika: 我循声望去，[p/]看到贾斯汀翻过了护栏。",
-    "stage": 3,
+    "translation": "Mosourika: Когда я посмотрела на то, что там было,[p/] я увидела Джастина, который перевалился через ограждение.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3548\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3557",
     "original": "Mosourika: But he hadn't fallen into the vat yet.[p/] I saw him barely hanging onto the edge of the platform.",
-    "translation": "Mosourika: 但他还没掉进桶里，[p/]我看到他正勉强抓着平台的边缘。",
-    "stage": 3,
+    "translation": "Mosourika: Но тогда он ещё не упал в чан.[p/] Я видела, как он еле держался за край платформы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3557\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3563",
     "original": "Mosourika: I didn't know how to get to the walkway from there.[p/] So I looked around for help and found Mr. Morrison.",
-    "translation": "Mosourika: 我不知道从那儿怎么上走道，[p/]所以我就在找地面上的人帮忙，然后发现了莫里森先生。",
-    "stage": 3,
+    "translation": "Mosourika: Я не знала, как добраться до тех путей.[p/] Так что я начал искать помощь снизу и нашла Мистера Моррисона.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3563\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-3569",
     "original": "Mosourika: After that, he must have seen Justin lose his grip of the ledge and fall into the vat.",
-    "translation": "Mosourika: 他肯定是在那之后看到贾斯汀抓不住边缘而掉进桶里的。",
-    "stage": 3,
+    "translation": "Mosourika: Он, должно быть, увидел, как Джастин потерял хватку за край и упал в чан после этого.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-Cross-Examination_Rika-3569\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
