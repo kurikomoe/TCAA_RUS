@@ -107,8 +107,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-8-0",
     "original": "was thrown into,jumped into,sabotaged,murdered",
-    "translation": "был брошен,прыгнул в,саботировал,убил",
-    "stage": 5,
+    "translation": "был брошен в,прыгнул в,саботировал,убил",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was thrown into,jumped into,sabotaged,murdered\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
@@ -268,8 +268,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-5-0",
     "original": "Why wasn't the metal object fully destroyed?",
-    "translation": "Почему\\u200B металлический\\u200B объект\\u200B не был\\u200B уничтожен\\u200B полностью?",
-    "stage": 5,
+    "translation": "Почему \\u200Bметаллический\\u200B объект\\u200B не был\\u200B уничтожен\\u200B полностью?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why wasn't the metal object fully destroyed?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
