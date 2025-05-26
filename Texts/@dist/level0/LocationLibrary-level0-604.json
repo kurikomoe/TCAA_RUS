@@ -268,7 +268,7 @@
     "Array": [
       {
         "name": "Lobby",
-        "displayName": "法庭：大厅",
+        "displayName": "Здание Суда: Лобби",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
         "examinationMap": "",
         "particle": "",
@@ -277,7 +277,7 @@
       },
       {
         "name": "AurinaxIntro",
-        "displayName": "欧奥耐克斯：市政广场",
+        "displayName": "Ауринакс: Центральная Площадь",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square.png",
         "examinationMap": "",
         "particle": "",
@@ -286,7 +286,7 @@
       },
       {
         "name": "AurinaxIntroRain",
-        "displayName": "欧奥耐克斯：市政广场",
+        "displayName": "Ауринакс: Центральная Площадь",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square (Rain).png",
         "examinationMap": "",
         "particle": "Rain",
@@ -295,7 +295,7 @@
       },
       {
         "name": "CafeIntro",
-        "displayName": "莫苏里卡的咖啡馆",
+        "displayName": "Кафе Мосоурики",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Cafe.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Cafe.prefab",
         "particle": "",
@@ -304,7 +304,7 @@
       },
       {
         "name": "Tavern Intro",
-        "displayName": "艾格文酒馆",
+        "displayName": "Таверна Эгвина",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Tavern.png",
         "examinationMap": "",
         "particle": "",
@@ -313,7 +313,7 @@
       },
       {
         "name": "Tavern Intro Room",
-        "displayName": "艾格文酒馆房间",
+        "displayName": "Комната таверны Эгвина",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Tavern Room.png",
         "examinationMap": "",
         "particle": "",
@@ -322,7 +322,7 @@
       },
       {
         "name": "Tavern Intro Room (Night)",
-        "displayName": "艾格文酒馆房间",
+        "displayName": "Комната таверны Эгвина",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/Celeste Bedroom Night.png",
         "examinationMap": "",
         "particle": "",
@@ -331,7 +331,7 @@
       },
       {
         "name": "Factory",
-        "displayName": "欧奥耐克斯奥术精炼厂",
+        "displayName": "Арканическая Фабрика Ауринакса",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Factory.prefab",
         "particle": "",
@@ -340,7 +340,7 @@
       },
       {
         "name": "Walkway",
-        "displayName": "欧奥耐克斯奥术精炼厂：走道",
+        "displayName": "Арканическая Фабрика Ауринакса: Пути",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory 2.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Walkway.prefab",
         "particle": "",
@@ -349,7 +349,7 @@
       },
       {
         "name": "TownSquare",
-        "displayName": "欧奥耐克斯：市政广场",
+        "displayName": "Ауринакс: Центральная Площадь",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square (Rain).png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Town Square Variant.prefab",
         "particle": "Rain",
@@ -358,7 +358,7 @@
       },
       {
         "name": "Harbour",
-        "displayName": "欧奥耐克斯港",
+        "displayName": "Гавань Ауринакса",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Port Rain.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Harbour Variant.prefab",
         "particle": "Rain",
@@ -367,7 +367,7 @@
       },
       {
         "name": "Cafe",
-        "displayName": "莫苏里卡的咖啡馆",
+        "displayName": "Кафе Мосоурики",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Cafe.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Cafe.prefab",
         "particle": "",
@@ -376,7 +376,7 @@
       },
       {
         "name": "Cafe2",
-        "displayName": "莫苏里卡的咖啡馆",
+        "displayName": "Кафе Мосоурики",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Cafe.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Cafe.prefab",
         "particle": "",
@@ -385,7 +385,7 @@
       },
       {
         "name": "Tavern",
-        "displayName": "艾格文酒馆",
+        "displayName": "Таверна Эгвина",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 1/McCoy Inn Upperfloor.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Upstairs.prefab",
         "particle": "",
@@ -394,7 +394,7 @@
       },
       {
         "name": "House",
-        "displayName": "废弃的房子",
+        "displayName": "Заброшенный дом",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Tyrion's Home (Rain).png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/House Variant.prefab",
         "particle": "Rain",
@@ -403,7 +403,7 @@
       },
       {
         "name": "TownSquare2",
-        "displayName": "欧奥耐克斯：市政广场",
+        "displayName": "Ауринакс: Центральная Площадь",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Aurinax Town Square.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Town Square Variant.prefab",
         "particle": "",
@@ -412,7 +412,7 @@
       },
       {
         "name": "Factory2",
-        "displayName": "欧奥耐克斯奥术精炼厂",
+        "displayName": "Арканическая Фабрика Ауринакса",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Factory.prefab",
         "particle": "",
@@ -421,7 +421,7 @@
       },
       {
         "name": "Walkway2",
-        "displayName": "欧奥耐克斯奥术精炼厂：走道",
+        "displayName": "Арканическая Фабрика Ауринакса: Пути",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Factory 2.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Walkway.prefab",
         "particle": "",
@@ -430,7 +430,7 @@
       },
       {
         "name": "Manor",
-        "displayName": "冯·桑克图斯庄园",
+        "displayName": "Поместье фон Санктус",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 3/Von Sanctus Manor.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 3/Manor.prefab",
         "particle": "",
