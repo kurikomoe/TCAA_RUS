@@ -205,14 +205,14 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Talk_Tavern-56-0",
     "original": "Psychological Profiles",
-    "translation": "Психологический Профиль",
+    "translation": "Психологический профиль",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Talk_Tavern\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\",\n    \"Psychological Profiles\",\n    \"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 1-sharedassets0.assets-154.json-Talk_Tavern-56-1",
     "original": "It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.",
-    "translation": "Не лишним будет подготовиться перед началом ПРЕНИЙ. ПОГОВОРИТЕ с Оримом или ПРЕДСТАВЬТЕ ему предметы, дабы составить его ПСИХОЛОГИЧЕСКИЙ ПРОФИЛЬ. Если вы успешно заполните полоску ПРОФИЛЬ, вы получите больше информации во время ПРЕНИЙ.",
+    "translation": "Не лишним будет подготовиться перед началом ПРЕНИЙ. ПОГОВОРИТЕ с Оримом или ПРЕДСТАВЬТЕ ему предметы, чтобы составить его ПСИХОЛОГИЧЕСКИЙ ПРОФИЛЬ. Если вы успешно заполните полоску ПРОФИЛЬ, вы получите больше информации во время ПРЕНИЙ.",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Talk_Tavern\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\",\n    \"Psychological Profiles\",\n    \"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -296,7 +296,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Testimony_Orym2-35-1",
     "original": "During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.",
-    "translation": "Во время перекрёстно-допроса, вы можете ДОПРОСИТЬ свидетеля для большей информации. Иногда, ДАВКА на правильное показание заставит свидетеля подавить новое заявление к своим показаниям.",
+    "translation": "Во время перекрёстного допроса, вы можете НАДАВАТЬ на показания свидетеля для получения большей информации. Иногда, ДАВЛЕНИЕ на правильное заявление заставит свидетеля добавить новое заявление к своим показаниям.",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Testimony_Orym2\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\",\n    \"Pressing Statements\",\n    \"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -387,8 +387,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-33-0",
     "original": "Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.",
-    "translation": "Командир Вайт - упёртый и стоит на своём. У него определённые тёрки с Руби Тиморой и реагирует негативно, если вы защищаете её. Однако, он уважает попытки защититься от личных атак.",
-    "stage": 5,
+    "translation": "Командор Вайт - упёртый и стоит на своём. У него определённые тёрки с Руби Тиморой и реагирует негативно, если вы защищаете её. Однако, он уважает попытки защититься от личных атак.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -408,7 +408,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-43-1",
     "original": "ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.",
-    "translation": "ПРЕНИЯ не всегда требуют крепких улик. Иногда вам нужно КРАСНОРЕЧИВО убедить вашего оппонента, что их заявление неверно. Когда требуется КРАСНОРЕЧИЕЙ, выберите один из трёх возможных ответов. Правильный ответ можно подчерпнуть с помощью ПСИХОЛОГИЧЕСКОГО ПРОФИЛЯ оппонента.",
+    "translation": "ПРЕНИЯ не всегда требуют крепких улик. Иногда вам нужно КРАСНОРЕЧИВО убедить вашего оппонента, что их заявление неверно. Когда требуется КРАСНОРЕЧИЕ, выберите один из трёх возможных ответов. Правильный ответ можно подчерпнуть с помощью ПСИХОЛОГИЧЕСКОГО ПРОФИЛЯ оппонента.",
     "stage": 5,
     "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\",\n    \"Elocutions in Arguments\",\n    \"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
   },

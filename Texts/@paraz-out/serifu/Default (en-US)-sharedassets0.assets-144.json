@@ -3320,7 +3320,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-481",
     "original": "Celeste: Most mages are in the nobility.[p/] So people will pay a lot for a sellsword who can use magic.",
-    "translation": "Celeste: Большая часть колдунов - члены знати.[p/] А потому люди платят крупные суммы тем, кто ей владеет.",
+    "translation": "Celeste: Большая часть магов - члены знати.[p/] А потому люди платят крупные суммы тем, кто ей владеет.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-481\",\n  \"keywords\": []\n}"
   },
@@ -3341,7 +3341,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-484",
     "original": "Celeste: But I know now…[p/] Learning magic was the biggest mistake I've ever made…",
-    "translation": "Celeste: Но теперь я поняла...[p/] Изучение магии - моя самая большая ошабика.",
+    "translation": "Celeste: Но теперь я поняла...[p/] Изучение магии было моей самой большой ошибкой...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-484\",\n  \"keywords\": []\n}"
   },
@@ -6022,21 +6022,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-913",
     "original": "Tyrion: \"Adam Eveleigh:[p/] Politician of the Pedantic.\"",
-    "translation": "Tyrion: “Адам Эвелей：[p/]Педантичный Политик.\"",
+    "translation": "Tyrion: “Адам Эвелей:[p/] Педантичный Политик.\"",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-913\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-914",
     "original": "Orym: I've heard of this guy.[p/] He's some kind of politician from one of the nations west of here.",
-    "translation": "Orym: Я слышал о нём.[p/] Он, вроде, политик из стран к западу.",
+    "translation": "Orym: Я слышал о нём.[p/] Он, вроде, политик из страны запада.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-914\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-915",
     "original": "Orym: I heard he's pretty much a shoo-in to win whatever election they have going there.",
-    "translation": "Orym: Я слышал, что он с лёгкостью побеждал в их местных выборах.",
+    "translation": "Orym: Я слышал, что он с лёгкостью побеждал в местных выборах.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-915\",\n  \"keywords\": []\n}"
   },
@@ -6099,14 +6099,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-926",
     "original": "Tyrion: The Inquisition lit some candles...[p/] But there's a magical lamp right there.",
-    "translation": "Tyrion: Инквизиция установила кучу свечь...[p/] Но тут же магические лампы.",
+    "translation": "Tyrion: Инквизиция установила кучу свечей...[p/] Но тут же магические лампы.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-927",
     "original": "Tyrion: I wonder why they're not using those instead.",
-    "translation": "Tyrion: Интересно, почему он их не использовали.",
+    "translation": "Tyrion: Интересно, почему они их не использовали.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-927\",\n  \"keywords\": []\n}"
   },
@@ -6204,7 +6204,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-944",
     "original": "Tyrion: Actually,[p/] artificery draws from surrounding ley lines to-",
-    "translation": "Tyrion: Вообщето,[p/] артифа извлекается из артерий земли-",
+    "translation": "Tyrion: Вообще-то,[p/] артифа извлекается из артерий земли-",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Examine_Tavern-944\",\n  \"keywords\": []\n}"
   },
@@ -6260,7 +6260,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-954",
     "original": "Orym: I saw who your boss is,[p/] and I know what you’re up to. [mind=\"That witch probably sent you here to con me.\"/]",
-    "translation": "Orym: Я знаю твоего босса,[p/] и я знаю, что вы что-то затеяли. [mind=\"Эта ведьма наверняка послала его обхитрить меня.\"/]",
+    "translation": "Orym: Я знаю твоего босса,[p/] и я знаю, что вы что-то затеяли. [mind=\"Эта ведьма наверняка послала его, чтобы обхитрить меня.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-954\",\n  \"keywords\": []\n}"
   },
@@ -6295,7 +6295,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-959",
     "original": "Is he angry that you embarrassed him in court today?",
-    "translation": "Неужели он зол на меня за то, кем я его выставил на суде?",
+    "translation": "Неужели он зол на меня из-за того, что я опозорил его в суде?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-959\",\n  \"keywords\": []\n}"
   },
@@ -6330,7 +6330,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-965",
     "original": "Tyrion: N-[p/][s/]No![p/][s/] I’m just [i]genuinely[/i] curious!",
-    "translation": "Tyrion: Н-[p/][s/]Нет-нет! [p/][s/]Я спросил это из [i]интереса[/i] .",
+    "translation": "Tyrion: Н-[p/][s/]Нет-нет! [p/][s/]Я спросил это из [i]интереса[/i].",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-965\",\n  \"keywords\": []\n}"
   },
@@ -6379,7 +6379,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-972",
     "original": "Orym: Heh…[p/] You got that right. [mind=\"The only reason we exist is to clean up the nobility’s messes.\"/]",
-    "translation": "Orym: Хех...[p/]Всё верно. [mind=\"Единственная причина нашего существования - убираться за знатью.\"/]",
+    "translation": "Orym: Хех...[p/] Всё верно. [mind=\"Единственная причина нашего существования - убираться за знатью.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-972\",\n  \"keywords\": []\n}"
   },
@@ -6407,7 +6407,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-977",
     "original": "Tyrion: Do you have a personal grudge against mages?",
-    "translation": "Tyrion: У вас какие-то личные счетами с магами?",
+    "translation": "Tyrion: У вас какие-то личные счёты к магам?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-977\",\n  \"keywords\": []\n}"
   },
@@ -6421,14 +6421,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-979",
     "original": "Wow...[p/] He didn't even [i]try[/i] to deny it.",
-    "translation": "Воу...[p/] Он даже [i]не пытался[/i] этого отрицать.",
+    "translation": "Воу...[p/] Он даже [i]не пытается[/i] этого отрицать.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-980",
     "original": "Orym: And if you had any sense,[p/] you would too.",
-    "translation": "Orym: И умей ты соображать,[p/] то тоже бы был настроен негативно.",
+    "translation": "Orym: И умей ты соображать,[p/] то тоже был бы настроен негативно.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-980\",\n  \"keywords\": []\n}"
   },
@@ -6547,7 +6547,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-997",
     "original": "“Your boss”?[p/] Does he have something against Ms. Tymora?",
-    "translation": "\"Твой босс\"?[p/] У него какие-то счеты с Мисс Тиморой?",
+    "translation": "\"Твой босс\"?[p/] У него какие-то счеты с мисс Тиморой?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-997\",\n  \"keywords\": []\n}"
   },
@@ -6561,7 +6561,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1000",
     "original": "Tyrion: I have to ask... [p/]Did something happen between you and Ms. Tymora?",
-    "translation": "Tyrion: Я хочу спросить...[p/] Что-то случилось между вами и Мисс Тиморой?",
+    "translation": "Tyrion: Я хочу спросить...[p/] Что-то случилось между вами и мисс Тиморой?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1000\",\n  \"keywords\": []\n}"
   },
@@ -6624,14 +6624,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1009",
     "original": "Throughout the years,[p/] there have been several insidious rumors surrounding Ms. Tymora.",
-    "translation": "На протяжении многих лет,[p/] множество черных слухов бродило о Мисс Тиморе.",
+    "translation": "На протяжении многих лет,[p/] множество черных слухов бродило о мисс Тиморе.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1010",
     "original": "She's been accused of forgery,[p/] blackmail,[p/] and all manner of illegal activities.",
-    "translation": "Её обвиняют в фальсификации,[p/] шантаже,[p/] и прочие виды в незаконной деятельности.",
+    "translation": "Её обвиняют в фальсификации,[p/] шантаже,[p/] и прочие виды незаконной деятельности.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1010\",\n  \"keywords\": []\n}"
   },
@@ -6750,7 +6750,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1029",
     "original": "Orym: Doubt it.[p/] After the trial,[p/] Steelwind turned the place upside-down and scanned it with her magic.",
-    "translation": "Orym: Сомневаюсь.[p/]Сразу после суда,[p/] Стилвинд перевернула тут всё вверх дном,[p/]  сканируя всё на предмет магии.",
+    "translation": "Orym: Сомневаюсь.[p/] Сразу после суда,[p/] Стилвинд перевернула тут всё вверх дном,[p/]  сканируя всё на предмет магии.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1029\",\n  \"keywords\": []\n}"
   },
@@ -6785,7 +6785,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1035",
     "original": "Orym: Well, you don’t have to worry about [i]me[/i] mucking things up.",
-    "translation": "Orym: Да и тебе не стоит беспокоиться о [i]моих[/i] косяках.",
+    "translation": "Orym: Да и тебе не стоит беспокоится о [i]моих[/i] косяках.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1035\",\n  \"keywords\": []\n}"
   },
@@ -6799,7 +6799,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1037",
     "original": "Tyrion: Wait…[p/] Does she have the authority to do that?",
-    "translation": "Tyrion: Погодите...[p/] У неё есть на такое право?",
+    "translation": "Tyrion: Погодите...[p/] У неё есть на это право?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1037\",\n  \"keywords\": []\n}"
   },
@@ -6862,14 +6862,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1047",
     "original": "Tyrion: I heard that this was Prosecutor Steelwind’s first trial.",
-    "translation": "Tyrion: Я слышал, что это был первый суд для Прокурора Стилвинд.",
+    "translation": "Tyrion: Я слышал, что это был первый суд для прокурора Стилвинд.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1048",
     "original": "Tyrion: She must be pretty talented if that’s true.",
-    "translation": "Tyrion: Должно быть она очень талантлива, если это правда.",
+    "translation": "Tyrion: Должно быть, она очень талантлива, если это правда.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1048\",\n  \"keywords\": []\n}"
   },
@@ -6883,14 +6883,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1050",
     "original": "Orym: That damn noble comes in here,[p/] telling [i]me[/i] how to do [i]my[/i] job?",
-    "translation": "Orym: Эта знатная особа приходит сюда,[p/] рассказывая [i]мне[/i]как делать [i]мою[/i] работу?",
+    "translation": "Orym: Эта знатная особа приходит сюда,[p/] рассказывая [i]мне[/i], как делать [i]мою[/i] работу?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1051",
     "original": "Orym: I honestly have no idea what she’s even doing in this line of work.",
-    "translation": "Orym: Честно слово,[p/] я не понимаю, почему она вообще взялась за эту работу.",
+    "translation": "Orym: Честное слово,[p/] я не понимаю, почему она вообще взялась за эту работу.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1051\",\n  \"keywords\": []\n}"
   },
@@ -6911,7 +6911,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1054",
     "original": "Orym: Ha![p/] “Powerful” is an understatement.",
-    "translation": "Orym: Ха![p/]\"Могущественный\" - это если сгладить углы.",
+    "translation": "Orym: Ха![p/] \"Могущественный\" - это если сгладить углы.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1054\",\n  \"keywords\": []\n}"
   },
@@ -6925,7 +6925,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1056",
     "original": "What?![p/] There’s no way that’s true…[p/] right?",
-    "translation": "Какого!?[p/] Это же точно ложь...[p/] Верно?",
+    "translation": "Какого!?[p/] Это же точно ложь...[p/] верно?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Talk_Tavern-1056\",\n  \"keywords\": []\n}"
   },
@@ -7450,7 +7450,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1144",
     "original": "You arrive back at the McCoy tavern.[p/] Luckily for you,[p/] the Inquisition set up a teleportation circle for you to use.",
-    "translation": "Ты вернулся в Таверну МакКоев.[p/] Повезло,[p/] что Инквизиция установила круги телепортации.",
+    "translation": "Ты вернулся в таверну МакКоев.[p/] Повезло,[p/] что Инквизиция установила круги телепортации.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Check_Events_Tavern-1144\",\n  \"keywords\": []\n}"
   },
@@ -7485,7 +7485,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1149",
     "original": "Commander White takes notice of you as you enter the tavern.",
-    "translation": "Коммандор Вайт заметил твоё прибытие.",
+    "translation": "Командор Вайт заметил твоё прибытие.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Check_Events_Tavern-1149\",\n  \"keywords\": []\n}"
   },
@@ -11517,7 +11517,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1751",
     "original": "If you can clear up this misunderstanding,[p/] you might be able to convince him to help you.",
-    "translation": "Если получиться убрать все недопонимания,[p/] может получиться убедить его помочь тебе.",
+    "translation": "Если получиться убрать все недопонимания,[p/] может я смогу убедить его помочь мне.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Argument-1751\",\n  \"keywords\": []\n}"
   },
@@ -11580,7 +11580,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1760",
     "original": "Deflect [d=\"Regardless of what Ms. Tymora has done, I'm the one heading this case.\"/]",
-    "translation": "Deflect [d=\"Несмотря на то, что наделала Мисс Тимора, во главе дела стою я.\"/]",
+    "translation": "Deflect [d=\"Несмотря на то, что наделала мисс Тимора, во главе дела стою я.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1760\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -11615,14 +11615,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1765",
     "original": "Rationalize [d=\"It doesn't matter how you feel about me or Ms. Tymora. What matters is that my client deserves a fair trial with fair representation.\"/]",
-    "translation": "Rationalize [d=\"Мне не важны ваши мысли обо мне или Мисс Тимора. Более важным сейчас является справедливый суд для моего клиента.\"/]",
+    "translation": "Rationalize [d=\"Мне не важны ваши мысли обо мне или мисс Тимора. Более важным сейчас является справедливый суд для моего клиента.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1765\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1766",
     "original": "Tyrion: It doesn't matter how you feel about me or Ms. Tymora.",
-    "translation": "Tyrion: Мне не важны ваши мысли обо мне или Мисс Тимора.",
+    "translation": "Tyrion: Мне не важны ваши мысли обо мне или Мисс Тиморе.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1766\",\n  \"keywords\": []\n}"
   },
@@ -11650,7 +11650,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1770",
     "original": "Defend [d=\"You have no right to throw baseless accusations against me or Ms. Tymora!\"/]",
-    "translation": "Defend [d=\"Вы не имеете права кидаться пустыми обвинениями против меня и Мисс Тиморы!\"/]",
+    "translation": "Defend [d=\"Вы не имеете права кидаться пустыми обвинениями против меня и мисс Тиморы!\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1770\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -11720,7 +11720,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1780",
     "original": "Defend [d=\"I’m not Ruby Tymora. Regardless of what you’ve seen her do, I’m going to run an honest case.\"/]",
-    "translation": "Defend [d=\"Я не Руби Тимора. Не важно, что там видели, я проведу это дело честно.\"/]",
+    "translation": "Defend [d=\"Я не Руби Тимора. Не важно, что вы там видели, я проведу это дело честно.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution2-1780\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -11741,7 +11741,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1783",
     "original": "Tyrion: Regardless of what you’ve seen her do,[p/] I’m going to run an honest case.",
-    "translation": "Tyrion: Не важно, что там видели,[p/] я проведу это дело честно.",
+    "translation": "Tyrion: Не важно, что вы там видели,[p/] я проведу это дело честно.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution2-1783\",\n  \"keywords\": []\n}"
   },
@@ -11755,7 +11755,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1785",
     "original": "Rationalize [d=\"“Forgery, bribery, blackmail”? Have you seen me do any of those things? Because all I’ve done so far is point out the mistakes that [i]you’ve[/i] made.\"/]",
-    "translation": "Rationalize [d=\"”Фальсификация, подкуп, шантаж”? Я делал что-то такое на ваших глазах? Потому что я всего-лишь указал на [i]вашу[/i] ошибку.\"/]",
+    "translation": "Rationalize [d=\"“Фальсификация, подкуп, шантаж”? Я делал что-то такое на ваших глазах? Потому что я всего-лишь указал на [i]вашу[/i] ошибку.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution2-1785\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -11867,7 +11867,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1801",
     "original": "Tyrion: Right now I’m just a defense attorney that’s asking you for information.",
-    "translation": "Tyrion: Сейчас я - адвокат защиты, пытающийся получить от вас информацию.",
+    "translation": "Tyrion: Сейчас, я - адвокат защиты, пытающийся получить от вас информацию.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution3-1801\",\n  \"keywords\": []\n}"
   },
@@ -12679,7 +12679,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1923",
     "original": "Orym: That defendant over there? [p/] Her [b]Spell Compendium[/b] has a spell called “[b]Mage Blade[/b]”.",
-    "translation": "Orym: Подсудимая здесь?[p/] Её [b]Компендиум Заклинаний[/b] содержит формулу \"[b]Острого Лезвия[/b]\".",
+    "translation": "Orym: [b]Компендиум Заклинаний[/b] подсудимой содержит заклятие \"[b]Острое Лезвие[/b]\".",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony_Orym2-1923\",\n  \"keywords\": []\n}"
   },
@@ -12700,14 +12700,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1926",
     "original": "So,[p/] her [b]Spell Compendium[/b] contains a spell called [b]Mage Blade[/b].",
-    "translation": "Значит её [b]Компендиум Заклинаний[/b] содержит формулу [b]Острого Лезвия[/b].",
+    "translation": "Значит её [b]Компендиум Заклинаний[/b] содержит заклятие [b]Острое Лезвие[/b].",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony_Orym2-1926\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1927",
     "original": "A [b]Spell Compendium[/b] is a magical device that lists every spell a mage can cast.",
-    "translation": "[b]Компендиум Заклинаний[/b] - это предмет, который записывает все заклинания, на которые маг способен.",
+    "translation": "[b]Компендиум Заклинаний[/b] - это магический предмет, который записывает все заклинания, на которые маг способен.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony_Orym2-1927\",\n  \"keywords\": []\n}"
   },
@@ -12770,14 +12770,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1936",
     "original": "If you can PRESS his statements,[p/] you might be able to find new information that you can use against him.",
-    "translation": "Но если НАДАВИТЬ на его показания,[p/] он может дать тебе новую информацию, которую ты используешь против него.",
+    "translation": "Но если [b]НАДАВАИТЬ[/b] на его показания,[p/] он может дать тебе новую информацию, которую ты используешь против него.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony_Orym2-1936\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1938",
     "original": "Tyrion: Are you saying that my client used a spell and channeled it through her sword?",
-    "translation": "Tyrion: Вы заявляете, что мой клиент использовал заклинание и пропустила его через меч?",
+    "translation": "Tyrion: Вы заявляете, что мой клиент использовала магию и пропустила её через меч?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1938\",\n  \"keywords\": []\n}"
   },
@@ -12826,7 +12826,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1946",
     "original": "Tyrion: B-[p/][s/]But anyways,[p/] wouldn’t it be excessive for the defendant to use a spell like that on the victim?",
-    "translation": "Tyrion: В-[p/][s/]В любом случае,[p/] не было бы чересчур для подсудимой использовать это заклинание для убийства жертвы.",
+    "translation": "Tyrion: В-[p/][s/]В любом случае,[p/] не было бы чересчур для подсудимой использовать это заклинание для убийства жертвы?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1946\",\n  \"keywords\": []\n}"
   },
@@ -12840,7 +12840,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1948",
     "original": "Aria: The victim and the defendant were in an intense argument.",
-    "translation": "Aria: Жертва и подсудимая были посреди напряденной ссоры.",
+    "translation": "Aria: Жертва и подсудимая были посреди напряженной ссоры.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1948\",\n  \"keywords\": []\n}"
   },
@@ -12854,7 +12854,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1950",
     "original": "Ugh…[p/] That theory is a little far-fetched…",
-    "translation": "Угх...[p/] Эта теория довольно рваная...",
+    "translation": "Угх...[p/] Эта теория довольно надуманная...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1950\",\n  \"keywords\": []\n}"
   },
@@ -12882,7 +12882,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1955",
     "original": "Orym: Mages are always looking for an excuse to throw their power around.",
-    "translation": "Orym: Маги всегда ищут причин для использования своей силы.",
+    "translation": "Orym: Маги всегда ищут причину для использования своей силы.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1955\",\n  \"keywords\": []\n}"
   },
@@ -12910,7 +12910,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1959",
     "original": "Aria: The fact of the matter is that magic [i]was[/i] present at the crime.",
-    "translation": "Aria: Факт остаётся неподвижным: магия [i]была[/i] использована.",
+    "translation": "Aria: Факт остаётся фактом: магия [i]была[/i] использована.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1959\",\n  \"keywords\": []\n}"
   },
@@ -12931,7 +12931,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1962",
     "original": "You don't...[p/] yet.",
-    "translation": "Их нет...[p/]пока что.",
+    "translation": "Их нет...[p/] пока что.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1962\",\n  \"keywords\": []\n}"
   },
@@ -12980,14 +12980,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1970",
     "original": "Orym: We’re already way ahead of you.",
-    "translation": "Orym: Вот тут меня тебя опередили.",
+    "translation": "Orym: Вот тут мы тебя опередили.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1970\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1971",
     "original": "Orym: We had our people scan the crime scene.",
-    "translation": "Orym: Несколько наших людей изучили место преступления.",
+    "translation": "Orym: Несколько наших людей изучили место преступления на наличие магии.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1971\",\n  \"keywords\": []\n}"
   },
@@ -13022,14 +13022,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1976",
     "original": "Orym: There was no need.",
-    "translation": "Orym: Об этом не было причин сообщать.",
+    "translation": "Orym: Об этом не было причины сообщать.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1976\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1977",
     "original": "Orym: This entire case is open and shut.",
-    "translation": "Orym: Всё дело довольно простое.",
+    "translation": "Orym: Это дело довольно простое.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1977\",\n  \"keywords\": []\n}"
   },
@@ -13050,7 +13050,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1980",
     "original": "You’ve seen pictures of the dead before.[p/] But it feels different now that the body is of someone you knew.",
-    "translation": "Ты уже видел фотографии мёртвых ранее.[p/] Но теперь это ощущается по другом с фотографией того, кого ты знал.",
+    "translation": "Ты уже видел фотографии мёртвых ранее.[p/] Но с фотографией того, кого ты знал, это ощущается по другому.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1980\",\n  \"keywords\": []\n}"
   },
@@ -13162,7 +13162,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2002",
     "original": "Tyrion: But it seems that you’ve presented [i]another[/i] glaring contradiction.",
-    "translation": "Tyrion: Но похоже вы предъявили [i]очередное[/i] противоречие. ",
+    "translation": "Tyrion: Но мне кажется, что вы предъявили [i]очередное[/i] противоречие. ",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj-2002\",\n  \"keywords\": []\n}"
   },
@@ -13183,14 +13183,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2005",
     "original": "Tyrion: Am I correct?",
-    "translation": "Tyrion: Всё врено?",
+    "translation": "Tyrion: Всё верно?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj-2005\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2006",
     "original": "Orym: Yeah,[p/] you can see it plain in that picture.",
-    "translation": "Orym: Агап,[p/] это очевидно по фотографии.",
+    "translation": "Orym: Ага,[p/] это очевидно по фотографии.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj-2006\",\n  \"keywords\": []\n}"
   },
@@ -13218,7 +13218,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2010",
     "original": "Tyrion: But the [i]Autopsy Report[/i] says that he died from a stab from [i]behind[/i]!",
-    "translation": "Tyrion: ...но [i]протокол вскрытия[/i] гласи, что смерть настала после удара в [i]спину[/i]!",
+    "translation": "Tyrion: ...но [i]протокол вскрытия[/i] гласит, что смерть настала после удара в [i]спину[/i]!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj-2010\",\n  \"keywords\": []\n}"
   },
@@ -13309,14 +13309,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2023",
     "original": "Tyrion: As the Autopsy Report states,[p/][s/] the victim died from a stab wound originating from his back!",
-    "translation": "Tyrion: Как и написано в протоколе вскрытия,[p/][s/] жертва умерла от ранения со спины!",
+    "translation": "Tyrion: Как и написано в протоколе вскрытия,[p/][s/] жертва умерла от ранения в спину!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_2-2023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2024",
     "original": "Tyrion: But [i]this[/i] photo clearly shows that the sword entered from his front.",
-    "translation": "Tyrion: Однако [i]это[/i] фото ярко показывает, что меч воткнули спереди.",
+    "translation": "Tyrion: Однако, [i]это[/i] фото ярко показывает, что меч был воткнули спереди.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_2-2024\",\n  \"keywords\": []\n}"
   },
@@ -13407,7 +13407,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2037",
     "original": "Aria: Hm…[p/] It appears that I underestimated you, Mr. Cuthbert.",
-    "translation": "Aria: Хм...[p/] Похоже, я вас недооценила, Мистер Катберт.",
+    "translation": "Aria: Хм...[p/] Похоже, я вас недооценила, мистер Катберт.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_2-2037\",\n  \"keywords\": []\n}"
   },
@@ -13421,21 +13421,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2039",
     "original": "Judge: Really, Ms. Steelwind?",
-    "translation": "Judge: Вы серьёзно, Мисс Стилвинд?",
+    "translation": "Judge: Вы серьёзно, мисс Стилвинд?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_3-2039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2040",
     "original": "Judge: I believe that Mr. Cuthbert has [i]adequately[/i] cast doubt on your case.",
-    "translation": "Judge: Я считаю, что теория Мистера Катберта [i]достойно[/i] проявила сомнения к вашему делу.",
+    "translation": "Judge: Я считаю, что теория мистера Катберта [i]достойно[/i] проявила сомнения в вашем деле.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_3-2040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2041",
     "original": "Aria: Oh,[p/] did he now?[p/] Then let me ask [i]you[/i] one question, Mr. Cuthbert.",
-    "translation": "Aria: О,[p/] правда?[p/] Тогда позвольте задать [i]вам[/i] один вопрос, Мистер Катберт.",
+    "translation": "Aria: О,[p/] правда?[p/] Тогда позвольте задать [i]вам[/i] один вопрос, мистер Катберт.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_3-2041\",\n  \"keywords\": []\n}"
   },
@@ -13498,7 +13498,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2050",
     "original": "You don't like where she's going with this.",
-    "translation": "Тебе не нравиться, к чему она клонит.",
+    "translation": "Тебе не нравится, к чему она клонит.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_3-2050\",\n  \"keywords\": []\n}"
   },
@@ -13540,7 +13540,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2056",
     "original": "Aria: She was the last known person with him,[p/] [i]and[/i] she was the only mage there.",
-    "translation": "Aria: Одна была последней, кто видел жертву лично,[p/] [i]и[/i] единственным магом.",
+    "translation": "Aria: Она была последней, кто видел жертву лично,[p/] [i]и[/i] единственным магом.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2056\",\n  \"keywords\": []\n}"
   },
@@ -13582,7 +13582,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2062",
     "original": "Judge: …But there is still evidence that casts guilt upon the defendant.",
-    "translation": "Judge: ...Однако всё ещё есть улики, поддерживающие виновность подсудимой.",
+    "translation": "Judge: ...Однако, всё ещё есть улики, поддерживающие виновность подсудимой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2062\",\n  \"keywords\": []\n}"
   },
@@ -13631,7 +13631,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2069",
     "original": "Judge: Court is adjourned.",
-    "translation": "Judge: Суд откланяется.",
+    "translation": "Judge: Суд отклоняется.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2069\",\n  \"keywords\": []\n}"
   },
@@ -13645,7 +13645,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2071",
     "original": "As you walk out of the courtroom with Celeste,[p/] you are greeted by Ms. Tymora.",
-    "translation": "Как только ты вышел из зала суда вместе с Селест,[p/] ты встречаешь Мисс Тимору.",
+    "translation": "Как только ты вышел из зала суда вместе с Селест,[p/] ты встречаешь мисс Тимору.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2071\",\n  \"keywords\": []\n}"
   },
@@ -13687,7 +13687,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2077",
     "original": "Ruby: And once you did that,[p/] you performed...[p/] adequately.",
-    "translation": "Ruby: И раз ты сделал это,[p/] ты показал себя....[p/] достойно.",
+    "translation": "Ruby: И раз ты сделал это,[p/] ты показал себя...[p/] достойно.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_4-2077\",\n  \"keywords\": []\n}"
   },
@@ -13778,14 +13778,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2090",
     "original": "Tyrion: You mean Prosecutor Steelwind?",
-    "translation": "Tyrion: Ты про Прокурора Стилвинд?",
+    "translation": "Tyrion: Ты про прокурора Стилвинд?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_5-2090\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2091",
     "original": "You can still remember her ripping glare…",
-    "translation": "Ты всё ещё помнишь ещё пронзительный взгляд...",
+    "translation": "Ты всё ещё помнишь её пронзительный взгляд...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_5-2091\",\n  \"keywords\": []\n}"
   },
@@ -13799,7 +13799,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2093",
     "original": "Ruby: You wouldn’t even know it,[p/] but this was [i]also[/i] her first trial.",
-    "translation": "Ruby: Ты скорее всего не знал,[p/] но для неё это [i]тоже[/i] перво дело в суде.",
+    "translation": "Ruby: Ты скорее всего не знал,[p/] но для неё это [i]тоже[/i] первое дело в суде.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_5-2093\",\n  \"keywords\": []\n}"
   },
@@ -13813,14 +13813,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2095",
     "original": "Ruby: I’d thought that her inexperience would make for a good first opponent.",
-    "translation": "Ruby: Я думала, что её неопытность сделало бы её хорошим первым противником.",
+    "translation": "Ruby: Я думала, что, учитывая её неопытность, она стала бы хорошим первым соперником.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_6-2095\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2096",
     "original": "Ruby: But that girl…[p/] she’s a natural in the courtroom.",
-    "translation": "Ruby: Но эта девушка...[p/]ведёт себя спокойно.",
+    "translation": "Ruby: Но эта девушка...[p/] ведёт себя спокойно.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_6-2096\",\n  \"keywords\": []\n}"
   },
@@ -13925,14 +13925,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2111",
     "original": "It looks like they’re waiting to take her back to her cell.",
-    "translation": "Похоже он ждёт возможности увести её в камеру.",
+    "translation": "Похоже, он ждёт возможности увести её в камеру.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_6-2111\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2112",
     "original": "Whatever questions you have for her will have to wait.",
-    "translation": "Любым вопросам к ней придётся подождать.",
+    "translation": "Любые вопросы к ней придётся отложить.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_7-2112\",\n  \"keywords\": []\n}"
   },
@@ -13988,7 +13988,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2120",
     "original": "Tyrion: Right.[p/] There are still a lot of things we don’t know about.",
-    "translation": "Tyrion: Верно.[p/] Есть ещё множество вещей, о который мы не знаем.",
+    "translation": "Tyrion: Верно.[p/] Есть ещё множество вещей, о которых мы не знаем.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Testimony2Obj_7-2120\",\n  \"keywords\": []\n}"
   },
@@ -19728,7 +19728,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1941",
     "original": "Orym: That defendant over there? [p/] Her [b]Spell Compendium[/b] has a spell called “[b]Mage Blade[/b]”.",
-    "translation": "Orym: Подсудимая здесь?[p/] Её [b]Компендиум Заклинаний[/b] содержит формулу \"[b]Острого Лезвия[/b]\".",
+    "translation": "Orym: [b]Компендиум Заклинаний[/b] подсудимой содержит заклятие \"[b]Острое Лезвие[/b]\".",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Testimony 2.yarn-Cross-Examination_Orym2-1941\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
