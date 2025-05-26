@@ -40,7 +40,9 @@ jobs:
           generator: python
           openapi-file: .github/workflows/paratranz-openapi.json
           command-args: "-o third/openapi-python"
-
+      - run: |
+            sed -i 's/license = "NoLicense"//g' third/openapi-python/pyproject.toml
+            sed -i 's/requires-python.*//g' third/openapi-python/pyproject.toml
       - uses: snok/install-poetry@v1.4.1
 
       - name: "Instal Python Deps"
