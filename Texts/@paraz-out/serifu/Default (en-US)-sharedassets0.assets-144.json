@@ -3369,7 +3369,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-488",
     "original": "Celeste: He shouted at me.[p/] He told me that I’d betrayed him and his family.",
-    "translation": "Celeste: Он накричал на меня.[p/] Сказал, что я предала его и его семью.",
+    "translation": "Celeste: Он накричал на меня.[p/] Сказал, что я предала его и семью.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-488\",\n  \"keywords\": []\n}"
   },
@@ -3411,7 +3411,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-494",
     "original": "Celeste: No…[p/] I could see it in his eyes.[p/] He hated me. [mind=\"And he died hating me...\"/]",
-    "translation": "Celeste: Нет...[p/]Я видела это в его глазах.[p/] Он ненавидел меня. [mind=\"И умер ненавидя меня...\"/]",
+    "translation": "Celeste: Нет...[p/] Я видела это в его глазах.[p/] Он ненавидел меня. [mind=\"И умер, ненавидя меня...\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-494\",\n  \"keywords\": []\n}"
   },
@@ -3425,7 +3425,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-497",
     "original": "Tyrion: S-[p/]So…[p/] There’s a locked room in the tavern.[p/] It's at the very end of the hallway upstairs.",
-    "translation": "Tyrion: Ч-[p/]Что ж...[p/] В таверне есть закрытая комната.[p/] Она самом конце коридора наверху.",
+    "translation": "Tyrion: Ч-[p/]Что ж...[p/] В таверне есть закрытая комната.[p/] Она в самом конце коридора наверху.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-497\",\n  \"keywords\": []\n}"
   },
@@ -3446,7 +3446,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-500",
     "original": "Celeste: I think that’s my room.",
-    "translation": "Celeste: Похоже, речь о моей.",
+    "translation": "Celeste: Похоже, речь о моей комнате.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-500\",\n  \"keywords\": []\n}"
   },
@@ -3481,7 +3481,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-505",
     "original": "Tyrion: …What’s that look for?!",
-    "translation": "Tyrion: ...Что ты так смотришь!?",
+    "translation": "Tyrion: ...Что ты так смотришь?!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-505\",\n  \"keywords\": []\n}"
   },
@@ -3537,21 +3537,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-517",
     "original": "Celeste: Do you like it?[p/] It's a souvenir I got while I was traveling the Eastern Kingdoms.",
-    "translation": "Celeste: Тебе нравиться?[p/] Это сувенир, который я получила во время странствий по Восточным Королевствам.",
+    "translation": "Celeste: Тебе нравится?[p/] Это сувенир, который я получила во время странствий по Восточным Королевствам.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-517\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-518",
     "original": "Tyrion: Wait...[p/][s/] You've [i]been[/i] to the Eastern Kingdoms?!",
-    "translation": "Tyrion: Погоди...[p/][s/] Ты [i]была[/i] в Восточных Королевствах!?",
+    "translation": "Tyrion: Погоди...[p/][s/] Ты [i]была[/i] в Восточных Королевствах?!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-518\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-519",
     "original": "Tyrion: I thought Wyverngarde had a strict policy preventing people from crossing the border.",
-    "translation": "Tyrion: Я думал, в Вивернгарде довольно строгая политика касательно границы.",
+    "translation": "Tyrion: Я думал, в Вивернгарде довольно строгая политика касательно границ.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-519\",\n  \"keywords\": []\n}"
   },
@@ -3565,7 +3565,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-521",
     "original": "You quickly glance at the guard of the cell.[p/] He doesn't seem to be listening.",
-    "translation": "Ты быстро смотришь в сторону сторожа.[p/] Похоже, он не слушает.",
+    "translation": "Ты быстро смотришь в сторону охранника.[p/] Похоже, он не слушает.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-521\",\n  \"keywords\": []\n}"
   },
@@ -3628,7 +3628,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-531",
     "original": "...You start to wonder what kind of life she led before this case.",
-    "translation": "...Теперь тебе интересно, что с не происходило то этого дела.",
+    "translation": "...Теперь тебе интересно, что с не происходило до этого дела.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-531\",\n  \"keywords\": []\n}"
   },
@@ -3656,7 +3656,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-536",
     "original": "Tyrion: Yeah...[p/] Without an Arcane Power Cell,[p/] those lights aren't very useful.",
-    "translation": "Tyrion: Да...[p/] Без Арканического Генератора,[p/] те фонари не очень полезны.",
+    "translation": "Tyrion: Да...[p/] Без Арканического генератора,[p/] те фонари не очень полезны.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Present_Barracks-536\",\n  \"keywords\": []\n}"
   },
@@ -3957,7 +3957,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-584",
     "original": "Tyrion: It must be used for entertaining guests.",
-    "translation": "Tyrion: Должны быть, это для гостей.",
+    "translation": "Tyrion: Должно быть, это для гостей.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-584\",\n  \"keywords\": []\n}"
   },
@@ -3978,7 +3978,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-588",
     "original": "Jolene: Oh, I love that painting.[p/] Celeste brought it back from her travels.",
-    "translation": "Jolene: Ох, мне нравиться эта картина.[p/] Селест купила её во время странствий.",
+    "translation": "Jolene: Ох, мне нравится эта картина.[p/] Селест купила её во время странствий.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-588\",\n  \"keywords\": []\n}"
   },
@@ -3992,7 +3992,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-590",
     "original": "Jolene: From what I've heard,[p/] she runs a wildlife sanctuary for endangered species.",
-    "translation": "Jolene: Из того, что я знаю,[p/] что она владеет заповедником для вымирающих видов.",
+    "translation": "Jolene: Из того, что я знаю,[p/] она владеет заповедником для вымирающих видов.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-590\",\n  \"keywords\": []\n}"
   },
@@ -4006,7 +4006,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-592",
     "original": "Jolene: Celeste told me that she really likes them.",
-    "translation": "Jolene: Селест рассказала, что ей они очень нравяться.",
+    "translation": "Jolene: Селест рассказала, что ей они очень нравятся.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Examine_Bedroom-592\",\n  \"keywords\": []\n}"
   },
@@ -4104,14 +4104,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-608",
     "original": "Jolene: He’d always sneak into town to play with us against his family’s wishes.",
-    "translation": "Jolene: Он всегда сбегал к нам для игр, вопреки желаний семьи.",
+    "translation": "Jolene: Он всегда сбегал к нам для игр, вопреки желания семьи.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-609",
     "original": "Tyrion: They probably weren’t too happy about that.",
-    "translation": "Tyrion: Скорее всего им это не особо нравилось.",
+    "translation": "Tyrion: Скорее всего, им это не особо нравилось.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-609\",\n  \"keywords\": []\n}"
   },
@@ -4153,7 +4153,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-615",
     "original": "Jolene: He lost control of his magic and fatally wounded Effie.",
-    "translation": "Jolene: Он не смог удержать магию и посмертно ранил Эффи.",
+    "translation": "Jolene: Он не смог удержать магию и смертельно ранил Эффи.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-615\",\n  \"keywords\": []\n}"
   },
@@ -4195,7 +4195,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-621",
     "original": "Jolene: After that,[p/] the official story was that Effie had been mauled by a wolf.",
-    "translation": "Jolene: Позже,[p/] официальна история гласила, что Эффи была атакована волком.",
+    "translation": "Jolene: Позже,[p/] официальная история гласила, что Эффи была атакована волком.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-621\",\n  \"keywords\": []\n}"
   },
@@ -4216,7 +4216,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-624",
     "original": "Jolene: Something changed in Flinhart after that.",
-    "translation": "Jolene: Что-то изменилось в Флинхарт после этого.",
+    "translation": "Jolene: Что-то изменилось в Флинхарте после этого.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-624\",\n  \"keywords\": []\n}"
   },
@@ -4224,13 +4224,13 @@
     "key": "Default (en-US)-sharedassets0.assets-144-625",
     "original": "Jolene: He began speaking out against the nobility.",
     "translation": "Jolene: Он начал высказываться против знати.",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-626",
     "original": "Jolene: Eventually,[p/] he started hosting rallies in this very tavern.",
-    "translation": "Jolene: Затем,[p/] он начал устраивать забастовки в его таверне.",
+    "translation": "Jolene: Затем,[p/] он начал устраивать забастовки в своей таверне.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Talk_Bedroom-626\",\n  \"keywords\": []\n}"
   },
@@ -4636,7 +4636,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-688",
     "original": "Tyrion: Defending people like your daughter is the [i]exact[/i] reason why I became a defense attorney.",
-    "translation": "Tyrion: Защита людей, как ваша дочь, и стала для меня [i]первой[/i] причиной стать адвокатом.",
+    "translation": "Tyrion: Защита таких людей, как ваша дочь, и стала для меня [i]первой[/i] причиной стать адвокатом.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-688\",\n  \"keywords\": []\n}"
   },
@@ -4685,7 +4685,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-697",
     "original": "Tyrion: I actually saw Garrick Pierce here earlier.",
-    "translation": "Tyrion: На самом деле я встретился с Гарриком Присом некоторое время назад.",
+    "translation": "Tyrion: На самом деле я встретился с Гарриком Пирсом некоторое время назад.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-697\",\n  \"keywords\": []\n}"
   },
@@ -4748,7 +4748,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-708",
     "original": "Jolene: Maybe we could have avoided all of this.",
-    "translation": "Jolene: Возможно мы могли бы всё это избежать.",
+    "translation": "Jolene: Возможно, мы могли бы всё это избежать.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-708\",\n  \"keywords\": []\n}"
   },
@@ -4783,7 +4783,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-714",
     "original": "Jolene: Honestly,[p/] Flinhart and I didn't see the appeal.",
-    "translation": "Jolene: Но честно говоря,[p/] мы с Флинхартом не видели в этом чего-то особенного.",
+    "translation": "Jolene: Но, честно говоря,[p/] мы с Флинхартом не видели в этом чего-то особенного.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-714\",\n  \"keywords\": []\n}"
   },
@@ -4895,14 +4895,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-733",
     "original": "Jolene: She had a habit of picking fights with people when she was a child.",
-    "translation": "Jolene: У ней была привычка драться с людьми, когда она была юной.",
+    "translation": "Jolene: У неё была привычка драться с людьми, когда она была юной.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-733\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-734",
     "original": "Tyrion: Oh...[p/] I didn't expect that.",
-    "translation": "Tyrion: О...[p/] Я и не думал об этом.",
+    "translation": "Tyrion: О...[p/] Я и не знал об этом.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Present_Bedroom-734\",\n  \"keywords\": []\n}"
   },
@@ -4993,7 +4993,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-749",
     "original": "Jolene: I can’t thank you enough for everything that you’ve done for my daughter.",
-    "translation": "Jolene: Не знаю, как вас благодарить за всё, что вы сделали для моей дочери.",
+    "translation": "Jolene: Не знаю, как вас отблагодарить за всё, что вы сделали для моей дочери.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Bedroom.yarn-Check_Events_Bedroom-749\",\n  \"keywords\": []\n}"
   },
@@ -6939,7 +6939,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1060",
     "original": "Orym: Hah![p/] “[i]Ms.[/i] Tymora”.",
-    "translation": "Orym: Хах![p/] \"[i]Мисс[/i] Тимора\".",
+    "translation": "Orym: Хах![p/] \"[i]мисс[/i] Тимора\".",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1060\",\n  \"keywords\": []\n}"
   },
@@ -7247,21 +7247,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1108",
     "original": "Orym: Well, for one thing,[p/] if someone mucks around with the body after death,[p/] the report becomes muddled.",
-    "translation": "Orym: Ну, к примеру,[p/] если кто-то что-то натворил с телом после смерти,[p/] всё становиться запутанным.",
+    "translation": "Orym: Ну, к примеру,[p/] если кто-то что-то натворил с телом после смерти,[p/] всё становится запутанным.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1108\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1109",
     "original": "Orym: [b]Divination[/b] magic can tell [i]what[/i] happened to a body,[p/] but not in what order and at what times.",
-    "translation": "Orym: Магия [b]прорицания[/b] может и скажет тебе что случилось с телом,[p/] но не скажет когда и в каком порядке.",
+    "translation": "Orym: Магия [b]прорицания[/b] может и скажет тебе, что случилось с телом,[p/] но не скажет когда и в каком порядке.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1109\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1110",
     "original": "Hm...[p/] But someone definitely stabbed Flinhart's body with Celeste's sword.",
-    "translation": "Хм...[p/] Однако это очевидно, что кто-то проткнул тело Флинхарта мечом Селест.",
+    "translation": "Хм...[p/] Однако, это очевидно, что кто-то проткнул тело Флинхарта мечом Селест.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1110\",\n  \"keywords\": []\n}"
   },
@@ -7289,7 +7289,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1115",
     "original": "Tyrion: Is it really that abnormal?",
-    "translation": "Tyrion: Он правда настолько ненормальный?",
+    "translation": "Tyrion: Он правда настолько необычный?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1115\",\n  \"keywords\": []\n}"
   },
@@ -7317,14 +7317,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1120",
     "original": "Tyrion: I'm [i]still[/i] not exactly sure how they work.",
-    "translation": "Tyrion: Я всё ещё не уверен, как именно они работают.",
+    "translation": "Tyrion: Я всё ещё не уверен, как именно он работает.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1120\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1121",
     "original": "Orym: Well, [b]Spell Compendiums[/b] are magical devices that display exactly which spells a mage can cast.",
-    "translation": "Orym: Ну,[b]Компендиум Заклинаний[/b] - это магический предмет, который показывает, как именно колдовать заклинания.",
+    "translation": "Orym: Ну, [b]Компендиум Заклинаний[/b] - это магический предмет, который показывает, на какие заклинания способен маг.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Crime Scene.yarn-Present_Tavern-1121\",\n  \"keywords\": []\n}"
   },
@@ -19511,7 +19511,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-496",
     "original": "Player: Locked Door",
-    "translation": "Player: Закрытия Дверь",
+    "translation": "Player: Закрытая дверь",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-496\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
