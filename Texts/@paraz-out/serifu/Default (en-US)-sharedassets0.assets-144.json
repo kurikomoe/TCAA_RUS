@@ -19504,7 +19504,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-470",
     "original": "Player: The Argument",
-    "translation": "Player: Прения.",
+    "translation": "Player: Ссора",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Barracks.yarn-Talk_Barracks-470\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
