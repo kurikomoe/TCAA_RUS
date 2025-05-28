@@ -198,8 +198,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Aria_Retort-60-0",
     "original": "Which spell did Lord Pierce use to commit murder?",
-    "translation": "Какое \\u200Bзаклинание\\u200B использовал\\u200B Лорд Пирс\\u200B для \\u200Bубийства?",
-    "stage": 1,
+    "translation": "Какое \\u200Bзаклинание\\u200B использовал\\u200B лорд\\u200B Пирс\\u200B для \\u200Bубийства?",
+    "stage": 5,
     "context": "{\n  \"node_name\": \"Aria_Retort\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Which spell did Lord Pierce use to commit murder?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -240,7 +240,7 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered2-23-0",
     "original": "She was wielding her sword after the murder!",
-    "translation": "Она\\u200B забрала\\u200B свой\\u200B меч\\u200B после\\u200Bубийства!",
+    "translation": "Она\\u200B забрала\\u200B свой\\u200B меч\\u200B после\\u200B убийства!",
     "stage": 5,
     "context": "{\n  \"node_name\": \"GarrickCornered2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"She was wielding her sword after the murder!\"\n  ],\n  \"keywords\": []\n}"
   },

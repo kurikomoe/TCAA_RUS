@@ -9,7 +9,7 @@
   {
     "key": "SpellLibrary-5-Shape Liquid-description",
     "original": "While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.",
-    "translation": "Концентрируясь на заклинании, колдун способен магически управлять жидкостью объёмом до 10 л, придавая ей сложные формы. В процессе, пользователь так способен заставить жидкость застыть, придав ей твёрдую форму. Заклинатель в этом состоянии также способен заставить жидкость мгновенно испариться.",
+    "translation": "Концентрируясь на заклинании, колдун способен магически управлять жидкостью объёмом до 10 литров, придавая ей сложные формы. В процессе, пользователь так способен заставить жидкость застыть, придав ей твёрдую форму. Заклинатель в этом состоянии также способен заставить жидкость мгновенно испариться.",
     "stage": 5,
     "context": "{\n  \"Name\": \"Shape Liquid\",\n  \"Idx\": 5,\n  \"Attr\": \"description\"\n}"
   },
@@ -23,7 +23,7 @@
   {
     "key": "SpellLibrary-5-Shape Liquid-gesture",
     "original": "Point index finger at the target",
-    "translation": "Навести указательный палец на цель",
+    "translation": "Навести указательный палец",
     "stage": 5,
     "context": "{\n  \"Name\": \"Shape Liquid\",\n  \"Idx\": 5,\n  \"Attr\": \"gesture\"\n}"
   },
