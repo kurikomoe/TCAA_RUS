@@ -9,7 +9,7 @@
   {
     "key": "SpellLibrary-1-Conjure Light-description",
     "original": "For the duration of this spell, a mote of magical light appears in the caster’s hand. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).",
-    "translation": "Во время действия заклинания, пучок света появляется в руке колдуна. Цвет сияния может быть изменён в процессе по желанию пользователя. Освещение распространяется на 15 фт от колдуна (и не более).",
+    "translation": "Во время действия заклинания, пучок света появляется в руке колдуна. Цвет сияния может быть изменён в процессе по желанию пользователя. Освещение распространяется на 15 футов от мага (и не более).",
     "stage": 5,
     "context": "{\n  \"Name\": \"Conjure Light\",\n  \"Idx\": 1,\n  \"Attr\": \"description\"\n}"
   },
