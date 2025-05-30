@@ -135,8 +135,8 @@
   {
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-18-0",
     "original": "What can we infer about the state of the crime scene?",
-    "translation": "Что\\u200B мы\\u200B можем\\u200B точно\\u200B сказать\\u200B о состоянии\\u200B места\\u200B преступления？",
-    "stage": 5,
+    "translation": "Что\\u200B мы\\u200B можем\\u200B точно\\u200B сказать\\u200B о состоянии\\u200B места \\u200Bпреступления？",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we infer about the state of the crime scene?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -171,7 +171,7 @@
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-25-0",
     "original": "What can we infer about the state of the crime scene?",
     "translation": "Что мы можем точно сказать о состоянии места преступления？",
-    "stage": 5,
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What can we infer about the state of the crime scene?\"\n  ],\n  \"keywords\": []\n}"
   },
   {

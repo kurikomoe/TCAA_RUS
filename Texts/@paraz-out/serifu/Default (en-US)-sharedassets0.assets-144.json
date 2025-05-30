@@ -11615,14 +11615,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1765",
     "original": "Rationalize [d=\"It doesn't matter how you feel about me or Ms. Tymora. What matters is that my client deserves a fair trial with fair representation.\"/]",
-    "translation": "Rationalize [d=\"Мне не важны ваши мысли обо мне или мисс Тимора. Более важным сейчас является справедливый суд для моего клиента.\"/]",
+    "translation": "Rationalize [d=\"Мне не важны ваши мысли обо мне или о мисс Тиморе. Более важным сейчас является справедливый суд для моего клиента.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1765\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1766",
     "original": "Tyrion: It doesn't matter how you feel about me or Ms. Tymora.",
-    "translation": "Tyrion: Мне не важны ваши мысли обо мне или Мисс Тиморе.",
+    "translation": "Tyrion: Мне не важны ваши мысли обо мне или о мисс Тиморе.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 1/Orym Argument.yarn-Orym_Elocution-1766\",\n  \"keywords\": []\n}"
   },
