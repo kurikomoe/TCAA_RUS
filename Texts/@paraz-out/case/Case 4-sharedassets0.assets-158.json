@@ -2,127 +2,127 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument3-10-0",
     "original": "I was not involved in this!",
-    "translation": "我\\u200B和\\u200B这事儿\\u200B没关系\\u200B！",
-    "stage": 3,
+    "translation": "Я не была в это вовлечена!",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"LiafalArgument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I was not involved in this!\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-6-0",
     "original": "What did Tracker hear when he woke up?",
-    "translation": "追追\\u200B醒来后\\u200B听到了\\u200B什么\\u200B？",
-    "stage": 3,
+    "translation": "Что \\u200B услышал\\u200B Трекер,\\u200B когда\\u200B проснулся?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0",
     "original": "Tracker,Beatrice,Harold,The thief",
-    "translation": "追追,比亚特丽丝,哈罗德,窃贼",
-    "stage": 3,
+    "translation": "Трекер,Беатрис,Харольд,Вор",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Tracker,Beatrice,Harold,The thief\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0",
     "original": "heard,saw,hid,caused",
-    "translation": "听见,看见,藏起,造成",
-    "stage": 3,
+    "translation": "Слышал,видел,спрятал,заставил",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"heard,saw,hid,caused\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0",
     "original": "rats running,the lockdown,glass shattering,a dog barking",
-    "translation": "通风管道里,勋爵舞会期间,画廊里,威廉的书房里",
-    "stage": 3,
+    "translation": "бегающих крыс,изоляцию,биение стекла,лаять собкаку",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"rats running,the lockdown,glass shattering,a dog barking\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0",
     "original": "in the vents,during the Lords' Ball,from the gallery,in William's Study",
-    "translation": "有老鼠,封锁,玻璃破碎,狗叫",
-    "stage": 3,
+    "translation": "в вентиляции,во время Бала Лордов,с выставки,в кабинете Уильяма",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-13-0",
     "original": "What did Tracker hear when he woke up?",
-    "translation": "追追醒来后听到了什么？",
-    "stage": 3,
+    "translation": "Что услышал Трекер, когда проснулся?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-16-0",
     "original": "How did the Sword of Spell Eating end up in that hallway?",
-    "translation": "噬法之剑\\u200B怎么\\u200B跑到\\u200B走廊里\\u200B的\\u200B？",
-    "stage": 3,
+    "translation": "Как\\u200B Меч-\\u200BПоглотитель \\u200BЗаклятий \\u200Bоказался \\u200Bв\\u200B коридоре?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the Sword of Spell Eating end up in that hallway?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0",
     "original": "The thief,Beatrice,Eugene,Tracker",
-    "translation": "小偷把,比亚特丽丝把,尤金把,追追把",
-    "stage": 3,
+    "translation": "Вор,Беатрис,Юджин,Трекер",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Eugene,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0",
     "original": "dropped,hid,stole,nullified",
-    "translation": "剑,遗嘱草稿,臂章,抗魔力场",
-    "stage": 3,
+    "translation": "уронил, спрятал, украл,обнулил",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"dropped,hid,stole,nullified\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0",
     "original": "the Sword,the drafted will,the Armbands,the Anti-Magic Field",
-    "translation": "掉到了,藏到了,偷走了,无效化了",
-    "stage": 3,
+    "translation": "Меч,набросок завещания,Браслеты,Анти-Магическое Поле",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0",
     "original": "in the hallway,from the gallery,in William's Study,in the Ballroom",
-    "translation": "走廊里,画廊里,威廉的书房里,舞厅里",
-    "stage": 3,
+    "translation": "в коридоре,изгалереи,в кабинете Уильяма,в бальном зале",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-23-0",
     "original": "How did the Sword of Spell Eating end up in that hallway?",
-    "translation": "噬法之剑怎么跑到走廊里的？",
-    "stage": 3,
+    "translation": "Как Меч-Поглотитель Заклятий оказался в коридоре?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the Sword of Spell Eating end up in that hallway?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-4-0",
     "original": "What is unique about Beatrice's relationship with Marrunath?",
-    "translation": "比亚特丽丝\\u200B和\\u200B马鲁纳斯\\u200B的关系\\u200B有什么\\u200B独特之处\\u200B？",
-    "stage": 3,
+    "translation": "Что\\u200B необычно\\u200B в\\u200B отношениях\\u200B Беатрис\\u200B с\\u200B Маррунатом?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is unique about Beatrice's relationship with Marrunath?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0",
     "original": "Their connection,Their crimes,Their mutual allies,Their evidence",
-    "translation": "他们的联系,他们的罪行,他们的同盟,他们的证据",
-    "stage": 3,
+    "translation": "Их связь,Их преступления,Их общий союзник,Их улики",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0",
     "original": "is facilitated through,were committed by,were hidden by,were killed by",
-    "translation": "要靠契约,要靠武器,要靠遗物,要靠法术",
-    "stage": 3,
+    "translation": "поддерживается,были совершены с помощью,был спрятан,был убит",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is facilitated through,were committed by,were hidden by,were killed by\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0",
     "original": "a Pact,a weapon,an artifact,a spell",
-    "translation": "实现,隐藏,杀害,犯罪",
-    "stage": 3,
+    "translation": "Договором,оружием,артефактом,заклятием",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"a Pact,a weapon,an artifact,a spell\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-10-0",
     "original": "What is unique about Beatrice's relationship with Marrunath?",
-    "translation": "比亚特丽丝和马鲁纳斯的关系有什么独特之处？",
-    "stage": 3,
+    "translation": "Что\\u200B необычно\\u200B в\\u200B отношениях\\u200B Беатрис\\u200B с\\u200B Маррунатом?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What is unique about Beatrice's relationship with Marrunath?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
