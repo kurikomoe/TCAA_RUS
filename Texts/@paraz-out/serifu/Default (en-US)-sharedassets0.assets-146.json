@@ -4636,7 +4636,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-691",
     "original": "Mosourika: What would the Dark Lord of Aurinax possibly have to hide from you?",
-    "translation": "Mosourika: 欧С чего Тёмный Лорд Ауринакса решился бы что-то от тебя скрыть?",
+    "translation": "Mosourika: С чего Тёмный Лорд Ауринакса решился бы что-то от тебя скрыть?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-691\",\n  \"keywords\": []\n}"
   },
@@ -16459,7 +16459,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2547",
     "original": "Tyrion: From what we heard,[p/] you witnessed the accident.",
-    "translation": "Tyrion: Из того, что я слышал,[p/] вы стали свидетелем несчастного случая.",
+    "translation": "Tyrion: Насколько я слышал,[p/] вы стали свидетелем несчастного случая.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Check_Events_Harbour-2547\",\n  \"keywords\": []\n}"
   },
@@ -18097,7 +18097,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2789",
     "original": "Tyrion: From what I've heard,[p/] you witnessed the accident at the refinery yesterday.",
-    "translation": "Tyrion: Из того, что я слышал,[p/] вы стали свидетелем инцидента на фабрике вчера.",
+    "translation": "Tyrion: Мне сказали,[p/] что вы стали свидетелем инцидента на фабрике вчера.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2789\",\n  \"keywords\": []\n}"
   },
@@ -18601,7 +18601,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2865",
     "original": "Tyrion: ...It matches with the statement that the harbourmaster gave us.",
-    "translation": "Tyrion: ...Это совпадает с показаниями капитаном порта.",
+    "translation": "Tyrion: ...Это совпадает с показаниями лоцмана.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2865\",\n  \"keywords\": []\n}"
   },
@@ -18797,7 +18797,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2894",
     "original": "Aster: Yes,[p/] I am a mage.[p/] And I'm quite the practiced one at that.",
-    "translation": "Aster: Да,[p/]я маг.[p/] И довольно опытный.",
+    "translation": "Aster: Да,[p/] я маг.[p/] И довольно опытный.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2894\",\n  \"keywords\": []\n}"
   },
@@ -28450,7 +28450,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-679",
     "original": "Player: Justin's \"Bad Crowd\"",
-    "translation": "Player: \"Плохая компания\" Джастина.",
+    "translation": "Player: \"Плохая компания\" Джастина",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-679\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
