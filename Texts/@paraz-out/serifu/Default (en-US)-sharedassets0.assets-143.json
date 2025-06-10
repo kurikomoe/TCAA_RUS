@@ -6379,302 +6379,302 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1036",
     "original": "You think you've found everything you can relating to von Sanctus's murder.",
-    "translation": "应该已经找全了所有冯·桑克图斯事件相关的线索了。",
-    "stage": 5,
+    "translation": "Думаю, я изучат всё касательно убийства фон Санктуса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1036\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1037",
     "original": "Perhaps you should MOVE somewhere else.",
-    "translation": "你应该 <size=1.5em>移动</size> 到其他地方。",
-    "stage": 3,
+    "translation": "Пора ИДТИ в другое место.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1038",
     "original": "Tyrion: If we look at this map,[p/] we can see where the Prayer Room and the Common Room are.",
-    "translation": "Tyrion: 这张地图上，[p/]祷告室和公共休息室的位置都有标示。",
-    "stage": 5,
+    "translation": "Tyrion: Если посмотреть на карту,[p/] мы можем увидеть, где молельня и общая комната.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce1-1038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1039",
     "original": "Tyrion: Lady Sibyl's body was found in the lake west of here.",
-    "translation": "Tyrion: 希比尔小姐的尸体是在西边的湖中发现的。",
-    "stage": 5,
+    "translation": "Tyrion: Тело леди Сибил было найдено в озере к западу отсюда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce1-1039\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1040",
     "original": "Tyrion: But since the Grand Cathedral was built on a cliff,[p/] there isn't an easy way to get there in such a short amount of time.",
-    "translation": "Tyrion: 由于大教堂建于悬崖之上，[p/]短时间内很难到达湖边。",
-    "stage": 5,
+    "translation": "Tyrion: Но поскольку Великий Собор стоит на утёсе,[p/] добраться до озера за короткое время было бы сложно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce1-1040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1041",
     "original": "Tyrion: So that raises my next question.",
-    "translation": "Tyrion: 这就要说到下一个问题。",
-    "stage": 5,
+    "translation": "Tyrion: А потом, встаёт следующий вопрос.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce1-1041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1044",
     "original": "No...[p/] Right now,[p/] we're concerned with how Lady Sibyl's body ended up in the lake that's west of the cathedral.",
-    "translation": "不……[p/]目前要注意的是，[p/]希比尔小姐的尸体是怎么跑到大教堂西边的湖里去的。",
-    "stage": 5,
+    "translation": "Нет...[p/] Сейчас,[p/] тебе нужно сосредоточится на том, как тело леди Сибил оказалось в озере к западу от собора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce2-1044\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1045",
     "original": "The murderer couldn't have dragged her body there in such a short amount of time.",
-    "translation": "凶手不可能在这么短时间内把她的尸体拖过去。",
-    "stage": 5,
+    "translation": "Убийца не смог бы дотащить её тело туда за такой короткий промежуток времени.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce2-1045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1046",
     "original": "But there's a far simpler explanation.",
-    "translation": "但还有更简单的解释。",
-    "stage": 5,
+    "translation": "Но есть куда более простое объяснение.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce2-1046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1047",
     "original": "Tyrion: The Grand Cathedral was built on a cliff over the lake.",
-    "translation": "Tyrion: 大教堂位于湖边的悬崖上。",
-    "stage": 5,
+    "translation": "Tyrion: Великий Собор построен на утёсе возле озера.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1047\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1048",
     "original": "Tyrion: And the west-ward balcony just happens to be right over it.",
-    "translation": "Tyrion: 西侧阳台刚好就在湖正上方。",
-    "stage": 5,
+    "translation": "Tyrion: И западный балкон находится прямо над ним.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1048\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1049",
     "original": "Orym: Yeah...[p/] I guess that makes sense.",
-    "translation": "Orym: 确实……[p/]你说得有道理。",
-    "stage": 3,
+    "translation": "Orym: Ага...[p/] Полагаю, в этом есть смысл.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1049\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1050",
     "original": "Orym: We even have a witness who saw Steelwind there.",
-    "translation": "Orym: 我们还有目击证人看到斯蒂尔文德在场。",
-    "stage": 5,
+    "translation": "Orym: У нас даже есть свидетель,[p/] который видел там Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1051",
     "original": "Tyrion: Really?[p/] Who was it?",
-    "translation": "Tyrion: 真的？[p/]是谁？",
-    "stage": 5,
+    "translation": "Tyrion: Серьёзно?[p/] Кто это был?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1052",
     "original": "Orym: It was High Speaker Theon Archeus.",
-    "translation": "Orym: 大主教希恩·阿契厄斯。",
-    "stage": 5,
+    "translation": "Orym: Это был Епископ Теон Археус.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1052\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1053",
     "original": "Tyrion: \"High Speaker\"?",
-    "translation": "Tyrion: “大主教”？",
-    "stage": 5,
+    "translation": "Tyrion: \"Епископ\"?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1053\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1054",
     "original": "Orym: He's the shot-caller of the Church of Bahamut.",
-    "translation": "Orym: 巴哈姆特教会的头头。",
-    "stage": 5,
+    "translation": "Orym: Он проповедник Церкви Папича.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1054\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1055",
     "original": "Orym: And he stands at the top of the religious hierarchy from what I hear.",
-    "translation": "Orym: 我听说他也是位于宗教最高点的人。",
-    "stage": 5,
+    "translation": "Orym: Как я слышал, он стоит во главе религиозной иерархии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1055\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1056",
     "original": "Orym: He spotted Steelwind near the west balcony and noticed that she was acting suspiciously.",
-    "translation": "Orym: 他看到斯蒂尔文德站在西侧阳台上，举止怪异。",
-    "stage": 5,
+    "translation": "Orym: Он наткнулся на Стилвинд рядом с западным балконом и заметил, что она вела себя подозрительно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1056\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1057",
     "original": "Orym: He called out to her,[p/] but she ignored him.",
-    "translation": "Orym: 随后出声喊了她，[p/]但被无视了。",
-    "stage": 5,
+    "translation": "Orym: От окликнул её,[p/] но она не обратила на него внимание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1057\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1058",
     "original": "Tyrion: So she [i]knew[/i] that he saw her...[p/] But she didn't attack him?",
-    "translation": "Tyrion: 就是说她<u>知道</u>自己被人看见了……[p/]可她没有攻击？",
-    "stage": 5,
+    "translation": "Tyrion: Значит, она [i]знала[/i], что он её видел...[p/] Но почему она его не атаковала?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1058\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1059",
     "original": "Orym: Yeah...[p/] He really lucked out.",
-    "translation": "Orym: 是……[p/]他真走运。",
-    "stage": 3,
+    "translation": "Orym: Да...[p/] Тут ему повезло.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1059\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1060",
     "original": "Tyrion: But if she was having a psychotic episode,[p/] he would have noticed that...",
-    "translation": "Tyrion: 但如果她疾病发作了，[p/]大主教应该能注意到这一点……",
-    "stage": 3,
+    "translation": "Tyrion: Но если у неё был психоз,[p/] он бы это заметил...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1060\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1061",
     "original": "Tyrion: From what you said,[p/] all she did was ignore him.",
-    "translation": "Tyrion: 听你的说法，[p/]她做的只是无视他。",
-    "stage": 5,
+    "translation": "Tyrion: Судя по вашим словам,[p/] всё, что она сделала, - не обратила на него внимание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1061\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1062",
     "original": "Orym: You're right...[p/] This whole \"Mageblight\" story doesn't really add up.",
-    "translation": "Orym: 对……[p/]所以和“法师之疫”的说法对不上号。",
-    "stage": 5,
+    "translation": "Orym: Это верно...[p/] Вся эта сказочка с \"Чаромраком\" не совпадаете с предметами дела.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1062\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1063",
     "original": "Tyrion: Either way,[p/] we'll just have to talk to him directly to find out more.",
-    "translation": "Tyrion: 不管怎样，[p/]我们得和他面对面谈谈。",
-    "stage": 5,
+    "translation": "Tyrion: Так или иначе,[p/] нам следует поговорить с ним напрямую и выяснить остальные детали.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1063\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1064",
     "original": "Tyrion: Putting that aside,[p/] there's something else that's strange.",
-    "translation": "Tyrion: 先不说这个，[p/]还有其他奇怪的事。",
-    "stage": 5,
+    "translation": "Tyrion: Помимо этого,[p/] есть кое-что ещё странное.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce3-1064\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1065",
     "original": "Celeste: ...What's that?",
-    "translation": "Celeste: ……你是指？",
-    "stage": 5,
+    "translation": "Celeste: ...Что именно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce5a-1065\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1066",
     "original": "Tyrion: It's about the [i]order[/i] that the murders occurred in.",
-    "translation": "Tyrion: 问题是案件发生的<u>顺序</u>。",
-    "stage": 5,
+    "translation": "Tyrion: Это касается [i]порядка[/i], по которому случились убийства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce5a-1066\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1067",
     "original": "Tyrion: The murderer killed von Sanctus,[p/] Sibyl,[p/] and Pierce.[p/] In that order.",
-    "translation": "Tyrion: 凶手按顺序杀害了冯·桑克图斯，[p/]希比尔，[p/]皮尔斯。",
-    "stage": 5,
+    "translation": "Tyrion: Убийца шел в следующем порядке:[p/] фон Санктус,[p/] затем Сибил,[p/] последний Пирс.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce5a-1067\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1068",
     "original": "Tyrion: This means that the murderer went to the Common Room,[p/] then the West Balcony,[p/] and then finally the Prayer Room.",
-    "translation": "Tyrion: 也就是说，凶手先去了公共休息室，[p/]再去了西侧阳台，[p/]最后才去祷告室。",
-    "stage": 5,
+    "translation": "Tyrion: Это значит, что убийца вышел из общей комнаты,[p/] затем ушел на балкон,[p/] и, наконец, дошел до молельни.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce5a-1068\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1069",
     "original": "Tyrion: But if we look at the map,[p/] the murderer's route seems a bit strange.",
-    "translation": "Tyrion: 但从地图来看，[p/]这种顺序有点奇怪。",
-    "stage": 5,
+    "translation": "Tyrion: Но если посмотреть на карту,[p/] путь убийцы выглядит немного странным.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce5a-1069\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1072",
     "original": "No...[p/] There's a clear route between each of the rooms.",
-    "translation": "不……[p/]有一条简单明了的路线可以连接每个房间。",
-    "stage": 5,
+    "translation": "Нет...[p/] Между каждой комнатой есть чёткий маршрут.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce6-1072\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1073",
     "original": "The murderer would have traveled to the Common Room,[p/] then the Balcony,[p/] then the Prayer Room.",
-    "translation": "凶手要先去公共休息室，[p/]再去西侧阳台，[p/]最后去祷告室。",
-    "stage": 5,
+    "translation": "Убийца пошел из общей комнаты,[p/] затем на балкон[p/] а после в молельню.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce6-1073\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1074",
     "original": "But there's clearly a more direct path they could have taken if they wanted to murder the three victims quickly.",
-    "translation": "但如果凶手想更快杀害三人，还有一条更简单直接的路线。",
-    "stage": 5,
+    "translation": "Но очевидно, что есть более разумный путь, если он хотел убить трёх жертвы быстрее.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce6-1074\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1075",
     "original": "Tyrion: The murderer must have passed right by the Prayer Room before they dumped Sibyl's body.",
-    "translation": "Tyrion: 丢弃希比尔的尸体前，凶手肯定经过了祷告室。",
-    "stage": 5,
+    "translation": "Tyrion: Убийца мог пройти к молельне перед тем, как убить Сибил.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1075\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1076",
     "original": "Tyrion: Why wouldn't they just murder Pierce on the way there?",
-    "translation": "Tyrion: 为什么他没有顺便杀害皮尔斯？",
-    "stage": 5,
+    "translation": "Tyrion: Почему он не убил Пирс по пути? ",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1076\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1077",
     "original": "Orym: Maybe they wanted to dump Sibyl's body first.",
-    "translation": "Orym: 可能他想先丢弃希比尔的尸体。",
-    "stage": 5,
+    "translation": "Orym: Возможно они хотели сначала прибить Сибил.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1077\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1078",
     "original": "Celeste: ...Or they were afraid of fighting me.",
-    "translation": "Celeste: ……也可能只是害怕对上我。",
-    "stage": 5,
+    "translation": "Celeste: ...Или боялись сражаться со мной.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1078\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1079",
     "original": "Orym: ...Aren't you giving yourself a little too much credit?",
-    "translation": "Orym: ……你怎么这么自信啊？",
-    "stage": 5,
+    "translation": "Orym: ...Не слишком ли ты много чести себе даёшь?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1079\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1080",
     "original": "Tyrion: No.[p/] She has a point.",
-    "translation": "Tyrion: 不。[p/]她说的有理。",
-    "stage": 5,
+    "translation": "Tyrion: Нет.[p/] Тут она права.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1080\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1081",
     "original": "Tyrion: Out of everyone who fought the murderer,[p/] Celeste was the only one who didn't die or fall comatose.",
-    "translation": "Tyrion: 和凶手搏斗的所有人里，[p/]塞莱斯特是唯一没有昏迷也没有死亡的。",
-    "stage": 5,
+    "translation": "Tyrion: Помимо всех тех, кто сражался с убийцей,[p/] Селест была единственной, кто не потеряла сознание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1081\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1082",
     "original": "Tyrion: Anyways,[p/] there [i]has[/i] to be a reason why the murderer deliberately chose that route.",
-    "translation": "Tyrion: 总之，[p/]凶手选择这条路线<u>肯定有</u>他的理由。",
-    "stage": 5,
+    "translation": "Tyrion: В любом случае,[p/] тут [i]точно[/i] есть причина тому, почему убийца шел по этому пути.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1082\",\n  \"keywords\": []\n}"
   },
   {
@@ -6687,610 +6687,610 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1084",
     "original": "Okay...[p/] You've created a rough outline of the murderer's actions.",
-    "translation": "好了……[p/]你大致推测出了凶手的行动。",
-    "stage": 5,
+    "translation": "Ладно...[p/] Ты создал примерной маршрут действий убийцы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1084\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1085",
     "original": "But the real clues will lie in how each of the individual murders occurred.",
-    "translation": "但要找出真正的线索，还得继续追查每起案件是如何发生的。",
-    "stage": 5,
+    "translation": "Но настоящие улики таятся в том, как произошло каждое убийство по отдельности.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1085\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1086",
     "original": "...And that starts with figuring out how von Sanctus was murdered.",
-    "translation": "……先从冯·桑克图斯被谋杀的细节开始。",
-    "stage": 5,
+    "translation": "...И это начинается с выяснении того, как убили фон Санктуса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1086\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1088",
     "original": "Tyrion: The sunlight is shining through this glass window.",
-    "translation": "Tyrion: 一束阳光正从玻璃窗照射进来。",
-    "stage": 5,
+    "translation": "Tyrion: Свет солнца просачивается через витражи.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Examine_CommonRoomIntro-1088\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1090",
     "original": "Tyrion: An ornate candle rests on an altar here.",
-    "translation": "Tyrion: 祭坛上有个华丽的蜡烛。",
-    "stage": 5,
+    "translation": "Tyrion: На алтаре стоят богато сделанные свечи.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Examine_CommonRoomIntro-1090\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1091",
     "original": "Celeste: Wow...[p/] It looks like it's made out of pure gold.",
-    "translation": "Celeste: 哇噻……[p/]好像是纯金做的。",
-    "stage": 5,
+    "translation": "Celeste: Ого...[p/] Похоже, они сделаны из чистого золото.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Examine_CommonRoomIntro-1091\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1093",
     "original": "Tyrion: A ceramic altar is at the end of this room.",
-    "translation": "Tyrion: 房间尽头有个陶瓷祭坛。",
-    "stage": 5,
+    "translation": "Tyrion: Керамический алтарь находится в конце комнаты.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Examine_CommonRoomIntro-1093\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1096",
     "original": "Tyrion: So [i]you're[/i] the leader of House Sibyl.",
-    "translation": "Tyrion: <u>你就是</u>希比尔家族的领主。",
-    "stage": 5,
+    "translation": "Tyrion: Значит, это [i]вы[/i] стоите во главе Дома Сибил.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1096\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1097",
     "original": "Tyrion: What does your family do, exactly?",
-    "translation": "Tyrion: 你们家族具体都干什么呢？",
-    "stage": 5,
+    "translation": "Tyrion: Чем конкретно занимается ваша семья?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1097\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1098",
     "original": "Lloyd: How are you [i]this[/i] ignorant?",
-    "translation": "Lloyd: 你怎么会无知到<u>这种地步</u>？",
-    "stage": 5,
+    "translation": "Lloyd: Вы [i]настолько[/i] невежественны?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1098\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1099",
     "original": "Coraline: Each of the \"Four Pillars\",[p/] as you commoners call them,[p/] control different branches of the kingdom's government.",
-    "translation": "Coraline: 平民称我们为“四大支柱”，[p/]每个成员家族都控制着王国政府的不同分支。",
-    "stage": 5,
+    "translation": "Coraline: Каждый из \"Четырёх Столпов\",[p/] как вы, простолюдины их называете,[p/] отвечают за разные части королевства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1099\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1100",
     "original": "Coraline: House Steelwind oversees national defense and law enforcement.",
-    "translation": "Coraline: 斯蒂尔文德家掌管国防与执法机关。",
-    "stage": 5,
+    "translation": "Coraline: Дом Стилвинд отвечает за национальную безопасность и соблюдение закона.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1100\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1101",
     "original": "Coraline: House Frega oversees economic development and finances.",
-    "translation": "Coraline: 弗雷加家负责金融与经济发展。",
-    "stage": 5,
+    "translation": "Coraline: Дом Фрега следит за экономикой и финансами.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1101\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1102",
     "original": "Coraline: House von Sanctus handles commerce,[p/] both local and international.",
-    "translation": "Coraline: 冯·桑克图斯家负责商业，[p/]本地和国际均有。",
-    "stage": 5,
+    "translation": "Coraline: Дом фон Санктус следит за коммерцией,[p/] внутренней и внешней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1102\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1103",
     "original": "Coraline: And finally,[p/] there's House Sibyl.",
-    "translation": "Coraline: 最后，[p/]就是希比尔家。",
-    "stage": 5,
+    "translation": "Coraline: И, наконец,[p/] дом Сибил.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1103\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1104",
     "original": "Coraline: We handle the kingdom's legislative and judicial branches.",
-    "translation": "Coraline: 我们负责王国的立法与司法机关。",
-    "stage": 5,
+    "translation": "Coraline: Мы отвечаем за юрисдикцию и судопроизводство.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1104\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1105",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1105\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1106",
     "original": "Tyrion: That would also mean you're responsible for our kingdom's justice system.",
-    "translation": "Tyrion: 所以我国的司法体系是你负责的。",
-    "stage": 5,
+    "translation": "Tyrion: Значит, это делает вас ответственными за судебную систему нашего королевства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1107",
     "original": "Coraline: That is correct.",
-    "translation": "Coraline: 正确。",
-    "stage": 5,
+    "translation": "Coraline: Это верно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1107\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1108",
     "original": "Lloyd: Oh, wonderful...[p/] Here we go.",
-    "translation": "Lloyd: 呃啊……[p/]又来了。",
-    "stage": 5,
+    "translation": "Lloyd: Ох, замечательно...[p/] Понеслось.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1108\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1110",
     "original": "Tyrion: Lady Sibyl...[p/] Are you [i]aware[/i] of the rampant corruption happening within [i]your[/i] justice system?",
-    "translation": "Tyrion: 希比尔小姐……[p/]你有<u>意识到</u>猖獗滋生于<u>你的</u>司法体系里的腐败吗？",
-    "stage": 5,
+    "translation": "Tyrion: Ладе Сибил...[p/] Вы [i]в курсе[/i] того, насколько коррумпирована [i]ваша[/i] судебная система?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1110\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1111",
     "original": "Coraline: I suppose it's only inevitable that you'd see it that way.",
-    "translation": "Coraline: 你难免会这么想。",
-    "stage": 5,
+    "translation": "Coraline: Полагаю, ваше отношения такого рода неизбежно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1111\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1112",
     "original": "Tyrion: ...Am I wrong?[p/] I've been involved in plenty of court cases and it's [i]very[/i] obvious.",
-    "translation": "Tyrion: ……我有说错吗？[p/]我经手过不少庭审了，这一点<u>非常</u>明显。",
-    "stage": 5,
+    "translation": "Tyrion: ...Я не прав?[p/] Я принимал участие в нескольких судебных процессах и всё [i]достаточно[/i] очевидно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1112\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1113",
     "original": "Tyrion: All your courts care about is closing cases as quickly as possible.",
-    "translation": "Tyrion: 法庭在乎的只有尽快结案。",
-    "stage": 5,
+    "translation": "Tyrion: Все ваши суды лишь ищут способ закрыть дела как можно скорее.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1113\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1114",
     "original": "Tyrion: The system is corrupt to its core.[p/] The courts don't even [i]try[/i] to hide it half of the time.",
-    "translation": "Tyrion: 司法体系的腐败已经渗透到核心了。[p/]法庭甚至都没有<u>试着</u>隐藏这点。",
-    "stage": 5,
+    "translation": "Tyrion: Система прогнила до самого ядра.[p/] Суды даже не [i]пытаются[/i] спрятать это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1114\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1115",
     "original": "Coraline: Yet you've prevailed against this so-called \"corruption\" in each and every one of your cases.",
-    "translation": "Coraline: 但这“腐败”也阻挡不了你每次都胜诉啊。",
-    "stage": 5,
+    "translation": "Coraline: И всё же вы одерживали верх над это, так называемой, \"коррупцией\" в каждом из ваших судов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1115\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1116",
     "original": "Tyrion: Only against every conceivable odd...[p/] And I can't be everywhere.",
-    "translation": "Tyrion: 每次都命悬一线……[p/]我也没法顾及所有人。",
-    "stage": 5,
+    "translation": "Tyrion: Несмотря на все возможные странности...[p/] Я не могу быть везде.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1117",
     "original": "Tyrion: Do you have any idea how many commoners are falsely convicted every day?",
-    "translation": "Tyrion: 你知道每天都有多少平民蒙受冤罪吗？",
-    "stage": 5,
+    "translation": "Tyrion: Вы хоть представляете, какое число простолюдин ложно обвиняется каждый день?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1117\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1118",
     "original": "Coraline: If they are convicted under my system,[p/] it's only because the cosmic balance deems it so.",
-    "translation": "Coraline: 如果是在我的体系下被定罪，[p/]肯定是因为宇宙平衡也这样认为。",
-    "stage": 5,
+    "translation": "Coraline: Если они обвиняются под надзором моей системы,[p/] так это потому что космический баланс того пожелал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1118\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1119",
     "original": "Tyrion: ...What are you even talking about?",
-    "translation": "Tyrion: ……你说的什么玩意儿？",
-    "stage": 5,
+    "translation": "Tyrion: ...О чём вы вообще говорите?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1119\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1120",
     "original": "Coraline: The cosmic balance is the natural order of things.",
-    "translation": "Coraline: 宇宙平衡是万物的自然秩序。",
-    "stage": 5,
+    "translation": "Coraline: Космический баланс - общий закон всех вещей.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1120\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1121",
     "original": "Coraline: Under it,[p/] the guilty are punished while the innocent are protected.",
-    "translation": "Coraline: 宇宙平衡下，[p/]有罪者会被惩罚，无辜者会被保护。",
-    "stage": 5,
+    "translation": "Coraline: Под его надзором,[p/] виновные наказаны, а невиновные защищены.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1121\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1122",
     "original": "Tyrion: ...And yet,[p/] when a [i]noble[/i] commits a crime,[p/] they only need to wave their influence to escape any consequences.",
-    "translation": "Tyrion: ……然而，[p/]如果犯罪的是<u>贵族</u>，[p/]他们只需要展示一下自己的影响力，就能逃避后果。",
-    "stage": 5,
+    "translation": "Tyrion: ...И всё же,[p/] когда [i]аристократ[/i] совершает убийство,[p/] им нужно лишь махнуть рукой, дабы избежать всех последствий.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1122\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1123",
     "original": "Tyrion: All while their victims are forced to suffer in silence.",
-    "translation": "Tyrion: 而他们的受害者只能闭嘴受苦。",
-    "stage": 5,
+    "translation": "Tyrion: Параллельно с тем, как их жертвы вынуждены страдать в тишине.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1123\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1124",
     "original": "Tyrion: Or worse,[p/] an innocent commoner is framed for the crime.",
-    "translation": "Tyrion: 这还不算，[p/]无辜的平民还会被陷害顶罪。",
-    "stage": 5,
+    "translation": "Tyrion: Или что хуже,[p/] невиновный простолюдин будет обвинён в убийстве.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1124\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1125",
     "original": "Coraline: Regardless of your personal feelings,[p/] our kingdom [i]needs[/i] the nobility to govern the people.",
-    "translation": "Coraline: 不管你的个人感受如何，[p/]我国<u>需要</u>贵族来治理人民。",
-    "stage": 5,
+    "translation": "Coraline: Не смотря на ваше личное отношение,[p/] наше королевство [i]нуждается[/i] в знати, дабы вести людей.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1125\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1126",
     "original": "Coraline: If they were held to the same standards as commoners,[p/] our society would surely collapse.",
-    "translation": "Coraline: 如果用相同标准对待贵族和平民，[p/]我们的社会肯定要崩坏的。",
-    "stage": 5,
+    "translation": "Coraline: Если бы они следовали тем же стандартам, что и простолюдины,[p/] наше общество свелось бы к коллапсу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1126\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1127",
     "original": "...You take back what you said about her being the most agreeable of the Four Pillars.",
-    "translation": "……现在你不觉得她是四大支柱家族里最和善的了。",
-    "stage": 5,
+    "translation": "...Ты берёшь свои слова назад о том, что она самая любезная из Четырёх Столпов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1127\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1129",
     "original": "Tyrion: So you think nobles like Pierce and von Sanctus should just be [i]allowed[/i] to get away with murder?!",
-    "translation": "Tyrion: 你觉得皮尔斯和冯·桑克图斯这种贵族就<u>有资格</u>杀害别人？！",
-    "stage": 5,
+    "translation": "Tyrion: Значит, вы считаете, что такие аристократы, как Пирс и фон Санктус имею [i]полное право[/i] избежать ответственности за убийства?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1129\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1130",
     "original": "Lloyd: Are you still sore about that?[p/] I'm sure you realized it by now.",
-    "translation": "Lloyd: 你怎么还计较这个啊？[p/]事到如今也该懂了吧。",
-    "stage": 5,
+    "translation": "Lloyd: Вы всё ещё злы из-за этого?[p/] Уверен, теперь вы понимаете.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1130\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1131",
     "original": "Lloyd: I've [i]more[/i] than paid for what happened with Jason Wynne.",
-    "translation": "Lloyd: 我可已经为了杰森·维耶的事补偿<u>很多</u>了。",
-    "stage": 5,
+    "translation": "Lloyd: Я [i]с лихвой[/i] заплатил за то, что сталось с Джейсоном Винном.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1131\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1132",
     "original": "Celeste: His name was \"Justin Waye\"!",
-    "translation": "Celeste: 他的名字是“贾斯汀·维耶”！",
-    "stage": 5,
+    "translation": "Celeste: Его имя \"Джастин Вей\"!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1132\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1133",
     "original": "Tyrion: ...And if you were truly paying for your crimes,[p/] you would be in prison right now.",
-    "translation": "Tyrion: ……你要是真的在赎罪，[p/]现在就该在监狱里。",
-    "stage": 5,
+    "translation": "Tyrion: ...Если бы вы правда платили по счетам за свои деяния,[p/] вы бы были сейчас в тюрьме.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1133\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1134",
     "original": "Coraline: Von Sanctus made a...[p/] mistake.[p/] But removing him from his position would only create more suffering.",
-    "translation": "Coraline: 冯·桑克图斯犯了个……[p/]错误。[p/]但直接把他调离岗位只会造成更多灾难。",
-    "stage": 5,
+    "translation": "Coraline: Фон Санктус совершил...[p/] ошибку.[p/] Но если убрать его с его позиции, страданий будет только больше.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1134\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1135",
     "original": "Coraline: Our government is barely recovering from the death of William Frega.",
-    "translation": "Coraline: 我们的政府还没从威廉·弗雷加离世的打击里恢复过来。",
-    "stage": 5,
+    "translation": "Coraline: Наше правительство кое-как восстановилось после смерти Уильяма Фреги.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1135\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1136",
     "original": "Coraline: Wyverngarde can't suffer the loss of another House leader this close to that.",
-    "translation": "Coraline: 维文加德不能再失去另一个家族的领主了。",
-    "stage": 5,
+    "translation": "Coraline: Вивернгард не сможет смирится с потерей ещё одного лидера Дома.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1136\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1137",
     "original": "Tyrion: The way I see it,[p/] I think you nobles overstate your importance in our lives.",
-    "translation": "Tyrion: 照我看，[p/]你们这帮贵族把自己看太重了。",
-    "stage": 5,
+    "translation": "Tyrion: Как по мне,[p/] мне кажется, что аристократы сильно переоценивают свою важность.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1137\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1138",
     "original": "Tyrion: ...We'd probably be fine without you.",
-    "translation": "Tyrion: ……没了你们，我们平民过得一样好。",
-    "stage": 5,
+    "translation": "Tyrion: ...Возможно, мы справились бы и без вас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1138\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1139",
     "original": "Lloyd: Hmph...[p/] And I suppose you commoners are capable of coordinating macroeconomic initiatives.",
-    "translation": "Lloyd: 哼……[p/]你们平民也会协调宏观经济行动？",
-    "stage": 5,
+    "translation": "Lloyd: Хмф...[p/] Полагаю, вы, простолюдины, способны координировать макроэкономические деятельности.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1139\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1140",
     "original": "Lloyd: Oh,[p/] and I suppose you're [i]also[/i] capable of engaging in diplomacy with the other nations.",
-    "translation": "Lloyd: 喔，[p/]是不是<u>也会</u>和他国外交啊？",
-    "stage": 5,
+    "translation": "Lloyd: Ох,[p/] и, я полагаю, вы [i]также[/i] способны вести дипломатию с другими нациями.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1140\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1141",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1141\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1142",
     "original": "Lloyd: Face it.[p/] As much as you are loathe to admit it,[p/] ours is a symbiotic relationship.",
-    "translation": "Lloyd: 面对现实吧。[p/]就算你不情愿承认，[p/]贵族和平民也是共生关系。",
-    "stage": 5,
+    "translation": "Lloyd: Посмотрите правде в глаза.[p/] Как бы вы не хотели этого признавать,[p/] наши отношения симбиотические.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1142\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1143",
     "original": "Celeste: More like a [i]parasitic[/i] relationship.",
-    "translation": "Celeste: 更像是<u>寄生</u>关系。",
-    "stage": 5,
+    "translation": "Celeste: Скорее уж [i]паразитические[/i].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1143\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1144",
     "original": "Tyrion: So what?![p/][s/] The commonfolk should just [i]continue[/i] to suffer for the \"good\" of our nation?!",
-    "translation": "Tyrion: 所以呢？！[p/][s/]普通人就该为了王国好而<u>继续</u>受苦？！",
-    "stage": 5,
+    "translation": "Tyrion: И что с того?![p/][s/] Простолюдины должно [i]и дальше[/i] страдать во имя \"блага\" нации?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1144\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1145",
     "original": "Tyrion: Lady Sibyl...[p/] The people of the kingdom you [i]claim[/i] to be protecting are suffering because of your inaction.",
-    "translation": "Tyrion: 希比尔小姐……[p/]你<u>自称</u>在保护这个王国的人，他们实际却因你的不作为而遭难。",
-    "stage": 5,
+    "translation": "Tyrion: Леди Сибил...[p/] Жители королевства, которое, как вы [i]заявляете[/i], защищаете, страдают от вашего бездействия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1145\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1146",
     "original": "Coraline: [i]My[/i] inaction?[p/] You place the blame on me.[p/] But what have [i]you[/i] done?",
-    "translation": "Coraline: <u>我</u>不作为？[p/]把责任甩给我。[p/]那<u>你</u>又做了什么？",
-    "stage": 5,
+    "translation": "Coraline: [i]Моего[/i] бездействия?[p/] Вы вините в этом меня.[p/] Но что сделали [i]вы[/i]?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1146\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1147",
     "original": "Coraline: You were once a champion of your so-called \"justice\",[p/] but you've stopped your work as a defense attorney.",
-    "translation": "Coraline: 你曾经也在弘扬自己的“正义”，[p/]现在却不当辩护律师了。",
-    "stage": 5,
+    "translation": "Coraline: Однажды вы стали чемпионом вашего, так называемого, \"правосудия\",[p/] но вы оставили свою работу адвоката защиты.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1147\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1148",
     "original": "Coraline: How many lives could you have saved in the month that you spent on vacation?",
-    "translation": "Coraline: 你这个月不休假的话，能挽救多少人的性命？",
-    "stage": 5,
+    "translation": "Coraline: Как много жизней вы могли бы спасти за месяц отгулов?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1148\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1149",
     "original": "Tyrion: I...",
-    "translation": "Tyrion: 我……",
-    "stage": 5,
+    "translation": "Tyrion: Я...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1149\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1150",
     "original": "Celeste: It's not [s/][i]his[/i] responsibility to solve [s/][i]your[/i] mess.",
-    "translation": "Celeste: [s/]<u>他的</u>责任不是打扫[s/]<u>你的</u>烂摊子。",
-    "stage": 5,
+    "translation": "Celeste: Это не[s/][i]его[/i] ответственность - разгребать [s/][i]ваш[/i] бардак.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1150\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1151",
     "original": "Celeste: You have no idea how much he's suffered trying to do the right thing...",
-    "translation": "Celeste: 你根本不知道为了做正确的事，他都经历过什么……",
-    "stage": 5,
+    "translation": "Celeste: Вы и понятия не имеете, через что он проходи во имя праведных дел...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1151\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1152",
     "original": "Tyrion: Celeste...",
-    "translation": "Tyrion: 塞莱斯特……",
-    "stage": 5,
+    "translation": "Tyrion: Селест...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1152\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1153",
     "original": "Coraline: Perhaps you're right.[p/] He shouldn't bear that kind of responsibility alone.",
-    "translation": "Coraline: 你可能没错。[p/]这不是他该独自承担的责任。",
-    "stage": 5,
+    "translation": "Coraline: Может вы и правы.[p/] Может он не должен нести эту \"ответственность\" в одиночку.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1154",
     "original": "Coraline: But every commoner has the ability to learn and practice law as you do, Mr. Cuthbert.",
-    "translation": "Coraline: 但平民们明明都可以像卡斯伯特先生一样，学习法律，参加工作。",
-    "stage": 5,
+    "translation": "Coraline: Но каждый из простолюдин способен изучить и практиковать закон также, как и вы, мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1154\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1155",
     "original": "Coraline: So why are [i]you[/i] one the few commoners that do so?",
-    "translation": "Coraline: 为什么只有<u>你</u>和少数平民这么做了？",
-    "stage": 5,
+    "translation": "Coraline: Так почему только [i]вы[/i], среди всех простолюдин, пошли на это?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1155\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1156",
     "original": "Coraline: From what I've heard,[p/] you're one of the few people who defend mages of the commonfolk.",
-    "translation": "Coraline: 根据我的了解，[p/]你是为数不多为平民法师辩护的人。",
-    "stage": 5,
+    "translation": "Coraline: Как я слышала,[p/] вы один из небольшого числа людей, кто защищает магов из простого люда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1156\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1157",
     "original": "Coraline: Every other attorney wouldn't even consider taking them as clients.",
-    "translation": "Coraline: 其他所有律师都不会考虑接收这种委托人。",
-    "stage": 5,
+    "translation": "Coraline: Любой другой адвокат даже не подумал бы о том, чтобы взяться за таких клиентов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1157\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1158",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1158\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1159",
     "original": "Coraline: Perhaps the problem lies in the commonfolk, then.",
-    "translation": "Coraline: 那问题可能就出在平民了。",
-    "stage": 5,
+    "translation": "Coraline: Значит, проблема может заключатся в простом люде.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1159\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1160",
     "original": "Coraline: They are fully capable of rising to defend the so-called \"innocent\",[p/] yet they do nothing.",
-    "translation": "Coraline: 他们完全有能力替这些所谓的“无辜者”辩护，[p/]但他们什么都没做。",
-    "stage": 5,
+    "translation": "Coraline: У них есть все возможности для защиты, так называемых, \"невинных\",[p/] но они бездействуют.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1160\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1163",
     "original": "Coraline: Tyrion Cuthbert...[p/] It appears we were fated to meet.",
-    "translation": "Coraline: 提利昂·卡斯伯特……[p/]我们似乎注定相遇。",
-    "stage": 5,
+    "translation": "Coraline: Тирион Катберт...[p/] Похоже, нам было суждено встретиться.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1163\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1164",
     "original": "Tyrion: I mean...[p/] It was [i]bound[/i] to happen eventually.",
-    "translation": "Tyrion: 确实……[p/]<u>必然</u>如此。",
-    "stage": 5,
+    "translation": "Tyrion: Ну...[p/] [i]Рано или поздно[/i] это бы случилось.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1164\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1165",
     "original": "Tyrion: My business tends to step on the toes of the Four Pillars.",
-    "translation": "Tyrion: 我的辩护工作经常跟四大支柱过不去。",
-    "stage": 5,
+    "translation": "Tyrion: Моя работа заставляет меня ступать по пятам Четырёх Столпов.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1165\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1166",
     "original": "Coraline: I concur.[p/] Our souls were drawn together by the cosmic balance.",
-    "translation": "Coraline: 我有同感。[p/]我们的灵魂是被宇宙平衡引导至一起的。",
-    "stage": 5,
+    "translation": "Coraline: Соглашусь.[p/] Наши души были связаны космическим балансом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1166\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1167",
     "original": "Celeste: Is she hitting on you?",
-    "translation": "Celeste: 她在泡你？",
-    "stage": 5,
+    "translation": "Celeste: Она к тебе клеится?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1167\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1168",
     "original": "Tyrion: ...I have no idea.",
-    "translation": "Tyrion: ……不清楚。",
-    "stage": 5,
+    "translation": "Tyrion: ...Без понятия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1168\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1170",
     "original": "Tyrion: What do you think about this, Lady Sibyl?",
-    "translation": "Tyrion: 你怎么看，希比尔小姐？",
-    "stage": 5,
+    "translation": "Tyrion: Что вы скажете об этом, леди Стилвинд?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1170\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1171",
     "original": "Coraline: Hm...[p/] It is not my role to speak of such things.",
-    "translation": "Coraline: 嗯……[p/]我的立场不适合说这些。",
-    "stage": 5,
+    "translation": "Coraline: Хм...[p/] Моя роль не даёт мне что-то сказать об этом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1171\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1172",
     "original": "In other words,[p/] she has nothing to say about that...",
-    "translation": "也就是说，[p/]她什么都不知道……",
-    "stage": 5,
+    "translation": "Другими словами,[p/] ей нечего сказать...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Present_CommonRoomIntro-1172\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1174",
     "original": "Lloyd: Oh, what are [i]you[/i] doing here?!",
-    "translation": "Lloyd: 啊，<u>你</u>在这儿干什么？！",
-    "stage": 5,
+    "translation": "Lloyd: Ох, что здесь забыли [i]вы[/i]?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1174\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1175",
     "original": "Lloyd: Did you follow us?!",
-    "translation": "Lloyd: 你跟踪我们？！",
-    "stage": 5,
+    "translation": "Lloyd: Вы преследуете нас?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1175\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1176",
     "original": "Celeste: ...Not [i]intentionally[/i].",
-    "translation": "Celeste: ……不是<u>故意</u>的。",
-    "stage": 5,
+    "translation": "Celeste: ...Не [i]намеренно[/i].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1176\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1177",
     "original": "Tyrion: Trust me...[p/] You're the [i]last[/i] person we wanted to see today.",
-    "translation": "Tyrion: 相信我……[p/]今天我们<u>最</u>不想看见的就是你。",
-    "stage": 5,
+    "translation": "Tyrion: Поверьте мне...[p/] Вы - [i]последний[/i] человек, с кем я хотел бы встретиться сегодня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1177\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1178",
     "original": "Lloyd: Hmph...",
-    "translation": "Lloyd: 哼……",
-    "stage": 5,
+    "translation": "Lloyd: Хмф...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1178\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1179",
     "original": "Coraline: Hush now, von Sanctus.",
-    "translation": "Coraline: 安静，冯·桑克图斯。",
-    "stage": 5,
+    "translation": "Coraline: Помолчи, фон Санктус.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1179\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1180",
     "original": "Coraline: If they are here by chance,[p/] it is because the cosmic balance wills it so.",
-    "translation": "Coraline: 他们来到这里，[p/]也只是宇宙平衡使然。",
-    "stage": 5,
+    "translation": "Coraline: Раз случай привёл и сюда,[p/] это лишь проявление воли космического баланса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1180\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1181",
     "original": "Lloyd: Ugh...[p/] Not [i]this[/i] again.",
-    "translation": "Lloyd: 呃啊……[p/]不要再提<u>这个</u>了。",
-    "stage": 5,
+    "translation": "Lloyd: Угх...[p/] Только не [i]снова[/i].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Check_Events_CommonRoomIntro-1181\",\n  \"keywords\": []\n}"
   },
   {
