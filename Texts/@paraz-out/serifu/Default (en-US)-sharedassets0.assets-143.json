@@ -16060,1464 +16060,1464 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2520",
     "original": "Lucio: And he's of [i]pure[/i] royal blood.",
-    "translation": "Lucio: 而且还是<u>纯血</u>长子。",
-    "stage": 5,
+    "translation": "Lucio: И он [i]чистой[/i] королевской крови.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2520\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2521",
     "original": "Lucio: McCoy would have no claim to the throne under these circumstances.",
-    "translation": "Lucio: 麦考伊甚至都摸不着王座的边。",
-    "stage": 5,
+    "translation": "Lucio: МакКой не было бы никакого права на трон при таких обстоятельствах.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2521\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2522",
     "original": "Tyrion: Right...[p/] I see what you mean.",
-    "translation": "Tyrion: 这样……[p/]我懂你的意思。",
-    "stage": 5,
+    "translation": "Tyrion: Верно...[p/] Я понял, о чём вы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2522\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2523",
     "original": "Tyrion: I suppose that eliminates Aster for now.",
-    "translation": "Tyrion: 看来要先排除阿斯特了。",
-    "stage": 5,
+    "translation": "Tyrion: Полагаю, на данный момент, это исключает Астера.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2523\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2524",
     "original": "House Frega",
-    "translation": "弗雷加一族",
-    "stage": 5,
+    "translation": "Дом Фрега.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2524\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2525",
     "original": "Tyrion: I recall during Beatrice Frega's trial,[p/] we heard William Frega's last will and testament.",
-    "translation": "Tyrion: 我记得比亚特丽丝·弗雷加受审时，[p/]威廉的遗嘱也被宣读了。",
-    "stage": 5,
+    "translation": "Tyrion: Во время дела Беатрис Фреги,[p/] мы выслушали прочтение завещания Уильяма Фреги.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2525\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2526",
     "original": "Tyrion: It mentioned that House Frega's assets would be divided evenly between [i]all[/i] of his children.",
-    "translation": "Tyrion: 其中提到弗雷加一族的家产会平均分给他的<u>所有</u>孩子。",
-    "stage": 5,
+    "translation": "Tyrion: В нём упоминалось, что наследство Дома Фрега будет разделено между [i]всеми[/i] детьми лорда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2526\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2527",
     "original": "Lucio: Ah...[p/] If McCoy were to be revealed as a Frega,[p/] his daughters would be legally obligated to share the estate with her.",
-    "translation": "Lucio: 喔……[p/]如果麦考伊其实是弗雷加家的人，[p/]他的女儿们就必须和她平分财产。",
-    "stage": 3,
+    "translation": "Lucio: Ах...[p/] Если МакКой - выходец из Фрег,[p/] его дочери были бы обязаны поделится с ней частью владений.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2527\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2528",
     "original": "Celeste: ...Could I seriously be a Frega?",
-    "translation": "Celeste: ……我真是弗雷加家的人？",
-    "stage": 3,
+    "translation": "Celeste: ...Могу ли я правда быть Фрегой?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2528\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2529",
     "original": "Tyrion: I don't want to suspect Laefe or Miriam.[p/] But we [i]need[/i] to consider every possibility.",
-    "translation": "Tyrion: 我不想怀疑拉菲或者米莉亚姆。[p/]但我们<u>必须</u>考虑所有可能性。",
-    "stage": 5,
+    "translation": "Tyrion: Я не хочу подозревать Лаеф и Мириам.[p/] Но нам [i]нужно[/i] учитывать любые возможности.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2529\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2530",
     "original": "Tyrion: And as we've seen,[p/] the Fregas are no strangers to making deals with demons.",
-    "translation": "Tyrion: 我们也知道，[p/]弗雷加一族有和恶魔签约的前科。",
-    "stage": 5,
+    "translation": "Tyrion: И как мы уже видели,[p/] Фреги не брезгуют заключать сделки с демонами.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2530\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2531",
     "original": "Tyrion: But,[p/] it still doesn't quite fit.[p/] I doubt Laefe or Miriam would do something like this.",
-    "translation": "Tyrion: 但是，[p/]还是说不通。[p/]我不觉得拉菲或者米莉亚姆能做出这种事。",
-    "stage": 5,
+    "translation": "Tyrion: Но всё же,[p/] что-то здесь не так.[p/] Я сомневаюсь, что Лаеф и Мириам пошли бы на такое.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2531\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2532",
     "original": "Rath: ...What are you basing that on?",
-    "translation": "Rath: ……你的论据是？",
-    "stage": 5,
+    "translation": "Rath: ...На чём вы основываетесь?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2532\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2533",
     "original": "Tyrion: I tend to be a good judge of character.[p/] And they just don't seem like the type to do something like this.",
-    "translation": "Tyrion: 我很擅长判断人品。[p/]她们俩做不出这种事。",
-    "stage": 5,
+    "translation": "Tyrion: Я считаю, что я хорошо сужу по характеру.[p/] И они не похожи на тех, кто решился бы на подобные действия.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2533\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2534",
     "original": "Lucio: Bah![p/] You're far too trusting.",
-    "translation": "Lucio: 呸！[p/]你也太容易相信别人了。",
-    "stage": 5,
+    "translation": "Lucio: Ба![p/] Вы слишком доверчивы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2534\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2535",
     "original": "Lucio: I hold no doubt that [i]any[/i] of William's children would be capable of something like this.",
-    "translation": "Lucio: 威廉的<u>每个</u>孩子都干得出这种事。",
-    "stage": 5,
+    "translation": "Lucio: Я не сомневаюсь, что [i]любое[/i] дитя Уильяма может быть на такое способно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2535\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2536",
     "original": "Tyrion: ...I suppose we'll have to see.",
-    "translation": "Tyrion: ……那我们等着看吧。",
-    "stage": 5,
+    "translation": "Tyrion: ...Полагаю, это только предстоит увидеть.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2536\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2537",
     "original": "House Steelwind",
-    "translation": "斯蒂尔文德一家",
-    "stage": 5,
+    "translation": "Дом Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2537\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2538",
     "original": "Tyrion: ...As much as I have my doubts,[p/] House Steelwind [i]is[/i] the only Pillar Family whose House leader survived the past month.",
-    "translation": "Tyrion: ……虽然难以置信，[p/]但斯蒂尔文德家<u>是</u>支柱家族里唯一没有失去领主的。",
-    "stage": 5,
+    "translation": "Tyrion: ...Как бы сильно я не сомневался,[p/] Дом Стилвинд - [i]один[/i] из Столповых Семейств, чей лидер остался в живых за последний месяц.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2538\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2539",
     "original": "Lucio: ...You think [i]I'm[/i] McCoy's biological father?",
-    "translation": "Lucio: ……你觉得<u>我</u>是麦考伊的生父？",
-    "stage": 5,
+    "translation": "Lucio: ...Вы дума, это [i]я[/i] - отец МакКой?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2539\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2540",
     "original": "Celeste: Ugh...[p/] You're barely a father to your [i]actual[/i] daughter.",
-    "translation": "Celeste: 呜哇……[p/]你对自己<u>已知</u>的亲生女儿都不怎么样。",
-    "stage": 5,
+    "translation": "Celeste: Угх...[p/] Вас сложно назвать отцом даже для [i]вашей настоящей[/i] дочери.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2540\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2541",
     "original": "Tyrion: I'm only stating that possibility for the sake of argument.",
-    "translation": "Tyrion: 我只是在陈述一种可能性。",
-    "stage": 5,
+    "translation": "Tyrion: Я предполагаю такую вероятность только во благо рассуждений.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2541\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2542",
     "original": "Tyrion: As I've said,[p/] it wouldn't make sense for you to frame your own daughter when [i]House Steelwind[/i] would be blamed.",
-    "translation": "Tyrion: 之前也说过，[p/]明知<u>斯蒂尔文德家</u>会被怀疑的你不可能去陷害自己的女儿。",
-    "stage": 5,
+    "translation": "Tyrion: Как я и сказал,[p/] для вас не имело бы смысла подставлять свою же дочь, когда обвиняться будет [i]Дом Стилвинд[/i].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2542\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2543",
     "original": "Tyrion: But we need to consider every possibility.",
-    "translation": "Tyrion: 但我们要考虑所有可能性。",
-    "stage": 5,
+    "translation": "Tyrion: Но мы должны учитывать каждую возможность.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2543\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2544",
     "original": "The Eyetaker",
-    "translation": "夺眼者",
-    "stage": 5,
+    "translation": "Глазохват",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2544\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： The Eyetaker\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2545",
     "original": "Tyrion: ...What if the Eyetaker orchestrated this whole thing?",
-    "translation": "Tyrion: ……如果是夺眼者策划了这些呢？",
-    "stage": 5,
+    "translation": "Tyrion: ...А если за всем этим стоял Глазохват?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2545\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2546",
     "original": "Lucio: The Eyetaker?[p/] That common criminal?",
-    "translation": "Lucio: 夺眼者？[p/]那个黑道？",
-    "stage": 5,
+    "translation": "Lucio: Глазохват?[p/] Этот простак-преступник?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2546\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2547",
     "original": "Lucio: What reason would [i]he[/i] have to do this?",
-    "translation": "Lucio: <u>他</u>策划这些干什么？",
-    "stage": 5,
+    "translation": "Lucio: С чего бы [i]ему[/i] идти на такое?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2547\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2548",
     "original": "Tyrion: I've heard firsthand that he was planning to expand his influence throughout Wyverngarde.",
-    "translation": "Tyrion: 我亲耳听他说计划扩大自己在维文加德的影响力。",
-    "stage": 5,
+    "translation": "Tyrion: Я самолично слушал о том, что он планировал расширить своё влияние на весь Вивернгард.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2548\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2549",
     "original": "Tyrion: He was actually plotting with Beatrice to use House Frega to do so.",
-    "translation": "Tyrion: 他也和比亚特丽丝同谋试图利用弗雷加一族。",
-    "stage": 5,
+    "translation": "Tyrion: На самом деле, он с Беатрис планировали использовать для этого Дом Фрег.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2549\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2550",
     "original": "Tyrion: Since I ruined his original plans,[p/] setting up that massacre might've been his backup plan.",
-    "translation": "Tyrion: 由于我破坏了他的计划，[p/]他只能采用屠杀这个替补。",
-    "stage": 5,
+    "translation": "Tyrion: И поскольку я погубил его изначальные планы,[p/] резня могла быть его запасным планом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2550\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2551",
     "original": "Tyrion: Perhaps we're looking at this all wrong.",
-    "translation": "Tyrion: 也许我们的看法都是错的。",
-    "stage": 5,
+    "translation": "Tyrion: Возможно, вы всё это время рассуждали неправильно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2551\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2552",
     "original": "Tyrion: What if Celeste was a part of the royal family and they were planning to use her to take the throne?",
-    "translation": "Tyrion: 或许塞莱斯特其实是皇室成员，他们计划利用她夺取王座？",
-    "stage": 5,
+    "translation": "Tyrion: Что, если Селест - член королевской семьи и они планировали использовать её для захвата престола?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2552\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2553",
     "original": "Lucio: But if he wanted to do so,[p/] why would he put McCoy in danger by having my daughter attack her?",
-    "translation": "Lucio: 如果他想这么做，[p/]为什么还要让我的女儿攻击麦考伊？",
-    "stage": 5,
+    "translation": "Lucio: Но если это так,[p/] почему он позволил войти МакКой в зону риска и атаковал её моей дочерью?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2553\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2554",
     "original": "Lucio: Not only that.[p/] He also had the perfect opportunity to murder His Majesty.",
-    "translation": "Lucio: 不仅如此。[p/]他还有机会谋杀现在的国王陛下。",
-    "stage": 3,
+    "translation": "Lucio: И не только это.[p/] У него также была идеальная возможность убить Его Величество.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2554\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2555",
     "original": "Lucio: Imagine if he had placed a more lethal contingent spell in that [b]Glyph of Contingency[/b].",
-    "translation": "Lucio: 只需要在[b]有备无患[/b]里设下更为致命的法术。",
-    "stage": 5,
+    "translation": "Lucio: Представьте, если бы он поместил более опасное заклинание в [b]Глиф Резерва[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2555\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2556",
     "original": "Lucio: His Majesty might have very well died alongside von Sanctus, Sibyl, and Pierce.",
-    "translation": "Lucio: 国王陛下可能就和冯·桑克图斯，希比尔，皮尔斯一起归西了。",
-    "stage": 5,
+    "translation": "Lucio: Его Величество точно бы погибло вместе с фон Санктусом, Сибил и Пирсом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2556\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2557",
     "original": "Tyrion: Yeah...[p/] I suppose you're right.",
-    "translation": "Tyrion: 确实……[p/]你说得没错。",
-    "stage": 5,
+    "translation": "Tyrion: Н-да...[p/] Полагаю, вы правы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2557\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2558",
     "original": "Tyrion: But we need to consider every possibility.",
-    "translation": "Tyrion: 但我们要考虑所有可能性。",
-    "stage": 5,
+    "translation": "Tyrion: Но мы должны учитывать каждую возможность.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24-2558\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2559",
     "original": "Tyrion: Anyways,[p/] we should consider the other suspects first.",
-    "translation": "Tyrion: 总之，[p/]先考虑一下其他嫌疑人吧。",
-    "stage": 3,
+    "translation": "Tyrion: Так или иначе,[p/] нам стоит сосредоточится на других подозреваемых.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj24a-2559\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2560",
     "original": "Tyrion: Ugh...[p/] But I can't think of anyone else.",
-    "translation": "Tyrion: 唔……[p/]我想不出别人了。",
-    "stage": 5,
+    "translation": "Tyrion: Угх...[p/] Но идеи у меня закончились.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2560\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2561",
     "original": "Lucio: Yes.[p/] There's a flaw with each suspect.",
-    "translation": "Lucio: 对。[p/]每个可能项都有漏洞。",
-    "stage": 5,
+    "translation": "Lucio: Да.[p/] И с каждым подозреваемым есть проблемы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2561\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2562",
     "original": "Lucio: Your logic is clearly flawed.",
-    "translation": "Lucio: 你的逻辑就有问题。",
-    "stage": 5,
+    "translation": "Lucio: Сама ваша логика проблемная.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2562\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2563",
     "original": "Well, you don't see [i]him[/i] coming up with any ideas...",
-    "translation": "那<u>你</u>倒是说个没有问题的……",
-    "stage": 5,
+    "translation": "Ну, я не замечал каких-то идей от [i]него[/i]...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2563\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2564",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2564\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2565",
     "original": "Tyrion: ...There's [i]something[/i] here I'm not seeing.",
-    "translation": "Tyrion: ……有<u>什么</u>我没发现的事。",
-    "stage": 5,
+    "translation": "Tyrion: ...Я точно [i]что-то[/i] упускаю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2565\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2566",
     "original": "Tyrion: But I [i]know[/i] I'm close.",
-    "translation": "Tyrion: 但我<u>知道</u>自己很接近了。",
-    "stage": 5,
+    "translation": "Tyrion: Но я [i]уверен[/i], что я близко.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2566\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2567",
     "original": "Tyrion: There's a missing piece that ties this all together.",
-    "translation": "Tyrion: 还缺少一块把所有事情联系起来的拼图。",
-    "stage": 5,
+    "translation": "Tyrion: Потерянная деталь поможет связать всё вместе.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2567\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2568",
     "original": "Lucio: ...Regardless,[p/] we still have no idea who this \"Empress of Discord\" is.",
-    "translation": "Lucio: ……不管怎样。[p/]我们还是不知道“无序女皇”是谁。",
-    "stage": 5,
+    "translation": "Lucio: ...Кроме прочего,[p/] мы всё ещё не знаем, кто такая \"Императрица Раздора\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2568\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2569",
     "original": "Lucio: I am loathe to allow such an individual to walk freely through Wyverngarde.",
-    "translation": "Lucio: 我坚决不会让这种人在维文加德逍遥。",
-    "stage": 5,
+    "translation": "Lucio: Мне противно позволять такой личности спокойно бродить по Вивернгарду.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2569\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2570",
     "original": "Tyrion: Your Grace.[p/] You've been alive since the creation of Wyverngarde and magic.",
-    "translation": "Tyrion: 巨龙殿下。[p/]您在维文加德和魔力出现伊始就已在世。",
-    "stage": 5,
+    "translation": "Tyrion: Ваша Светлость.[p/] Вы жили с незапамятных времён до появления Вивернгарда и магии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2570\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2571",
     "original": "Tyrion: Do you know who this demon is?",
-    "translation": "Tyrion: 您知道这个恶魔是谁吗？",
-    "stage": 5,
+    "translation": "Tyrion: Вы знаете что-то об этом демоне?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2571\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2572",
     "original": "Rath: I can't say I do...",
-    "translation": "Rath: 并不知道……",
-    "stage": 5,
+    "translation": "Rath: Не думаю..",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2572\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2573",
     "original": "Rath: Demons tend to take on many titles over their lifetimes.",
-    "translation": "Rath: 恶魔一生会多次改变头衔。",
-    "stage": 5,
+    "translation": "Rath: Демоны любят менять свои титулы за их долгую жизнь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2573\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2574",
     "original": "Rath: ...But whoever this Empress is,[p/] they are brave to so blatantly encroach on my domain like this.",
-    "translation": "Rath: ……不管这个女皇是谁，[p/]敢这样侵犯我的领域也是好胆量。",
-    "stage": 5,
+    "translation": "Rath: ...Но кем бы не была эта Императрица,[p/] она осмелилась вторгнутся в мои владения.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2574\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2575",
     "original": "Tyrion: ...Well,[p/] I suppose we'll just have to cross that bridge when we get there.",
-    "translation": "Tyrion: ……哎，[p/]看来我们只能顺其自然了。",
-    "stage": 5,
+    "translation": "Tyrion: ...Что ж,[p/] я уверен, что нам придётся пересечь этот мост, когда мы дойдём до этого момента.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2575\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2576",
     "original": "Rath: We've obtained a lot of information today.[p/] But we clearly have many questions that need to be answered.",
-    "translation": "Rath: 我们今天已经获取了很多信息。[p/]但从中也衍生出更多问题。",
-    "stage": 5,
+    "translation": "Rath: Мы узнали множество информации за сегодня.[p/] Но у нас также много вопросов, которые требуют ответа.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2576\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2577",
     "original": "Rath: How should we proceed?",
-    "translation": "Rath: 应该怎么继续呢？",
-    "stage": 5,
+    "translation": "Rath: Как нам следует продолжить?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2577\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2578",
     "original": "Tyrion: ...Ugh.",
-    "translation": "Tyrion: ……唔呃。",
-    "stage": 5,
+    "translation": "Tyrion: ...Угх.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2578\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2579",
     "original": "Rath: ...What is it, Mr. Cuthbert?",
-    "translation": "Rath: ……怎么了，卡斯伯特先生？",
-    "stage": 5,
+    "translation": "Rath: ...В чём дело, мистер Катберт?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2579\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2580",
     "original": "Tyrion: I can't help but feel that there's something here I'm not seeing.",
-    "translation": "Tyrion: 我总觉得有什么我没发现的事。",
-    "stage": 5,
+    "translation": "Tyrion: Не могу избавится от чувства, словно я что-то упускаю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2580\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2581",
     "original": "Tyrion: I just can't put my finger on it.",
-    "translation": "Tyrion: 但我不知道是什么。",
-    "stage": 5,
+    "translation": "Tyrion: Я не могу просто взять и указать на это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2581\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2582",
     "original": "Rath: We [i]have[/i] been working at this for quite a while.",
-    "translation": "Rath: 我们<u>已经</u>忙活审理好一阵子了。",
-    "stage": 5,
+    "translation": "Rath: Мы [i]уже[/i] работает над этим довольно долго.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj25-2582\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2583",
     "original": "Rath: Perhaps we should suspend proceedings so that we can look into these new leads.",
-    "translation": "Rath: 也许应该暂时休庭，整理线索。",
-    "stage": 5,
+    "translation": "Rath: Возможно, нам следует продлить заседание, дабы изучить новые зацепки.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2583\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2584",
     "original": "Lucio: Hmph...[p/] I have no objections.",
-    "translation": "Lucio: 哼……[p/]检方没有意见。",
-    "stage": 5,
+    "translation": "Lucio: Хмф...[p/] Возражений нет.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2584\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2585",
     "original": "Lucio: It would give [i]my[/i] men some time to look into what we've discovered today.",
-    "translation": "Lucio: 这也能让<u>我的</u>人检查今天的新发现。",
-    "stage": 5,
+    "translation": "Lucio: Это позволит [i]моим[/i] людям изучить то, что мы узнали за сегодня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2585\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2586",
     "original": "Rath: Then it's settled.",
-    "translation": "Rath: 就这么定了。",
-    "stage": 5,
+    "translation": "Rath: Тогда решено.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2586\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2587",
     "original": "Rath: We'll be postponing proceedings for now.",
-    "translation": "Rath: 审理暂时推迟。",
-    "stage": 5,
+    "translation": "Rath: Мы временно откладываем заседание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2587\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2588",
     "original": "Rath: But you'll all be expected to return here by tomorrow morning.",
-    "translation": "Rath: 但明天早上大家要返回这里继续。",
-    "stage": 5,
+    "translation": "Rath: Но ожидается, что все вы вернётесь сюда к завтрашнему утру.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2588\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2589",
     "original": "Lucio: You are all free to return to your homes for the time being.",
-    "translation": "Lucio: 你们现在都可以回家了。",
-    "stage": 5,
+    "translation": "Lucio: Вы все свободны вернутся в свои дома.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2589\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2590",
     "original": "Lucio: But make no mistake!",
-    "translation": "Lucio: 但别误会！",
-    "stage": 5,
+    "translation": "Lucio: Но не забывайте!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2590\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2591",
     "original": "Lucio: The Kingsguard [i]will[/i] be keeping careful watch over [i]all[/i] of you.",
-    "translation": "Lucio: 国王卫队<u>会</u>密切关注你们<u>所有人</u>。",
-    "stage": 5,
+    "translation": "Lucio: Королевская Гвардия [i]будет[/i] внимательно следить за [i]всеми[/i] вами.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj26-2591\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2592",
     "original": "There's still this constant nagging sensation in the back of your mind.",
-    "translation": "你还是感觉如芒在背。",
-    "stage": 5,
+    "translation": "В глубине твоего сознания всё ещё существует это постоянное ноющее чувство.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2592\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2593",
     "original": "Celeste: Hey...[p/] Tyrion?",
-    "translation": "Celeste: 喂……[p/]提利昂？",
-    "stage": 5,
+    "translation": "Celeste: Хей...[p/] Тирион?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2593\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2594",
     "original": "It's as if you've forgotten something extremely important.",
-    "translation": "你感觉自己忘记了重要的事情。",
-    "stage": 5,
+    "translation": "Словно ты забыл что-то очень важное.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2594\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2595",
     "original": "Celeste: ...Tyrion?",
-    "translation": "Celeste: ……提利昂？",
-    "stage": 5,
+    "translation": "Celeste: ...Тирион?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2595\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2596",
     "original": "What [i]is[/i] it?![p/][s/] What could be so important yet [i]so[/i] difficult to remember?!",
-    "translation": "<u>是</u>什么？什么这么重要却<u>难以</u>回想？！",
-    "stage": 5,
+    "translation": "Но что [i]это[/i]?![p/][s/] Что может быть столь важным, разе это [i]так[/i] сложно вспомнить?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2596\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2597",
     "original": "Celeste: Tyrion!",
-    "translation": "Celeste: 提利昂！",
-    "stage": 5,
+    "translation": "Celeste: Тирион!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2597\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2598",
     "original": "Tyrion: A-[p/][s/]Ah![p/][s/] S-[p/][s/]Sorry...",
-    "translation": "Tyrion: 哦、[p/][s/]哦！[p/][s/]不、[p/][s/]不好意思……",
-    "stage": 5,
+    "translation": "Tyrion: А-[p/][s/]Ах![p/][s/] И-[p/][s/]Извини...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2598\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2599",
     "original": "Tyrion: I was just thinking about everything.",
-    "translation": "Tyrion: 我在思考发生的事。",
-    "stage": 5,
+    "translation": "Tyrion: Я просто задумался обо всём этом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2599\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2600",
     "original": "Celeste: You're looking really stressed out.[p/] Do you want to head back to your house to rest?",
-    "translation": "Celeste: 你看起来累坏了。[p/]要不要回家休息？",
-    "stage": 5,
+    "translation": "Celeste: Выглядишь сильно взволнованным.[p/] Нам не стоит вернутся к тебе домой и отдохнуть?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2600\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2601",
     "original": "Tyrion: No...[p/] We only have a day until the trial resumes.",
-    "translation": "Tyrion: 不……[p/]离下次庭审只有一天时间。",
-    "stage": 5,
+    "translation": "Tyrion: Нет...[p/] У нас только этот день до возобновления суда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2601\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2602",
     "original": "Tyrion: If we can't figure out what happened after tomorrow,[p/] the magical traces will dissipate.",
-    "translation": "Tyrion: 如果不能在明天之前弄明白发生了什么，[p/]魔法痕迹就会消失。",
-    "stage": 5,
+    "translation": "Tyrion: Если мы не поймём, что случилось до завтрашнего дня,[p/] магические седы пропадут.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2602\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2603",
     "original": "Celeste: But you already [i]know[/i] what happened,[p/] you just don't know who did it.",
-    "translation": "Celeste: 但你已经<u>知道</u>发生了什么，[p/]只是不知道犯人。",
-    "stage": 5,
+    "translation": "Celeste: Но ты уже [i]знаешь[/i], что случилось,[p/] ты просто не знаешь, кто это сделал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2603\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2604",
     "original": "Tyrion: Yeah...[p/] But we should speak with the suspects again.",
-    "translation": "Tyrion: 可能吧……[p/]我们应该再和嫌疑人谈一谈。",
-    "stage": 5,
+    "translation": "Tyrion: Н-да...[p/] Но нам следует снова поговорить с подозреваемыми.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2604\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2605",
     "original": "Tyrion: Maybe if I get lucky,[p/] I'll see something through the Eye of Horus.",
-    "translation": "Tyrion: 运气好的话，[p/]荷鲁斯之眼能告诉我些什么。",
-    "stage": 5,
+    "translation": "Tyrion: Может, если мне повезёт,[p/] я что-то вижу через Глаз Горо.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2605\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2606",
     "original": "Celeste: But one of the suspects is the Eyetaker...",
-    "translation": "Celeste: 可嫌疑人之一是夺眼者……",
-    "stage": 5,
+    "translation": "Celeste: Но один из подозреваемых - Глазохват...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2606\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2607",
     "original": "Celeste: What are you going to do about him?",
-    "translation": "Celeste: 他的话怎么办？",
-    "stage": 5,
+    "translation": "Celeste: Что ты будешь делать с ним?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2607\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2608",
     "original": "Tyrion: ...I suppose I'll have to speak with him too.",
-    "translation": "Tyrion: ……只能也和他谈谈了。",
-    "stage": 5,
+    "translation": "Tyrion: ...Полагаю, мне придётся и с ним поговорить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2608\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2609",
     "original": "Celeste: What?![p/][s/] No!",
-    "translation": "Celeste: 什么？！[p/][s/]不行！",
-    "stage": 5,
+    "translation": "Celeste: Чего?![p/][s/] Нет!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2609\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2610",
     "original": "Celeste: What if he tries to kill you again?!",
-    "translation": "Celeste: 他再想杀你怎么办？！",
-    "stage": 5,
+    "translation": "Celeste: А если он снова попытается убить тебя?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2610\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2611",
     "original": "Tyrion: Aria's life is on the line.",
-    "translation": "Tyrion: 阿莉亚命悬一线。",
-    "stage": 5,
+    "translation": "Tyrion: Жизнь Арии на кону.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2612",
     "original": "Tyrion: That's just a risk I'll have to take.",
-    "translation": "Tyrion: 我只能冒这个险。",
-    "stage": 5,
+    "translation": "Tyrion: Это риск, на который я пойду.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj27-2612\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2613",
     "original": "Celeste: T-[p/][s/]Tyrion...[p/] Do you even understand what you've been pulled into?",
-    "translation": "Celeste: 提、[p/][s/]提利昂……[p/]你知道自己什么处境吗？",
-    "stage": 5,
+    "translation": "Celeste: Т-[p/][s/]Тирион...[p/] Ты вообще осознаешь то, во что ты ввязался?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2613\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2614",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ……什么？",
-    "stage": 5,
+    "translation": "Tyrion: ...Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2614\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2615",
     "original": "Celeste: Someone just murdered a bunch of nobles,[p/] and they even attacked members of the royal family.",
-    "translation": "Celeste: 有人杀害了几个贵族，[p/]还攻击了皇室成员。",
-    "stage": 5,
+    "translation": "Celeste: Кто-то совсем недавно убил множество аристократов,[p/] и он даже атаковал членов королевской семьи.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2615\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2616",
     "original": "Celeste: Now there are Ancient Dragons and Demon Lords involved too.",
-    "translation": "Celeste: 古龙和恶魔领主也被卷进来了。",
-    "stage": 5,
+    "translation": "Celeste: А теперь вовлечены Древние Драконы и Демонические Лорды.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2616\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2617",
     "original": "Celeste: Isn't this above your pay grade?",
-    "translation": "Celeste: 这超出你的能力范围了吧？",
-    "stage": 5,
+    "translation": "Celeste: Это стоит твоего оклада?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2617\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2618",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2618\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2619",
     "original": "Tyrion: Ouch.",
-    "translation": "Tyrion: 痛欸。",
-    "stage": 5,
+    "translation": "Tyrion: Ауч.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2619\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2620",
     "original": "Celeste: You [i]know[/i] that's not what I meant.",
-    "translation": "Celeste: 你<u>知道</u>我不是那个意思。",
-    "stage": 5,
+    "translation": "Celeste: Ты [i]знаешь[/i], что я не об этом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2620\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2621",
     "original": "Celeste: It's just this whole thing is [i]crazy[/i], isn't it?!",
-    "translation": "Celeste: 我只是说这事儿太<u>邪门</u>了！",
-    "stage": 5,
+    "translation": "Celeste: Всё это - полное [i]безумие[/i], разве нет?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2621\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2622",
     "original": "Tyrion: It's fine.[p/] It's just like any other of our investigations.",
-    "translation": "Tyrion: 没关系的。[p/]和其他我们调查过的事一样。",
-    "stage": 5,
+    "translation": "Tyrion: Всё нормально.[p/] Ничего необычного в сравнении с другими расследованиями.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2622\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2623",
     "original": "Celeste: It's not, though!",
-    "translation": "Celeste: 不一样！",
-    "stage": 5,
+    "translation": "Celeste: Это не так!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2623\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2624",
     "original": "Celeste: What if the Empress of Discord attacks you?!",
-    "translation": "Celeste: 无序女皇攻击你怎么办？！",
-    "stage": 3,
+    "translation": "Celeste: А если Императрица Раздора атакует тебя?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2624\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2625",
     "original": "Celeste: What if the Patron decides that you're getting too close to the truth?!",
-    "translation": "Celeste: 签约人觉得你太接近真相的话怎么办？！",
-    "stage": 5,
+    "translation": "Celeste: А если Покровитель решит, что ты слишком близко подошел к правде?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2625\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2626",
     "original": "Celeste: W-[p/][s/]What if I can't...?",
-    "translation": "Celeste: 万……[p/][s/]万一我保护不了……？",
-    "stage": 5,
+    "translation": "Celeste: Ч-[p/][s/]Что если, я не смогу...?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2626\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2627",
     "original": "Her voice begins to break.",
-    "translation": "她的声音开始颤抖。",
-    "stage": 5,
+    "translation": "Её голос срывается.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2627\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2628",
     "original": "Tyrion: Celeste...?",
-    "translation": "Tyrion: 塞莱斯特……？",
-    "stage": 5,
+    "translation": "Tyrion: Селест...?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2628\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2629",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2629\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2630",
     "original": "Tyrion: Are you [i]still[/i] worried about what happened during the massacre?",
-    "translation": "Tyrion: 你<u>还在</u>担心之前的事？",
-    "stage": 5,
+    "translation": "Tyrion: Тебя [i]всё ещё[/i] волнует то, что случилось во время резни?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2630\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2631",
     "original": "Tyrion: I'm fine.[p/] I already told you that you didn't do anything wrong.",
-    "translation": "Tyrion: 没事的。[p/]我也说了你没有做错。",
-    "stage": 5,
+    "translation": "Tyrion: Я в порядке.[p/] Я уже сказал тебе, что я не сделаю ничего неправильного.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2631\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2632",
     "original": "Celeste: ...",
-    "translation": "Celeste: ……",
-    "stage": 5,
+    "translation": "Celeste: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2632\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2633",
     "original": "Celeste: You almost died, Tyrion.",
-    "translation": "Celeste: 提利昂，你差点死了。",
-    "stage": 5,
+    "translation": "Celeste: Ты почти умер, Тирион.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2633\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2634",
     "original": "Tyrion: ...I know.",
-    "translation": "Tyrion: ……我知道。",
-    "stage": 5,
+    "translation": "Tyrion: ...Я знаю.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2634\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2635",
     "original": "Celeste: Tyrion...",
-    "translation": "Celeste: 提利昂……",
-    "stage": 5,
+    "translation": "Celeste: Тирион.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2635\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2636",
     "original": "Celeste: You.[p/][s/] Almost.[p/][s/] [i]Died[/i]!",
-    "translation": "Celeste: 你。[p/][s/]差点。[p/][s/]<u>死了</u>！",
-    "stage": 5,
+    "translation": "Celeste: Ты.[p/][s/] Почти.[p/][s/] [i]Умер[/i]!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2636\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2637",
     "original": "Tyrion: I [i]know[/i], Celeste.",
-    "translation": "Tyrion: 我<u>明白</u>，塞莱斯特。",
-    "stage": 5,
+    "translation": "Tyrion: Я [i]знаю[/i], Селест.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2637\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2638",
     "original": "Celeste: No, Tyrion![p/][s/] I don't think you do!",
-    "translation": "Celeste: 不对，提利昂！[p/][s/]你不明白！",
-    "stage": 5,
+    "translation": "Celeste: Нет, Тирион![p/][s/] Я так не думаю!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj28-2638\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2639",
     "original": "Celeste: Do you have any idea how worried I was when she broke past me?!",
-    "translation": "Celeste: 你知道她越过我离开时我有多担心？！",
-    "stage": 5,
+    "translation": "Celeste: Ты хоть представляешь, как сильно я волновалась, когда она прошла мимо меня?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2639\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2640",
     "original": "Celeste: When I saw you all lying on the floor... I-[p/][s/]I...",
-    "translation": "Celeste: 看到你躺在地上……我、[p/][s/]我……",
-    "stage": 5,
+    "translation": "Celeste: Когда я увидела тебя на полу... Я-[p/][s/]Я...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2640\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2641",
     "original": "Celeste: So many things were going through my mind...",
-    "translation": "Celeste: 我想了好多好多事……",
-    "stage": 5,
+    "translation": "Celeste: Так много мыслей прошло через меня...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2641\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2642",
     "original": "Celeste: I don't know what I would've done if you were...",
-    "translation": "Celeste: 如果你真的……我不知道自己会……",
-    "stage": 5,
+    "translation": "Celeste: Я не знала, что мне делать, если ты...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2642\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2643",
     "original": "She can't even complete that sentence.",
-    "translation": "她甚至说不完那句话。",
-    "stage": 5,
+    "translation": "Она не может договорить предложение.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2643\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2644",
     "original": "Tyrion: Celeste...[p/] I...",
-    "translation": "Tyrion: 塞莱斯特……[p/]我……",
-    "stage": 5,
+    "translation": "Tyrion: Селест...[p/] Я...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2644\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2645",
     "original": "You were so focused on everything else that you've been ignoring her.",
-    "translation": "你太专注于其他事，忽视了她的感受。",
-    "stage": 5,
+    "translation": "Ты так сильно сосредоточился на прочем, что совсем забыл о ней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2645\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2646",
     "original": "She was attacked by Aria and almost died.",
-    "translation": "她被阿莉亚攻击，也差点死了。",
-    "stage": 5,
+    "translation": "Её атаковала Ария и она почти умерла.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2646\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2647",
     "original": "You never even thought about how traumatic that must have been for her.",
-    "translation": "你甚至没想过这会给她造成多严重的创伤。",
-    "stage": 5,
+    "translation": "Ты никогда не думал о том, насколько травмирующее это было для неё.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2647\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2648",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2648\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2649",
     "original": "Tyrion: ...I'm sorry.[p/] I didn't think-...",
-    "translation": "Tyrion: ……对不起。[p/]我没有……",
-    "stage": 5,
+    "translation": "Tyrion: ...Прости меня.[p/] Я не думал-...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2649\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2650",
     "original": "Celeste: Don't apologize.[p/] Just [i]please[/i]...",
-    "translation": "Celeste: 别道歉。[p/]但<u>求你了</u>……",
-    "stage": 5,
+    "translation": "Celeste: Не извиняйся.[p/] Просто [i]пожалуйста[/i]...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2650\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2651",
     "original": "Celeste: Please just leave this to Lucio and the Scaled Lord.",
-    "translation": "Celeste: 让卢西奥和鳞甲领主来处理吧。",
-    "stage": 5,
+    "translation": "Celeste: Пожалуйста, оставь это дело на Люцио и Чешуйчатого Лорда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2651\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2652",
     "original": "Celeste: You've done enough already.[p/] They can figure the rest of it out.",
-    "translation": "Celeste: 你做得够多了。[p/]他们可以解决之后的事。",
-    "stage": 5,
+    "translation": "Celeste: Ты уже сделал достаточно.[p/] Они смогут во всём разобраться.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2652\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2653",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2653\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2654",
     "original": "Tyrion: ...And what if it's not enough?",
-    "translation": "Tyrion: ……如果他们解决不了呢？",
-    "stage": 5,
+    "translation": "Tyrion: ...А если этого недостаточно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2654\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2655",
     "original": "Celeste: I...",
-    "translation": "Celeste: 我……",
-    "stage": 5,
+    "translation": "Celeste: Я...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2655\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2656",
     "original": "Tyrion: I'm not so arrogant that I think they can't do it without me.",
-    "translation": "Tyrion: 我也不会目中无人到觉得没了我就不行。",
-    "stage": 5,
+    "translation": "Tyrion: Я не настолько самонадеянный, чтобы предполагать, что они не справятся без меня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2656\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2657",
     "original": "Tyrion: But what if they [i]can't[/i] figure out who the Patron is?",
-    "translation": "Tyrion: 可他们要是<u>找不出</u>签约人呢？",
-    "stage": 5,
+    "translation": "Tyrion: Но что, если они [i]не смогут[/i] узнать личность Покровителя?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2657\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2658",
     "original": "Tyrion: Aria will spend the rest of her life in prison.",
-    "translation": "Tyrion: 阿莉亚余生都要承受牢狱之灾。",
-    "stage": 5,
+    "translation": "Tyrion: Ария проведёт остаток жизни в заточении.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2658\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2659",
     "original": "Tyrion: What if I could have done something to prevent that?",
-    "translation": "Tyrion: 如果我能帮她避免这个命运呢？",
-    "stage": 5,
+    "translation": "Tyrion: Что, если я могу сделать что-то, чтобы это предотвратить?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj29-2659\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2660",
     "original": "Celeste: I...",
-    "translation": "Celeste: 我……",
-    "stage": 5,
+    "translation": "Celeste: Я...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2660\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2661",
     "original": "Celeste: I don't care if that happens...",
-    "translation": "Celeste: 我不在乎……",
-    "stage": 5,
+    "translation": "Celeste: Мне плевать на то, что случится...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2661\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2662",
     "original": "Tyrion: Celeste!",
-    "translation": "Tyrion: 塞莱斯特！",
-    "stage": 5,
+    "translation": "Tyrion: Селест!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2662\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2663",
     "original": "Celeste: I don't care, Tyrion!",
-    "translation": "Celeste: 我不在乎，提利昂！",
-    "stage": 5,
+    "translation": "Celeste: Мне плевать, Тирион!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2663\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2664",
     "original": "Celeste: I'll apologize to her all you want after this!",
-    "translation": "Celeste: 之后我怎么对她道歉都可以！",
-    "stage": 5,
+    "translation": "Celeste: Я извинюсь перед ней столько, сколько захочешь!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2664\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2665",
     "original": "Celeste: But all I want is to keep you safe!",
-    "translation": "Celeste: 但我只想要你平安！",
-    "stage": 5,
+    "translation": "Celeste: Но я хочу лишь твоей безопасности!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2665\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2666",
     "original": "Celeste: ...And I don't know if I'm able to do that anymore.",
-    "translation": "Celeste: ……我不知道自己还会不会坚持下去。",
-    "stage": 5,
+    "translation": "Celeste: ...И я не уверена, что смогу следить за ней теперь.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2666\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2667",
     "original": "Even [i]she[/i] seems surprised by what she said...",
-    "translation": "此话一出，<u>她自己</u>也被吓到了……",
-    "stage": 5,
+    "translation": "Похоже, даже [i]она[/i] удивлена тому, что говорит...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2667\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2668",
     "original": "Celeste: ...I-[p/][s/]I'm sorry.[p/] I didn't mean to-",
-    "translation": "Celeste: ……我、[p/][s/]我很抱歉。[p/]我不是要——",
-    "stage": 5,
+    "translation": "Celeste: ...П-[p/][s/]Прости.[p/] Я не хотела-",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2668\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2669",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2669\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2670",
     "original": "Tyrion: I'm really happy you're a part of my life.",
-    "translation": "Tyrion: 我生命中有你真的很开心。",
-    "stage": 5,
+    "translation": "Tyrion: Я правда счастлив, что ты - часть моей жизни.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2670\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2671",
     "original": "Celeste: ...W-[p/][s/]What?!",
-    "translation": "Celeste: ……什、[p/][s/]什么？！",
-    "stage": 5,
+    "translation": "Celeste: ...Ч-[p/][s/]Что?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2671\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2672",
     "original": "Tyrion: I know what you're saying is coming from a place of care.",
-    "translation": "Tyrion: 我知道你是关心我才这么说。",
-    "stage": 5,
+    "translation": "Tyrion: Я знаю, что ты говоришь это из побуждений заботы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2672\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2673",
     "original": "Tyrion: And I'm really sorry about how much I've been worrying you lately, but...",
-    "translation": "Tyrion: 最近对你关心不够我也很抱歉。但是……",
-    "stage": 5,
+    "translation": "Tyrion: И мне правда жаль, что я так сильно заставил тебя волноваться, но...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2673\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2674",
     "original": "Celeste: ...You're not going to stop, are you?",
-    "translation": "Celeste: ……你不会停下来的，对吧。",
-    "stage": 5,
+    "translation": "Celeste: ...Ты не остановишься, да?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2674\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2675",
     "original": "Tyrion: It's like I've always said...",
-    "translation": "Tyrion: 我一直这么说……",
-    "stage": 5,
+    "translation": "Tyrion: Как я люблю говорить...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj30-2675\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2676",
     "original": "Celeste: *sigh*[p/] Man,[p/] king,[p/] or god.[p/] Nothing will stop you from getting justice for your clients.",
-    "translation": "Celeste: *叹气* [p/]人、[p/]王、[p/]亦或是神。[p/]谁都不能阻止你为了委托人追求正义。",
-    "stage": 5,
+    "translation": "Celeste: *вздох* [p/] Человек,[p/] король,[p/] или бог.[p/] Ничто не остановит меня перед правосудием для моего клиента.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2676\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2677",
     "original": "Celeste: ...",
-    "translation": "Celeste: ……",
-    "stage": 5,
+    "translation": "Celeste: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2677\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2678",
     "original": "Celeste: I'm going to talk to Lucio.",
-    "translation": "Celeste: 我去和卢西奥谈谈。",
-    "stage": 5,
+    "translation": "Celeste: Я поговорю с Люцио.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2678\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2679",
     "original": "Tyrion: What?",
-    "translation": "Tyrion: 什么？",
-    "stage": 5,
+    "translation": "Tyrion: Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2679\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2680",
     "original": "Celeste: If we're going to meet the Eyetaker again,[p/] we're bringing some knights with us.",
-    "translation": "Celeste: 如果要和夺眼者再会，[p/]就要带上骑士以防万一。",
-    "stage": 5,
+    "translation": "Celeste: Если мы собираемся на встречу Глазохвата,[p/] нам нужно несколько рыцарей с собой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2680\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2681",
     "original": "Tyrion: Celeste...[p/] That's hardly-",
-    "translation": "Tyrion: 塞莱斯特……[p/]不是这么——",
-    "stage": 5,
+    "translation": "Tyrion: Селест...[p/] Я не думаю-",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2681\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2682",
     "original": "Celeste: Nope![p/][s/] You don't get a say in this!",
-    "translation": "Celeste: 不行！[p/][s/]你没有决定权！",
-    "stage": 5,
+    "translation": "Celeste: Не-а![p/][s/] Ты этого не скажешь!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2682\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2683",
     "original": "Celeste: And if you're not here when I get back,[p/] I [i]will[/i] find you.",
-    "translation": "Celeste: 如果你趁我不在偷偷跑掉，[p/]我也<u>一定会</u>找到你。",
-    "stage": 5,
+    "translation": "Celeste: И даже если тебя тут не будет, когда я вернусь,[p/] я [i]всё равно[/i] найду тебя.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2683\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2684",
     "original": "Judging from her expression,[p/] it's not an empty threat.",
-    "translation": "从表情来看，[p/]她是认真的。",
-    "stage": 5,
+    "translation": "Судя по её выражению лица,[p/] это не пустая угроза.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2684\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2685",
     "original": "Tyrion: F-[p/][s/]Fine.[p/] Just go.",
-    "translation": "Tyrion: 好、[p/][s/]好吧。[p/]你快去。",
-    "stage": 5,
+    "translation": "Tyrion: Л-[p/][s/]Ладно.[p/] Иди тогда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2685\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2686",
     "original": "She might have a point though...",
-    "translation": "不过她也有道理……",
-    "stage": 5,
+    "translation": "Возможно, она права...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2686\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2687",
     "original": "Before everything happened,[p/] you weren't even sure if you [i]wanted[/i] to continue being an attorney.",
-    "translation": "这些事情发生前，[p/]你也不确定自己<u>想不想</u>继续当律师。",
-    "stage": 3,
+    "translation": "До того, как всё случилось,[p/] ты даже не был уверен в том, [i]хочешь[/i] ли ты продолжить карьеру прокурора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2687\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2688",
     "original": "Maybe you should consider a safer, quieter life after this is all done.",
-    "translation": "一切结束后也许应该换种更安全，更宁静的生活。",
-    "stage": 5,
+    "translation": "Возможно тебе стоит подумать о спокойной, тихой жизни, когда всё закончится.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2688\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2689",
     "original": "...Perhaps a life with her.",
-    "translation": "……和她一起生活。",
-    "stage": 5,
+    "translation": "...Возможно, о жизни с ней.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj31-2689\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2690",
     "original": "...",
-    "translation": "……",
-    "stage": 5,
+    "translation": "...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2690\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2691",
     "original": "Wait...[p/][s/] What?!",
-    "translation": "等等……[p/][s/]想什么呢？！",
-    "stage": 5,
+    "translation": "Погоди...[p/][s/] Чего?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2691\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2692",
     "original": "Celeste: Alright.[p/] Lucio's cleared it.",
-    "translation": "Celeste: 好了。[p/]卢西奥同意了。",
-    "stage": 5,
+    "translation": "Celeste: Хорошо.[p/] Люцио согласился.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2692\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2693",
     "original": "Celeste: It was surprisingly easy to convince him.",
-    "translation": "Celeste: 没想到说服他这么容易。",
-    "stage": 5,
+    "translation": "Celeste: На удивление, его было легко убедить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2693\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2694",
     "original": "Tyrion: O-[p/][s/]Oh...[p/] U-[p/][s/]Um...",
-    "translation": "Tyrion: 喔、[p/][s/]哦……[p/]呃、[p/][s/]唔嗯……",
-    "stage": 5,
+    "translation": "Tyrion: О-[p/][s/]Ох...[p/] Э-[p/][s/]Эм...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2694\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2695",
     "original": "Celeste: ...Are you okay?",
-    "translation": "Celeste: ……你没事吧？",
-    "stage": 5,
+    "translation": "Celeste: ...Ты в порядке?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2695\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2696",
     "original": "Tyrion: I-[p/][s/]I'm fine...[p/] Let's not waste any more time.",
-    "translation": "Tyrion: 没、[p/][s/]没事……[p/]我们快走吧。",
-    "stage": 5,
+    "translation": "Tyrion: Я-[p/][s/]Я в порядке...[p/] Давай не будем тратить время.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2696\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2697",
     "original": "Before she has a chance to respond,[p/] you hastily walk past her.",
-    "translation": "在她回答之前，[p/]你就快步走开了。",
-    "stage": 5,
+    "translation": "Перед тем, как дать ей шанс ответить,[p/] ты быстро прошел мимо.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2697\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2698",
     "original": "Celeste: Hey![p/][s/] Don't walk so far ahead!",
-    "translation": "Celeste: 喂！[p/][s/]别走这么远！",
-    "stage": 5,
+    "translation": "Celeste: Хей![p/][s/] Не беги вперёд зарплаты!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2698\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2699",
     "original": "You need to stay focused on the trial for Aria's sake.",
-    "translation": "为了救出阿莉亚，得专心准备庭审。",
-    "stage": 5,
+    "translation": "Во благо Арии, следует сосредоточиться на деле Арии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2699\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2700",
     "original": "But when this is all over, you'll...",
-    "translation": "但一切结束之后，也许可以……",
-    "stage": 5,
+    "translation": "Но когда всё закончится, ты...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2700\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2701",
     "original": "...",
-    "translation": "……",
-    "stage": 5,
+    "translation": "...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2701\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2702",
     "original": "W-[p/][s/]Well...[p/] You suppose you don't have to think about that until then.",
-    "translation": "嗯、[p/][s/]嗯……[p/]现在先不想这些。",
-    "stage": 5,
+    "translation": "Н-[p/][s/]Ну...[p/] Полагаю, подумать об этом придётся позже.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj32-2702\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2703",
     "original": "Rath: ...",
-    "translation": "Rath: ……",
-    "stage": 5,
+    "translation": "Rath: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2703\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2704",
     "original": "Eris: Hello, your lordship.[p/] I think this is the first time we've met.",
-    "translation": "Eris: 你好呀，巨龙大人。[p/]我们应该是初次见面。",
-    "stage": 5,
+    "translation": "Eris: Приветствую, ваше благородие.[p/] Полагаю, это наша первая встреча.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2704\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2705",
     "original": "Eris: ...You're a lot smaller than I expected.",
-    "translation": "Eris: ……你比我想的小只喔。",
-    "stage": 5,
+    "translation": "Eris: ...А вы куда меньше, чем я представляла.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2705\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2706",
     "original": "Rath: ...",
-    "translation": "Rath: ……",
-    "stage": 5,
+    "translation": "Rath: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2706\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2707",
     "original": "Gallery: Who is this woman?!",
-    "translation": "Gallery: 这个女的是谁？！",
-    "stage": 5,
+    "translation": "Gallery: Кто эта женщина?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2707\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2708",
     "original": "Gallery: Why have they brought a [i]civilian[/i] before the Scaled Lord?",
-    "translation": "Gallery: 怎么能带<u>普通人</u>见鳞甲领主？",
-    "stage": 5,
+    "translation": "Gallery: Зачем вы привели [i]гражданку[/i] предстать перед Чешуйчатым Лордом?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2-2708\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2709",
     "original": "Tyrion: People of the court.[p/] Thank you for your patience.",
-    "translation": "Tyrion: 旁听的人们。[p/]感谢你们耐心等待。",
-    "stage": 5,
+    "translation": "Tyrion: Зрители суда.[p/] Благодарю вас за ваше терпение.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2709\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2710",
     "original": "Tyrion: Until now,[p/] we've known this woman as Eris Illmater.",
-    "translation": "Tyrion: 至今，[p/]我们都以为这位女性叫厄莉斯·伊尔马特。",
-    "stage": 5,
+    "translation": "Tyrion: До сей поры,[p/] мы знали эту женщину как Эрис Иллмейтер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2710\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2711",
     "original": "Tyrion: And ever since the massacre,[p/] we've been trying to determine [i]who[/i] orchestrated this.",
-    "translation": "Tyrion: 屠杀发生后，[p/]我们一直在寻找真正的<u>幕后黑手</u>。",
-    "stage": 3,
+    "translation": "Tyrion: И даже с момента резни,[p/] мы пытались понять, [i]кто[/i] дирижировал всем этим.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2711\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2712",
     "original": "Tyrion: We only knew that Aria Steelwind signed a Blood Contract with a demon called \"the Empress of Discord\".",
-    "translation": "Tyrion: 我们只知道阿莉亚与叫做“无序女皇”的恶魔签订了血契。",
-    "stage": 5,
+    "translation": "Tyrion: И мы знали только то, что Ария Стилвинд подписала Кровавый Контракт с демоном, названый \"Императрицей Раздора\".",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2712\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2713",
     "original": "Tyrion: We still knew very little about this demon.",
-    "translation": "Tyrion: 但对这个恶魔知之甚少。",
-    "stage": 5,
+    "translation": "Tyrion: Мы всё ещё очень мало знаем о демонах.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2713\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2714",
     "original": "Tyrion: We had no idea who they were or what they even looked like.",
-    "translation": "Tyrion: 我们不知道这个恶魔是谁，长什么样。",
-    "stage": 5,
+    "translation": "Tyrion: И мы были без понятия о том, кто они такие и как выглядят.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2714\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2715",
     "original": "Tyrion: But we know the truth now.",
-    "translation": "Tyrion: 但现在我们知道真相了。",
-    "stage": 5,
+    "translation": "Tyrion: Но теперь мы знаем правду.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2715\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2716",
     "original": "Tyrion: People of the Wyverngarde nobility.[p/] The woman on the witness stand [i]isn't[/i] a civilian.",
-    "translation": "Tyrion: 维文加德的贵族们。[p/]证人席上的女性<u>不是</u>普通人。",
-    "stage": 5,
+    "translation": "Tyrion: Люди из аристократии Вивернгарда.[p/] Женщина за стойкой свидетеля [i]не[/i] гражданка.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2716\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2717",
     "original": "Tyrion: She is the demon known as the Empress of Discord!",
-    "translation": "Tyrion: 她就是无序女皇！",
-    "stage": 5,
+    "translation": "Tyrion: Она - демон, известный как Императрица Раздора!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2717\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2718",
     "original": "Tyrion: I have no idea [i]how[/i].[p/] But her form is that of a human.",
-    "translation": "Tyrion: 我不明白<u>原理</u>。但她利用了人类的形态。",
-    "stage": 5,
+    "translation": "Tyrion: Я без понятия [i]как[/i].[p/] Но она приняла эту человеческую форму.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2718\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2719",
     "original": "Tyrion: Using this disguise,[p/] she entered the Grand Cathedral posing as Beatrice Frega's guide.",
-    "translation": "Tyrion: 借此伪装，[p/]她以比亚特丽丝·弗雷加向导的身份进入大教堂。",
-    "stage": 5,
+    "translation": "Tyrion: Используя это прикрытие,[p/] она вошла в Великий Собор в качестве путеводителя Беатрис Ферги.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2719\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2720",
     "original": "Tyrion: She then aided the Patron by using Beatrice Frega to help Aria Steelwind massacre members of the nobility.",
-    "translation": "Tyrion: 之后她利用比亚特丽丝·弗雷加，协助操控阿莉亚·斯蒂尔文德的签约人杀害贵族。",
-    "stage": 5,
+    "translation": "Tyrion: Затем, она, для помощи Покровителю, использовала Беатрис Фреги, дабы помочь ей устроить резню членов аристократии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2720\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2721",
     "original": "Lucio: Why are we continuing with this?",
-    "translation": "Lucio: 还需要继续吗？",
-    "stage": 5,
+    "translation": "Lucio: Чего мы ещё тут задерживаемся?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2721\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2722",
     "original": "Lucio: She's already admitted to taking part in the massacre!",
-    "translation": "Lucio: 她已经承认自己参加了屠杀！",
-    "stage": 5,
+    "translation": "Lucio: Она уже признала своё участие в резне!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2722\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2723",
     "original": "Lucio: Let's force her to tell us who the Patron is and be done with this!",
-    "translation": "Lucio: 只要逼问出签约人是谁就结束了！",
-    "stage": 5,
+    "translation": "Lucio: давайте силой заставим её рассказать о том, кто Покровоитель и покончим с этим!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2723\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2724",
     "original": "Eris: Ah,[p/] how typical.",
-    "translation": "Eris: 哎呦，[p/]太典了。",
-    "stage": 5,
+    "translation": "Eris: Ах,[p/] так типично.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2724\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2725",
     "original": "Eris: The Grand General thinks he can solve [i]all[/i] of his problems with violence.",
-    "translation": "Eris: 以为暴力能解决<u>一切</u>问题的大将军。",
-    "stage": 5,
+    "translation": "Eris: Великий Генерал считает, что он может решить [i]любые[/i] проблемы силой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2725\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2726",
     "original": "Eris: But let me ask you this.[p/] Why are you assuming that the Patron is a human?",
-    "translation": "Eris: 那我问问你。[p/]你怎么就觉得签约人是人类？",
-    "stage": 5,
+    "translation": "Eris: Но позвольте мне задать вопрос.[p/] С чего вы решили, что Покровитель - человек?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2726\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2727",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ……什么？",
-    "stage": 5,
+    "translation": "Tyrion: ...Чего?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2727\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2728",
     "original": "Eris: In Aria's Contract,[p/] it says that \"the Patron\" is the individual who [i]gives[/i] the Contract to her.",
-    "translation": "Eris: 在阿莉亚的契约里，[p/]“签约人”是<u>给予</u>她合同的个体。",
-    "stage": 5,
+    "translation": "Eris: Контракт Арии гласит,[p/] что \"Покровитель\" - это личность, которая [i]дала[/i] ей Контракт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_1-2728\",\n  \"keywords\": []\n}"
   },
   {
@@ -17635,8 +17635,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2745",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ……什么？",
-    "stage": 5,
+    "translation": "Tyrion: ...Чего?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Courtroom2_2-2745\",\n  \"keywords\": []\n}"
   },
   {
