@@ -32573,1058 +32573,1058 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4966",
     "original": "Aria: I'm sure one day.[p/] You'll be able to find out what happened.",
-    "translation": "Aria: 我相信总有一天，[p/]你会弄清楚事情的来龙去脉。",
-    "stage": 5,
+    "translation": "Aria: Но я уверена, что настанет день.[p/] День, когда вы узнаете правду.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4966\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4967",
     "original": "But she'll already have lost everything by then...",
-    "translation": "但等到那时她已经失去了一切……",
-    "stage": 5,
+    "translation": "Но тогда она уже потеряет всё...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4967\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4968",
     "original": "Threaten [d=\"Do you even understand what you're saying?! You will lose [i]everything[/i] if you just let this happen!\"/]",
-    "translation": "Threaten [d=\"你明白自己在说什么吗？！就这么下去你会失去<u>一切</u>的！\"/]",
-    "stage": 5,
+    "translation": "Threaten [d=\"Вы хоть понимаете, что говорите?! Вы потеряете [i]всё[/i], если позволите этому произойти!\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4968\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4969",
     "original": "Tyrion: Do you even understand what you're saying?!",
-    "translation": "Tyrion: 你明白自己在说什么吗？！",
-    "stage": 5,
+    "translation": "Tyrion: Вы хоть понимаете, что говорите?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4969\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4970",
     "original": "Tyrion: You will lose [i]everything[/i] if you just let this happen!",
-    "translation": "Tyrion: 就这么下去你会失去<u>一切</u>的！",
-    "stage": 5,
+    "translation": "Tyrion: Вы потеряете [i]всё[/i], если позволите этому произойти!\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4970\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4971",
     "original": "Tyrion: [i]Even[/i] if you aren't executed for these charges,[p/][s/] you'll spend the rest of your life in prison!",
-    "translation": "Tyrion: <u>即使</u>你不会因这些罪名被处决，[p/][s/]余生也都要在监狱里度过！",
-    "stage": 5,
+    "translation": "Tyrion: [i]Даже[/i] если вас не казнят за эти обвинения,[p/][s/] вы проведёте остаток своей жизни в тюрьме!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4971\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4972",
     "original": "Aria: If that is what my duty demands,[p/][s/] then so be it!",
-    "translation": "Aria: 如果这就是我的职责所在，[p/][s/]那也没问题！",
-    "stage": 5,
+    "translation": "Aria: Если этого требует мой долг,[p/][s/] так тому и быть!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4972\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4973",
     "original": "Aria: I [i]can't[/i] continue living my life if my mind is vulnerable like this!",
-    "translation": "Aria: 我<u>不能</u>在意识这么容易被操控的情况下苟活！",
-    "stage": 5,
+    "translation": "Aria: Я [i]не могу[/i] продолжать жить своей жизнью, если мой разум столь уязвимый!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4973\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4974",
     "original": "Aria: I won't...[p/] endanger His Majesty like that.",
-    "translation": "Aria: 我不会……[p/]让国王陛下面临这种危险。",
-    "stage": 5,
+    "translation": "Aria: Я не посмею...[p/] подвергать Его Величество опасностью.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue2-4974\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4975",
     "original": "Aria: I suppose you're right.",
-    "translation": "Aria: 你说得也有道理。",
-    "stage": 5,
+    "translation": "Aria: Полагаю, вы правы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue3-4975\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4976",
     "original": "Aria: ...But I doubt there was [i]any[/i] goal to this.",
-    "translation": "Aria: ……但我不觉得犯人有<u>任何</u>目的。",
-    "stage": 5,
+    "translation": "Aria: ...Но я сомневаюсь, что тут были [i]хоть[/i] какие-то цели.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue3-4976\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4977",
     "original": "Aria: I've been investigating these murders for months.",
-    "translation": "Aria: 我调查这些案件好几个月了。",
-    "stage": 5,
+    "translation": "Aria: Я расследовала эти убийства несколько месяцев.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue3-4977\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4978",
     "original": "Aria: And I've never been able to find any personal clues as to who the perpetrator is.",
-    "translation": "Aria: 从来都没有找到能指明幕后黑手的特定线索。",
-    "stage": 3,
+    "translation": "Aria: И я ни разу не смогла найти хоть одной улики, указывающей на виновника.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue3-4978\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4979",
     "original": "Aria: There's no way to connect them to this.",
-    "translation": "Aria: 我们没有办法把幕后黑手与案件联系起来。",
-    "stage": 5,
+    "translation": "Aria: Нет возможности связать их всех.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue3-4979\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4980",
     "original": "Aria: Whoever did this was a sadistic individual who wanted to cause as much suffering as possible.",
-    "translation": "Aria: 做出这些的是个施虐狂，只想自己造成的痛苦越多越好。",
-    "stage": 5,
+    "translation": "Aria: Это точно совершил садист, который желал принести как можно больше страданий.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue3-4980\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4982",
     "original": "Tyrion: That's not true, Steelwind.",
-    "translation": "Tyrion: 不是这样的，斯蒂尔文德。",
-    "stage": 5,
+    "translation": "Tyrion: Это не так, Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4982\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4983",
     "original": "Tyrion: Whoever did this had very specific targets in mind.",
-    "translation": "Tyrion: 犯人的目标很明确。",
-    "stage": 5,
+    "translation": "Tyrion: Тот, кто сделал это, имел на примете точные цели.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4983\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4984",
     "original": "Tyrion: Both Prince Alaric and the High Speaker saw you when the murders were being committed.",
-    "translation": "Tyrion: 阿拉里克王子和大主教都在谋杀发生时看到了你。",
-    "stage": 5,
+    "translation": "Tyrion: Принц Аларик и епископ - они оба видели тебя, когда совершались убийства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4984\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4985",
     "original": "Tyrion: Not to mention,[p/] they set a trap for Aster.",
-    "translation": "Tyrion: 更不要说，[p/]犯人还困住了阿斯特。",
-    "stage": 5,
+    "translation": "Tyrion: Не стоит упоминать и то,[p/] что они поймали Астера в ловушку.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4985\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4986",
     "original": "Aria: ...What?",
-    "translation": "Aria: ……什么？",
-    "stage": 5,
+    "translation": "Aria: ...Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4986\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4987",
     "original": "Tyrion: Let's assume that someone [i]was[/i] controlling you.",
-    "translation": "Tyrion: 我们先假设当时有人<u>在</u>控制你。",
-    "stage": 5,
+    "translation": "Tyrion: Давайте предположим, что кто-то [i]в самом деле[/i] взял над вами контроль.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4987\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4988",
     "original": "Tyrion: They wouldn't have left Alaric, Archeus, or Aster alive if they were trying to kill as many people as possible.",
-    "translation": "Tyrion: 如果只是想杀人，那阿拉里克，阿契厄斯，和阿斯特早都一命呜呼了。",
-    "stage": 5,
+    "translation": "Tyrion: Он бы не оставил в живых Аларика, Археуса или Астера, если они пытались убить наиболее возможное число людей.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4988\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4989",
     "original": "Aria: ...I suppose you have a point there.",
-    "translation": "Aria: ……你说得有道理。",
-    "stage": 5,
+    "translation": "Aria: ...Полагаю, вы правы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4989\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4991",
     "original": "Aria: ...What is this?",
-    "translation": "Aria: ……这是什么？",
-    "stage": 5,
+    "translation": "Aria: ...Что это?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4991\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4992",
     "original": "Tyrion: The perpetrator wasn't as nearly as aimless as you think.",
-    "translation": "Tyrion: 犯人并非你想的那样随机作案。",
-    "stage": 5,
+    "translation": "Tyrion: У преступника были точные цели, вопреки вашим выводам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4992\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4993",
     "original": "Tyrion: And [i]this[/i] proves it.",
-    "translation": "Tyrion: <u>这</u>就是证据。",
-    "stage": 5,
+    "translation": "Tyrion: И [i]это[/i] тому доказательство.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4993\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4994",
     "original": "Remus: My apologies, Mr. Cuthbert,[p/] but I don't really see how that proves your claim.",
-    "translation": "Remus: 我很抱歉，卡斯伯特先生。[p/]但我没看出这能证明什么。",
-    "stage": 5,
+    "translation": "Remus: Прошу прощения, мистер Катберт,[p/] но я не думаю, что это как-то доказывает ваши слова.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4994\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4995",
     "original": "Tyrion: O-[p/][s/]Oh...",
-    "translation": "Tyrion: 噢、[p/][s/]噢……",
-    "stage": 5,
+    "translation": "Tyrion: О-[p/][s/]Ох...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue4-4995\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4996",
     "original": "Aria: But even so,[p/] that hardly narrows things down.",
-    "translation": "Aria: 但即使如此，[p/]嫌疑人的范围也没能缩小。",
-    "stage": 5,
+    "translation": "Aria: Но даже так,[p/] это не сильно сужает круг поисков.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue5-4996\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4997",
     "original": "Aria: If someone was controlling me,[p/] they wouldn't need to enter the cathedral to use me.",
-    "translation": "Aria: 如果有人在控制我，[p/]这个人也不需要特地进入大教堂。",
-    "stage": 5,
+    "translation": "Aria: Если кто-то взял надо мной контроль,[p/] ему было бы необязательно заходить в собор.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue5-4997\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4998",
     "original": "Aria: Perhaps you're right,[p/] and the perpetrator only wanted to murder the three victims.",
-    "translation": "Aria: 也许你说得对，[p/]犯人只想杀掉三名受害者。",
-    "stage": 5,
+    "translation": "Aria: Возможно, вы правы,[p/] и преступник хотел убить только троих.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue5-4998\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4999",
     "original": "Aria: There's plenty of people who might want to see those three dead.",
-    "translation": "Aria: 想让他们三个去死的人多了去了。",
-    "stage": 5,
+    "translation": "Aria: А список людей, которые желали этим троим смерти, довольно большой.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue5-4999\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5001",
     "original": "Tyrion: There's one thing you're overlooking.",
-    "translation": "Tyrion: 你忽略了一件事。",
-    "stage": 5,
+    "translation": "Tyrion: Но кое-что вы не предусмотрели.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5001\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5002",
     "original": "Tyrion: Before the murders started,[p/] someone trapped Aster within a [b]Force Cage[/b] using [b]Glyph of Contingency[/b].",
-    "translation": "Tyrion: 谋杀开始之前，[p/]有人用内置于[b]有备无患[/b]内的[b]坚牢术[/b]困住了阿斯特。",
-    "stage": 5,
+    "translation": "Tyrion: До начала убийств,[p/] кто-то установил [b]Глиф Резерва[/b] с [b]Силовой Клеткой[/b], в качестве ловушки для Астера.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5002\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5003",
     "original": "Aria: But they didn't harm him.[p/] It was probably just a distraction.",
-    "translation": "Aria: 但犯人没有伤害他。[p/]可能这只是调虎离山之计。",
-    "stage": 5,
+    "translation": "Aria: Но они не навредили ему.[p/] Это было простое отвлечение.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5003\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5004",
     "original": "Tyrion: Even so,[p/] this gives us two very important clues.",
-    "translation": "Tyrion: 即使如此，[p/]这也给了我们两条重要线索。",
-    "stage": 5,
+    "translation": "Tyrion: Даже если так,[p/] это даёт нам две важные детали.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5004\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5005",
     "original": "Tyrion: The first is that whoever did this is capable of casting those two spells.",
-    "translation": "Tyrion: 第一是犯人能够施展这两个法术。",
-    "stage": 5,
+    "translation": "Tyrion: Первое: кем бы не был виновник, он способен применять эти два заклинания.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5005\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5006",
     "original": "Tyrion: This means that the perpetrator was a mage.",
-    "translation": "Tyrion: 也就是说犯人是个法师。",
-    "stage": 5,
+    "translation": "Tyrion: Это значит, что преступник был магом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5006\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5007",
     "original": "Aria: That's true...",
-    "translation": "Aria: 的确如此……",
-    "stage": 5,
+    "translation": "Aria: Это верно....",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5007\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5008",
     "original": "Tyrion: But the second clue is the most important one.",
-    "translation": "Tyrion: 但第二条线索更为重要。",
-    "stage": 5,
+    "translation": "Tyrion: Но второе куда более важное.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5008\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5009",
     "original": "Tyrion: Whoever set that trap for Aster,[p/] they did so within twenty-four hours of it triggering.",
-    "translation": "Tyrion: 无论是谁对阿斯特设下陷阱，[p/]设置时间都在触发 24 小时以内。",
-    "stage": 5,
+    "translation": "Tyrion: Тот, кто установил ловушку для Астера,[p/] сделал это в течении 24 часов до её срабатывания.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5009\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5010",
     "original": "Tyrion: This means that the perpetrator must have been someone who attended the funeral.",
-    "translation": "Tyrion: 意味着犯人肯定在参加葬礼的人之中。",
-    "stage": 5,
+    "translation": "Tyrion: Это значит, что преступник должен быть кем-то, кто был приглашён на похороны.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5010\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5011",
     "original": "Aria: ...So it was one of them?",
-    "translation": "Aria: ……所以是那些人之一？",
-    "stage": 5,
+    "translation": "Aria: ...Значит, им был кто-то из них?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5011\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5013",
     "original": "Aria: ...What is this?",
-    "translation": "Aria: ……这是什么？",
-    "stage": 5,
+    "translation": "Aria: ...Что это?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5013\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5014",
     "original": "Tyrion: It's evidence that narrows down who's responsible for this.",
-    "translation": "Tyrion: 是一件能帮我们缩小嫌犯范围的证据。",
-    "stage": 5,
+    "translation": "Tyrion: Это улика, сужающая круг поиска ответственного за это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5014\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5015",
     "original": "Aria: I'm sorry, Mr. Cuthbert.",
-    "translation": "Aria: 抱歉，卡斯伯特先生。",
-    "stage": 5,
+    "translation": "Aria: Прошу прощения, мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5015\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5016",
     "original": "Aria: But I don't really follow your logic.",
-    "translation": "Aria: 你的逻辑我听不懂。",
-    "stage": 5,
+    "translation": "Aria: Но я не до конца понимаю вашу логику.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5016\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5017",
     "original": "Tyrion: O-[p/][s/]Oh...",
-    "translation": "Tyrion: 噢、[p/][s/]噢……",
-    "stage": 5,
+    "translation": "Tyrion: О-[p/][s/]Ох...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue6-5017\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5018",
     "original": "Tyrion: That narrows down our list of suspects substantially.",
-    "translation": "Tyrion: 这样就大幅缩小了嫌疑犯的范围。",
-    "stage": 5,
+    "translation": "Tyrion: Это сильно срезает лист подозреваемых.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5018\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5019",
     "original": "Tyrion: There's a chance we can identify who did this.",
-    "translation": "Tyrion: 我们完全有可能找出犯人的身份。",
-    "stage": 5,
+    "translation": "Tyrion: У нас есть шанс узнать, кто стоял за всем этим.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5019\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5020",
     "original": "Tyrion: And if they really [i]did[/i] control your actions,[p/] we can find a way to prevent them from doing so again.",
-    "translation": "Tyrion: 如果犯人<u>真的</u>控制了你的行动，[p/]我们也能找到阻止他故技重施的方法。",
-    "stage": 5,
+    "translation": "Tyrion: И если он [i]в самом деле[/i] взять ваши действия под контроль,[p/] мы можем найти способ остановить его.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5020\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5021",
     "original": "Aria: ...",
-    "translation": "Aria: ……",
-    "stage": 5,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5021\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5022",
     "original": "Tyrion: Steelwind...[p/] You need to fight this.",
-    "translation": "Tyrion: 斯蒂尔文德……[p/]你必须与之斗争。",
-    "stage": 5,
+    "translation": "Tyrion: Стилвинд...[p/] Вам нужно бороться.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5022\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5023",
     "original": "Aria: I-[p/][s/]I...[p/] I can't.",
-    "translation": "Aria: 我、[p/][s/]我……[p/]我不能。",
-    "stage": 5,
+    "translation": "Aria: Я-[p/][s/]Я...[p/] Я не могу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5023\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5024",
     "original": "Tyrion: What?![p/][s/] Why not?!",
-    "translation": "Tyrion: 什么？！[p/][s/]为什么不能？！",
-    "stage": 5,
+    "translation": "Tyrion: Что?![p/][s/] Почему?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5024\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5025",
     "original": "Aria: If we pursue an individual like this,[p/] they might retaliate even more than they already have.",
-    "translation": "Aria: 如果追查这样的犯人，[p/]可能会导致更激烈的报复。",
-    "stage": 5,
+    "translation": "Aria: Если мы преследуем такую личность,[p/] он может отомстить ещё сильнее, чем уже.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5025\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5026",
     "original": "Aria: They wanted to remove me from my position.",
-    "translation": "Aria: 犯人想让我离开岗位。",
-    "stage": 5,
+    "translation": "Aria: Они хотели убрать меня с моей поизиции.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5026\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5027",
     "original": "Aria: ...How will they react if I try to resist?",
-    "translation": "Aria: ……要是我反抗了，他们会怎么反应？",
-    "stage": 5,
+    "translation": "Aria: ...Какова будет их реакция, если я буду сопротивляться? ",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5027\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5028",
     "original": "Aria: They might hurt even more people to send a message.[p/] It's far too dangerous.",
-    "translation": "Aria: 他们可能会为了警告我而伤害更多人。[p/]这太危险了。",
-    "stage": 5,
+    "translation": "Aria: Он может навредить её большему числу людей, дабы оставить послание.[p/] Это слишком опасно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue7-5028\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5029",
     "original": "Threaten [d=\"Whoever did this had a goal far bigger than you. And you have no guarantee that they'll stop here. Who will they target next? Your father? ...The king?\"/]",
-    "translation": "Threaten [d=\"做这些的人目标不只是你。你也不能保证他们会就此停手。下一个目标会是谁？你的父亲？……国王？\"/]",
-    "stage": 5,
+    "translation": "Threaten [d=\"Кем он не был, у него куда большая цель, чем вы. И у вас нет гарантий, что он остановится. На кого ещё он может нацелится? Ваш отец? ...Король?\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5029\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5030",
     "original": "Tyrion: Whoever did this had a goal far bigger than you.[p/] And you have no guarantee that they'll stop here.",
-    "translation": "Tyrion: 做这些的人目标不只是你。[p/]你也不能保证他们会就此停手。",
-    "stage": 5,
+    "translation": "Tyrion: Кем он не был, у него куда большая цель, чем вы.[p/] И у вас нет гарантий, что он остановится.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5030\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5031",
     "original": "Tyrion: Three nobles died today,[p/] and two of them were near the top of the political hierarchy.",
-    "translation": "Tyrion: 今天三名贵族死了，[p/]其中两人还身处政界顶端。",
-    "stage": 5,
+    "translation": "Tyrion: Сегодня умерло трое аристократов,[p/] и двоя из них стояли на вершине политической иерархии.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5031\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5032",
     "original": "Tyrion: What if they decide to go after more victims?",
-    "translation": "Tyrion: 万一犯人还想杀害更多人呢？",
-    "stage": 5,
+    "translation": "Tyrion: Что, если они решатся убить ещё больше людей",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5032\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5033",
     "original": "Tyrion: Who will they target next?[p/][s/] Your father?[p/][s/] ...The king?",
-    "translation": "Tyrion: 下一个目标会是谁？[p/][s/]你的父亲？[p/][s/]……国王？",
-    "stage": 5,
+    "translation": "Tyrion: На кого ещё он может нацелится?[p/][s/] Ваш отец?[p/][s/] ...Король?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5033\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5034",
     "original": "Aria: ...",
-    "translation": "Aria: ……",
-    "stage": 5,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5034\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5035",
     "original": "Tyrion: We need to catch them before they can do more harm.",
-    "translation": "Tyrion: 我们需要在造成更多伤害前抓住犯人。",
-    "stage": 5,
+    "translation": "Tyrion: Нам нужно поймать его, пока он не принёс ещё больше вреда.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5035\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5036",
     "original": "Tyrion: I know you're frightened about what might happen to the people close to you.",
-    "translation": "Tyrion: 我知道你害怕亲近的人可能遭遇不测。",
-    "stage": 5,
+    "translation": "Tyrion: Я знаю, что вы напуганы из-за того, что может случится с вашими близкими.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5036\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5037",
     "original": "Tyrion: But we can't let someone that dangerous get away with this.",
-    "translation": "Tyrion: 但我们不能让这么危险的人溜走。",
-    "stage": 5,
+    "translation": "Tyrion: Но мы не можем позволить кому-то столь опасному сбежать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5037\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5038",
     "original": "Aria: ...",
-    "translation": "Aria: ……",
-    "stage": 5,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5038\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5039",
     "original": "Doubt [d=\"I doubt someone like that would go that far. They might decide to lay low and wait for things to die down. \"/]",
-    "translation": "Doubt [d=\"我不觉得有人会这么极端。犯人可能决定先低调一段时间，等事态冷静下来。\"/]",
-    "stage": 5,
+    "translation": "Doubt [d=\"Я сомневаюсь, что кто-то такой зашел бы так далеко. Он мог взять и залечь на дно и подождать, пока всё не уляжется.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5039\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5040",
     "original": "Tyrion: I doubt someone like that would go that far.",
-    "translation": "Tyrion: 我不觉得有人会这么极端。",
-    "stage": 5,
+    "translation": "Tyrion: Я сомневаюсь, что кто-то такой зашел бы так далеко.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5040\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5041",
     "original": "Tyrion: They might decide to lay low and wait for things to die down.",
-    "translation": "Tyrion: 犯人可能决定先低调一段时间，等事态冷静下来。",
-    "stage": 5,
+    "translation": "Tyrion: Он мог взять и залечь на дно и подождать, пока всё не уляжется.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5041\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5042",
     "original": "Aria: Whoever did this is an unhinged murderer.",
-    "translation": "Aria: 犯人是个神经质的杀手。",
-    "stage": 5,
+    "translation": "Aria: Тот, кто сделал это, сумасшедший убийца.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5042\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5043",
     "original": "Aria: I can't risk everything I care about on the [i]possibility[/i] that they might do nothing in retaliation.",
-    "translation": "Aria: 我不能因为犯人<u>可能</u>不会报复就赌上自己在乎的一切。",
-    "stage": 5,
+    "translation": "Aria: Я не могу рисковать всем, о чём я беспокоюсь, ради [i]возможности[/i], что они не пойдут на отмщение.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5043\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5044",
     "original": "Tyrion: ...I suppose you have a point.",
-    "translation": "Tyrion: ……你说得有道理。",
-    "stage": 5,
+    "translation": "Tyrion: ...Полагаю, это верно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5044\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5045",
     "original": "You still have no idea who might have done this.",
-    "translation": "你还不知道犯人究竟是谁。",
-    "stage": 5,
+    "translation": "У тебя всё ещё нет идей, кто это мог сделать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5045\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5046",
     "original": "You can't make empty claims like that.",
-    "translation": "不能做出这么无凭无据的宣言。",
-    "stage": 5,
+    "translation": "Тебе не следует делать пустых заявлений.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5046\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5047",
     "original": "Appeal [d=\"We can't back down in the face of injustice. If we let the perpetrator get away with this, we're letting them [i]know[/i] that their actions will go unanswered.\"/]",
-    "translation": "Appeal [d=\"我们不能在不公正面前退缩。如果犯人逃之夭夭，等于我们让对方<u>认为</u>自己的行为不会受到惩罚。\"/]",
-    "stage": 5,
+    "translation": "Appeal [d=\"Мы не можем отступать пред ликом несправедливости. Если мы позволим преступнику выйти сухим из воды, мы дадим ему понять, что его действия останутся без ответа.\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5047\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"ElocutionPrompt\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"ElocutionPrompt\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5048",
     "original": "Tyrion: We can't back down in the face of injustice.",
-    "translation": "Tyrion: 我们不能在不公正面前退缩。",
-    "stage": 5,
+    "translation": "Tyrion: Мы не можем отступать пред ликом несправедливости.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5048\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5049",
     "original": "Tyrion: If we let the perpetrator get away with this,[p/] we're letting them [i]know[/i] that their actions will go unanswered.",
-    "translation": "Tyrion: 如果犯人逃之夭夭，等于我们让对方<u>认为</u>自己的行为不会受到惩罚。",
-    "stage": 5,
+    "translation": "Tyrion: Если мы позволим преступнику выйти сухим из воды, мы дадим ему [i]понять[/i], что его действия останутся без ответа.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5049\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5050",
     "original": "Tyrion: You need to be strong and fight this, Steelwind![p/][s/] No matter the cost!",
-    "translation": "Tyrion: 你得打起精神斗争，斯蒂尔文德！[p/][s/]不惜代价！",
-    "stage": 5,
+    "translation": "Tyrion: Вам нужно быть сильной и бороться, Стилвинд![p/][s/] Любыми средствами!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5050\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5051",
     "original": "Aria: That's easy for you to say.",
-    "translation": "Aria: 你说起来容易。",
-    "stage": 5,
+    "translation": "Aria: Вам легко такое говорить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5051\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5052",
     "original": "Aria: [i]You're[/i] not the one putting your loved ones in danger.",
-    "translation": "Aria: 让自己爱的人身处险境的不是<u>你</u>。",
-    "stage": 5,
+    "translation": "Aria: Не [i]вы[/i] были тем, кто поставил свою любовь под угрозу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5052\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5053",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue8-5053\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5054",
     "original": "Aria: *sigh*[p/] When you put it that way,[p/] I suppose I have no other choice, do I?",
-    "translation": "Aria: *叹气* [p/]你都这么说了，[p/]我也没有别的选择了吧？",
-    "stage": 5,
+    "translation": "Aria: *вздох*[p/] Учитывая вашу настойчивость,[p/] я полагаю, у меня нет выбора, верно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5054\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5055",
     "original": "Aria: ...",
-    "translation": "Aria: ……",
-    "stage": 5,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5055\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5056",
     "original": "Aria: I never realized it before, Mr. Cuthbert.",
-    "translation": "Aria: 卡斯伯特先生，我以前没有意识到。",
-    "stage": 5,
+    "translation": "Aria: Раньше я никогда это не осознавала этого, мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5056\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5057",
     "original": "Tyrion: What?",
-    "translation": "Tyrion: 什么？",
-    "stage": 5,
+    "translation": "Tyrion: Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5057\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5058",
     "original": "Aria: You really have a bad habit of butting your nose into other people's business, don't you?",
-    "translation": "Aria: 你真的很喜欢多管闲事，是不是？",
-    "stage": 5,
+    "translation": "Aria: У вас правда больная привычка совать свой нос в чужие дела, не так ли?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5058\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5059",
     "original": "Tyrion: Yeah...[p/] I suppose I do.",
-    "translation": "Tyrion: 嗯……[p/]可能是吧。",
-    "stage": 5,
+    "translation": "Tyrion: Да...[p/] Полагаю, это так.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5059\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5060",
     "original": "Celeste: ...",
-    "translation": "Celeste: ……",
-    "stage": 5,
+    "translation": "Celeste: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5060\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5061",
     "original": "Aria: But you're right.[p/] We can't let this go.",
-    "translation": "Aria: 但你说得对。[p/]不能就这么算了。",
-    "stage": 5,
+    "translation": "Aria: Но вы правы.[p/] Мы не можем всё вот так оставить.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5061\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5062",
     "original": "Aria: I'll find a way to dispute this...[p/] somehow.",
-    "translation": "Aria: 我会找到异议方法的……[p/]大概。",
-    "stage": 5,
+    "translation": "Aria: Я найду способ опровергнуть это...[p/] как-то.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5062\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5063",
     "original": "Aria: ...Thank you, Mr. Cuthbert.",
-    "translation": "Aria: ……谢谢你，卡斯伯特先生。",
-    "stage": 5,
+    "translation": "Aria: ...Спасибо вам, мистер Катберт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5063\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5064",
     "original": "Tyrion: ...I think we've known each other long enough.",
-    "translation": "Tyrion: ……我们认识彼此挺久了吧。",
-    "stage": 5,
+    "translation": "Tyrion: ...Думаю, мы уже достаточно долго знакомы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5064\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5065",
     "original": "Tyrion: You don't need to be so formal.",
-    "translation": "Tyrion: 不用这么客气。",
-    "stage": 5,
+    "translation": "Tyrion: Не стоит быть столь формальной.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5065\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5066",
     "original": "You’ve successfully argued against Aria Steelwind.",
-    "translation": "你成功说服了阿莉亚·斯蒂尔文德。",
-    "stage": 5,
+    "translation": "Ты успешно убедил Арию Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5066\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5067",
     "original": "Remus: Hm...[p/] Perhaps I misjudged you.",
-    "translation": "Remus: 唔……[p/]也许我错看你了。",
-    "stage": 3,
+    "translation": "Remus: Хм...[p/] Возможно, я недооценил вас.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaArgue9-5067\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5068",
     "original": "Aria: I know I agreed to fight this...[p/] But...",
-    "translation": "Aria: 我清楚自己已经同意抗争……[p/]但是……",
-    "stage": 5,
+    "translation": "Aria: Я знаю, что согласилась бороться...[p/] Но...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5068\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5069",
     "original": "Tyrion: What is it?",
-    "translation": "Tyrion: 但是什么？",
-    "stage": 5,
+    "translation": "Tyrion: В чём дело?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5069\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5070",
     "original": "Tyrion: You're the most qualified attorney in the nobility.",
-    "translation": "Tyrion: 你是贵族里最有资格的检察官。",
-    "stage": 5,
+    "translation": "Tyrion: Вы самый квалифицированный юрист знати.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5070\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5071",
     "original": "Tyrion: You'll definitely be able to make a case for yourself.",
-    "translation": "Tyrion: 你肯定能成功办理此案的。",
-    "stage": 5,
+    "translation": "Tyrion: Вы точно сможете справится с этим делом самостоятельно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5071\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5072",
     "original": "Aria: As you probably know,[p/] House Sibyl controls the legislative [i]and[/i] judicial branches of our kingdom.",
-    "translation": "Aria: 你应该也知道，[p/]希比尔家控制王国的立法<u>与</u>司法机关。",
-    "stage": 5,
+    "translation": "Aria: Вероятно, вы уже знаете,[p/] что Дом Сбили контролирует законодательные [i]и[/i] судебные звенья нашего королевства.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5072\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5073",
     "original": "Aria: ...And they've nominated my [i]father[/i] as the prosecutor for my trial.",
-    "translation": "Aria: ……他们指派我的<u>父亲</u>来当本次审理的检察官。",
-    "stage": 5,
+    "translation": "Aria: ...И они назначили моего [i]отца[/i] на место прокурора в моём суде.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5073\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5074",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ……什么？",
-    "stage": 5,
+    "translation": "Tyrion: ...Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5074\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5075",
     "original": "Aria: No one believes my theory of mind control.",
-    "translation": "Aria: 没有其他人相信我的意识操控说。",
-    "stage": 5,
+    "translation": "Aria: Никто не верит в мою теорию о контроле разума.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5075\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5076",
     "original": "Aria: Everyone believes that I overspent my magic and gave myself Mageblight.",
-    "translation": "Aria: 所有人都认为是我使用魔力过度，得了法师之疫。",
-    "stage": 5,
+    "translation": "Aria: Все уверены, что я просто злоупотребила своей магией и поддалась Чаромраку.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5076\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5077",
     "original": "Aria: As a result,[p/] they blame House Steelwind for Coraline Sibyl's death.",
-    "translation": "Aria: 基于此，[p/]他们把卡洛琳·希比尔的死怪在斯蒂尔文德家头上。",
-    "stage": 5,
+    "translation": "Aria: Как итог,[p/] они обвиняют Дом Стилвиндов в смерти Коралины Сибил.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5077\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5078",
     "original": "Aria: Now...[p/] The only way for him to redeem House Steelwind is to convict me and sentence me to death.",
-    "translation": "Aria: 如今……[p/]唯一能让父亲挽救斯蒂尔文德家声誉的方法就是起诉我，判我死刑。",
-    "stage": 5,
+    "translation": "Aria: Теперь...[p/] Единственный для него путь к восстановлению Дома Сильвинов - приговорить меня к казни.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5078\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5079",
     "original": "Celeste: B-[p/][s/]But,[p/] he's your [i]father[/i]!",
-    "translation": "Celeste: 但、[p/][s/]但是，[p/]他是你的<u>父亲</u>！",
-    "stage": 5,
+    "translation": "Celeste: Н-[p/][s/]Но он же твой [i]отец[/i]!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5079\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5080",
     "original": "Celeste: There's no way he would-!",
-    "translation": "Celeste: 他不可能——！",
-    "stage": 5,
+    "translation": "Celeste: Не может быть, что он посмел бы-!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5080\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5081",
     "original": "Aria: ...This isn't the first time something like this has happened.",
-    "translation": "Aria: ……这种事情不是第一次发生。",
-    "stage": 5,
+    "translation": "Aria: ...Это не в первый раз, когда что-то такое происходит.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5081\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5082",
     "original": "Aria: When I was a child,[p/] my mother accidentally overused her magic and induced Mageblight within herself.",
-    "translation": "Aria: 我还小的时候，[p/]母亲意外使用魔力过度，感染了法师之疫。",
-    "stage": 5,
+    "translation": "Aria: Когда я была ребёнком,[p/] мой мать случайно применило слишком много магии и поддалась Чаромраку.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5082\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5083",
     "original": "Aria: ...In her resulting psychotic episode,[p/] she massacred an [i]entire[/i] village of commoners.",
-    "translation": "Aria: ……疾病发作时，[p/]母亲屠杀了<u>一整个</u>村庄的平民。",
-    "stage": 5,
+    "translation": "Aria: ...В результате её психоза,[p/] она зарезала [i]целую[/i] деревню простолюдин.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5083\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5084",
     "original": "Tyrion: No...",
-    "translation": "Tyrion: 不……",
-    "stage": 5,
+    "translation": "Tyrion: Нет...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5084\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5085",
     "original": "Aria: House Steelwind almost lost everything after that.",
-    "translation": "Aria: 斯蒂尔文德家几乎承受了灭顶之灾。",
-    "stage": 5,
+    "translation": "Aria: Тогда Дом Стилвиндом потерял почти всё.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5085\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5086",
     "original": "Aria: To redeem himself,[p/] my father personally oversaw my mother's trial...[p/] and her execution.",
-    "translation": "Aria: 为了救赎自己，[p/]我父亲亲自监管了母亲的审理……[p/]以及处刑。",
-    "stage": 5,
+    "translation": "Aria: Дабы всё вернуть,[p/] мой отец лично наблюдал за судом моей матери...[p/] и её казнью.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5086\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5087",
     "original": "Celeste: That's-!",
-    "translation": "Celeste: 这是——！",
-    "stage": 5,
+    "translation": "Celeste: Это-!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5087\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5088",
     "original": "Aria: My father values his duty to Wyverngarde over everything else.",
-    "translation": "Aria: 我父亲把自己对维文加德的职责看得比什么都重。",
-    "stage": 5,
+    "translation": "Aria: Для моего отца, его преданность к Вивернграду стоит выше всего иного.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5088\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5089",
     "original": "Aria: Nothing matters more to him than that,[p/] not even his family.",
-    "translation": "Aria: 即使是家人，[p/]重要性也不会在此之上。",
-    "stage": 5,
+    "translation": "Aria: Ничто не важно для него, чем это,[p/] даже его семья.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5089\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5090",
     "original": "Tyrion: ...",
-    "translation": "Tyrion: ……",
-    "stage": 5,
+    "translation": "Tyrion: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5090\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5091",
     "original": "Aria: I [i]want[/i] to have confidence in myself...[p/] But I don't know if I can face him like this.",
-    "translation": "Aria: 我也<u>想</u>对自己有信心……[p/]但我不知道自己能否这样面对他。",
-    "stage": 5,
+    "translation": "Aria: Я [i]хочу[/i] вернуть свою уверенность...[p/] Но я не думаю, что смогу смотреть ему в глаза.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd-5091\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5092",
     "original": "Remus: ...",
-    "translation": "Remus: ……",
-    "stage": 5,
+    "translation": "Remus: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5092\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5093",
     "original": "Remus: Mr. Cuthbert...[p/] What is [i]your[/i] stake in all of this?",
-    "translation": "Remus: 卡斯伯特先生……[p/]这么做对<u>你</u>有什么好处？",
-    "stage": 5,
+    "translation": "Remus: Мистер Катертб...[p/] Какова [i]ваша[/i] позиция?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5093\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5094",
     "original": "Tyrion: What?",
-    "translation": "Tyrion: 什么？",
-    "stage": 5,
+    "translation": "Tyrion: Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5094\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5095",
     "original": "Remus: You hate the nobility, don't you?",
-    "translation": "Remus: 你不是痛恨贵族吗？",
-    "stage": 5,
+    "translation": "Remus: Вы ненавидите знать, верно?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5095\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5096",
     "original": "Remus: So why are you so intent on helping Ms. Steelwind?",
-    "translation": "Remus: 为什么这么想帮助斯蒂尔文德女士？",
-    "stage": 5,
+    "translation": "Remus: Тогда почему вы так настроены на помощь мисс Стилвинд?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5096\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5097",
     "original": "Tyrion: Because she's innocent![p/][s/] I [i]know[/i] she is!",
-    "translation": "Tyrion: 可她是无辜的！[p/][s/]我<u>知道</u>她是无辜的！",
-    "stage": 5,
+    "translation": "Tyrion: Потому что она невиновна![p/][s/] Я [i]уверен[/i] в этом!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5097\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5098",
     "original": "Tyrion: She would never be irresponsible enough to give herself Mageblight!",
-    "translation": "Tyrion: 她绝不会对自己不负责任到感染法师之疫！",
-    "stage": 5,
+    "translation": "Tyrion: Она бы никогда не бы не проявила безответственность в сторону Чаромрака!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5098\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5099",
     "original": "Aria: Mr. Cuthbert...",
-    "translation": "Aria: 卡斯伯特先生……",
-    "stage": 5,
+    "translation": "Aria: Мистер Катберт...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5099\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5100",
     "original": "Tyrion: It doesn't matter if she's a noble or a commoner!",
-    "translation": "Tyrion: 不管她是贵族还是平民都一样！",
-    "stage": 5,
+    "translation": "Tyrion: Не важно, аристократ она или простолюдин!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5100\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5101",
     "original": "Tyrion: She's being oppressed by the system and she [i]deserves[/i] a fair trial!",
-    "translation": "Tyrion: 她<u>值得</u>公平审理，不该这么被体系欺压！",
-    "stage": 5,
+    "translation": "Tyrion: Её угнетает система и она [i]заслуживает[/i] справедливого суда!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5101\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5102",
     "original": "Remus: ...",
-    "translation": "Remus: ……",
-    "stage": 5,
+    "translation": "Remus: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5102\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5103",
     "original": "Remus: Well said.",
-    "translation": "Remus: 说得好。",
-    "stage": 5,
+    "translation": "Remus: Мудро сказано.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5103\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5104",
     "original": "Tyrion: ...What?",
-    "translation": "Tyrion: ……什么？",
-    "stage": 5,
+    "translation": "Tyrion: ...Что?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5104\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5105",
     "original": "Remus: I,[p/] Remus Virgilae,[p/] hereby grant you the privilege to serve as Ms. Steelwind's counsel.",
-    "translation": "Remus: 我，[p/]雷穆斯·维吉莱，[p/]在此授予你担任斯蒂尔文德女士律师的特权。",
-    "stage": 5,
+    "translation": "Remus: Я,[p/] Рему Вирджил,[p/] сим дарую вам привилегию стать представителем мисс Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5105\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5106",
     "original": "Tyrion: Wait...[p/][s/] Really?!",
-    "translation": "Tyrion: 等等……[p/][s/]真的吗？！",
-    "stage": 5,
+    "translation": "Tyrion: Погодите...[p/][s/] Серьёзно?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5106\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5107",
     "original": "Remus: I will be acting as the judge and arbiter of Ms. Steelwind's trial.",
-    "translation": "Remus: 审理斯蒂尔文德女士的法官将由我担任。",
-    "stage": 5,
+    "translation": "Remus: Я буду действовать в роли судьи и наблюдателя на суде мисс Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5107\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5108",
     "original": "Remus: It is within my right to grant such permissions.",
-    "translation": "Remus: 我有授予这些的权力。",
-    "stage": 5,
+    "translation": "Remus: Я имею право даровать подобные разрешения.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5108\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5109",
     "original": "Tyrion: Um...[p/][s/] Thank you!",
-    "translation": "Tyrion: 呃……[p/][s/]感谢您！",
-    "stage": 5,
+    "translation": "Tyrion: Эм...[p/][s/] Благодарю!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5109\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5110",
     "original": "Tyrion: But why would you-?",
-    "translation": "Tyrion: 可您为什么——？",
-    "stage": 5,
+    "translation": "Tyrion: Но почему вы-?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5110\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5111",
     "original": "Remus: ...Do you think I've made a mistake?",
-    "translation": "Remus: ……你觉得我这么做不对？",
-    "stage": 5,
+    "translation": "Remus: ...Вы считаете, что я ошибся?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5111\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5112",
     "original": "Tyrion: N-[p/][s/]No![p/][s/] Of course not!",
-    "translation": "Tyrion: 不、[p/][s/]不！[p/][s/]当然没错！",
-    "stage": 5,
+    "translation": "Tyrion: Н-[p/][s/]Нет![p/][s/] Конечно нет!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5112\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5113",
     "original": "Tyrion: I'll serve as Steelwind's attorney.",
-    "translation": "Tyrion: 我会担任斯蒂尔文德的律师。",
-    "stage": 5,
+    "translation": "Tyrion: Я стану адвокатом Стилвинд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5113\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5114",
     "original": "Tyrion: ...If she will have me.",
-    "translation": "Tyrion: ……如果她允许。",
-    "stage": 5,
+    "translation": "Tyrion: ...Если она примет меня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd2-5114\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5115",
     "original": "Aria: Of course.[p/] There's no one else I would trust more with this.",
-    "translation": "Aria: 当然了。[p/]你是辩护方面我最信任的人。",
-    "stage": 5,
+    "translation": "Aria: Ну конечно.[p/] Я бы точно не доверила это кому-то другому.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5115\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5116",
     "original": "Aria: ...And please,[p/] you've done a lot for me already.",
-    "translation": "Aria: ……你为我做了很多了，[p/]我也拜托你。",
-    "stage": 5,
+    "translation": "Aria: ...И прошу,[p/] ты уже так много для меня сделал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5116\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5117",
     "original": "Aria: You don't have to be so formal.[p/] Please call me by my first name.",
-    "translation": "Aria: 不要这么客气了。[p/]用名字称呼我吧。",
-    "stage": 5,
+    "translation": "Aria: Не стоит быть столь формальным.[p/] Просто зовите меня по имени.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5117\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5118",
     "original": "Aria: Celeste has already taken to doing that.",
-    "translation": "Aria: 塞莱斯特已经这么做了。",
-    "stage": 5,
+    "translation": "Aria: Селест уже давно это делает.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5118\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5119",
     "original": "Celeste: ...",
-    "translation": "Celeste: ……",
-    "stage": 5,
+    "translation": "Celeste: ...",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5119\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5120",
     "original": "Aria: ...But [i]since[/i] you'll be defending me,[p/] you'll probably need this.",
-    "translation": "Aria: ……<u>既然</u>你要为我辩护，[p/]可能会需要这个。",
-    "stage": 5,
+    "translation": "Aria: ...И [i]раз уж[/i] вы будете защищать меня,[p/] вам может понадобится это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5120\",\n  \"keywords\": []\n}"
   },
   {
@@ -33672,78 +33672,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5127",
     "original": "Remus: Then it's settled.[p/] We will hold the trial at my home:[p/] the city of Ladon.",
-    "translation": "Remus: 就这么定了。[p/]审理举办地就定在我的住处，[p/]雷登城。",
-    "stage": 5,
+    "translation": "Remus: Тогда решено.[p/] Мы проведём суд в моём доме:[p/] город Ладон.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5127\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5128",
     "original": "Tyrion: \"Ladon\"...?[p/] I've never heard of that place.",
-    "translation": "Tyrion: “雷登”……？[p/]我从没听说过这里。",
-    "stage": 5,
+    "translation": "Tyrion: \"Ладон\"...?[p/] Никогда об этом не слышал.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5128\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5129",
     "original": "Remus: Speak with Lucio.[p/] He knows the location well.",
-    "translation": "Remus: 找卢西奥问问。[p/]他很了解这个地方。",
-    "stage": 5,
+    "translation": "Remus: Поговорите с Люцио.[p/] Он хорошо знает это место.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5129\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5130",
     "original": "Before you can ask any more questions,[p/] the Archduke leaves without a word.",
-    "translation": "在你来得及提问之前，[p/]大公爵一言不发离去。",
-    "stage": 5,
+    "translation": "Не успев задать больше вопросов,[p/] эрцгерцог ушел, не проронив ни слова.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5130\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5131",
     "original": "Tyrion: ...He really has a bad habit of just walking away from conversations.",
-    "translation": "Tyrion: ……什么都不说就跑真是他的坏习惯啊。",
-    "stage": 5,
+    "translation": "Tyrion: ...У него явно плохая привычка просто уходить посередине разговора.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5131\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5132",
     "original": "Tyrion: But I guess we should consider ourselves lucky.",
-    "translation": "Tyrion: 但我们大概应该庆幸自己运气好。",
-    "stage": 5,
+    "translation": "Tyrion: Но, думаю, мне стоит благодарить мою удачу.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5132\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5133",
     "original": "Tyrion: Even if it's unorthodox,[p/] this situation will let us approach this like any other trial.",
-    "translation": "Tyrion: 虽然和平常不同，[p/]但处理方法应该和其他审理差不多。",
-    "stage": 5,
+    "translation": "Tyrion: Пусть всё это неординарно,[p/] данная ситуация позволит нам подойти к этому делу как и к прочим судам.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5133\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5134",
     "original": "You had no idea what you were in for when you agreed to this.",
-    "translation": "你还不知道自己置身何种境地，做出了什么承诺。",
-    "stage": 5,
+    "translation": "Ты понятия не имел, во что ты ввязываешься, когда соглашался на это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5134\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5135",
     "original": "And what proceeded next would be unlike any trial you've ever been in.",
-    "translation": "接下来要发生的事会和你经历过的任何审理都不一样。",
-    "stage": 5,
+    "translation": "И то, что предстоит, точно будет отличатся ото всех судов, что были ранее.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5135\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5136",
     "original": "But even so,[p/] you persevered as you've always done in the name of justice.",
-    "translation": "但即使如此，[p/]你也会一如往常为正义而战。",
-    "stage": 5,
+    "translation": "Но даже так,[p/] твоё упорство непоколебимо, как и всегда, во имя справедливости.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5136\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5137",
     "original": "...Regardless of what you'd have to sacrifice to do so.",
-    "translation": "……不管你需要牺牲什么。",
-    "stage": 5,
+    "translation": "....Вне зависимости от того, чем придётся пожертвовать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-AriaEnd3-5137\",\n  \"keywords\": []\n}"
   },
   {
