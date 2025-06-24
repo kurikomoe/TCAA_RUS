@@ -233,14 +233,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-45",
     "original": "Theon: Well, I was on my way to the Prayer Room.[p/] I always recite prayers from the draconic texts around that time.",
-    "translation": "Theon: Ну, я шёл в сторону Молельни.[p/] У меня всегда по расписанию чтение молитвы драконьих текстов в то время.",
+    "translation": "Theon: Ну, я шёл в сторону молельной комнаты.[p/] У меня всегда по расписанию чтение молитвы драконьих текстов в то время.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-45\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-46",
     "original": "Wait...[p/] He was heading to the [i]Prayer Room[/i]?",
-    "translation": "Погодите...[p/] Он сказал, что шёл в [i]Молельню[/i]?",
+    "translation": "Погодите...[p/] Он сказал, что шёл в [i]молельной комнаты[/i]?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-46\",\n  \"keywords\": []\n}"
   },
@@ -401,7 +401,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-70",
     "original": "Tyrion: The guards?[p/] Do you mean the ones standing watch outside the Prayer Room?",
-    "translation": "Tyrion: Охрана?[p/] Вы о сторожах рядом с Молельней?",
+    "translation": "Tyrion: Охрана?[p/] Вы о сторожах рядом с моельной комнаты?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-70\",\n  \"keywords\": []\n}"
   },
@@ -478,7 +478,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-82",
     "original": "Tyrion: ...Actually,[p/] the High Speaker's Quarters aren't that far away from the Prayer Room.",
-    "translation": "Tyrion: ...К слову,[p/] комната епископа не так далеко от молельни.",
+    "translation": "Tyrion: ...К слову,[p/] комната епископа не так далеко от молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-82\",\n  \"keywords\": []\n}"
   },
@@ -5000,7 +5000,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-824",
     "original": "Orym: [i]That's[/i] when we saw a bunch of guards knocked out outside the Prayer Room.",
-    "translation": "Orym: [i]Тогда[/i] мы увидели, что несколько стражей были вырублены рядом с молельней.",
+    "translation": "Orym: [i]Тогда[/i] мы увидели, что несколько стражей были вырублены рядом с молельной комнатой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-824\",\n  \"keywords\": []\n}"
   },
@@ -5021,7 +5021,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-827",
     "original": "Tyrion: Right...[p/] That was probably well after Steelwind moved into the Prayer Room.",
-    "translation": "Tyrion: Точно...[p/] Вероятно, это было гораздо позже того, как Стилвинд была у молельни.",
+    "translation": "Tyrion: Точно...[p/] Вероятно, это было гораздо позже того, как Стилвинд была у молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-827\",\n  \"keywords\": []\n}"
   },
@@ -5504,7 +5504,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-899",
     "original": "Orym: We found him in front of the Prayer Room too.",
-    "translation": "Orym: Мы нашли его рядом с молельней.",
+    "translation": "Orym: Мы нашли его рядом с молельной комнатой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-899\",\n  \"keywords\": []\n}"
   },
@@ -5532,7 +5532,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-903",
     "original": "But her guard was in front of the Prayer Room...",
-    "translation": "Но её охранник был напротив молельни...",
+    "translation": "Но её охранник был напротив молельной комнаты...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-903\",\n  \"keywords\": []\n}"
   },
@@ -6393,7 +6393,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1038",
     "original": "Tyrion: If we look at this map,[p/] we can see where the Prayer Room and the Common Room are.",
-    "translation": "Tyrion: Если посмотреть на карту,[p/] мы можем увидеть, где молельня и общая комната.",
+    "translation": "Tyrion: Если посмотреть на карту,[p/] мы можем увидеть, где молельная комната и общая комната.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce1-1038\",\n  \"keywords\": []\n}"
   },
@@ -6589,7 +6589,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1068",
     "original": "Tyrion: This means that the murderer went to the Common Room,[p/] then the West Balcony,[p/] and then finally the Prayer Room.",
-    "translation": "Tyrion: Это значит, что убийца вышел из общей комнаты,[p/] затем ушел на балкон,[p/] и, наконец, дошел до молельни.",
+    "translation": "Tyrion: Это значит, что убийца вышел из общей комнаты,[p/] затем ушел на балкон,[p/] и, наконец, дошел до молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce5a-1068\",\n  \"keywords\": []\n}"
   },
@@ -6610,7 +6610,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1073",
     "original": "The murderer would have traveled to the Common Room,[p/] then the Balcony,[p/] then the Prayer Room.",
-    "translation": "Убийца пошел из общей комнаты,[p/] затем на балкон[p/] а после в молельню.",
+    "translation": "Убийца пошел из общей комнаты,[p/] затем на балкон[p/] а после в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce6-1073\",\n  \"keywords\": []\n}"
   },
@@ -6624,7 +6624,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1075",
     "original": "Tyrion: The murderer must have passed right by the Prayer Room before they dumped Sibyl's body.",
-    "translation": "Tyrion: Убийца мог пройти к молельне перед тем, как убить Сибил.",
+    "translation": "Tyrion: Убийца мог пройти к молельной комнате перед тем, как убить Сибил.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce7-1075\",\n  \"keywords\": []\n}"
   },
@@ -8213,7 +8213,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1313",
     "original": "Tyrion: I [i]witnessed[/i] Beatrice Frega enter the Prayer Room before I lost consciousness.",
-    "translation": "Tyrion: Я [i]стал свидетелем[/i] того, как Беатрис Фрега вошла в молельню перед тем, как я потерял сознание.",
+    "translation": "Tyrion: Я [i]стал свидетелем[/i] того, как Беатрис Фрега вошла в молельную комнату перед тем, как я потерял сознание.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Courtroom1_7-1313\",\n  \"keywords\": []\n}"
   },
@@ -8689,7 +8689,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1385",
     "original": "MBeatrice: Yes.[p/] It's the only explanation for why you saw me in the Prayer Room.",
-    "translation": "MBeatrice: Да.[p/] Это единственное объяснение тому, почему вы видели меня в молельни.",
+    "translation": "MBeatrice: Да.[p/] Это единственное объяснение тому, почему вы видели меня в молельной комнате.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1385\",\n  \"keywords\": []\n}"
   },
@@ -11069,7 +11069,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1748",
     "original": "Tyrion: Anyways,[p/] we left the garden at around 1:45 PM to meet with Pierce in the Prayer Room.",
-    "translation": "Tyrion: Так или иначе,[p/] мы покинули сад где-то в 13:45 и направились в молельню для встречи с Пирсом.",
+    "translation": "Tyrion: Так или иначе,[p/] мы покинули сад где-то в 13:45 и направились в молельноую комнату для встречи с Пирсом.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_4-1748\",\n  \"keywords\": []\n}"
   },
@@ -11286,7 +11286,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1779",
     "original": "Tyrion: He headed to the Prayer Room.[p/] But was turned away by the knights standing guard there.",
-    "translation": "Tyrion: Он направлялся в молельню.[p/] Но был отослан рыцарями, стоящими на охране.",
+    "translation": "Tyrion: Он направлялся в молельную комнату.[p/] Но был отослан рыцарями, стоящими на охране.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_6-1779\",\n  \"keywords\": []\n}"
   },
@@ -11356,7 +11356,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1789",
     "original": "Tyrion: During their fight,[p/] the Empress sent Beatrice into the Prayer Room.",
-    "translation": "Tyrion: Во время боя,[p/] Императрица отправила Беатрис в молельню.",
+    "translation": "Tyrion: Во время боя,[p/] Императрица отправила Беатрис в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_7-1789\",\n  \"keywords\": []\n}"
   },
@@ -11412,7 +11412,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1797",
     "original": "Tyrion: Anyways,[p/] after Beatrice knocked us out,[p/] Aria finally pushed past Celeste and entered the Prayer Room.",
-    "translation": "Tyrion: Так или иначе,[p/] после того, как Беатрис вырубила нас,[p/] Ария наконец-то прорвалась мимо Селест и вошла в молельню.",
+    "translation": "Tyrion: Так или иначе,[p/] после того, как Беатрис вырубила нас,[p/] Ария наконец-то прорвалась мимо Селест и вошла в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_7-1797\",\n  \"keywords\": []\n}"
   },
@@ -11783,14 +11783,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1850",
     "original": "Orym: But when we got there,[p/] we noticed a bunch of unconscious knights in front of the Prayer Room.",
-    "translation": "Orym: Но когда мы попали туда,[p/] мы обнаружили множество отрубленных рыцарей возле Молельни.",
+    "translation": "Orym: Но когда мы попали туда,[p/] мы обнаружили множество рыцарей возле Молельни без сознания.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1850\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1851",
     "original": "Orym: We went to the Prayer Room.[p/] That's when we found Steelwind and Cuthbert unconscious next to Pierce's dead body.",
-    "translation": "Orym: Мы вошли в молельню.[p/] Тогда мы нашли Стилвинд и Катберта без сознания рядом с телом Пирса.",
+    "translation": "Orym: Мы вошли в молельную комнату.[p/] Тогда мы нашли Стилвинд и Катберта без сознания рядом с телом Пирса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Courtroom1B_11-1851\",\n  \"keywords\": []\n}"
   },
@@ -12000,7 +12000,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1884",
     "original": "Lucio: They didn't arrive at the Prayer Room until well after the battle had taken place.",
-    "translation": "Lucio: Они прибыли в молельню задолго после начала сражения.",
+    "translation": "Lucio: Они прибыли в молельную комнату задолго после начала сражения.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1884\",\n  \"keywords\": []\n}"
   },
@@ -12742,7 +12742,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2003",
     "original": "Orym: McCoy chased Steelwind into the Prayer Room but didn't arrive fast enough.",
-    "translation": "Orym: МакКой гналась за Стилвинд в молельню, но не успела прибыть вовремя.",
+    "translation": "Orym: МакКой гналась за Стилвинд в молельную комнату, но не успела прибыть вовремя.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-OrymPress-2003\",\n  \"keywords\": []\n}"
   },
@@ -13666,7 +13666,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2139",
     "original": "Theon: I began heading to the Prayer Room when I spotted Lady Steelwind looking over the west-ward balcony.",
-    "translation": "Theon: Я направился в сторону молельни и наткнулся на леди Стилвинд, которая осматривалась с западного балкона.",
+    "translation": "Theon: Я направился в сторону молельной комнаты и наткнулся на леди Стилвинд, которая осматривалась с западного балкона.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-OrymObj9-2139\",\n  \"keywords\": []\n}"
   },
@@ -13680,7 +13680,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2141",
     "original": "Theon: I asked her what she was doing.[p/] But again,[p/] she ignored me and went towards the Prayer Room.",
-    "translation": "Theon: Я спросил её, что она делала.[p/] Но вновь,[p/] она не обратила на меня внимание и направилась в сторону молельни.",
+    "translation": "Theon: Я спросил её, что она делала.[p/] Но вновь,[p/] она не обратила на меня внимание и направилась в сторону молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-OrymObj9-2141\",\n  \"keywords\": []\n}"
   },
@@ -13701,7 +13701,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2144",
     "original": "Tyrion: Considering the timing of it all,[p/] this must have all happened minutes before she began attacking the Prayer Room.",
-    "translation": "Tyrion: Учитывая временные промежутку,[p/] это всё точно случилось за несколько минут до атаки молельни.",
+    "translation": "Tyrion: Учитывая временные промежутку,[p/] это всё точно случилось за несколько минут до атаки молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-OrymObj10-2144\",\n  \"keywords\": []\n}"
   },
@@ -14163,7 +14163,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2219",
     "original": "Either way,[p/] it's awfully convenient he left right [i]before[/i] the attack on the Prayer Room happened.",
-    "translation": "В любом случае,[p/] неприятно удобно, что он ушел сразу [i]перед тем[/i], как случилась атака на молельню.",
+    "translation": "В любом случае,[p/] неприятно удобно, что он ушел сразу [i]перед тем[/i], как случилась атака на молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2219\",\n  \"keywords\": []\n}"
   },
@@ -14184,7 +14184,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2222",
     "original": "Theon: I believe it was 2:15 PM.[p/] That's when I usually arrive at the Prayer Room.",
-    "translation": "Theon: Уверен, это было в 14:15.[p/] Это моё привычнее время для прихода в молельню.",
+    "translation": "Theon: Уверен, это было в 14:15.[p/] Это моё привычнее время для прихода в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2222\",\n  \"keywords\": []\n}"
   },
@@ -14219,7 +14219,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2228",
     "original": "Either way,[p/] it's awfully convenient he left right [i]before[/i] the attack on the Prayer Room happened.",
-    "translation": "В любом случае,[p/] неприятно удобно, что он ушел сразу [i]перед тем[/i], как случилась атака на молельню.",
+    "translation": "В любом случае,[p/] неприятно удобно, что он ушел сразу [i]перед тем[/i], как случилась атака на молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2228\",\n  \"keywords\": []\n}"
   },
@@ -14352,7 +14352,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2250",
     "original": "There's a very small time frame between Sibyl's death and Aria's attack on the Prayer Room.",
-    "translation": "Между смерть Сибил и атакой Арии на молельню очень короткий промежуток времени.",
+    "translation": "Между смертью Сибил и атакой Арии на молельную комнату очень короткий промежуток времени.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2250\",\n  \"keywords\": []\n}"
   },
@@ -20351,7 +20351,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3157",
     "original": "In addition to that,[p/] they must've been close to the Prayer Room when the attack happened.",
-    "translation": "В добавок к этому,[p/] он должен был быть близко к молельне, когда произошла атака.",
+    "translation": "В добавок к этому,[p/] он должен был быть близко к молельной комнате, когда произошла атака.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj12-3157\",\n  \"keywords\": []\n}"
   },
@@ -20792,7 +20792,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3228",
     "original": "Celeste: They broke past me and ran into the Prayer Room.",
-    "translation": "Celeste: Они прорвались мимо меня и забежали в молельню.",
+    "translation": "Celeste: Они прорвались мимо меня и забежали в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj16-3228\",\n  \"keywords\": []\n}"
   },
@@ -21569,14 +21569,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3339",
     "original": "Celeste: We went to the Prayer Room a lot earlier for our meeting,[p/] and that commotion we heard was actually Beatrice and Eris attacking the guards at 1:40 PM.",
-    "translation": "Celeste: Мы пришли в молельню намного раньше назначенной встречи,[p/] и шум, который мы слышали, был атакой Беатрис и Эрис на охрану в 13:40.",
+    "translation": "Celeste: Мы пришли в молельную комнату намного раньше назначенной встречи,[p/] и шум, который мы слышали, был атакой Беатрис и Эрис на охрану в 13:40.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj20-3339\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3340",
     "original": "Celeste: They tricked me and slipped into the Prayer Room...[p/] After that,[p/] Beatrice...[p/] killed you.",
-    "translation": "Celeste: Они обхитрили меня и проскользнули в молельню...[p/] И после этого,[p/] Беатрис...[p/] убила тебя.",
+    "translation": "Celeste: Они обхитрили меня и проскользнули в молельную комнату...[p/] И после этого,[p/] Беатрис...[p/] убила тебя.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj20-3340\",\n  \"keywords\": []\n}"
   },
@@ -21772,7 +21772,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3371",
     "original": "Celeste: Then they lied to me and said that they wanted to go into the Prayer Room for protection.",
-    "translation": "Celeste: Затем они обманули меня и сказали, что они хотят войти в молельню для защиты.",
+    "translation": "Celeste: Затем они обманули меня и сказали, что они хотят войти в молельную комнату для защиты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3371\",\n  \"keywords\": []\n}"
   },
@@ -22402,7 +22402,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3472",
     "original": "Tyrion: Celeste![p/][s/] This letter from Garrick Pierce told us to meet him in the Prayer Room at [i]2:00[/i]PM.",
-    "translation": "Tyrion: Селест![p/][s/] Письмо от Гаррика Пирса гласит, чтобы мы встретились с ним в молельне в [i]14:00[/i].",
+    "translation": "Tyrion: Селест![p/][s/] Письмо от Гаррика Пирса гласит, чтобы мы встретились с ним в молельной комнате в [i]14:00[/i].",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-CelObj4-3472\",\n  \"keywords\": []\n}"
   },
@@ -23102,7 +23102,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3574",
     "original": "Celeste: When I followed her into the Prayer Room,[p/] I found her there with Beatrice and Eris.[p/] They knocked Aria,[p/] Tyrion,[p/] and Pierce unconscious.",
-    "translation": "Celeste: Когда я последовала за ней в молельню,[p/] я нашла её с Беатрис и Эрис.[p/] Они вырубили Арию,[p/] Тириона[p/] и Пирса.",
+    "translation": "Celeste: Когда я последовала за ней в молельную комнату,[p/] я нашла её с Беатрис и Эрис.[p/] Они вырубили Арию,[p/] Тириона[p/] и Пирса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Courtroom2B-3574\",\n  \"keywords\": []\n}"
   },
@@ -23459,7 +23459,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3631",
     "original": "Tyrion: I'm surprised Aster went to the Prayer Room as well.[p/] I'd have thought the Kingsguard would have kept him in a secure location.",
-    "translation": "Tyrion: Я удивлён, что и Астер пришел в молельню.[p/] Я думал, что Королевская Гвардия будет держать его под охраной.",
+    "translation": "Tyrion: Я удивлён, что и Астер пришел в молельную комнату.[p/] Я думал, что Королевская Гвардия будет держать его под охраной.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3631\",\n  \"keywords\": []\n}"
   },
@@ -23627,7 +23627,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3660",
     "original": "Tyrion: ...Celeste.[p/] Garrick Pierce died at 2:45 PM and [i]Aster[/i] showed up in the Prayer Room only a few minutes after.",
-    "translation": "Tyrion: ...Селест.[p/] Гаррик Пирс умер в 14:45 и [i]Астер[/i] показался в молельне только через несколько минут.",
+    "translation": "Tyrion: ...Селест.[p/] Гаррик Пирс умер в 14:45 и [i]Астер[/i] показался в молельной комнате только через несколько минут.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj-3660\",\n  \"keywords\": []\n}"
   },
@@ -23655,7 +23655,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3664",
     "original": "Tyrion: How did Aster enter the Prayer Room around 2:45 PM?",
-    "translation": "Tyrion: Как Астер вошел в молельню в 14:45?",
+    "translation": "Tyrion: Как Астер вошел в молельную комнату в 14:45?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj-3664\",\n  \"keywords\": []\n}"
   },
@@ -23690,7 +23690,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3669",
     "original": "Lucio: My men [i]all[/i] reported that His Majesty led them to the Prayer Room [i]after[/i] he exited the [b]Force Cage[/b].",
-    "translation": "Lucio: [i]Все[/i] мои люди докладывали, что Его Величество вошел в молельню [i]после[/i] того, как вышел из [b]Силовой Клетки[/b].",
+    "translation": "Lucio: [i]Все[/i] мои люди докладывали, что Его Величество вошел в молельную комнату [i]после[/i] того, как вышел из [b]Силовой Клетки[/b].",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj-3669\",\n  \"keywords\": []\n}"
   },
@@ -23767,7 +23767,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3680",
     "original": "Tyrion: And even if we assume that he somehow escaped an [i]inescapable[/i] [b]Force Cage[/b],[p/] how did Aster [i]know[/i] to head to the Prayer Room?",
-    "translation": "Tyrion: И даже если мы предположим, что он как-то сбежал из [i]неизбежной[/i] [b]Силовой Клетки[/b],[p/] откуда Астер [i]знал[/i], что надо идти в молельню.",
+    "translation": "Tyrion: И даже если мы предположим, что он как-то сбежал из [i]неизбежной[/i] [b]Силовой Клетки[/b],[p/] откуда Астер [i]знал[/i], что надо идти в молельную комнату?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj4-3680\",\n  \"keywords\": []\n}"
   },
@@ -34575,7 +34575,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5256",
     "original": "Tyrion: She didn't see you and Beatrice enter the Prayer Room until 2:00 PM at the earliest.",
-    "translation": "Tyrion: Она не видела, как ты с Беатрис входили в молельню самое раннее до 14:00.",
+    "translation": "Tyrion: Она не видела, как ты с Беатрис входили в молельную комнату самое раннее до 14:00.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-ErisCornered3-5256\",\n  \"keywords\": []\n}"
   },
@@ -36164,7 +36164,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5486",
     "original": ":When she gave her testimony,[p/] Celeste said that Eris and Beatrice entered the Prayer Room at 1:40 PM.",
-    "translation": ":Когда она давала свои показания,[p/] Селест сказала, что Эрис и Беатрис вошли в молельню в 13:40.",
+    "translation": ":Когда она давала свои показания,[p/] Селест сказала, что Эрис и Беатрис вошли в молельную комнату в 13:40.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered-5486\",\n  \"keywords\": []\n}"
   },
@@ -36304,7 +36304,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5510",
     "original": ":But you now know that Eris used Beatrice to attack the Prayer Room [i]no later[/i] than 2:00 PM.",
-    "translation": ":Но ты уже знаешь, что Эрис использовала Беатрис для атаки молельни [i]не раньше[/i] 14:00.",
+    "translation": ":Но ты уже знаешь, что Эрис использовала Беатрис для атаки молельной комнаты [i]не раньше[/i] 14:00.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered4-5510\",\n  \"keywords\": []\n}"
   },
@@ -36514,7 +36514,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5542",
     "original": "No...[p/] You recall something that happened in front of the Prayer Room.",
-    "translation": "Нет...[p/] Ты вспомнил кое-что, что случилось возле молельни.",
+    "translation": "Нет...[p/] Ты вспомнил кое-что, что случилось возле молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered7-5542\",\n  \"keywords\": []\n}"
   },
@@ -37648,7 +37648,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5706",
     "original": "Tyrion: Maybe a member of the Kingsguard who survived and entered the Prayer Room.",
-    "translation": "Tyrion: Возможно член Королевской Гвардии выжил и вошел в молельню.",
+    "translation": "Tyrion: Возможно член Королевской Гвардии выжил и вошел в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered17-5706\",\n  \"keywords\": []\n}"
   },
@@ -37795,7 +37795,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5727",
     "original": "Tyrion: And I don't have any evidence that implies what [i]actually[/i] transpired in the Prayer Room.",
-    "translation": "Tyrion: И у меня нет доказательств, указывающие на [i]настоящие[/i] события в молельне.",
+    "translation": "Tyrion: И у меня нет доказательств, указывающие на [i]настоящие[/i] события в молельной комнате.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered18-5727\",\n  \"keywords\": []\n}"
   },
@@ -37907,7 +37907,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5745",
     "original": "Tyrion: But when he was in the Prayer Room,[p/] Garrick Pierce chose to take his own life...",
-    "translation": "Tyrion: Но когда я был в молельне,[p/] Гаррик Пирс решил забрать свою собственную жизнь...",
+    "translation": "Tyrion: Но когда я был в молельной комнате,[p/] Гаррик Пирс решил забрать свою собственную жизнь...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered20-5745\",\n  \"keywords\": []\n}"
   },
@@ -43752,7 +43752,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6639",
     "original": "Tyrion: It's almost 2:00 PM, anyways.[p/] We should head to the Prayer Room.",
-    "translation": "Tyrion: Что ж, уже почти 14:00.[p/] Нам пора идти в сторону молельни.",
+    "translation": "Tyrion: Что ж, уже почти 14:00.[p/] Нам пора идти в сторону молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Check_Events_GardenIntro-6639\",\n  \"keywords\": []\n}"
   },
@@ -44949,7 +44949,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6830",
     "original": "Celeste: ...I think she realized that she couldn't beat me.[p/] So she just ran past me and into the Prayer Room.",
-    "translation": "Celeste: ...Я думаю, она поняла, что не сможет победить меня.[p/] Поэтому она просто пробежала мимо меня в молельню.",
+    "translation": "Celeste: ...Я думаю, она поняла, что не сможет победить меня.[p/] Поэтому она просто пробежала мимо меня в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6830\",\n  \"keywords\": []\n}"
   },
@@ -44970,7 +44970,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6833",
     "original": "Celeste: N-[p/]No...[p/] When I arrived at the Prayer Room,[p/] I saw you and Steelwind unconscious on the ground.",
-    "translation": "Celeste: Н-[p/]Нет...[p/] Когда я прибежала в молельню,[p/] я увидела тебя и Стилвинд без сознания на полу.",
+    "translation": "Celeste: Н-[p/]Нет...[p/] Когда я прибежала в молельную комнату,[p/] я увидела тебя и Стилвинд без сознания на полу.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6833\",\n  \"keywords\": []\n}"
   },
@@ -44998,7 +44998,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6837",
     "original": "How did she leave the Prayer Room without Celeste noticing?",
-    "translation": "Как она смогла покинуть молельню, не дав Селест об этом знать?",
+    "translation": "Как она смогла покинуть молельную комнату, не дав Селест об этом знать?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6837\",\n  \"keywords\": []\n}"
   },
@@ -45019,7 +45019,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6841",
     "original": "Tyrion: We showed up at the Prayer Room for the meeting at 1:50 PM.",
-    "translation": "Tyrion: Мы пришли на встречу в молельню в 13:50.",
+    "translation": "Tyrion: Мы пришли на встречу в молельную комнату в 13:50.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6841\",\n  \"keywords\": []\n}"
   },
@@ -45068,7 +45068,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6848",
     "original": "Celeste: ...After that,[p/] she gave up on fighting me and ran into the Prayer Room.",
-    "translation": "Celeste: ...После этого,[p/] она сдалась в бою и пробежала в молельню.",
+    "translation": "Celeste: ...После этого,[p/] она сдалась в бою и пробежала в молельную комнату.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6848\",\n  \"keywords\": []\n}"
   },
@@ -45327,7 +45327,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6892",
     "original": "You arrive at the Prayer Room.[p/] It's now swarming with knights from the Inquisition.",
-    "translation": "Ты прибываешь в молельню.[p/] Сейчас она забита рыцарями Инквизиции.",
+    "translation": "Ты прибываешь в молельную комнату.[p/] Сейчас она забита рыцарями Инквизиции.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Check_Events_PrayerRoom1-6892\",\n  \"keywords\": []\n}"
   },
@@ -47035,7 +47035,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7143",
     "original": "But anyways,[p/] the Prayer Room is the room you're most familiar with.",
-    "translation": "Но в любом случае,[p/] молельня - место, которое ты помнишь лучше всего.",
+    "translation": "Но в любом случае,[p/] молельная комната - место, которое ты помнишь лучше всего.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-AfterMurder7-7143\",\n  \"keywords\": []\n}"
   },
@@ -51452,7 +51452,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7821",
     "original": "Garrick: [i]Meet me in the private Prayer Room within the Grand Cathedral of the Scaled Lord at 2:00 PM...[/i]",
-    "translation": "Garrick: “[i]Встретимся лично в молельне на территории Великого Собора Чешуйчатого Лорда в 14:00...[/i]\"",
+    "translation": "Garrick: “[i]Встретимся лично в молельной комнате на территории Великого Собора Чешуйчатого Лорда в 14:00...[/i]\"",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-LetterGet2-7821\",\n  \"keywords\": []\n}"
   },
@@ -52194,7 +52194,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-64",
     "original": "Player: The Prayer Room",
-    "translation": "Player: Молельня.",
+    "translation": "Player: Молельная комната",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-64\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
@@ -53426,14 +53426,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1878",
     "original": "Orym: When we got there,[p/] we noticed a bunch of unconscious knights in front of the Prayer Room.",
-    "translation": "Orym: Но когда мы попали туда,[p/] мы обнаружили множество рыцарей возле Молельни без сознания.",
+    "translation": "Orym: Но когда мы попали туда,[p/] мы обнаружили множество рыцарей возле молельной комнаты без сознания.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1878\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1893",
     "original": "Orym: We went to the Prayer Room.[p/] That's when we found Steelwind and Cuthbert unconscious next to Pierce's dead body.",
-    "translation": "Orym: Мы вошли в молельню.[p/] Тогда мы нашли Стилвинд и Катберта без сознания рядом с телом Пирса.",
+    "translation": "Orym: Мы вошли в молельную комнату.[p/] Тогда мы нашли Стилвинд и Катберта без сознания рядом с телом Пирса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1893\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -53475,7 +53475,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1936",
     "original": "Orym: From McCoy's testimony,[p/] we know that Steelwind killed Pierce in the Prayer Room.",
-    "translation": "Orym: По показаниям МакКой,[p/] мы знаем, что Стивилд убила Пирса в молельне.",
+    "translation": "Orym: По показаниям МакКой,[p/] мы знаем, что Стивилд убила Пирса в молельной комнате.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1936\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -53524,7 +53524,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2171",
     "original": "Theon: I began heading to the Prayer Room when I spotted Lady Steelwind looking over the west-ward balcony.[p/] This happened before 2:15 PM.",
-    "translation": "Theon: Я направился в сторону молельни и наткнулся на леди Стилвинд, которая осматривалась с западного балкона.[p/] Это произошло до 14:15.",
+    "translation": "Theon: Я направился в сторону молельной комнаты и наткнулся на леди Стилвинд, которая осматривалась с западного балкона.[p/] Это произошло до 14:15.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2171\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -53545,14 +53545,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2199",
     "original": "Theon: I asked her what she was doing.[p/] But again,[p/] she ignored me and went towards the Prayer Room.",
-    "translation": "Theon: Я спросил её, что она делала.[p/] Но вновь,[p/] она не обратила на меня внимание и направилась в сторону молельни.",
+    "translation": "Theon: Я спросил её, что она делала.[p/] Но вновь,[p/] она не обратила на меня внимание и направилась в сторону молельной комнаты.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2199\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2208",
     "original": "Theon: I only spent about two minutes trying to speak with her.[p/] But she ignored me and went towards the Prayer Room.[p/]",
-    "translation": "Theon: Прошло всего две минуты, пока я пытался поговорить с ней.[p/]  Но она не обратила на меня внимание и направилась в сторону молельни.[p/]",
+    "translation": "Theon: Прошло всего две минуты, пока я пытался поговорить с ней.[p/]  Но она не обратила на меня внимание и направилась в сторону молельной комнаты.[p/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2208\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -53671,14 +53671,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3357",
     "original": "Celeste: We went to the Prayer Room a lot earlier for our meeting,[p/] and that commotion we heard was actually Beatrice and Eris attacking the guards at 1:40 PM.",
-    "translation": "Celeste: Мы пришли в молельню намного раньше назначенной встречи,[p/] и шум, который мы слышали, был атакой Беатрис и Эрис на охрану в 13:40.",
+    "translation": "Celeste: Мы пришли в молельную комнату намного раньше назначенной встречи,[p/] и шум, который мы слышали, был атакой Беатрис и Эрис на охрану в 13:40.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3357\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3367",
     "original": "Celeste: They tricked me and slipped into the Prayer Room...[p/] After that,[p/] Beatrice...[p/] killed you.",
-    "translation": "Celeste: Они обхитрили меня и проскользнули в молельню...[p/] И после этого,[p/] Беатрис...[p/] убила тебя.",
+    "translation": "Celeste: Они обхитрили меня и проскользнули в молельную комнату...[p/] И после этого,[p/] Беатрис...[p/] убила тебя.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3367\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -53741,7 +53741,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3602",
     "original": "Celeste: When I followed her into the Prayer Room,[p/] I found her there with Beatrice and Eris.[p/] They knocked Aria,[p/] Tyrion,[p/] and Pierce unconscious.",
-    "translation": "Celeste: Когда я последовала за ней в молельню,[p/] я нашла её с Беатрис и Эрис.[p/] Они вырубили Арию,[p/] Тириона[p/] и Пирса.",
+    "translation": "Celeste: Когда я последовала за ней в молельную комнату,[p/] я нашла её с Беатрис и Эрис.[p/] Они вырубили Арию,[p/] Тириона[p/] и Пирса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3602\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
