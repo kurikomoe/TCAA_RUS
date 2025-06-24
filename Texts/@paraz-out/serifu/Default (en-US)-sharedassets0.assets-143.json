@@ -19378,7 +19378,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3006",
     "original": "Eris: I didn't really have a reason to kill [i]them[/i] specifically.[p/] I just needed Aria to kill my victims as quickly and efficiently as possible.",
-    "translation": "Eris: У меня не было причины убивать конкретно [i]их[/i].[p/] Мне просто было нужно, чтобы Ария убила жертв так быстро и эффективно, как это возможно.",
+    "translation": "Eris: У меня не было причины убивать конкретно [i]их[/i].[p/] Мне просто было нужно, чтобы Ария убила моих жертв так быстро и эффективно, как это возможно.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj-3006\",\n  \"keywords\": []\n}"
   },
@@ -52467,15 +52467,15 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-794",
     "original": "Player: How were the murders discovered?",
-    "translation": "Player: 谋杀案是怎么被发现的？",
-    "stage": 5,
+    "translation": "Player: Как вы обнаружили убийства?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-794\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-830",
     "original": "Player: The Comatose Guards",
-    "translation": "Player: 昏迷的卫兵",
-    "stage": 5,
+    "translation": "Player: Стража в коме",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-830\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52488,22 +52488,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-868",
     "original": "Player: Beatrice Frega",
-    "translation": "Player: 比亚特丽丝·弗雷加",
-    "stage": 5,
+    "translation": "Player: Беатрис Фрега",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-868\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-919",
     "original": "Player: The First Victim: Lloyd von Sanctus",
-    "translation": "Player: 第一个受害者：洛伊德·冯·桑克图斯",
-    "stage": 5,
+    "translation": "Player: Первая жертва: Ллойд фон Санктус",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-919\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-943",
     "original": "Player: Spell Compendiums",
-    "translation": "Player: 法术汇编",
-    "stage": 5,
+    "translation": "Player: Компендиумы Заклинаний",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Talk_CommonRoom1-943\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52544,22 +52544,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1095",
     "original": "Player: Coraline Sibyl",
-    "translation": "Player: 卡洛琳·希比尔",
-    "stage": 5,
+    "translation": "Player: Коралина Сибил",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1095\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1109",
     "original": "Player: Wyverngarde's Justice System",
-    "translation": "Player: 维文加德的司法体系",
-    "stage": 5,
+    "translation": "Player: Судебная система Вивернгарда",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1109\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1128",
     "original": "Player: The Nobility",
-    "translation": "Player: 贵族",
-    "stage": 5,
+    "translation": "Player: Знать",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoomIntro.yarn-Talk_CommonRoomIntro-1128\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52628,29 +52628,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1527",
     "original": "Player: The Empress of Discord",
-    "translation": "Player: 无序女皇",
-    "stage": 5,
+    "translation": "Player: Императрица Раздора",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj12-1527\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj12\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj11-17-0\",\n          \"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1528",
     "original": "Player: Marrunath",
-    "translation": "Player: 马鲁纳斯",
-    "stage": 5,
+    "translation": "Player: Маррунат",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj12-1528\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj12\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj11-17-0\",\n          \"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1533",
     "original": "Player: Eugene Haroldson",
-    "translation": "Player: 尤金·哈罗德森",
-    "stage": 5,
+    "translation": "Player: Юджин Харольдсон",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj12-1533\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj12\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj11-17-0\",\n          \"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1538",
     "original": "Player: An unknown demon",
-    "translation": "Player: 未知的恶魔",
-    "stage": 5,
+    "translation": "Player: Неизвестный демон",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj12-1538\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj12\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj11-17-0\",\n          \"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52670,8 +52670,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1633",
     "original": "Player: The Patron",
-    "translation": "Player: 签约人",
-    "stage": 5,
+    "translation": "Player: Покровитель",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj17b-1633\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj17b\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj17a-31-0\",\n          \"Aria,Marrunath,Lucio,The Patron\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52698,22 +52698,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2290",
     "original": "Player: She died before she was thrown",
-    "translation": "Player: 她被扔进湖里之前就死了",
-    "stage": 5,
+    "translation": "Player: Она умерла до падения",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2290\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2296",
     "original": "Player: She died while she was falling",
-    "translation": "Player: 她在坠落途中死亡",
-    "stage": 5,
+    "translation": "Player: Она умерла во время падения",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2296\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2301",
     "original": "Player: She died after she hit the water",
-    "translation": "Player: 她在落入水中之后死亡",
-    "stage": 5,
+    "translation": "Player: Она умерла после удара об воду",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj3-2301\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52803,8 +52803,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2476",
     "original": "Player: The Patron",
-    "translation": "Player: 签约人",
-    "stage": 5,
+    "translation": "Player: Покровитель",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj21-2476\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TheonObj21\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-TheonObj20-4-0\",\n          \"The Patron,Lloyd von Sanctus,Lucio Steelwind,Coraline Sibyl\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52817,50 +52817,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3009",
     "original": "Player: \"I didn't really have a reason...\"",
-    "translation": "Player: “没有特定的理由”",
-    "stage": 5,
+    "translation": "Player: \"У меня не было причины...\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3009\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3014",
     "original": "Player: \"...to kill [i]them[/i] specifically.\"",
-    "translation": "Player: “要杀<u>他们</u>”",
-    "stage": 5,
+    "translation": "Player: \"...убивать конкретно [i]их[/i]\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3014\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3023",
     "original": "Player: \"I just needed Aria...\"",
-    "translation": "Player: “我只需要阿莉亚”",
-    "stage": 5,
+    "translation": "Player: \"Мне просто было нужно, чтобы Ария...\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3023\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3030",
     "original": "Player: \"...to kill my victims...\"",
-    "translation": "Player: “杀掉我要杀的人”",
-    "stage": 5,
+    "translation": "Player: \"...убила моих жертв...\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3030\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3031",
     "original": "Player: \"...as quickly and efficiently...\"",
-    "translation": "Player: “高效快速地”",
-    "stage": 5,
+    "translation": "Player: \"...так быстро и эффективно...\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3031\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3037",
     "original": "Player: \"...as possible.\"",
-    "translation": "Player: “尽可能”",
-    "stage": 5,
+    "translation": "Player: \"...как это возможно.\"",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj3-3037\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3073",
     "original": "Player: An unknown person",
-    "translation": "Player: 身份不明的人",
-    "stage": 5,
+    "translation": "Player: Неизвестный человек",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-ErisObj6-3073\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: ErisObj6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-ErisObj5-16-0\",\n          \"An unknown person,Aria Steelwind,Beatrice Frega,Eris Illmater\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52943,57 +52943,57 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4757",
     "original": "Player: What happened?",
-    "translation": "Player: 发生了什么？",
-    "stage": 5,
+    "translation": "Player: Что произошло?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4757\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4777",
     "original": "Player: Magic that can affect the mind",
-    "translation": "Player: 能影响精神的法术",
-    "stage": 5,
+    "translation": "Player: Магия, влияющая на разум",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4777\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4806",
     "original": "Player: Aria did this?",
-    "translation": "Player: 是阿莉亚干的？",
-    "stage": 5,
+    "translation": "Player: Ария сделал это?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4806\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4827",
     "original": "Player: The Purple Conspiracy",
-    "translation": "Player: 紫色阴谋",
-    "stage": 5,
+    "translation": "Player: Фиолетовый заговор",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4827\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4849",
     "original": "Player: Aria's fate",
-    "translation": "Player: 阿莉亚的命运",
-    "stage": 5,
+    "translation": "Player: Судьба Арии",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4849\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4871",
     "original": "Player: Saving Steelwind's future (ARGUMENT)",
-    "translation": "Player: 拯救斯蒂尔文德的未来（辩论）",
-    "stage": 5,
+    "translation": "Player: Спасение будущего Стилвинд (ПРЕНИЯ)",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4871\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4872",
     "original": "Player: Saving Steelwind's future",
-    "translation": "Player: 拯救斯蒂尔文德的未来",
-    "stage": 5,
+    "translation": "Player: Спасение будущего Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4872\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4873",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4873\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53027,36 +53027,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5982",
     "original": "Player: Laefe as a suspect",
-    "translation": "Player: 嫌疑人拉菲",
-    "stage": 5,
+    "translation": "Player: Лаеф как подозреваемая",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-5982\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6000",
     "original": "Player: Beatrice Frega",
-    "translation": "Player: 比亚特丽丝·弗雷加",
-    "stage": 5,
+    "translation": "Player: Беатрис Фрега",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6000\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6015",
     "original": "Player: Where were you during the massacre?",
-    "translation": "Player: 屠杀期间你在哪里？",
-    "stage": 5,
+    "translation": "Player: Где вы были во время резни?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6015\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6048",
     "original": "Player: Contracts with a demon",
-    "translation": "Player: 和恶魔签约",
-    "stage": 5,
+    "translation": "Player: Контракты с демоном",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6048\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6049",
     "original": "Player: Back",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: Назад",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FregaManor2.yarn-Talk_FregaManor2-6049\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53076,211 +53076,211 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6228",
     "original": "Player: Steelwind's Trial",
-    "translation": "Player: 斯蒂尔文德的庭审",
-    "stage": 5,
+    "translation": "Player: Суд Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6228\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6252",
     "original": "Player: The Gathering of Nobles",
-    "translation": "Player: 贵族聚会",
-    "stage": 5,
+    "translation": "Player: Сборище знати",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6252\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6276",
     "original": "Player: Beatrice Frega",
-    "translation": "Player: 比亚特丽丝·弗雷加",
-    "stage": 5,
+    "translation": "Player: Беатрис Фрега",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6276\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6287",
     "original": "Player: Aria Steelwind",
-    "translation": "Player: 阿莉亚·斯蒂尔文德",
-    "stage": 5,
+    "translation": "Player: Ария Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6287\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6313",
     "original": "Player: What did you see?",
-    "translation": "Player: 你看到了什么？",
-    "stage": 5,
+    "translation": "Player: Что вы видели?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6313\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6338",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6338\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6437",
     "original": "Player: Beatrice Frega",
-    "translation": "Player: 比亚特丽丝·弗雷加",
-    "stage": 5,
+    "translation": "Player: Беатрис Фрега",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6437\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6460",
     "original": "Player: Eris Illmater",
-    "translation": "Player: 厄莉斯·伊尔马特",
-    "stage": 5,
+    "translation": "Player: Эрис Иллмейтер",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6460\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6476",
     "original": "Player: Marrunath",
-    "translation": "Player: 马鲁纳斯",
-    "stage": 5,
+    "translation": "Player: Маррунат",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6476\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6496",
     "original": "Player: The Heavensborn",
-    "translation": "Player: 天诞之物",
-    "stage": 5,
+    "translation": "Player: Небесами рождённый",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6496\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6518",
     "original": "Player: The Celestials",
-    "translation": "Player: 天人",
-    "stage": 5,
+    "translation": "Player: Небожители",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6518\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6535",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/GardenIntro.yarn-Talk_GardenIntro-6535\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6727",
     "original": "Player: What did you see?",
-    "translation": "Player: 你看到了什么？",
-    "stage": 5,
+    "translation": "Player: Что вы видели?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Mafia2.yarn-Talk_Mafia2-6727\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6728",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Mafia2.yarn-Talk_Mafia2-6728\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6799",
     "original": "Player: The Fight with Steelwind",
-    "translation": "Player: 与斯蒂尔文德的搏斗",
-    "stage": 5,
+    "translation": "Player: Бой со Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6799\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6817",
     "original": "Player: Beatrice Frega",
-    "translation": "Player: 比亚特丽丝·弗雷加",
-    "stage": 5,
+    "translation": "Player: Беатрис Фрега",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6817\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6840",
     "original": "Player: Timeline",
-    "translation": "Player: 时间线",
-    "stage": 5,
+    "translation": "Player: Временные промежутки",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6840\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6854",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoom1.yarn-Talk_PrayerRoom1-6854\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6908",
     "original": "Player: Beatrice Frega",
-    "translation": "Player: 比亚特丽丝·弗雷加",
-    "stage": 5,
+    "translation": "Player: Беатрис Фрега",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-Talk_PrayerRoomIntro-6908\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6909",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/PrayerRoomIntro.yarn-Talk_PrayerRoomIntro-6909\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7163",
     "original": "Player: The Investigation",
-    "translation": "Player: 调查",
-    "stage": 5,
+    "translation": "Player: Расследование",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Talk_TownSquare2-7163\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7169",
     "original": "Player: Next Lead",
-    "translation": "Player: 下一个线索",
-    "stage": 5,
+    "translation": "Player: Следующая цель",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Talk_TownSquare2-7169\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7174",
     "original": "Player: Back",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: Назад",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TownSquare2.yarn-Talk_TownSquare2-7174\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7231",
     "original": "Player: Small Talk",
-    "translation": "Player: 寒暄",
-    "stage": 5,
+    "translation": "Player: Небольшой разговор",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7231\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7250",
     "original": "Player: Tymora's Actions",
-    "translation": "Player: 泰摩拉的行动",
-    "stage": 5,
+    "translation": "Player: Действия Тиморы",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7250\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7273",
     "original": "Player: Tymora's Past",
-    "translation": "Player: 泰摩拉的过往",
-    "stage": 5,
+    "translation": "Player: Прошлое Тиморы",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7273\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7296",
     "original": "Player: What did you do?",
-    "translation": "Player: 你做了什么？",
-    "stage": 5,
+    "translation": "Player: Как вы поступили?",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7296\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7334",
     "original": "Player: Tyrion Cuthbert",
-    "translation": "Player: 提利昂·卡斯伯特",
-    "stage": 5,
+    "translation": "Player: Тирион Катберт",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7334\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7373",
     "original": "Player: The Eyetaker",
-    "translation": "Player: 夺眼者",
-    "stage": 5,
+    "translation": "Player: Глазохват",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7373\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"疑似物品： The Eyetaker\",\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7392",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-Talk_TymoraOffice2-7392\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53321,78 +53321,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7649",
     "original": "Player: Tyrion Cuthbert",
-    "translation": "Player: 提利昂·卡斯伯特",
-    "stage": 5,
+    "translation": "Player: Тирион Катберт",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-Talk_TyrionRoomIntro-7649\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7677",
     "original": "Player: Aria Steelwind",
-    "translation": "Player: 阿莉亚·斯蒂尔文德",
-    "stage": 5,
+    "translation": "Player: Ария Стилвинд",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-Talk_TyrionRoomIntro-7677\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7696",
     "original": "Player: Celeste McCoy",
-    "translation": "Player: 塞莱斯特·麦考伊",
-    "stage": 5,
+    "translation": "Player: Селест МакКой",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-Talk_TyrionRoomIntro-7696\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7711",
     "original": "Player: Ruby Tymora",
-    "translation": "Player: 鲁比·泰摩拉",
-    "stage": 5,
+    "translation": "Player: Руби Тимора",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-Talk_TyrionRoomIntro-7711\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7724",
     "original": "Player: BACK",
-    "translation": "Player: 返回",
-    "stage": 5,
+    "translation": "Player: НАЗАД",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TyrionRoomIntro.yarn-Talk_TyrionRoomIntro-7724\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1357",
     "original": "MBeatrice: I was with my sisters and my...[p/] guide,[p/] Eris Illmater.",
-    "translation": "MBeatrice: 我当时和妹妹们以及……[p/]向导，[p/]厄莉斯·伊尔马特在一起。",
-    "stage": 5,
+    "translation": "MBeatrice: Я была вместе с моими сёстрами и моим...[p/] проводником,[p/] Эрис Иллмейтер.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1357\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1367",
     "original": "MBeatrice: I was speaking with them in the garden,[p/] when I suddenly felt ill and lost consciousness.",
-    "translation": "MBeatrice: 我们在花园里交谈，[p/]然后我突然感觉不适，失去了意识。",
-    "stage": 5,
+    "translation": "MBeatrice: Я общалась с ними в саду,[p/] после чего я внезапно почувствовала боль и потеряла сознание.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1367\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1378",
     "original": "MBeatrice: When I woke up,[p/] my sisters found me.[p/] They said that I had gone missing for over an hour.",
-    "translation": "MBeatrice: 醒来以后，[p/]妹妹们找到了我。[p/]她们说我失踪超过一小时了。",
-    "stage": 5,
+    "translation": "MBeatrice: Когда я очнулась,[p/] мои сестры нашли меня.[p/] Они сказали, что я пропала на целый час.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1378\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1383",
     "original": "MBeatrice: I was confused.[p/] But when I later heard what happened,[p/] I realized that someone must have taken control of my body.",
-    "translation": "MBeatrice: 我很困惑。[p/]但我之后听说了发生的事，[p/]也意识到有人操控了我的身体。",
-    "stage": 5,
+    "translation": "MBeatrice: Я была сбита с толку.[p/] Но когда я узнала о случившемся,[p/] я поняла, что кто-то взял контроль над моим телом.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1383\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1393",
     "original": "MBeatrice: I have no memories of what happened.[p/] And from what I understand,[p/] the same thing happened to Aria.",
-    "translation": "MBeatrice: 我不记得发生了什么。[p/]但我听说阿莉亚也有相同遭遇。",
-    "stage": 5,
+    "translation": "MBeatrice: У меня нет воспоминаний о произошедшем.[p/] И насколько я знаю,[p/] тоже самое случилось с Арией.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1393\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1400",
     "original": "MBeatrice: And to make matters worse,[p/] there's [i]nothing[/i] that indicates who may have controlled our actions.",
-    "translation": "MBeatrice: 更麻烦的是，[p/]<u>没有</u>任何线索能指明幕后黑手。",
-    "stage": 5,
+    "translation": "MBeatrice: И что ещё хуже,[p/] нет [i]ничего[/i], что могло бы указывать на то, кто взял меня под контроль.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-Cross-Examination_Beat-1400\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -53412,78 +53412,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1860",
     "original": "Orym: It all started when we received a report from the Kingsguard.[p/] The prosecutor attacked Prince Alaric and a fire had broken out in the Common Room.",
-    "translation": "Orym: 一切都要从我们收到国王卫队报告时说起。[p/]检察官攻击了阿拉里克王子，公共休息室还着火了。",
-    "stage": 5,
+    "translation": "Orym: Всё началось с доклада от Гвардейцев.[p/] Ария Стилвинд атаковала принца Аларика и устроила пожар в общей комнате.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1860\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1867",
     "original": "Orym: We weren't sure what the deal with Steelwind was.[p/] So we went to the Common Room to put out the fire.",
-    "translation": "Orym: 我们不确定斯蒂尔文德那边怎么回事。[p/]就先去公共休息室帮忙灭火。",
-    "stage": 5,
+    "translation": "Orym: Мы не были уверены, что творит Стилвинд.[p/] Так что мы направились в общую комнату для тушения пожара.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1867\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1878",
     "original": "Orym: When we got there,[p/] we noticed a bunch of unconscious knights in front of the Prayer Room.",
-    "translation": "Orym: 但我们抵达时，[p/]发现一群卫兵昏倒在祷告室前。",
-    "stage": 5,
+    "translation": "Orym: Но когда мы попали туда,[p/] мы обнаружили множество рыцарей возле Молельни без сознания.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1878\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1893",
     "original": "Orym: We went to the Prayer Room.[p/] That's when we found Steelwind and Cuthbert unconscious next to Pierce's dead body.",
-    "translation": "Orym: 我们就先去了祷告室。[p/]在那里我们发现了皮尔斯的尸体，以及旁边失去意识的斯蒂尔文德和卡斯伯特。",
-    "stage": 5,
+    "translation": "Orym: Мы вошли в молельню.[p/] Тогда мы нашли Стилвинд и Катберта без сознания рядом с телом Пирса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1893\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1902",
     "original": "Orym: We later found the bodies of von Sanctus and Sibyl too.[p/] That's when we realized that she offed all three of them.",
-    "translation": "Orym: 之后我们也发现了冯·桑克图斯和希比尔的尸体。[p/]这时我们才意识到三个人都是被她杀害的。",
-    "stage": 5,
+    "translation": "Orym: Позже, мы также обнаружили тела фон Санктуса и Сибио.[p/] Тогда мы и осознали, что она убила всех троих.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1902\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1905",
     "original": "Orym: Steelwind must have attacked von Sanctus in the Common Room and suffocated him somehow.",
-    "translation": "Orym: 斯蒂尔文德肯定是在公共休息室攻击了冯·桑克图斯，使其窒息。",
-    "stage": 5,
+    "translation": "Orym: Вероятно, Стилвинд атаковал фон Санктуса в общей комнате и как-то задушила его.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1905\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1917",
     "original": "Orym: From the burns on his body,[p/] she must have hit him with a [b]Fire Bolt[/b] to keep him from getting away.[p/] He didn't have anything to defend himself with.",
-    "translation": "Orym: 根据尸体上的烧伤，[p/]他应该先被[b]火焰箭[/b]击中，无法逃走。[p/]他也没有任何自卫手段。",
-    "stage": 5,
+    "translation": "Orym: Учитывая ожоги на его теле,[p/] она точно атаковала его [b]Огненным Выстрелом[/b], дабы он не сбежал.[p/] Ему нечем было защищатся.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1917\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1923",
     "original": "Orym: Steelwind must have attacked Sibyl somewhere close to that balcony.[p/] And going by the autopsy report,[p/] she must have suffocated her somehow.",
-    "translation": "Orym: 斯蒂尔文德肯定是在阳台附近攻击了希比尔。[p/]根据尸检报告，[p/]她用某种手段令其窒息。",
-    "stage": 5,
+    "translation": "Orym: Должно быть, Стилвинд как-то атаковала Сибилу рядом с балконом.[p/] И согласно протоколу вскрытия,[p/] она как-то удушила её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1923\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1930",
     "original": "Orym: We later discovered her body in Lake Galakrond.[p/] From the High Speaker's testimony,[p/] Steelwind must have dumped her body from the balcony above.",
-    "translation": "Orym: 我们之后在迦拉克隆湖里发现了她的尸体。[p/]根据大主教的证言，[p/]斯蒂尔文德肯定是从正上方阳台处弃尸。",
-    "stage": 5,
+    "translation": "Orym: Позже, мы обнаружили её тело в озере Галакронд.[p/] Согласно показаниям епископа,[p/] Стилвинд, скорее всего, сбросила её тело с балкона.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1930\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1936",
     "original": "Orym: From McCoy's testimony,[p/] we know that Steelwind killed Pierce in the Prayer Room.",
-    "translation": "Orym: 根据麦考伊的证言，[p/]斯蒂尔文德在祷告室杀了皮尔斯。",
-    "stage": 5,
+    "translation": "Orym: По показаниям МакКой,[p/] мы знаем, что Стивилд убила Пирса в молельне.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1936\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1953",
     "original": "Orym: She probably didn't have time to suffocate him like the other two.[p/] So she must have improvised a weapon using [b]Shape Liquid[/b].",
-    "translation": "Orym: 她大概没时间采取之前的窒息手段了。[p/]就临机应变，用[b]形变液体[/b]做了一把武器。",
-    "stage": 5,
+    "translation": "Orym: Вероятно, у неё было мало времени, чтобы удушить его также, как и прошлых[p/] Поэтому она импровизировала с оружием из [b]Острой Жидкости[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Orym-1953\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -53503,85 +53503,85 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2150",
     "original": "Theon: I was doing some paperwork in my quarters and I suppose I lost track of the time.[p/] My alarm went off and I realized that it was time for my afternoon prayers.",
-    "translation": "Theon: 我在住所进行文书工作，忙到忘了时间。[p/]听到闹钟才想起来，该进行下午的祷告了。",
-    "stage": 5,
+    "translation": "Theon: Я занимался бумажной волокитой в своей комнате и, полагаю, сбился со счёта времени.[p/] Мой будильник сработал и я осознал, что настало время дневной молитвы.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2150\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2155",
     "original": "Theon: I was in my quarters when my alarm went off at 2:10 PM.[p/] I realized that it was time for my afternoon prayers.",
-    "translation": "Theon: 下午 2:10 闹钟响的时候，我在房间里。[p/]听见铃声才意识到该进行下午的祷告了。",
-    "stage": 5,
+    "translation": "Theon: Я был в своей комнате, когда прозвенел мой будильник в 14:10.[p/] Я понял, что пришло время дневной молитвы",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2155\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2163",
     "original": "Theon: I began heading to the Prayer Room when I spotted Lady Steelwind looking over the west-ward balcony.",
-    "translation": "Theon: 我向着祷告室出发，发现斯蒂尔文德小姐正在西侧阳台往下看。",
-    "stage": 5,
+    "translation": "Theon: Я направился в сторону молельни и наткнулся на леди Стилвинд, которая осматривалась с западного балкона.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2163\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2171",
     "original": "Theon: I began heading to the Prayer Room when I spotted Lady Steelwind looking over the west-ward balcony.[p/] This happened before 2:15 PM.",
-    "translation": "Theon: 我向着祷告室出发，发现斯蒂尔文德小姐正在西侧阳台往下看。[p/]时间是下午 2:15 之前。",
-    "stage": 5,
+    "translation": "Theon: Я направился в сторону молельни и наткнулся на леди Стилвинд, которая осматривалась с западного балкона.[p/] Это произошло до 14:15.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2171\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2180",
     "original": "Theon: I tried to greet her but she didn't respond to me.[p/] That's when I noticed she was pushing something large over the balcony and into Lake Galakrond.",
-    "translation": "Theon: 我向她打招呼，但被无视了。[p/]这时我发现，她正从阳台把什么大东西推入迦拉克隆湖。",
-    "stage": 5,
+    "translation": "Theon: Я решил поздороваться с ней, но она не ответила мне.[p/] Тогда я заметил, что она выкинула что-то больше с балкона в озеро Галакронд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2180\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2187",
     "original": "Theon: It was still before 2:15 PM.[p/] Our encounter was short.[p/] That's when I noticed she was pushing something large over the balcony and into Lake Galakrond.",
-    "translation": "Theon: 当时还没到下午 2:15。[p/]我们只短暂相遇。[p/]这时我发现，她正从阳台把什么大东西推入迦拉克隆湖。",
-    "stage": 5,
+    "translation": "Theon: Это всё ещё было до 14:15.[p/] Наша встреча была короткой.[p/] Тогда я заметил, что она столкнула что-то большое с балкона над Озером Галакронд.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2187\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2199",
     "original": "Theon: I asked her what she was doing.[p/] But again,[p/] she ignored me and went towards the Prayer Room.",
-    "translation": "Theon: 我问她在干什么。[p/]但她还是无视了我，[p/]转身向祷告室走去。",
-    "stage": 5,
+    "translation": "Theon: Я спросил её, что она делала.[p/] Но вновь,[p/] она не обратила на меня внимание и направилась в сторону молельни.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2199\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2208",
     "original": "Theon: I only spent about two minutes trying to speak with her.[p/] But she ignored me and went towards the Prayer Room.[p/]",
-    "translation": "Theon: 我花了大约两分钟尝试和她交谈。[p/]但她还是无视了我，[p/]转身向祷告室走去。",
-    "stage": 5,
+    "translation": "Theon: Прошло всего две минуты, пока я пытался поговорить с ней.[p/]  Но она не обратила на меня внимание и направилась в сторону молельни.[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2208\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2214",
     "original": "Theon: I thought nothing of it and made my way there as well.[p/] That's when the guards there turned me away.",
-    "translation": "Theon: 我没多想，也向祷告室走过去。[p/]看守的卫兵把我拦下了。",
-    "stage": 5,
+    "translation": "Theon: Я решил, что это пустяк, и на правился в ту же сторону.[p/] Тогда меня и встретила охрана и сказала, что не пропустит меня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2214\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2223",
     "original": "Theon: I thought nothing of it and made my way there as well.[p/] That's when the guards there turned me away at 2:15 PM.",
-    "translation": "Theon: 我没多想，也向祷告室走过去。[p/]下午 2:15 到达时，看守的卫兵把我拦下了。",
-    "stage": 5,
+    "translation": "Theon: Я решил, что это пустяк, и на правился в ту же сторону.[p/] Тогда, в 14:15, меня и встретила охрана и сказала, что не пропустит меня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2223\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2230",
     "original": "Theon: I went back to my quarters to do my Prayers there.",
-    "translation": "Theon: 我就折返回自己的房间祈祷。",
-    "stage": 5,
+    "translation": "Theon: Я вернулся в свою комнату и помолился там.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2230\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2241",
     "original": "Theon: I went back to my quarters to do my Prayers there.[p/] I was there until 3:15 PM.",
-    "translation": "Theon: 我就折返回自己的房间祈祷。[p/]在那里一直等到下午 3:15。",
-    "stage": 5,
+    "translation": "Theon: Я вернулся в свою комнату и помолился там.[p/] Я был там до 15:15.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-Cross-Examination_Theon-2241\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -53608,43 +53608,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2880",
     "original": "Eris: I knew about the King's funeral at the Grand Cathedral.[p/] So I forced Beatrice Frega to allow me to accompany her.",
-    "translation": "Eris: 我知道国王的葬礼在大教堂举办。[p/]就强迫比亚特丽丝·弗雷加让我和她同行。",
-    "stage": 5,
+    "translation": "Eris: Я знала о похоронах Короля в Великом Соборе.[p/] А потому, я убедила Беатрис Фреги позволить мне сопровождать её.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2880\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2887",
     "original": "Eris: When I was there,[p/] I used my Contracts with Beatrice Frega and Aria Steelwind to compel them to act against their will.",
-    "translation": "Eris: 到达之后，[p/]我利用了比亚特丽丝·弗雷加和阿莉亚·斯蒂尔文德的契约，操控她们行动。",
-    "stage": 3,
+    "translation": "Eris: Когда я оказалась там,[p/] я использовала свои Контракты с Беатрис Фрегой и Арией Стилвинд, дабы заставить их действовать против их воли.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2887\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2908",
     "original": "Eris: Through the actions of Beatrice Frega and Aria Steelwind,[p/] I facilitated the deaths of Lloyd von Sanctus,[p/] Coraline Sibyl,[p/] and Garrick Pierce.",
-    "translation": "Eris: 通过比亚特丽丝·弗雷加和阿莉亚·斯蒂尔文德的行动，[p/]我促成了洛伊德·冯·桑克图斯，[p/]卡洛琳·希比尔，[p/]加里克·皮尔斯的死亡。",
-    "stage": 5,
+    "translation": "Eris: C помощью действий Беатрис Фреги и Арии Стилвинд,[p/] я поспособствовала смерти Ллойда фон Санктуса,[p/] Коралины Сибил,[p/] и Гаррика Пирса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2908\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2930",
     "original": "Eris: I didn't really have a reason to kill [i]them[/i] specifically.[p/] I just needed Aria to kill my victims as quickly and efficiently as possible.",
-    "translation": "Eris: 我要杀<u>他们</u>没有特定的理由。[p/]我只需要阿莉亚尽可能高效快速地杀掉我要杀的人。",
-    "stage": 5,
+    "translation": "Eris: У меня не было причины убивать конкретно [i]их[/i].[p/] Мне просто было нужно, чтобы Ария убила моих жертв так быстро и эффективно, как это возможно.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2930\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2943",
     "original": "Eris: My only motivation for my actions that day was to harm Tyrion Cuthbert's friends and make him suffer.",
-    "translation": "Eris: 我唯一的动机就是要伤害提利昂·卡斯伯特的朋友，使他受尽痛苦。",
-    "stage": 5,
+    "translation": "Eris: Единственным моим мотивом было принести вред друзьям Тириона Катберта и заставить его страдать.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2943\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2954",
     "original": "Eris: And before you ask...[p/] Aside from my thralls,[p/] I was acting alone that day.[p/] I didn't follow direct [i]or[/i] indirect orders from anyone.",
-    "translation": "Eris: 以免你再问……[p/]我那天都是独自一人行动。[p/]没有遵从任何直接<u>或</u>间接指令。",
-    "stage": 5,
+    "translation": "Eris: И прежде, чем вы спросите...[p/] Помимо моих  рабов,[p/] я действовала в одиночку.[p/] Я не следовала прямым [i]или[/i] косвенным приказам от кого-то ещё.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2954\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -53664,50 +53664,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3350",
     "original": "Celeste: The truth is that Eris rewrote your memories, Tyrion.[p/] You were actually knocked out at 1:45 PM.",
-    "translation": "Celeste: 真相是厄莉斯修改了你的记忆，提利昂。[p/]你实际上在下午 1:45 昏迷。",
-    "stage": 5,
+    "translation": "Celeste: Правда в том, что Эрис переписала твои воспоминания, Тирион.[p/] Тебя вырубили в 13:45.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3350\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3357",
     "original": "Celeste: We went to the Prayer Room a lot earlier for our meeting,[p/] and that commotion we heard was actually Beatrice and Eris attacking the guards at 1:40 PM.",
-    "translation": "Celeste: 我们进祷告室的时间远比会面早，[p/]听到的骚乱声其实是下午 1:40 比亚特丽丝和厄莉斯在攻击卫兵。",
-    "stage": 5,
+    "translation": "Celeste: Мы пришли в молельню намного раньше назначенной встречи,[p/] и шум, который мы слышали, был атакой Беатрис и Эрис на охрану в 13:40.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3357\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3367",
     "original": "Celeste: They tricked me and slipped into the Prayer Room...[p/] After that,[p/] Beatrice...[p/] killed you.",
-    "translation": "Celeste: 她们骗过我进了祷告室……[p/]这之后，[p/]比亚特丽丝……[p/]杀害了你。",
-    "stage": 5,
+    "translation": "Celeste: Они обхитрили меня и проскользнули в молельню...[p/] И после этого,[p/] Беатрис...[p/] убила тебя.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3367\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3382",
     "original": "Celeste: I didn't know what to do.[p/] That's when Eris told me she would resurrect you in exchange for killing Pierce.",
-    "translation": "Celeste: 我不知道怎么办。[p/]这时厄莉斯跟我说，她能复活你，但我要杀掉皮尔斯。",
-    "stage": 5,
+    "translation": "Celeste: Я не знала, что делать.[p/] И тогда Эрис сказал мне, что может вернуть тебя в обмен на убийство Пирса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3382\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3389",
     "original": "Celeste: I know I shouldn't have done it.[p/] But I just wanted you back...[p/] I didn't care about what happened to me.",
-    "translation": "Celeste: 我知道自己不应该这么做。[p/]但我只想让你回来……[p/]我不在乎自己会变成什么样。",
-    "stage": 5,
+    "translation": "Celeste: Я знала, что мне не следовало этого делать.[p/] Но я просто хотела вернуть тебя...[p/] Меня не беспокоило то, что случится со мной.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3389\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3397",
     "original": "Celeste: I didn't realize that she'd use \"my eternal servitude\" to take control of my body.[p/] She used me to trick Aria into signing [i]another[/i] Blood Contract.",
-    "translation": "Celeste: 我没想到她会利用“永世服从”这点来操控我。[p/]她利用我骗阿莉亚签了<u>另一份</u>血契。",
-    "stage": 5,
+    "translation": "Celeste: Я и не осознавала, что она воспользуется \"моим вечным рабством\", чтобы взять контроль над моим телом.[p/] Она использовала меня, чтобы обманом заставить Арию подписать [i]ещё один[/i] Кровавый Контракт.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3397\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3412",
     "original": "Celeste: After that...[p/] I followed through with [i]my[/i] end of the deal.[p/] I killed Pierce so that she would bring Tyrion back.",
-    "translation": "Celeste: 在这之后……[p/]我按照契约里对<u>我</u>的要求行动。[p/]为了让提利昂复活，我杀了皮尔斯。",
-    "stage": 5,
+    "translation": "Celeste: После этого...[p/] Я выполнила [i]свою[/i] часть сделки.[p/] Я убила Пирса, чтобы она вернула Тириона.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Cel-3412\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
@@ -53727,43 +53727,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3584",
     "original": "Celeste: I think I remember now.[p/] We went to meet with Pierce at 1:50 PM.[p/] And we heard that commotion outside at 2:20 PM.",
-    "translation": "Celeste: 现在我想起来了。[p/]我们下午 1:50 去和皮尔斯见面。[p/]下午 2:20 听到外面的骚乱。",
-    "stage": 5,
+    "translation": "Celeste: Думаю, теперь я помню.[p/] Мы пришли на встречу в 13:50.[p/] И мы услышали шум снаружи в 14:20.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3584\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3592",
     "original": "Celeste: I saw Aria attacking the guards there.[p/] And I fought her for about fifteen minutes before she broke past me.",
-    "translation": "Celeste: 我看见阿莉亚在攻击卫兵。[p/]我和她打了大概 15 分钟，才被她逃走。",
-    "stage": 5,
+    "translation": "Celeste: Я увидела, как Ария атаковала охрану.[p/] И я сражалась с ней около 15-ти минут до того, как она прорвалась мимо меня.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3592\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3602",
     "original": "Celeste: When I followed her into the Prayer Room,[p/] I found her there with Beatrice and Eris.[p/] They knocked Aria,[p/] Tyrion,[p/] and Pierce unconscious.",
-    "translation": "Celeste: 跟着她进入祷告室后，[p/]我发现比亚特丽丝和厄莉斯也在屋内。[p/]她们使阿莉亚、[p/]提利昂，[p/]还有皮尔斯失去了意识。",
-    "stage": 5,
+    "translation": "Celeste: Когда я последовала за ней в молельню,[p/] я нашла её с Беатрис и Эрис.[p/] Они вырубили Арию,[p/] Тириона[p/] и Пирса.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3602\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3614",
     "original": "Celeste: ...I checked Tyrion's body and thought he was dead.[p/] But I realize now that Beatrice just cast [b]Feign Death[/b] on him.",
-    "translation": "Celeste: ……我检查了提利昂，认为他死了。[p/]但现在想想，比亚特丽丝可能对他用了[b]假死[/b]。",
-    "stage": 5,
+    "translation": "Celeste: ...Я проверила тело Тириона и подумала, что он умер.[p/] Но я теперь я поняла, что Беатрис использовала на нём [b]Симуляцию Смерти[/b].",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3614\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3622",
     "original": "Celeste: Anyways,[p/] Eris offered her deal to me.[p/] But I couldn't go through with killing Pierce...[p/] I think you know the rest.",
-    "translation": "Celeste: 总之，[p/]厄莉斯向我提出交易。[p/]但我没法下手杀皮尔斯……[p/]后面的你们都知道了。",
-    "stage": 5,
+    "translation": "Celeste: Так или иначе,[p/] Эрис предложила мне свою сделку.[p/] Но я не могла решится на убийство Пирса...[p/] Думаю, вы знает, что было дальше.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3622\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3629",
     "original": "Celeste: A few minutes after Pierce died,[p/] Aster,[p/] the Inquisition,[p/] and the Kingsguard showed up to arrest Aria.",
-    "translation": "Celeste: 皮尔斯死亡几分钟后，[p/]阿斯特、[p/]裁判所和国王卫队到场逮捕阿莉亚。",
-    "stage": 3,
+    "translation": "Celeste: Через несколько минут после смерти Пирса,[p/] Астер,[p/] Инквизиция[p/] и Королевская Гвардия пришли арестовать Арию.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-Cross-Examination_CelFinal-3629\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
