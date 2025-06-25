@@ -443,7 +443,7 @@
     "Array": [
       {
         "name": "Lobby",
-        "displayName": "法庭：大厅",
+        "displayName": "Здание Суда: Лобби",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Courtroom Lobby.png",
         "examinationMap": "",
         "particle": "",
@@ -452,7 +452,7 @@
       },
       {
         "name": "BallroomIntro",
-        "displayName": "舞厅",
+        "displayName": "Бальный зал",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Ballroom.prefab",
         "particle": "",
@@ -461,7 +461,7 @@
       },
       {
         "name": "HallwayIntro",
-        "displayName": "走廊",
+        "displayName": "Коридор",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Hallway.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Hallway.prefab",
         "particle": "",
@@ -470,7 +470,7 @@
       },
       {
         "name": "GalleryIntro",
-        "displayName": "画廊",
+        "displayName": "Выставка",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Gallery.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Gallery.prefab",
         "particle": "",
@@ -479,7 +479,7 @@
       },
       {
         "name": "TableIntro",
-        "displayName": "舞厅",
+        "displayName": "Бальный зал",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/TableFood.png",
         "examinationMap": "",
         "particle": "",
@@ -488,7 +488,7 @@
       },
       {
         "name": "Ballroom1",
-        "displayName": "舞厅",
+        "displayName": "Бальный зал",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom (Day).png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Ballroom.prefab",
         "particle": "",
@@ -497,7 +497,7 @@
       },
       {
         "name": "Study1",
-        "displayName": "威廉·弗雷加的书房",
+        "displayName": "Кабинет Уильяма Фреги",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Office Study.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Study.prefab",
         "particle": "",
@@ -506,7 +506,7 @@
       },
       {
         "name": "Storage",
-        "displayName": "储藏室",
+        "displayName": "Кладовая",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Storage Room.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Storage.prefab",
         "particle": "",
@@ -515,7 +515,7 @@
       },
       {
         "name": "BeatriceRoom1",
-        "displayName": "比亚特丽丝的卧室",
+        "displayName": "Спальня Беатрис",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Beatrice Bedroom.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Beatrice Room.prefab",
         "particle": "",
@@ -524,7 +524,7 @@
       },
       {
         "name": "WaitingRoom1",
-        "displayName": "会客室",
+        "displayName": "Гостиная",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Waiting Room.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Waiting Room.prefab",
         "particle": "",
@@ -533,7 +533,7 @@
       },
       {
         "name": "Gallery1",
-        "displayName": "画廊",
+        "displayName": "Выставка",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Gallery After.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Gallery 1.prefab",
         "particle": "",
@@ -542,7 +542,7 @@
       },
       {
         "name": "Barracks",
-        "displayName": "裁判所地牢",
+        "displayName": "Темница Инквизиции",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Dungeon.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 1/Dungeon.prefab",
         "particle": "",
@@ -551,7 +551,7 @@
       },
       {
         "name": "Ballroom2",
-        "displayName": "舞厅",
+        "displayName": "Бальный зал",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom (Day).png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Ballroom.prefab",
         "particle": "",
@@ -560,7 +560,7 @@
       },
       {
         "name": "Study2",
-        "displayName": "威廉·弗雷加的书房",
+        "displayName": "Кабинет Уильяма Фреги",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Office Study.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Study.prefab",
         "particle": "",
@@ -569,7 +569,7 @@
       },
       {
         "name": "WaitingRoom2",
-        "displayName": "会客室",
+        "displayName": "Гостиная",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Ballroom Waiting Room Alt.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Waiting Room.prefab",
         "particle": "",
@@ -578,7 +578,7 @@
       },
       {
         "name": "BeatriceRoom2",
-        "displayName": "比亚特丽丝的卧室",
+        "displayName": "Спальня Беатрис",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Beatrice Bedroom.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Beatrice Room.prefab",
         "particle": "",
@@ -587,7 +587,7 @@
       },
       {
         "name": "Hallway2",
-        "displayName": "走廊",
+        "displayName": "Коридор",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Hallway Side.png",
         "examinationMap": "Assets/Prefabs/Resources/Examination Map/Case 4/Hallway 2.prefab",
         "particle": "",
@@ -596,7 +596,7 @@
       },
       {
         "name": "Mafia",
-        "displayName": "老巢",
+        "displayName": "Логово",
         "backgroundPath": "Assets/Visuals/Resources/Backgrounds/Case 4/Mafia Room.png",
         "examinationMap": "",
         "particle": "",
