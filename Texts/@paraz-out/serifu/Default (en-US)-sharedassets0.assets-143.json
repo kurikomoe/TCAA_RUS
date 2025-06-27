@@ -52530,8 +52530,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1070",
     "original": "Player: The murderer could have killed Pierce second",
-    "translation": "Player: 凶手 本可以 第二个 杀害皮尔斯",
-    "stage": 5,
+    "translation": "Player: Убийца мог убить Пирса вторым",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-OrymDeduce6-1070\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: OrymDeduce6\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymDeduce5a-7-0\",\n          \"The murderer,Steelwind,Sibyl,Archeus\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymDeduce5a-8-0\",\n          \"could have,accidentally,purposefully,quickly\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymDeduce5a-9-0\",\n          \"killed Pierce,killed Sibyl,killed von Sanctus,killed Archeus\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymDeduce5a-10-0\",\n          \"second,easily,with magic,with a weapon\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52572,8 +52572,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1477",
     "original": "Player: Marrunath hid the Purple Mark from Beatrice",
-    "translation": "Player: 马鲁纳斯 对比亚特丽丝 隐瞒了 紫色标记",
-    "stage": 5,
+    "translation": "Player: Маррунат спрятал Фиолетовую Метку от Беатрис",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj4-1477\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj4\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj3-33-0\",\n          \"Marrunath,Lucio,Tyrion,Beatrice\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj3-34-0\",\n          \"hid,denied,presented,revealed\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj3-35-0\",\n          \"the Purple Mark,the conspiracy,a contradiction, a lie\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj3-36-0\",\n          \"from Beatrice,despite the evidence,in the testimony,during the massacre\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52600,8 +52600,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1500",
     "original": "Player: Beatrice lost control of their actions due to a Blood Contract",
-    "translation": "Player: 比亚特丽丝 由于血契 失去了 自控能力",
-    "stage": 5,
+    "translation": "Player: Беатрис потеряла контроль над собой из-за Кровавого Контракта",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1.yarn-BeatObj8-1500\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: BeatObj8\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj7-10-0\",\n          \"Beatrice,Aria,The other murderers,Marrunath\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj7-11-0\",\n          \"lost,killed,forgot,unveiled\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj7-12-0\",\n          \"control of their actions,their memories,the victims,the conspiracy\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-BeatObj7-13-0\",\n          \"due to a Blood Contract,against their will,during the massacre,before the trial\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52684,8 +52684,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2072",
     "original": "Player: The fire consumed all the oxygen in the Common Room",
-    "translation": "Player: 火势 耗尽了 公共休息室内 所有氧气",
-    "stage": 5,
+    "translation": "Player: Огонь поглотил весь кислород в общей комнате",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-OrymObj5-2072\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: OrymObj5\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymObj4-4-0\",\n          \"The fire,Aria,von Sanctus,the Patron\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymObj4-5-0\",\n          \"consumed,cast,fled from,tricked\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymObj4-6-0\",\n          \"all the oxygen,a spell to bypass,von Sanctus,Aria\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-OrymObj4-7-0\",\n          \"in the Common Room,the Cage,into the hallway,inside the Cage\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52719,8 +52719,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2330",
     "original": "Player: Sibyl cast [b]Stone Skin[/b] before being thrown into the lake",
-    "translation": "Player: 希比尔 在被扔进湖里 之前 用了[b]岩石护甲[/b]",
-    "stage": 5,
+    "translation": "Player: Сибил применила [b]Каменную Кожу[/b] до того, как была брошена в озеро",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom1B.yarn-TheonObj7-2330\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: TheonObj7\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-TheonObj6-11-0\",\n          \"Sibyl,Aria,The Patron,Archeus\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-TheonObj6-12-0\",\n          \"cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-TheonObj6-13-0\",\n          \"before,after,before,after\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-TheonObj6-14-0\",\n          \"being thrown into the lake,hitting the lake,they were attacked,the murders\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52915,8 +52915,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3767",
     "original": "Player: Aria was tricked into signing the Blood Contract",
-    "translation": "Player: 阿莉亚 被骗 签约 血契",
-    "stage": 5,
+    "translation": "Player: Арию обманом заставили подписать Кровавый Контракт",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj9-3767\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: CelFinObj9\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj8-21-0\",\n          \"Aster,Aria,Celeste,Eris\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj8-22-0\",\n          \"was tricked into,was forced to,was allowed to,didn't want to\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj8-23-0\",\n          \"signing,destroying,murdering,hiding\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj8-24-0\",\n          \"the Blood Contract,the crimes,the Force Cage,the victims\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -52929,8 +52929,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-3786",
     "original": "Player: Aria signed a marriage license",
-    "translation": "Player: 阿莉亚 签了 结婚 契约",
-    "stage": 3,
+    "translation": "Player: Ария подписала свидетельство о браке",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2b.yarn-CelFinObj11-3786\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: CelFinObj11\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj10-16-0\",\n          \"Aria,Aster,Eris,Celeste\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj10-17-0\",\n          \"signed,cast,destroyed,stole\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj10-18-0\",\n          \"a marriage,a demonic,an arcane,an illegal\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-CelFinObj10-19-0\",\n          \"license,spell,object,familiar\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53013,8 +53013,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-5540",
     "original": "Player: Aria dropped the Contract in front of Celeste",
-    "translation": "Player: 阿莉亚 在塞莱斯特面前 掉落了 契约",
-    "stage": 5,
+    "translation": "Player: Ария уронила Контракт перед Селест",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/FinalEris.yarn-EmpressCornered7-5540\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: EmpressCornered7\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-EmpressCornered6-17-0\",\n          \"Aria,Eris,Celeste,Beatrice\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-EmpressCornered6-18-0\",\n          \"dropped,hid,killed,tricked\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-EmpressCornered6-19-0\",\n          \"the Contract,Aria,Garrick Pierce,evidence\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-EmpressCornered6-20-0\",\n          \"in front of Celeste,into signing the Contract,from Tyrion,using a spell\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53307,8 +53307,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-7481",
     "original": "Player: Eris Illmater is the Empress of Discord",
-    "translation": "Player: 厄莉斯·伊尔马特 是 无序女皇",
-    "stage": 5,
+    "translation": "Player: Эрис Иллмейтер является Императрицей Раздора",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/TymoraOffice2.yarn-ErisReveal4a-7481\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"guessing: ErisReveal4a\",\n      \"指令\": \"\"\n    },\n    {\n      \"类型\": \"Deduction组句目标文本\",\n      \"来源\": [\n        [\n          \"Case 5-sharedassets0.assets-153.json-ErisReveal4-7-0\",\n          \"Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-ErisReveal4-8-0\",\n          \"is,is not,is,is not\"\n        ],\n        [\n          \"Case 5-sharedassets0.assets-153.json-ErisReveal4-9-0\",\n          \"the Empress of Discord,a qualified attorney,the Patron,a noble\"\n        ]\n      ]\n    },\n    \"特殊前缀指令\"\n  ]\n}"
   },
   {
@@ -53601,8 +53601,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-2870",
     "original": "Eris: It's true.[p/] I was the one who masterminded this.",
-    "translation": "Eris: 没错。[p/]我就是幕后主使。",
-    "stage": 5,
+    "translation": "Eris: Это правда.[p/] Я была тем, кто вдохнул жизнь во всё это.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Courtroom2.yarn-Cross-Examination_Eris-2870\",\n  \"keywords\": [\n    \"选项文本\",\n    {\n      \"类型\": \"Testimony\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"Testimony\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
   {
