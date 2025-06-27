@@ -2,239 +2,239 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-0-0",
     "original": "How did Aria suffocate von Sanctus?",
-    "translation": "阿莉亚\\u200B怎么\\u200B让冯·桑克图斯\\u200B窒息的\\u200B？",
-    "stage": 3,
+    "translation": "Как\\u200B Ария\\u200B задушила\\u200B фон\\u200B Санктуса?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did Aria suffocate von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-4-0",
     "original": "The fire,Aria,von Sanctus,the Patron",
-    "translation": "火势,阿莉亚,冯·桑克图斯,签约人",
-    "stage": 3,
+    "translation": "Огонь,Ария,фон Санктус,Покровитель",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The fire,Aria,von Sanctus,the Patron\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-5-0",
     "original": "consumed,cast,fled from,tricked",
-    "translation": "耗尽了,施展了,逃离了,欺骗了",
-    "stage": 3,
+    "translation": "поглотил,применил,сбежал от,обманул",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"consumed,cast,fled from,tricked\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-6-0",
     "original": "all the oxygen,a spell to bypass,von Sanctus,Aria",
-    "translation": "公共休息室内,牢笼,走廊内,牢笼内",
-    "stage": 3,
+    "translation": "весь кислород,заклинание для обхода,фон Санктуса,Арию",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"all the oxygen,a spell to bypass,von Sanctus,Aria\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-7-0",
     "original": "in the Common Room,the Cage,into the hallway,inside the Cage",
-    "translation": "所有氧气,旁路法术,冯·桑克图斯,阿莉亚",
-    "stage": 3,
+    "translation": "в общей комнате,в Клетке,в коридор,внутрь Клетки",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the Common Room,the Cage,into the hallway,inside the Cage\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-8-0",
     "original": "How did Aria suffocate von Sanctus?",
-    "translation": "阿莉亚怎么让冯·桑克图斯窒息的？",
-    "stage": 3,
+    "translation": "Как Ария задушила фон Санктуса?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did Aria suffocate von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-5-0",
     "original": "Who is Eris Illmater?",
-    "translation": "厄莉斯·伊尔马特\\u200B是\\u200B谁\\u200B？",
-    "stage": 3,
+    "translation": "Кем\\u200B является\\u200B Эрис\\u200B Иллмейтер?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who is Eris Illmater?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-7-0",
     "original": "Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora",
-    "translation": "厄莉斯·伊尔马特,阿莉亚·斯蒂尔文德,签约人,鲁比·泰摩拉",
-    "stage": 3,
+    "translation": "Эрис Иллмейтер,Ария Стилвинд,Покровитель,Руби Тимора",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-8-0",
     "original": "is,is not,is,is not",
-    "translation": "是,不是,是,不是",
-    "stage": 3,
+    "translation": "является,не является,является,не является",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is,is not,is,is not\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-9-0",
     "original": "the Empress of Discord,a qualified attorney,the Patron,a noble",
-    "translation": "无序女皇,合格律师,签约人,贵族",
-    "stage": 3,
+    "translation": "Императрицей Раздора,опытным адвокатом,Покровителем,аристократом",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Empress of Discord,a qualified attorney,the Patron,a noble\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-10-0",
     "original": "Who is Eris Illmater?",
-    "translation": "厄莉斯·伊尔马特是谁？",
-    "stage": 3,
+    "translation": "Кем является Эрис Иллмейтер?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisReveal4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Who is Eris Illmater?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered-6-0",
     "original": "My Contract was written without flaw.",
-    "translation": "我的\\u200B契约\\u200B没有\\u200B漏洞",
-    "stage": 3,
+    "translation": "Мой\\u200B Контракт\\u200B был\\u200B написан\\u200B без\\u200B ошибок.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"ErisCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"My Contract was written without flaw.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-3-0",
     "original": "Start an ARGUMENT with Aria Steelwind?",
-    "translation": "是否开始与阿莉亚·斯蒂尔文德辩论？",
-    "stage": 3,
+    "translation": "Начать ПРЕНИЯ с Арией Стилвинд?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"AriaArgue\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Aria Steelwind?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-23-0",
     "original": "Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.",
-    "translation": "斯蒂尔文德为了王国的利益行动，不顾自己会承受多少痛苦。她深爱着阿斯特，为了保护他不惜一切代价。但她依然保有理性，愿意听取逻辑完善的意见。",
-    "stage": 3,
+    "translation": "Стилвинд действует во имя великого блага для королевства, несмотря на волну страданий, через которую ей придётся пройти. Она до глубины души любит Астера и пойдёт на всё ради его защиты. Однако, она человек логики и будет реагировать на разумные доводы.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"AriaArgue\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-27-0",
     "original": "A villain controlled my mind.",
-    "translation": "有\\u200B坏人\\u200B操控了\\u200B我的\\u200B意识",
-    "stage": 3,
+    "translation": "Злодей\\u200B взял\\u200B под\\u200B контроль\\u200B мой\\u200B разум.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"AriaArgue\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"A villain controlled my mind.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-3-0",
     "original": "Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.",
-    "translation": "无序女皇，\\u200B阿莉亚·斯蒂尔文德，\\u200B比亚特丽丝·弗雷加\\u200B都不是\\u200B杀害\\u200B加里克·皮尔斯\\u200B的人",
-    "stage": 3,
+    "translation": "Ни\\u200B Императрица\\u200B Раздора,\\u200B ни\\u200B Ария\\u200B Стилвинд,\\u200B ни\\u200B Беатрис\\u200B Фрега\\u200B не убивали Гаррика Пирса.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered17\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-10-0",
     "original": "Celeste McCoy had complete control of her actions when Pierce died.",
-    "translation": "皮尔斯\\u200B死时，\\u200B塞莱斯特·麦考伊\\u200B可以\\u200B完全\\u200B自控",
-    "stage": 3,
+    "translation": "Селест\\u200B МакКой\\u200B полностью\\u200B контролировала\\u200B себя,\\u200B когда\\u200B Пирс\\u200B умер.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered17\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Celeste McCoy had complete control of her actions when Pierce died.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-16-0",
     "original": "Garrick Pierce's death was not an accident. It was intentional and committed with malice.",
-    "translation": "加里克·皮尔斯\\u200B的\\u200B死\\u200B不是\\u200B事故,\\u200B是\\u200B带有\\u200B恶意的\\u200B蓄意谋杀",
-    "stage": 3,
+    "translation": "Смерть\\u200B Гаррика\\u200B Пирса\\u200B не\\u200B была\\u200B случайностью.\\u200B Это\\u200B было\\u200B намеренно\\u200B и\\u200B со\\u200B злым\\u200B умыслом.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered17\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Garrick Pierce's death was not an accident. It was intentional and committed with malice.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-19-0",
     "original": "The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.",
-    "translation": "加里克·皮尔斯\\u200B死在\\u200B祷告室时，\\u200B其他\\u200B在场的人\\u200B只有：\\u200B无序女皇，\\u200B塞莱斯特·麦考伊，\\u200B提利昂·卡斯伯特，\\u200B比亚特丽丝·弗雷加\\u200B和\\u200B阿莉亚·斯蒂尔文德",
-    "stage": 3,
+    "translation": "Императрица\\u200B Раздора,\\u200B Селест МакКой,\\u200B Тирион Катбет,\\u200B Беатрис\\u200B Фрега\\u200B и\\u200B Ария\\u200B Стилвинд\\u200B были\\u200B единственными\\u200B людьми\\u200B в\\u200B молельной\\u200B комнате\\u200B с\\u200B Гарриком\\u200B Пирсом,\\u200B когда\\u200B он\\u200B умер.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered17\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-9-0",
     "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
-    "translation": "希比尔\\u200B为什么\\u200B对自己\\u200B用了\\u200B[b]岩石护甲[/b]\\u200B？",
-    "stage": 3,
+    "translation": "Почему\\u200B Сибил\\u200B применила\\u200B [b]Каменную Кожу[/b]\\u200B на\\u200B себе?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-11-0",
     "original": "Sibyl,Aria,The Patron,Archeus",
-    "translation": "希比尔,阿莉亚,签约人,阿契厄斯",
-    "stage": 3,
+    "translation": "Сибил,Ария,Покровитель,Археус",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Sibyl,Aria,The Patron,Archeus\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-12-0",
     "original": "cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive",
-    "translation": "在被扔进湖里,在撞上湖面,在被攻击之后,在谋杀期间",
-    "stage": 3,
+    "translation": "применила [b]Каменную Кожу[/b],обманула Археуса,применила [b]Иллюзорный Вид[/b], была ещё жива",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-13-0",
     "original": "before,after,before,after",
-    "translation": "之前,之后,之前,之后",
-    "stage": 3,
+    "translation": "до того, как,после того, как,до того, как,после того, как",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"before,after,before,after\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-14-0",
     "original": "being thrown into the lake,hitting the lake,they were attacked,the murders",
-    "translation": "用了[b]岩石护甲[/b],骗了阿契厄斯,用了[b]幻象伪装[/b],还活着",
-    "stage": 3,
+    "translation": "была брошена в озеро,ударилась об озеро,была атакована,произошли убийства",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"being thrown into the lake,hitting the lake,they were attacked,the murders\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-15-0",
     "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
-    "translation": "希比尔为什么对自己用了[b]岩石护甲[/b]？",
-    "stage": 3,
+    "translation": "Почему Сибил применила [b]Каменную Кожу[/b] на себе?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"TheonObj6\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered13-0-0",
     "original": "The Empress of Discord can't resurrect people easily.",
-    "translation": "无序女皇\\u200B也\\u200B没法\\u200B轻易\\u200B复活\\u200B别人",
-    "stage": 3,
+    "translation": "Императрица\\u200B Раздора\\u200B не\\u200B способна\\u200B воскрешать\\u200B людей\\u200B просто\\u200B так.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered13\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"The Empress of Discord can't resurrect people easily.\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered13-19-0",
     "original": "What could have created this scenario?",
-    "translation": "什么\\u200B有可能\\u200B促成\\u200B这个\\u200B场景\\u200B？",
-    "stage": 3,
+    "translation": "Что\\u200B могло\\u200B создать\\u200B подобный\\u200B сценарий?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered13\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"What could have created this scenario?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj-15-0",
     "original": "What implies that von Sanctus cast [b]Force Cage[/b]?",
-    "translation": "什么\\u200B能\\u200B证明\\u200B冯·桑克图斯\\u200B用了\\u200B[b]坚牢术[/b]\\u200B？",
-    "stage": 3,
+    "translation": "Что\\u200B указывает\\u200B на\\u200B то,\\u200B что\\u200B фон\\u200B Санктус\\u200B применил\\u200B [b]Силовую Клетку[/b]?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"OrymObj\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"What implies that von Sanctus cast [b]Force Cage[/b]?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-11-0",
     "original": "Why would Celeste hand Aria a Blood Contract?",
-    "translation": "为什么\\u200B塞莱斯特\\u200B会给\\u200B阿莉亚\\u200B一份血契\\u200B？",
-    "stage": 3,
+    "translation": "Как\\u200B Селест\\u200B взяла\\u200B в\\u200B руки\\u200B Кровавый\\u200B Контракт\\u200B Арии?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why would Celeste hand Aria a Blood Contract?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-17-0",
     "original": "Aria,Eris,Celeste,Beatrice",
-    "translation": "阿莉亚,厄莉斯,塞莱斯特,比亚特丽丝",
-    "stage": 3,
+    "translation": "Ария,Эрис,Селест,Беатрис",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Aria,Eris,Celeste,Beatrice\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-18-0",
     "original": "dropped,hid,killed,tricked",
-    "translation": "在塞莱斯特面前,签约合同,和提利昂,使用法术",
-    "stage": 3,
+    "translation": "уронила,спрятала,убила,обманула",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"dropped,hid,killed,tricked\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-19-0",
     "original": "the Contract,Aria,Garrick Pierce,evidence",
-    "translation": "掉落了,藏起了,杀害了,欺骗了",
-    "stage": 3,
+    "translation": "Контракт,Арию,Гаррика Пирса,улику",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Contract,Aria,Garrick Pierce,evidence\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-20-0",
     "original": "in front of Celeste,into signing the Contract,from Tyrion,using a spell",
-    "translation": "契约,阿莉亚,加里克·皮尔斯,证据",
-    "stage": 3,
+    "translation": "перед Селест,на подпись Контракта,от Тириона,с помощью заклятия",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in front of Celeste,into signing the Contract,from Tyrion,using a spell\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-21-0",
     "original": "Why would Celeste hand Aria a Blood Contract?",
-    "translation": "为什么塞莱斯特会给阿莉亚一份血契？",
-    "stage": 3,
+    "translation": "Как Селест взяла в руки Кровавый Контракт Арии?",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered6\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why would Celeste hand Aria a Blood Contract?\"\n  ],\n  \"keywords\": []\n}"
   },
   {
