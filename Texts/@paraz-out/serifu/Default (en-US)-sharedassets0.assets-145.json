@@ -3733,7 +3733,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-601",
     "original": "She’s sharing information about the investigation for [i]that[/i]?",
-    "translation": "Она делиться информацией по делу в обмен на [i]это[/i]?",
+    "translation": "Она делится информацией по делу в обмен на [i]это[/i]?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-601\",\n  \"keywords\": []\n}"
   },
@@ -3747,7 +3747,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-603",
     "original": "Rancid Smell",
-    "translation": "Противный Запах",
+    "translation": "Противный запах",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-603\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -3803,14 +3803,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-611",
     "original": "TYRION: V-[p/][s/]Vapour?![p/][s/] It’s not poisonous, is it?!",
-    "translation": "TYRION: И-[p/][s/]Испарения?![p/][s/] Они же не отравлены?!",
+    "translation": "TYRION: И-[p/][s/]Испарения?![p/][s/] Они же не ядовитые?!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-611\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-612",
     "original": "ARIA: Of course, not.[p/] I wouldn’t be standing here if it were.",
-    "translation": "ARIA: Конечно нет.[p/] Иначе бы я тут и не стояла.",
+    "translation": "ARIA: Конечно, нет.[p/] Иначе бы я тут и не стояла.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-612\",\n  \"keywords\": []\n}"
   },
@@ -3831,14 +3831,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-616",
     "original": "TYRION: Do you know what happened here, Steelwind?",
-    "translation": "TYRION: Ты знаешь, что случилось здесь, Стилвинд?",
+    "translation": "TYRION: Вы знаете, что случилось здесь, Стилвинд?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-616\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-617",
     "original": "ARIA: Well,[p/] it all began when the City Watch received a call from the academy.",
-    "translation": "ARIA: Что ж,[p/] всё началось, когда Часовые получили вызов из академии.",
+    "translation": "ARIA: Что ж,[p/] всё началось, когда часовые получили вызов из академии.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-617\",\n  \"keywords\": []\n}"
   },
@@ -3866,7 +3866,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-621",
     "original": "ARIA: I’m not sure about the specifics.[p/] But supposedly,[p/] the lockdown can’t be shut down manually.",
-    "translation": "ARIA: Насчет деталей я не в курсе.[p/]Но как оказалось,[p/] изоляция не отключается вручную.",
+    "translation": "ARIA: Насчет деталей я не в курсе.[p/] Но как оказалось,[p/] изоляция не отключается вручную.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-621\",\n  \"keywords\": []\n}"
   },
@@ -3964,7 +3964,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-635",
     "original": "If the headmaster met with Bellwether,[p/] you'll probably want to speak with him next.",
-    "translation": "Коль директор встречал Беллвезер,[p/] то стоит с ним поговорить.",
+    "translation": "Коль у директора была встреча с Беллвезер,[p/] то стоит с ним поговорить.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-635\",\n  \"keywords\": []\n}"
   },
@@ -4132,7 +4132,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-659",
     "original": "Hm…[p/] You’ll definitely want to speak with those staff members.",
-    "translation": "Хм...[p/] Тее точно стоит с ними поговорить.",
+    "translation": "Хм...[p/] Тебе точно стоит с ними поговорить.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-659\",\n  \"keywords\": []\n}"
   },
@@ -4146,7 +4146,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-661",
     "original": "Why is Wallace a Suspect?",
-    "translation": "Почему Уоллеса Подозревают?",
+    "translation": "Почему Уоллеса подозревают?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-661\",\n  \"keywords\": [\n    \"选项文本\",\n    \"对话选项\",\n    {\n      \"类型\": \"LoadTalk\",\n      \"指令\": \"opcode: RUN_COMMAND operands {   string_value: \\\"LoadTalk\\\" } operands {   float_value: 0 } \"\n    }\n  ]\n}"
   },
@@ -4181,7 +4181,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-666",
     "original": "ARIA: Ms. McCoy herself told us that.[p/] There was a small time period when she wasn't with him.",
-    "translation": "ARIA: Мисс МакКой сам всё сказала.[p/] Был небольшой период времени, когда она была не с ним.",
+    "translation": "ARIA: Мисс МакКой сама всё сказала.[p/] Был небольшой период времени, когда она была не с ним.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Talk_Classroom-666\",\n  \"keywords\": []\n}"
   },
@@ -4237,7 +4237,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-676",
     "original": "Aria: I wasn't expecting to meet you here, Mr. Cuthbert.",
-    "translation": "Aria: Не ожидала встретить вас здесь, Мистер Катберт.",
+    "translation": "Aria: Не ожидала встретить вас здесь, мистер Катберт.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-676\",\n  \"keywords\": []\n}"
   },
@@ -4251,7 +4251,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-678",
     "original": "Tyrion: Ms. Tymora used her connections to get us access to the Imperial Library.",
-    "translation": "Tyrion: Мисс Тимора получила пропуск в Библиотеку благодаря своими связам.",
+    "translation": "Tyrion: Мисс Тимора получила пропуск в библиотеку благодаря своими связам.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-678\",\n  \"keywords\": []\n}"
   },
@@ -4265,7 +4265,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-680",
     "original": "Tyrion: We originally came here to do some research.",
-    "translation": "Tyrion: Изначально, мы пришли сюда для изучений.",
+    "translation": "Tyrion: Изначально, мы пришли сюда для небольшого исследования.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-680\",\n  \"keywords\": []\n}"
   },
@@ -4286,21 +4286,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-683",
     "original": "Celeste: Don't bother asking.[p/] He won't tell you.",
-    "translation": "Celeste: Даже не спрашивай.[p/] Он не расскажет.",
+    "translation": "Celeste: Даже не спрашивайте.[p/] Он не расскажет.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-683\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-685",
     "original": "Aria: I'm glad to see you under less...[p/] dire circumstances, Ms. McCoy.",
-    "translation": "Aria: Рада видеть вас под менее...[p/] неприятными обстоятельствами, Мисс МакКой.",
+    "translation": "Aria: Рада видеть вас под менее...[p/] неприятными обстоятельствами, мисс МакКой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-685\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-686",
     "original": "Aria: Are you accompanying Mr. Cuthbert on his investigation?",
-    "translation": "Aria: Сопровождаешь Мистера Катберта в его расследовании?",
+    "translation": "Aria: Сопровождаете мистера Катберта в его расследовании?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-686\",\n  \"keywords\": []\n}"
   },
@@ -4314,14 +4314,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-688",
     "original": "Aria: I see.[p/] Well, you certainly have the credentials for it.",
-    "translation": "Aria: Вот как.[p/] Ну, у тебя точно есть для этого навыки.",
+    "translation": "Aria: Вот как.[p/] Ну, у вас точно есть для этого навыки.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-688\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-689",
     "original": "Aria: Although,[p/] I'm surprised he's able to afford your services.",
-    "translation": "Aria: Хотя,[p/] удивительно, что он смог оплатить твои услуги.",
+    "translation": "Aria: Хотя,[p/] удивительно, что он смог оплатить ваши услуги.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-689\",\n  \"keywords\": []\n}"
   },
@@ -4342,7 +4342,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-692",
     "original": "Aria: But work like this [i]does[/i] appear to be below Ms. McCoy's pay grade.",
-    "translation": "Aria: Но работа, подобная [i]этой[/i], явно не соответствует жалованию Мисс МакКой.",
+    "translation": "Aria: Но работа, подобная [i]этой[/i], явно не соответствует жалованию мисс МакКой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-692\",\n  \"keywords\": []\n}"
   },
@@ -4440,21 +4440,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-708",
     "original": "Aria: I was surprised too.[p/] It's not like the headmaster to make a mistake like that.",
-    "translation": "Aria: Я сама удивилась.[p/] Не под стать директора делать подобные ошибки.",
+    "translation": "Aria: Я сама удивилась.[p/] Не под стать директора - делать подобные ошибки.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-708\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-710",
     "original": "Tyrion: As a mage from a noble house,[p/] you must have gone to school here.",
-    "translation": "Tyrion: Как и все маги из знатных домов,[p/] ты тоже тут училась.",
+    "translation": "Tyrion: Как и все маги из знатных домов,[p/] вы тоже тут учились.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-710\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-711",
     "original": "Tyrion: Did you know Catherine Bellwether while you were here?",
-    "translation": "Tyrion: Ты была знакома с Кэтрин Беллвезер, когда училась?",
+    "translation": "Tyrion: Вы были знакомы с Кэтрин Беллвезер, когда учились?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Classroom.yarn-Present_Classroom-711\",\n  \"keywords\": []\n}"
   },
