@@ -90,34 +90,53 @@ def SearchAndAddShader(file: Path, search_path: Path):
 
     return tmp
 
+
 ref = FontDef(
-    sdf="OpenSans-Regular SDF-sharedassets0.assets-13.json",
-    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-6.json",
-    material="OpenSans-Regular Atlas Material-sharedassets0.assets-4.json",
+    sdf="OpenSans-Regular SDF-sharedassets0.assets-21.json",
+    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-9.json",
+    material="OpenSans-Regular Atlas Material-sharedassets0.assets-6.json",
 )
 
 refOutline = FontDef(
-    sdf="Typewriter-Regular SDF-sharedassets0.assets-15.json",
-    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-7.json",
-    material="OpenSans-Regular Atlas Material-sharedassets0.assets-5.json",
+    sdf="Typewriter-Regular SDF-sharedassets0.assets-24.json",
+    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-10.json",
+    material="OpenSans-Regular Atlas Material-sharedassets0.assets-7.json",
 )
 
 refBold = FontDef(
-    sdf="SourceHanSansCN-Bold SDF-sharedassets0.assets-14.json",
-    atlas="SourceHanSansCN-Bold SDF Atlas-sharedassets0.assets-8.json",
+    sdf="SourceHanSansCN-Bold SDF-sharedassets0.assets-22.json",
+    atlas="SourceHanSansCN-Bold SDF Atlas-sharedassets0.assets-12.json",
     material="SourceHanSansCN-Bold Atlas Material-sharedassets0.assets-2.json",
 )
+
+refItalic = FontDef(
+    sdf="SourceSansPro-Italic SDF-sharedassets0.assets-23.json",
+    atlas="SourceSansPro-Italic SDF Atlas-sharedassets0.assets-11.json",
+    material="SourceSansPro-Italic Atlas Material-sharedassets0.assets-8.json",
+)
+
+# ==================================================
 
 ralewayBold = FontDef(
     sdf="Raleway-SemiBold SDF-sharedassets0.assets-138.json",
     atlas="Raleway-SemiBold Atlas-sharedassets0.assets-34.json",
     material="Raleway-SemiBold Atlas Material-sharedassets0.assets-3.json",
-    ref = refBold,
+    ref=refBold,
+)
+
+ralewayItalic = FontDef(
+    sdf="Raleway-Italic SDF-sharedassets0.assets-136.json",
+    atlas="Raleway-Italic Atlas-sharedassets0.assets-17.json",
+    material="Raleway-Italic Atlas Material-sharedassets0.assets-2.json",
+    ref=refItalic,
 )
 
 weight_mapping = {
     7: {
         "regularTypeface": ralewayBold,
+    },
+    4: {
+        "italicTypeface": ralewayItalic,
     },
 }
 
@@ -126,74 +145,62 @@ mapping = [
         sdf="LiberationSans SDF-resources.assets-12429.json",
         atlas="LiberationSans SDF Atlas-resources.assets-761.json",
         material="LiberationSans SDF Material-resources.assets-103.json",
-        ref = ref,
+        ref=ref,
     ),
     FontDef(
         sdf="Merriweather-Regular Drop Thought Shadow-resources.assets-12434.json",
         atlas="Merriweather-Regular Atlas-resources.assets-762.json",
         material="Merriweather-Regular Atlas Material-resources.assets-106.json",
-        ref = refOutline,
-        refWeight = weight_mapping,
+        ref=refOutline,
+        refWeight=weight_mapping,
     ),
     FontDef(
         sdf="NotoSerifHK-Regular SDF-resources.assets-12435.json",
         atlas="NotoSerifHK-Regular Atlas-resources.assets-110.json",
         material="NotoSerifHK-Regular Atlas Material-resources.assets-1.json",
-        ref = ref,
-        refWeight = weight_mapping,
+        ref=ref,
+        refWeight=weight_mapping,
     ),
     FontDef(
         sdf="OpenSans-Medium SDF-sharedassets0.assets-134.json",
         atlas="OpenSans-Medium Atlas-sharedassets0.assets-16.json",
         material="OpenSans-Medium Atlas Material-sharedassets0.assets-12.json",
-        ref = ref,
-        refWeight = weight_mapping,
+        ref=ref,
+        refWeight=weight_mapping,
     ),
     FontDef(
         sdf="OpenSans-Regular SDF-sharedassets0.assets-135.json",
         atlas="OpenSans-Regular Atlas-sharedassets0.assets-36.json",
         material="OpenSans-Regular Atlas Material-sharedassets0.assets-14.json",
-        ref = ref,
-        refWeight = weight_mapping,
-    ),
-    FontDef(
-        sdf="Raleway-Italic SDF-sharedassets0.assets-136.json",
-        atlas="Raleway-Italic Atlas-sharedassets0.assets-17.json",
-        material="Raleway-Italic Atlas Material-sharedassets0.assets-2.json",
-        ref = ref,
-        refWeight = weight_mapping,
+        ref=ref,
+        refWeight=weight_mapping,
     ),
     FontDef(
         sdf="Raleway-Regular SDF-sharedassets0.assets-137.json",
         atlas="Raleway-Regular Atlas-sharedassets0.assets-15.json",
         material="Raleway-Regular Atlas Material-sharedassets0.assets-11.json",
-        ref = ref,
-        refWeight = weight_mapping,
+        ref=ref,
+        refWeight=weight_mapping,
     ),
 
     ralewayBold,
-    # FontDef(
-    #     sdf="Raleway-SemiBold SDF-sharedassets0.assets-138.json",
-    #     atlas="Raleway-SemiBold Atlas-sharedassets0.assets-34.json",
-    #     material="Raleway-SemiBold Atlas Material-sharedassets0.assets-3.json",
-    #     ref = refBold,
-    # ),
+    ralewayItalic,
 
     # 打字机特效
     FontDef(
         sdf="Typewriter-resources.assets-12437.json",
         atlas="OpenSans-Medium Atlas-resources.assets-109.json",
         material="OpenSans-Medium Atlas Material-resources.assets-105.json",
-        ref = refOutline,
-        refWeight = weight_mapping,
+        ref=refOutline,
+        refWeight=weight_mapping,
     ),
 
     FontDef(
         sdf="Title-resources.assets-12436.json",
         atlas="Title Atlas-resources.assets-763.json",
         material="Merriweather-Regular Atlas Material-resources.assets-107.json",
-        ref = refOutline,
-        refWeight = weight_mapping,
+        ref=refOutline,
+        refWeight=weight_mapping,
     ),
 ]
 

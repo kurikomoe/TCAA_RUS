@@ -281,19 +281,19 @@
         },
         {
           "first": "_TextureHeight",
-          "second": 8192.0
+          "second": 2048.0
         },
         {
           "first": "_TextureWidth",
-          "second": 8192.0
+          "second": 2048.0
         },
         {
           "first": "_UnderlayDilate",
-          "second": 0.01
+          "second": 0.0
         },
         {
           "first": "_UnderlayOffsetX",
-          "second": 0.001
+          "second": 0.0
         },
         {
           "first": "_UnderlayOffsetY",
@@ -407,9 +407,9 @@
         {
           "first": "_UnderlayColor",
           "second": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0,
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
             "a": 0.5
           }
         }

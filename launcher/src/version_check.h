@@ -79,8 +79,8 @@ void check_version() {
         if (cur_sha256 != sha256) {
             MessageBoxW(
                 NULL,
-                L"Внимание: ошибка версии игры, этот патч не работает с даной версией игры.",
-                L"TCAA_RUS Fatal Error",
+                L"警告：游戏版本错误，本补丁无法应用于该版本游戏",
+                L"TCAA_CHS Fatal Error",
                 MB_OK|MB_ICONERROR|MB_SYSTEMMODAL);
             exit(-1);
         }

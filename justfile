@@ -12,6 +12,7 @@ charset:
         --input-orig third/charset_orig.txt \
         --input-base third/controller.txt \
         --input-base "third/Rus Letters.txt" \
+        --input-base "third/base.txt" \
         --inputs Texts/@paraz-out \
         --output Fonts/chinese.txt
 
