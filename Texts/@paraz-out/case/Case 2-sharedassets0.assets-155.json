@@ -338,7 +338,7 @@
   {
     "key": "Case 2-sharedassets0.assets-155.json-Examine_Classroom-21-1",
     "original": "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
-    "translation": "Ваш телохранитель: Селест научилась использовать заклинание Обнаружение Магии. Во время РАССЛЕДОВАНИЯ на месте, нажмите кнопку “Обнаружить Магию”, дабы увидеть следы магии. Если они есть, они будут окрашены в соответствующий цвет.",
+    "translation": "Ваш телохранитель: Селест научилась использовать заклинание Обнаружение Магии. Во время РАССЛЕДОВАНИЯ на месте, нажмите кнопку “Обнаружение Магии”, дабы увидеть следы магии. Если они есть, они будут окрашены в соответствующий цвет.",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Examine_Classroom\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\",\n    \"Detect Magic\",\n    \"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\"\n  ],\n  \"keywords\": []\n}"
   },
