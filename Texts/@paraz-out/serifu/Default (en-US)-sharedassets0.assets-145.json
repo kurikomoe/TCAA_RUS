@@ -1066,7 +1066,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-171",
     "original": "You look around the Barracks dungeon cells,[p/] but you don't see Wallace anywhere.",
-    "translation": "Ты осмотрел камеру Темницы,[p/] но Уоллеса нигде нет.",
+    "translation": "Ты осмотрел камеру темницы,[p/] но Уоллеса нигде нет.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Check_Events_Barracks-171\",\n  \"keywords\": []\n}"
   },
@@ -1143,7 +1143,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-182",
     "original": "WALLACE: Please tell me you’re going to get me out of here!",
-    "translation": "WALLACE: Пожалуйста скажите, что пришли вытащить меня отсюда!",
+    "translation": "WALLACE: Пожалуйста, скажите, что пришли вытащить меня отсюда!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Check_Events_Barracks-182\",\n  \"keywords\": []\n}"
   },
@@ -1185,7 +1185,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-188",
     "original": "TYRION: And because of that,[p/] they’re going to push your case to trial.",
-    "translation": "TYRION: И именно поэтому они собираются представить твою дело суду.",
+    "translation": "TYRION: И именно поэтому они собираются передать твоё дело в суд.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Check_Events_Barracks-188\",\n  \"keywords\": []\n}"
   },
@@ -1241,7 +1241,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-196",
     "original": "WALLACE: …B-[p/][s/]But,[p/] I don’t really have any money to pay you with.",
-    "translation": "WALLACE: ...Н-[p/][s/]Но, боюсь,[p/]  я не смогу отплатить вам.",
+    "translation": "WALLACE: ...Н-[p/][s/]Но, боюсь,[p/] я не смогу отплатить вам.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Barracks.yarn-Check_Events_Barracks-196\",\n  \"keywords\": []\n}"
   },
@@ -18363,7 +18363,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2833",
     "original": "Celeste: Who'd have thought that we could use machines to harness magical energy?",
-    "translation": "Celeste: Кто бы мог подумать, что можно использовать машины освоения магической энергии?",
+    "translation": "Celeste: Кто бы мог подумать, что можно использовать машины для освоения магической энергии?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Examine_Foyer1-2833\",\n  \"keywords\": []\n}"
   },
@@ -18874,7 +18874,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2913",
     "original": "Celeste: Bandits,[p/] goblins,[p/] dinosaurs,[p/] you know how it is.",
-    "translation": "Celeste: Бандиты,[p/] Гоблины,[p/] динозавры,[p/] сам понимаешь.",
+    "translation": "Celeste: Бандиты,[p/] гоблины,[p/] динозавры,[p/] сам понимаешь.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2913\",\n  \"keywords\": []\n}"
   },
@@ -18930,7 +18930,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-2922",
     "original": "Celeste: Bandits,[p/] goblins,[p/] dinosaurs,[p/] you know how it is.",
-    "translation": "Celeste: Бандиты,[p/] Гоблины,[p/] динозавры,[p/] сам понимаешь.",
+    "translation": "Celeste: Бандиты,[p/] гоблины,[p/] динозавры,[p/] сам понимаешь.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Foyer1.yarn-Present_Foyer1-2922\",\n  \"keywords\": []\n}"
   },
@@ -19889,7 +19889,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3081",
     "original": "JAN: I hate to say it,[p/] but…[p/] things are a [i]lot[/i] more peaceful around here without her.",
-    "translation": "JAN: Неправильно так говорить.[p/] но...[p/] всё становиться [i]куда[/i] спокойнее, когда её нет.",
+    "translation": "JAN: Неправильно так говорить,[p/] но...[p/] всё становится [i]куда[/i] спокойнее, когда её нет.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Talk_Hallway-3081\",\n  \"keywords\": []\n}"
   },
@@ -20078,7 +20078,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3112",
     "original": "Tyrion: Are you aware of the foul smell in Lecture Hall 2-B?",
-    "translation": "Tyrion: Вы в курсе об ужасном запахе в Лектории 2-Б?",
+    "translation": "Tyrion: Вы в курсе об ужасном запахе в лектории 2-Б?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3112\",\n  \"keywords\": []\n}"
   },
@@ -20099,7 +20099,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3115",
     "original": "Jan: ...But,[p/] I'll probably have to get to it eventually.",
-    "translation": "Jan: ...Хотя,[p/] скорее всего, мне придётся туда войти.",
+    "translation": "Jan: ...Хотя,[p/] скорее всего, мне всё равно придётся туда войти.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3115\",\n  \"keywords\": []\n}"
   },
@@ -20127,7 +20127,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3119",
     "original": "Tyrion: Wait...[p/] Do you personally know Prosecutor Steelwind?",
-    "translation": "Tyrion: Постойте...[p/] Вы лично знаете Прокурора Стилвинд?",
+    "translation": "Tyrion: Постойте...[p/] Вы лично знаете прокурора Стилвинд?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3119\",\n  \"keywords\": []\n}"
   },
@@ -20246,7 +20246,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3139",
     "original": "Tyrion: How is working under Headmaster Redmond?",
-    "translation": "Tyrion: Каково это работать на Директора Редмонда?",
+    "translation": "Tyrion: Каково это - работать на директора Редмонда?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3139\",\n  \"keywords\": []\n}"
   },
@@ -20316,7 +20316,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3150",
     "original": "Jan: I definitely didn't think the workday would end with a homicide.",
-    "translation": "Jan: Я точно не ожидал, что рабочий день окончиться убийством.",
+    "translation": "Jan: Я точно не ожидал, что рабочий день окончится убийством.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3150\",\n  \"keywords\": []\n}"
   },
@@ -20330,7 +20330,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3153",
     "original": "Tyrion: Well, if there's any silver lining to Bellwether's death,[p/] it's that she can't carry out her plan.",
-    "translation": "Tyrion: Ну, если и есть какая-то хорошая деталь в смерти Беллвезер,[p/] то это то, что её план более не в силе.",
+    "translation": "Tyrion: Ну, если и есть какая-то хорошая деталь в смерти Беллвезер,[p/] так это то, что её план более не в силе.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3153\",\n  \"keywords\": []\n}"
   },
@@ -20351,7 +20351,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3156",
     "original": "Jan: Well...[p/] I can't blame you.",
-    "translation": "Jan: Ну...[p/] Мне не в чем винить.",
+    "translation": "Jan: Ну...[p/] Мне не в чем вас винить.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3156\",\n  \"keywords\": []\n}"
   },
@@ -20379,7 +20379,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3161",
     "original": "Tyrion: Have you met Prosecutor Steelwind?",
-    "translation": "Tyrion: Вы встречались с Прокурором Стилвинд?",
+    "translation": "Tyrion: Вы встречались с прокурором Стилвинд?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3161\",\n  \"keywords\": []\n}"
   },
@@ -20442,7 +20442,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3171",
     "original": "Tyrion: What can you tell me about this, Mr. Hughes?",
-    "translation": "Tyrion: Что вы может сказать об этом, Мистер Хьюз?",
+    "translation": "Tyrion: Что вы может сказать об этом, мистер Хьюз?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Present_Hallway-3171\",\n  \"keywords\": []\n}"
   },
@@ -20477,7 +20477,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3177",
     "original": "Could he be the custodian that she mentioned?",
-    "translation": "Может это он тот уборщик, о котором она говорила?",
+    "translation": "Может, это он тот уборщик, о котором она говорила?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3177\",\n  \"keywords\": []\n}"
   },
@@ -20645,7 +20645,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3201",
     "original": "Before you have a chance to object,[p/] Valerie quickly walks away.",
-    "translation": "Не успев и придумать ответ,[p/] Валери тот час же ушла.",
+    "translation": "Не успев и придумать ответ,[p/] Валери в тот час же ушла.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3201\",\n  \"keywords\": []\n}"
   },
@@ -20694,7 +20694,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3208",
     "original": "Maybe he saw something.",
-    "translation": "Может он видел что-то",
+    "translation": "Может, он видел что-то.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3208\",\n  \"keywords\": []\n}"
   },
@@ -20729,7 +20729,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3213",
     "original": "Jan: At least I have an excuse to take a break now.",
-    "translation": "Jan: По крайней мере у меня будет причина для перерыва.",
+    "translation": "Jan: По крайней мере, у меня будет причина для перерыва.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Hallway.yarn-Check_Events_Hallway-3213\",\n  \"keywords\": []\n}"
   },
@@ -21037,7 +21037,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3266",
     "original": "TYRION: What can you tell me about Wallace?",
-    "translation": "TYRION: Что вы можете сказать о Уоллесе?",
+    "translation": "TYRION: Что вы можете рассказать о Уоллесе?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Talk_Office-3266\",\n  \"keywords\": []\n}"
   },
@@ -21835,7 +21835,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3387",
     "original": "Celeste: Oh, right.[p/] She [i]is[/i] a noble.",
-    "translation": "Celeste: Ох, точно.[p/] Она [i]же[/i] аристократ.",
+    "translation": "Celeste: Ох, точно.[p/] Она [i]ведь[/i] аристократ.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3387\",\n  \"keywords\": []\n}"
   },
@@ -21891,7 +21891,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3397",
     "original": "Tyrion: Ms. Tymora mentioned that you gave us permission to use the Library.",
-    "translation": "Tyrion: Мисс Тимора упомянула, что это вы разрешили нам посетить Библиотеку.",
+    "translation": "Tyrion: Мисс Тимора упомянула, что это вы разрешили нам посетить библиотеку.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3397\",\n  \"keywords\": []\n}"
   },
@@ -21947,7 +21947,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3406",
     "original": "TYRION: What can you tell me about Wallace?",
-    "translation": "TYRION: Что вы можете сказать о Уоллесе?",
+    "translation": "TYRION: Что вы можете рассказать о Уоллесе?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3406\",\n  \"keywords\": []\n}"
   },
@@ -22381,7 +22381,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3470",
     "original": "Theodore: But he is actually quite reliable when a job needs to be completed.",
-    "translation": "Theodore: Но на деле, оно довольно надёжен, когда работа требует быть завершённой.",
+    "translation": "Theodore: Но на деле, он довольно надёжен, когда работа требует быть завершённой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3470\",\n  \"keywords\": []\n}"
   },
@@ -22409,7 +22409,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3475",
     "original": "Tyrion: How long have you been headmaster of the Imperial Academy, Mr. Redmond?",
-    "translation": "Tyrion: Как долго вы занимаете пост директора Императорской Академии, Мистер Редмонд?",
+    "translation": "Tyrion: Как долго вы занимаете пост директора Императорской Академии, мистер Редмонд?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3475\",\n  \"keywords\": []\n}"
   },
@@ -22423,7 +22423,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3477",
     "original": "Theodore: I have dedicated my life to nurturing the knowledge and growth of young mages.",
-    "translation": "Theodore: Я посвятил всю свою жизнь обучению и воспитанию юных колдунов.",
+    "translation": "Theodore: Я посвятил всю свою жизнь обучению и воспитанию юных магов.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3477\",\n  \"keywords\": []\n}"
   },
@@ -22458,21 +22458,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3483",
     "original": "Theodore: As you may well know,[p/] most of the mages enrolled here are of the nobility.",
-    "translation": "Theodore: Как вы, вероятно, знаете,[p/] большинство колдунов поступают сюда из знати.",
+    "translation": "Theodore: Как вы, вероятно, знаете,[p/] большинство магов поступают сюда из знати.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3483\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3484",
     "original": "Theodore: Their families have invested a lot into our facilities.",
-    "translation": "Theodore: Их семьи вкладывают множество ресурсов в наше учреждение.",
+    "translation": "Theodore: Их семьи вкладывают множество средств в наше учреждение.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3484\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3486",
     "original": "Tyrion: Steelwind told us that you had a bit of a mishap in Lecture Hall 2-B.",
-    "translation": "Tyrion: Стилвинд сказала, что у вас случился небольшой казус в Лектории 2-Б.",
+    "translation": "Tyrion: Стилвинд сказала, что у вас случился небольшой казус в лектории 2-Б.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3486\",\n  \"keywords\": []\n}"
   },
@@ -22493,7 +22493,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3489",
     "original": "Theodore: I'm quite embarrassed to admit that my old age is catching up with me.",
-    "translation": "Theodore: Довольно неловко признавать, что мои большие года мешают мне.",
+    "translation": "Theodore: Довольно неловко признавать, что мои большие года дают о себе знать.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/HeadOffice.yarn-Present_Office-3489\",\n  \"keywords\": []\n}"
   },
@@ -25832,7 +25832,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3982",
     "original": "VALENTINA: O-[p/]Oh![p/][s/] I-[p/][s/]I’ll just get out of your way, then!",
-    "translation": "VALENTINA: О-[p/]Ох! [p/][s/] Я-[p/][s/]Я тогда пока пойду!",
+    "translation": "VALENTINA: О-[p/]Ох![p/][s/] Я-[p/][s/]Я тогда пока пойду!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3982\",\n  \"keywords\": []\n}"
   },
@@ -25874,7 +25874,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-3991",
     "original": "Tyrion: It's a barrel full of some sort of drink.",
-    "translation": "Tyrion: Эта бочка полна некого напитка.",
+    "translation": "Tyrion: Эта бочка полна некоего напитка.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-3991\",\n  \"keywords\": []\n}"
   },
@@ -26035,7 +26035,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4020",
     "original": "You should learn everything you can from her before you EXAMINE the kitchen.",
-    "translation": "Ты должен изучить всё, что можешь, прежде чем ИЗУЧАТЬ кухню.",
+    "translation": "Ты должен узнать у неё всё, что можешь, прежде чем ИЗУЧАТЬ кухню.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Examine_Kitchen-4020\",\n  \"keywords\": []\n}"
   },
@@ -26154,7 +26154,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4041",
     "original": "TYRION: To start,[p/] can you tell us how you and your sister discovered the body?",
-    "translation": "TYRION: Для начала,[p/] можете вы рассказать, как вы и ваша сестра обнаружили тело?",
+    "translation": "TYRION: Для начала,[p/] вы можете рассказать, как вы и ваша сестра обнаружили тело?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4041\",\n  \"keywords\": []\n}"
   },
@@ -26175,7 +26175,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4044",
     "original": "VALENTINA: We spotted the professor in a nearby classroom.[p/] She was lying on the floor and bleeding.",
-    "translation": "VALENTINA: Вы нашли профессора в классе неподалёку.[p/] Она лежала на полу и теряла кровь.",
+    "translation": "VALENTINA: Мы нашли профессора в классе неподалёку.[p/] Она лежала на полу и истекала кровью.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4044\",\n  \"keywords\": []\n}"
   },
@@ -26196,7 +26196,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4047",
     "original": "TYRION: That would imply that Valerie thought that she could be resuscitated.",
-    "translation": "TYRION: Это означает, что Валери думала, что может её восстановить.",
+    "translation": "TYRION: Это означает, что Валери думала, что может её реанимировать.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4047\",\n  \"keywords\": []\n}"
   },
@@ -26210,14 +26210,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4049",
     "original": "VALENTINA: We’re not sure.[p/] But she wasn’t responding at all.",
-    "translation": "VALENTINA: Мы не были уверены.[p/] Но она не подала каких-либо признаков.",
+    "translation": "VALENTINA: Мы не были уверены.[p/] Но она не подавала каких-либо признаков жизни.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4049\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4050",
     "original": "VALENTINA: She wasn’t breathing, and she didn’t have a pulse.",
-    "translation": "VALENTINA: Она не дышала, и не было пульса. ",
+    "translation": "VALENTINA: Она не дышала и не было пульса. ",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4050\",\n  \"keywords\": []\n}"
   },
@@ -26301,7 +26301,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4063",
     "original": "…But you can’t help but be a little annoyed on his behalf.",
-    "translation": "...Но ты и не можешь избавиться от надоедания от всего этого.",
+    "translation": "...Но и ты не можешь избавиться от надоедания от всего этого.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4063\",\n  \"keywords\": []\n}"
   },
@@ -26357,14 +26357,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4072",
     "original": "VALENTINA: Sometimes she’d make messes on purpose,[p/] just so she could order us to clean it up.",
-    "translation": "VALENTINA: Иногда она просто так устраивала беспорядок,[p/] ради приказа убрать за ней.",
+    "translation": "VALENTINA: Иногда она просто так устраивала беспорядок,[p/] просто ради приказа убрать за ней.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4072\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4073",
     "original": "VALENTINA: This probably sounds terrible…[p/] But I’m sure a lot of people are glad that she’s gone. [mind=\"I just hope we can still keep our jobs…\" /]",
-    "translation": "VALENTINA: Возможно это прозвучит грубо...[p/] Но я уверена, что многие рады её смерти. [mind=\"Я просто надеюсь, что мы не потеряем работу...\"/]",
+    "translation": "VALENTINA: Возможно, это прозвучит грубо...[p/] Но я уверена, что многие рады её смерти. [mind=\"Я просто надеюсь, что мы не потеряем работу...\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4073\",\n  \"keywords\": []\n}"
   },
@@ -26385,7 +26385,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4077",
     "original": "VALENTINA: U-[p/][s/]Um...[p/] Yes, actually.",
-    "translation": "VALENTINA: М-[p/][s/]Мм...[p/] Да, это так.",
+    "translation": "VALENTINA: Э-[p/][s/]Эм...[p/] Да, это так.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4077\",\n  \"keywords\": []\n}"
   },
@@ -26441,7 +26441,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4085",
     "original": "VALENTINA: You can probably find him cleaning the halls if you look around.",
-    "translation": "VALENTINA: Вы можете попробовать найти его в коридорах, занятым уборкой.",
+    "translation": "VALENTINA: Вы можете попробовать найти его в коридорах, пока он занят уборкой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Talk_Kitchen-4085\",\n  \"keywords\": []\n}"
   },
@@ -26609,7 +26609,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4113",
     "original": "…But you can’t help but be a little annoyed.",
-    "translation": "...Но ты и не можешь избавиться от надоедания от всего этого.",
+    "translation": "...Но и ты не можешь избавиться от надоедания от всего этого.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4113\",\n  \"keywords\": []\n}"
   },
@@ -26665,14 +26665,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4122",
     "original": "VALENTINA: Sometimes she’d make messes on purpose,[p/] just so she could order us to clean it up.",
-    "translation": "VALENTINA: Иногда она просто так устраивала беспорядок,[p/] ради приказа убрать за ней.",
+    "translation": "VALENTINA: Иногда она просто так устраивала беспорядок,[p/] просто ради приказа убрать за ней.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4122\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4123",
     "original": "VALENTINA: This probably sounds terrible…[p/] But I’m sure a lot of people are glad that she’s gone. [mind=\"I just hope we can still keep our jobs…\" /]",
-    "translation": "VALENTINA: Возможно это прозвучит грубо...[p/] Но я уверена, что многие рады её смерти. [mind=\"Я просто надеюсь, что мы не потеряем работу...\"/]",
+    "translation": "VALENTINA: Возможно, это прозвучит грубо...[p/] Но я уверена, что многие рады её смерти. [mind=\"Я просто надеюсь, что мы не потеряем работу...\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4123\",\n  \"keywords\": []\n}"
   },
@@ -26700,7 +26700,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4128",
     "original": "Valentina: We would have never gotten a job here if it weren't for him.",
-    "translation": "Valentina: Мы никогда не получили тут работу, если бы не он.",
+    "translation": "Valentina: Мы никогда бы не получили тут работу, если бы не он.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4128\",\n  \"keywords\": []\n}"
   },
@@ -26714,7 +26714,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4130",
     "original": "Valentina: Yeah,[p/] he has connections with the local community center.",
-    "translation": "Valentina: Да,[p/] он связывался с местным общественным центром.",
+    "translation": "Valentina: Да,[p/] у него есть связи в местном общественном центром.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4130\",\n  \"keywords\": []\n}"
   },
@@ -26728,7 +26728,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-4133",
     "original": "Tyrion: What can you tell me about this, Ms. Ianus?",
-    "translation": "Tyrion: Что вы можете сказать об этом, Мисс Янус?",
+    "translation": "Tyrion: Что вы можете сказать об этом, мисс Янус?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 2/Kitchen.yarn-Present_Kitchen-4133\",\n  \"keywords\": []\n}"
   },
