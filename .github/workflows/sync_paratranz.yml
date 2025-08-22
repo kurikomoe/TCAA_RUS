@@ -51,6 +51,7 @@ jobs:
           poetry install
 
       - run: |
+          pip install lazy-imports
           just sync import
 
       - name: Generate timestamp
