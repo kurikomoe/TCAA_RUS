@@ -62,6 +62,8 @@
               # protobuf editor
               protoscope
 
+              poetry
+
               # Github Action Tester
               act
             ]
@@ -78,10 +80,10 @@
           languages.python = {
             enable = true;
             package = pkgs.python312;
-            poetry = {
-              enable = true;
-              activate.enable = true;
-            };
+            # poetry = {
+            #   enable = true;
+            #   activate.enable = true;
+            # };
           };
 
           dotenv.enable = true;
