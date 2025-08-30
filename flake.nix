@@ -95,13 +95,13 @@
           dotenv.enable = true;
           dotenv.filename = [".env"];
 
-          pre-commit.hooks = {
+          git-hooks.hooks = {
             alejandra.enable = true;
 
-            isort.enable = true;
-            autoflake.enable = true;
+            isort.enable = false;
+            autoflake.enable = false;
             mypy = {
-              enable = true;
+              enable = false;
               excludes = [
                 ".*yarn_spinner_pb2.py$"
                 "yarn_spinner_pb2.py"

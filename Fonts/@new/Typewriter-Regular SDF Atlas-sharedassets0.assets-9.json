@@ -1,11 +1,11 @@
 {
-  "m_Name": "OpenSans-Regular SDF Atlas",
+  "m_Name": "Typewriter-Regular SDF Atlas",
   "m_ForcedFallbackFormat": 4,
   "m_DownscaleFallback": false,
   "m_IsAlphaChannelOptional": false,
-  "m_Width": 8192,
-  "m_Height": 8192,
-  "m_CompleteImageSize": 67108864,
+  "m_Width": 1024,
+  "m_Height": 1024,
+  "m_CompleteImageSize": 1048576,
   "m_MipsStripped": 0,
   "m_TextureFormat": 1,
   "m_MipCount": 1,
@@ -33,7 +33,7 @@
   "image data": [],
   "m_StreamData": {
     "offset": 0,
-    "size": 67108864,
+    "size": 1048576,
     "path": "sharedassets0.assets.resS"
   }
 }

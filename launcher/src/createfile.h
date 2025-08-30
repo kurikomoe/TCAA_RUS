@@ -16,8 +16,8 @@ CreateFileWFnT tgt_CreateFileW = NULL;
 
 // filename => new_filename
 std::map<std::wstring, std::wstring> gRedirectFiles = {
-    {L"global-metadata.dat", L"global-metadata.dat.chs"},
-    {L"data.unity3d", L"data.unity3d.chs"},
+    {L"global-metadata.dat", L"global-metadata.dat.rus"},
+    {L"data.unity3d", L"data.unity3d.rus"},
 };
 
 HANDLE WINAPI hook_CreateFileW(
@@ -60,7 +60,7 @@ END:
 }
 
 
-// const char* new_data_unity = "data.unity3d.chs";
+// const char* new_data_unity = "data.unity3d.rus";
 // using FSOpenFnT = char __fastcall (int* a1, char* a2);
 // uintptr_t tgt_loading = 0x483ed0;
 // uintptr_t p_aDataUnity3d_0 = 0x14f7b64;

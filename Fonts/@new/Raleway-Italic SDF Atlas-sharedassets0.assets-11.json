@@ -1,11 +1,11 @@
 {
-  "m_Name": "SourceHanSansCN-Bold SDF Atlas",
+  "m_Name": "Raleway-Italic SDF Atlas",
   "m_ForcedFallbackFormat": 4,
   "m_DownscaleFallback": false,
   "m_IsAlphaChannelOptional": false,
-  "m_Width": 8192,
-  "m_Height": 8192,
-  "m_CompleteImageSize": 67108864,
+  "m_Width": 1024,
+  "m_Height": 1024,
+  "m_CompleteImageSize": 1048576,
   "m_MipsStripped": 0,
   "m_TextureFormat": 1,
   "m_MipCount": 1,
@@ -26,14 +26,14 @@
     "m_WrapW": 0
   },
   "m_LightmapFormat": 0,
-  "m_ColorSpace": 1,
+  "m_ColorSpace": 0,
   "m_PlatformBlob": {
     "Array": []
   },
   "image data": [],
   "m_StreamData": {
-    "offset": 138412032,
-    "size": 67108864,
+    "offset": 2097152,
+    "size": 1048576,
     "path": "sharedassets0.assets.resS"
   }
 }

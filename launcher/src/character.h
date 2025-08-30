@@ -18,12 +18,14 @@ std::atomic_flag is_showing_chara_card;
 intptr_t StringLiteral_6996 = 0xeaf258;
 
 // Some consts
-const wchar_t* name_size = L"100%";
-const wchar_t* name_voffset = L"0.09em";
-
-const wchar_t* occupation_size = L"3.9em";
+const wchar_t* occupation_size = L"80%";
 const wchar_t* occupation_voffset = L"0.215em";
-const wchar_t* occupation_space = L"-1.5em";
+const wchar_t* occupation_space = L"0.2em";
+
+const wchar_t* name_size = L"80%";
+const wchar_t* name_voffset = L"0.215em";
+const wchar_t* name_space = L"-0.2em";
+
 
 void ModifyStringWorker(
     System_String_o** tmp,
@@ -104,7 +106,8 @@ CharacterData_o* hook_CharacterLibrary__GetCharacter(void* This, System_String_o
         ModifyStringWorker(
             &new_ret->fields.displayName,
             name_size,
-            name_voffset
+            name_voffset,
+            name_space
         );
         // Occupation
         ModifyStringWorker(

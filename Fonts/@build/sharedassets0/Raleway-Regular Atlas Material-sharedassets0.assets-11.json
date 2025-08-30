@@ -189,7 +189,7 @@
         },
         {
           "first": "_GradientScale",
-          "second": 6.0
+          "second": 10.0
         },
         {
           "first": "_LightAngle",
@@ -229,15 +229,15 @@
         },
         {
           "first": "_ScaleRatioA",
-          "second": 0.8333333
+          "second": 0.9
         },
         {
           "first": "_ScaleRatioB",
-          "second": 0.6770833
+          "second": 0.73125
         },
         {
           "first": "_ScaleRatioC",
-          "second": 0.6770833
+          "second": 0.73125
         },
         {
           "first": "_ScaleX",
@@ -281,19 +281,19 @@
         },
         {
           "first": "_TextureHeight",
-          "second": 8192.0
+          "second": 1024.0
         },
         {
           "first": "_TextureWidth",
-          "second": 8192.0
+          "second": 1024.0
         },
         {
           "first": "_UnderlayDilate",
-          "second": 0.01
+          "second": 0.0
         },
         {
           "first": "_UnderlayOffsetX",
-          "second": 0.001
+          "second": 0.0
         },
         {
           "first": "_UnderlayOffsetY",
@@ -407,9 +407,9 @@
         {
           "first": "_UnderlayColor",
           "second": {
-            "r": 1.0,
-            "g": 1.0,
-            "b": 1.0,
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
             "a": 0.5
           }
         }

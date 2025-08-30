@@ -92,27 +92,27 @@ def SearchAndAddShader(file: Path, search_path: Path):
 
 
 ref = FontDef(
-    sdf="OpenSans-Regular SDF-sharedassets0.assets-21.json",
-    atlas="OpenSans-Regular SDF Atlas-sharedassets0.assets-9.json",
-    material="OpenSans-Regular Atlas Material-sharedassets0.assets-6.json",
+    sdf="Raleway-Regular SDF-sharedassets0.assets-22.json",
+    atlas="Raleway-Regular SDF Atlas-sharedassets0.assets-10.json",
+    material="Raleway-Regular SDF Material-sharedassets0.assets-7.json",
 )
 
 refOutline = FontDef(
     sdf="Typewriter-Regular SDF-sharedassets0.assets-24.json",
-    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-10.json",
-    material="OpenSans-Regular Atlas Material-sharedassets0.assets-7.json",
+    atlas="Typewriter-Regular SDF Atlas-sharedassets0.assets-9.json",
+    material="OpenSans-Regular Atlas Material-sharedassets0.assets-5.json",
 )
 
 refBold = FontDef(
-    sdf="SourceHanSansCN-Bold SDF-sharedassets0.assets-22.json",
-    atlas="SourceHanSansCN-Bold SDF Atlas-sharedassets0.assets-12.json",
-    material="SourceHanSansCN-Bold Atlas Material-sharedassets0.assets-2.json",
+    sdf="Raleway-SemiBold SDF-sharedassets0.assets-23.json",
+    atlas="Raleway-SemiBold SDF Atlas-sharedassets0.assets-15.json",
+    material="Raleway-SemiBold Atlas Material-sharedassets0.assets-8.json",
 )
 
 refItalic = FontDef(
-    sdf="SourceSansPro-Italic SDF-sharedassets0.assets-23.json",
-    atlas="SourceSansPro-Italic SDF Atlas-sharedassets0.assets-11.json",
-    material="SourceSansPro-Italic Atlas Material-sharedassets0.assets-8.json",
+    sdf="Raleway-Italic SDF-sharedassets0.assets-21.json",
+    atlas="Raleway-Italic SDF Atlas-sharedassets0.assets-11.json",
+    material="Raleway-Italic SDF Material-sharedassets0.assets-6.json",
 )
 
 # ==================================================
