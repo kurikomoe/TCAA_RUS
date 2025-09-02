@@ -72,7 +72,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-15",
     "original": "Wyatt: \"Friends\" is kind of pushing it.[p/] We used to hang back in the day,[p/] but we don't no more. [mind=\"It was weird when he started talking to us again. I thought he left for good.\"/]",
-    "translation": "Wyatt: \"Друзья\" взято с потолка.[p/] Мы часто зависали в прошлом,[p/] не более. [mind=\"Это был странно, когда он вновь заговорил с нами. Я думал, он ушел в поисках хорошей жизни.\"/]",
+    "translation": "Wyatt: \"Друзья\" взято с потолка.[p/] Мы часто зависали в прошлом,[p/] не более. [mind=\"Это было странно, когда он вновь заговорил с нами. Я думал, он ушел в поисках хорошей жизни.\"/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-15\",\n  \"keywords\": []\n}"
   },
@@ -80,7 +80,7 @@
     "key": "Default (en-US)-sharedassets0.assets-146-16",
     "original": "Tyrion: ...But he started talking to you again.[p/] Why?",
     "translation": "Tyrion: ...Но он снова начал с вами общаться.[p/] Почему?",
-    "stage": 1,
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Talk_House-16\",\n  \"keywords\": []\n}"
   },
   {
@@ -688,7 +688,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-113",
     "original": "Gavin: What?![p/][s/] You got cotton in your ears or something?!",
-    "translation": "Gavin: Чего?![p/][s/] У тебя пробки в ушах или че?!",
+    "translation": "Gavin: Чего?![p/][s/] У тя пробки в ушах или чё?!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-113\",\n  \"keywords\": []\n}"
   },
@@ -744,14 +744,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-121",
     "original": "Tyrion: I...[p/] didn't mean to drag you into this.",
-    "translation": "Tyrion: Я...[p/]  не хотел тебя впутывать в это.",
+    "translation": "Tyrion: Я...[p/] не хотел тебя впутывать в это.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-121\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-122",
     "original": "Celeste: It's okay.[p/] Our emotions get the better of us sometimes.",
-    "translation": "Celeste: Всё в порядке.[p/] Иногда, наши эмоции берут над нами верх. ",
+    "translation": "Celeste: Всё в порядке.[p/] Иногда наши эмоции берут над нами верх. ",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-122\",\n  \"keywords\": []\n}"
   },
@@ -814,7 +814,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-131",
     "original": "You suddenly hear the very bruised and broken form of Gavin sputtering and wheezing on the ground.",
-    "translation": "Внезапно ты слышишь, как сильно избитый и изломанный Гэвин плюётся и хрипит на земле.",
+    "translation": "Внезапно, ты слышишь, как сильно избитый и изломанный Гэвин плюётся и хрипит на земле.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-131\",\n  \"keywords\": []\n}"
   },
@@ -856,7 +856,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-137",
     "original": "Wyatt is staring wide-eyed at Celeste.",
-    "translation": "Уайеет выпучил глаза в сторону Селест.",
+    "translation": "Уайетт выпучил глаза в сторону Селест.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-137\",\n  \"keywords\": []\n}"
   },
@@ -884,7 +884,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-141",
     "original": "Celeste: Anyways,[p/] these two are probably Justin's former \"delinquent friends\", right?",
-    "translation": "Celeste: Так или иначе,[p/] это двоя, вероятно, \"друзья-беззаконники\" Джастина, да?",
+    "translation": "Celeste: Так или иначе,[p/] эти двоя, вероятно, \"друзья-беззаконники\" Джастина, да?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/AbandonedHouse.yarn-Check_Events_House-141\",\n  \"keywords\": []\n}"
   },
@@ -4055,7 +4055,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-603",
     "original": "Mosourika: It's [i]that[/i] house, Tyrion.",
-    "translation": "Mosourika: Это [i]тот самый[/i] дома, Тирион.",
+    "translation": "Mosourika: Это [i]тот самый[/i] дом, Тирион.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-603\",\n  \"keywords\": []\n}"
   },
@@ -4104,7 +4104,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-610",
     "original": "Tyrion: No...[p/] It's okay.[p/] I'm sure you're busy with the café right now.",
-    "translation": "Tyrion: Не стоит...[p/]Всё нормально.[p/] Уверен, у тебя сейчас много дел в кафе.",
+    "translation": "Tyrion: Не стоит...[p/] Всё нормально.[p/] Уверен, у тебя сейчас много дел в кафе.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Cafe.yarn-Talk_Cafe-610\",\n  \"keywords\": []\n}"
   },
@@ -13708,7 +13708,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2113",
     "original": "Stefanic: Hello, Mr. Cuthbert.[p/] I trust you're doing well.",
-    "translation": "Stefanic: Приветствую, Мистер Катберт.[p/] Надеюсь, у вас всё в порядке.",
+    "translation": "Stefanic: Приветствую, мистер Катберт.[p/] Надеюсь, у вас всё в порядке.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2113\",\n  \"keywords\": []\n}"
   },
@@ -13736,7 +13736,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2117",
     "original": "Tyrion: ...I think there might be more to this case than meets the eye.",
-    "translation": "Tyrion: ...Я думаю, в этом деле может быть куда что-то большее, чем кажется на первый взгляд.",
+    "translation": "Tyrion: ...Я думаю, в этом деле может быть что-то куда больше, чем кажется на первый взгляд.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2117\",\n  \"keywords\": []\n}"
   },
@@ -13806,7 +13806,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2127",
     "original": "Stefanic: When I checked my office,[p/] I noticed that the lock on the safe was disengaged.",
-    "translation": "Stefanic: Когда я проверил свой кабинет,[p/] я заметил что замок сейфа был снят.",
+    "translation": "Stefanic: Когда я проверил свой кабинет,[p/] я заметил что, замок сейфа был снят.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2127\",\n  \"keywords\": []\n}"
   },
@@ -13834,7 +13834,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2131",
     "original": "Stefanic: But I doubled checked the contents.[p/] [i]Everything[/i] was accounted for.",
-    "translation": "Stefanic: Но я дважды проверил содержимое[p/] [i]Всё[/i] было на своих местах.",
+    "translation": "Stefanic: Но я дважды проверил содержимое.[p/] [i]Всё[/i] было на своих местах.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2131\",\n  \"keywords\": []\n}"
   },
@@ -13848,7 +13848,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2133",
     "original": "Tyrion: This doesn't make any sense.[p/] Maybe it was just a coincidence?",
-    "translation": "Tyrion: В этом нет никакого смысла.[p/] Может это было просто совпадение?",
+    "translation": "Tyrion: В этом нет никакого смысла.[p/] Может, это было простое совпадение?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2133\",\n  \"keywords\": []\n}"
   },
@@ -13925,14 +13925,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2144",
     "original": "Tyrion: ...After what I've discovered,[p/] I won't just stand by and let von Sanctus have his way.",
-    "translation": "Tyrion: ...После того, что я нашел,[p/] я не могу стоять в стороне и позволять фон Санктусу творить что вздумается.",
+    "translation": "Tyrion: ...После того, что я нашел,[p/] я не могу стоять в стороне и позволять фон Санктусу творить, что ему вздумается.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2144\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2145",
     "original": "Stefanic: Well spoken.[p/] I'm glad to have you on my side, Mr. Cuthbert.",
-    "translation": "Stefanic: Хорошо сказано.[p/] Я рад, что вы на моей стороне, Мистер Катберт.",
+    "translation": "Stefanic: Хорошо сказано.[p/] Я рад, что вы на моей стороне, мистер Катберт.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2145\",\n  \"keywords\": []\n}"
   },
@@ -13960,7 +13960,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2149",
     "original": "Stefanic: What's wrong?",
-    "translation": "Stefanic: Что-то н етак?",
+    "translation": "Stefanic: Что-то не так?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2149\",\n  \"keywords\": []\n}"
   },
@@ -14030,7 +14030,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2159",
     "original": "And with von Sanctus on the other side of this,[p/] who knows what might happen?",
-    "translation": "Но учитывая фон Санктуса по другую сторону баррикад,[p/] кто знает, что может случиться?",
+    "translation": "Но, учитывая фон Санктуса по другую сторону баррикад,[p/] кто знает, что может случиться?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Factory1a.yarn-Check_Events_Factory-2159\",\n  \"keywords\": []\n}"
   },
@@ -16116,7 +16116,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2495",
     "original": "Tyrion: So, you [i]do[/i] know about them.",
-    "translation": "Tyrion: Значит, ты [i]знаешь[/i] о нём.",
+    "translation": "Tyrion: Значит, вы [i]знаете[/i] о нём.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Present_Harbour-2495\",\n  \"keywords\": []\n}"
   },
@@ -16144,7 +16144,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2499",
     "original": "Noah: Every large criminal undertaking in this region happens under his watch.",
-    "translation": "Noah: Каждое крупное преступление, происходящее в этом региона, идёт под его надзором.",
+    "translation": "Noah: Каждое крупное преступление, происходящее в этом регионе, идёт под его надзором.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Present_Harbour-2499\",\n  \"keywords\": []\n}"
   },
@@ -16186,7 +16186,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2505",
     "original": "Noah: I knew he used to run around with a bunch of rogues,[p/] but I never imagined...",
-    "translation": "Noah: Я знал, что он водился с кучей негодяев,[p/] но я и не мог подумать...",
+    "translation": "Noah: Я знал, что он водился с кучей негодяев,[p/] но я и подумать не мог...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Present_Harbour-2505\",\n  \"keywords\": []\n}"
   },
@@ -16207,7 +16207,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2508",
     "original": "Tyrion: Do you think someone like him could be behind this?",
-    "translation": "Tyrion: Как думаешь мог бы кто-то, вроде него, быть за всем этим?",
+    "translation": "Tyrion: Как думаете, мог бы кто-то, вроде него, стоять за всем этим?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Present_Harbour-2508\",\n  \"keywords\": []\n}"
   },
@@ -16221,7 +16221,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2510",
     "original": "Noah: Let's just say...[p/] He reminds you of why he has that name.",
-    "translation": "Noah: Скажем так...[p/] Он напомнит о тебе, почему его так зовут.",
+    "translation": "Noah: Скажем так...[p/] Он напомнит тебе, почему его так зовут.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/Harbour.yarn-Present_Harbour-2510\",\n  \"keywords\": []\n}"
   },
@@ -17390,7 +17390,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2681",
     "original": "Tyrion: You wouldn't do that for a customer that you barely knew.",
-    "translation": "Tyrion: Ты бы не сделала что-то такое для покупателя, которое ты едва знаешь.",
+    "translation": "Tyrion: Ты бы не сделала что-то такое для покупателя, которого едва знаешь.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-Rika_Present-2681\",\n  \"keywords\": []\n}"
   },
@@ -17474,7 +17474,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2694",
     "original": "Mosourika: It would only be right for me to equip a commoner with the means to change his life!",
-    "translation": "Mosourika: С моей стороны было бы единственно правильным дать простаку возможность изменить свою жизнь!",
+    "translation": "Mosourika: С моей стороны было бы единственно правильным - дать простаку возможность изменить свою жизнь!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-Rika_Argument2-2694\",\n  \"keywords\": []\n}"
   },
@@ -17691,7 +17691,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2726",
     "original": "Tyrion: In fact,[p/] I'm sure that you were friends for at least a few years.",
-    "translation": "Tyrion: На деле,[p/] я уверен, что вы бил друзьями по крайней мере несколько лет.",
+    "translation": "Tyrion: На деле,[p/] я уверен, что вы были друзьями по крайней мере несколько лет.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-Rika_Interpret-2726\",\n  \"keywords\": []\n}"
   },
@@ -17866,7 +17866,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-146-2753",
     "original": "Tyrion: And so far,[p/] the statements that I've gotten from you [i]and[/i] Dracogen don't explain that.",
-    "translation": "Tyrion: И на данный момент,[p/] показания, который я получил от тебя [i]и[/i] Дракогена этого не объясняют.",
+    "translation": "Tyrion: И на данный момент,[p/] показания, которые я получил от тебя [i]и[/i] Дракогена этого не объясняют.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 3/RikaArgument.yarn-Rika_Present2-2753\",\n  \"keywords\": []\n}"
   },
