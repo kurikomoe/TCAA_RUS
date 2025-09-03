@@ -4,29 +4,18 @@
 [![Github All Releases](https://img.shields.io/github/downloads/kurikomoe/TCAA_RUS/total.svg)]()
 
 
-Russian Patch WIP
 
-------------------------------
-
-**20240303：汉化全部完成！撒花~**
-
-steam 评论区链接：https://steamcommunity.com/id/KurikoMoe/recommended/1590230
-
-2dfan 链接：https://2dfan.com/downloads/34253
-
-其乐（steamcn）链接：https://keylol.com/t991746-1-1
+**Russian Patch WIP**
 
 
 
-> Unity 汉化教程在写啦，咕咕咕
+## Screenshots
 
+<p><center><bold>Давайте говорить по-русски!</bold></center></p>
 
+<p><center><bold>让我们说俄语！</bold></center></p>
 
-## 运行图
-
-<p><center><bold>让我们说中文！</bold></center></p>
-
-<p><center><bold>Let's speek Chinese! </bold></center></p>
+<p><center><bold>Let's speak Russian!</bold></center></p>
 
 ![logo](docs/logo.png)
 
@@ -36,23 +25,15 @@ steam 评论区链接：https://steamcommunity.com/id/KurikoMoe/recommended/1590
 
 ![教程](./docs/tutorial.png)
 
-![拼句子](docs/deduction.png)
 
 
 
-## 计划
 
-程序媛一只，不会翻译，希望能找到人。
+## Plan
 
-文本目前在 https://paratranz.cn/projects/12747 上进行汉化协作。可以自行提交加入申请。
-
-汉化组工作群：862399169 (QQ)，需要翻译，校对，修图。
+co-op @ https://paratranz.cn/projects/13897
 
 
-
-## 进度
-
-> 参见 paratranz 网站公布进度
 
 ## License
 
