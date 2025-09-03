@@ -61,6 +61,8 @@ jobs:
       - name: Commit Changes
         uses: EndBug/add-and-commit@v9.1.4
         with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
           committer_name: GitHub Actions
           committer_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "[skip ci][${{ env.timestamp }}] sync paratranz"
