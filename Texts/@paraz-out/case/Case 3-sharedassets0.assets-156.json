@@ -72,8 +72,8 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered3-3-0",
     "original": "The saboteur could be someone who secretly entered Aurinax",
-    "translation": "Саботаж\\u200B мог\\u200B устроить\\u200B тот\\u200B, кто\\u200B тайно\\u200B проник\\u200B в\\u200B Ауринакс.",
-    "stage": 5,
+    "translation": "Саботаж\\u200B мог\\u200B устроить\\u200B тот,\\u200B кто\\u200B тайно\\u200B проник\\u200B в\\u200B Ауринакс.",
+    "stage": 1,
     "context": "{\n  \"node_name\": \"SanctusCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"The saboteur could be someone who secretly entered Aurinax\"\n  ],\n  \"keywords\": []\n}"
   },
   {
@@ -163,7 +163,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-13-0",
     "original": "How could von Sanctus easily destroy the evidence?",
-    "translation": "Как\\u200B фон Санктус\\u200B мог\\u200B уничтожить\\u200B улику.",
+    "translation": "Как\\u200B фон Санктус\\u200B мог\\u200B уничтожить\\u200B улику?",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How could von Sanctus easily destroy the evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -198,7 +198,7 @@
   {
     "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-22-0",
     "original": "How could von Sanctus easily destroy the evidence?",
-    "translation": "Как\\u200B фон Санктус\\u200B мог\\u200B уничтожить\\u200B улику.",
+    "translation": "Как\\u200B фон Санктус мог уничтожить улику?",
     "stage": 1,
     "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How could von Sanctus easily destroy the evidence?\"\n  ],\n  \"keywords\": []\n}"
   },
