@@ -156,7 +156,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0",
     "original": "in Frega's Study,outside the manor,in Beatrice's room,in the storage room",
-    "translation": "в кабинете Фреги,вне поместья,в комнате беатрси,на складе",
+    "translation": "в кабинете Фреги,вне поместья,в комнате Беатрис,на складе",
     "stage": 1,
     "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
@@ -310,7 +310,7 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-7-0",
     "original": "When did the murder occur?",
-    "translation": "Когда произошло убийство?",
+    "translation": "Когда\\u200B произошло\\u200B убийство?",
     "stage": 1,
     "context": "{\n  \"node_name\": \"StudyDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"When did the murder occur?\"\n  ],\n  \"keywords\": []\n}"
   },
