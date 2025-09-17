@@ -121,7 +121,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-24",
     "original": "You pick up one of the pieces and feel it in your hands.[p/] It appears to be some kind of gravel.",
-    "translation": "Ты поднял один из них для проверяешь его на ощупь.[p/] Похоже, это какой-то гравий.",
+    "translation": "Ты поднял один из них и проверяешь его на ощупь.[p/] Похоже, это какой-то гравий.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-24\",\n  \"keywords\": []\n}"
   },
@@ -142,7 +142,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-28",
     "original": "Tyrion: That would imply that a spell specifically targeted or created whatever this came from...",
-    "translation": "Tyrion: Имеет смысл предположить, что некое заклинание было нацелено или создало то, от чего они появились...",
+    "translation": "Tyrion: Имеет смысл предположить, что некое заклинание было нацелено на что-то или создало то, от чего они появились...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Examine_Balcony1-28\",\n  \"keywords\": []\n}"
   },
@@ -198,7 +198,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-40",
     "original": "Tyrion: We heard that you saw the prosecutor acting strangely here.",
-    "translation": "Tyrion: Мы слышали, что вы видели прокурора, который вёл себя странно здесь.",
+    "translation": "Tyrion: Мы слышали, что вы видели Стилвинд, которая вела себя странно здесь.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-40\",\n  \"keywords\": []\n}"
   },
@@ -240,14 +240,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-46",
     "original": "Wait...[p/] He was heading to the [i]Prayer Room[/i]?",
-    "translation": "Погодите...[p/] Он сказал, что шёл в [i]молельной комнаты[/i]?",
+    "translation": "Погодите...[p/] Он сказал, что шёл в сторону [i]молельной комнаты[/i]?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-46\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-47",
     "original": "Theon: When I saw her,[p/] I first thought she was just enjoying the view of the lake.",
-    "translation": "Theon: Когда я увидел её,[p/] мне сперва показалось, что она наслаждается видом на озеров.",
+    "translation": "Theon: Когда я увидел её,[p/] мне сперва показалось, что она наслаждается видом на озеро.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-47\",\n  \"keywords\": []\n}"
   },
@@ -366,7 +366,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-65",
     "original": "Tyrion: Wait...[p/] If you saw Aria dumping Lady Sibyl's body,[p/] she must have [i]just[/i] murdered her.",
-    "translation": "Tyrion: Подождите...[p/] Если вы видела, как Ария выкидывал тело Сибил,[p/] должно быть она [i]только[/i] убила её.",
+    "translation": "Tyrion: Подождите...[p/] Если вы видели, как Ария выкидывала тело Сибил,[p/] должно быть она [i]только[/i] убила её.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-65\",\n  \"keywords\": []\n}"
   },
@@ -499,8 +499,8 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-85",
     "original": "Tyrion: Magical wards?[p/] Are they there for security reasons?",
-    "translation": "Tyrion: Магический чары?[p/] Меры безопасности?",
-    "stage": 1,
+    "translation": "Tyrion: Магические чары?[p/] Меры безопасности?",
+    "stage": 5,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-85\",\n  \"keywords\": []\n}"
   },
   {
@@ -513,7 +513,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-87",
     "original": "Theon: I actually suffer from chronic insomnia.[p/] Even the smallest sound will wake me up at night.",
-    "translation": "Theon: У меня сильный проблемы из-за бессонницы.[p/] Даже мелкий шум может разбудить меня ночью.",
+    "translation": "Theon: У меня сильные проблемы из-за бессонницы.[p/] Даже мелкий шум может разбудить меня ночью.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Talk_Balcony1-87\",\n  \"keywords\": []\n}"
   },
@@ -604,7 +604,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-103",
     "original": "Tyrion: ...There's more to this than we're all seeing.",
-    "translation": "Tyrion: ...Есть что-то ещё, чего мы не видем.",
+    "translation": "Tyrion: ...Есть что-то ещё, чего мы не видим.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-103\",\n  \"keywords\": []\n}"
   },
@@ -618,14 +618,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-105",
     "original": "Theon: For her sake,[p/] I hope you're right.",
-    "translation": "Theon: Надеюсь вы правы,[p/] во имя её блага.",
+    "translation": "Theon: Надеюсь, вы правы,[p/] во имя её блага.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-105\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-107",
     "original": "Tyrion: Did you know Lord Pierce?[p/] He was one of the victims.",
-    "translation": "Tyrion: Вы знакомы с лордом Пирсом?[p/] Он был одним из жертв.",
+    "translation": "Tyrion: Вы были знакомы с лордом Пирсом?[p/] Он был одним из жертв.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-107\",\n  \"keywords\": []\n}"
   },
@@ -716,7 +716,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-123",
     "original": "Theon: I [i]do[/i] hope the allegations against Ms. Steelwind are false.",
-    "translation": "Theon: Я [i]правда[/i] надеюсь, что обвинение прости мисс Стилвинд ложны.",
+    "translation": "Theon: Я [i]правда[/i] надеюсь, что обвинение против мисс Стилвинд ложны.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-123\",\n  \"keywords\": []\n}"
   },
@@ -793,7 +793,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-136",
     "original": "...It's a good thing he runs such a wealthy organization.[p/]",
-    "translation": "...Хорошо, что он руководствует богатой организацией.[p/]",
+    "translation": "...Хорошо, что он руководит богатой организацией.[p/]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Present_Balcony1-136\",\n  \"keywords\": []\n}"
   },
@@ -891,21 +891,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-153",
     "original": "From his garb,[p/] he appears to be someone who works at the cathedral.",
-    "translation": "Учитывая его внешность,[p/] должно быть, он работник сабора.",
+    "translation": "Учитывая его внешность,[p/] должно быть, он работник собора.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-153\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-154",
     "original": "Theon: I...[p/] don't believe we've met before.[p/] What are you doing here?",
-    "translation": "Theon: Кажется...[p/] мы с вами ещё не знакомы.[p/] Что вы здесь делаете.",
+    "translation": "Theon: Кажется...[p/] мы с вами ещё не знакомы.[p/] Что вы здесь делаете?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-154\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-155",
     "original": "Tyrion: Sorry for the intrusion.[p/] I'm Tyrion Cuthbert and this is my bodyguard:[p/] Celeste McCoy.",
-    "translation": "Tyrion: Простите за вторжение.[p/] Я - Тирион Катберт и это моё телохранитель:[p/] Селест МакКой.",
+    "translation": "Tyrion: Простите за вторжение.[p/] Я - Тирион Катберт и это мой телохранитель:[p/] Селест МакКой.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-155\",\n  \"keywords\": []\n}"
   },
@@ -940,7 +940,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-160",
     "original": "Tyrion: So [i]you're[/i] the one who saw Steelwind here during the murders.",
-    "translation": "Tyrion: Значит [i]вы[/i] были тем, кто видел Стилвинд здесь в момент убийств.",
+    "translation": "Tyrion: Значит, [i]вы[/i] были тем, кто видел Стилвинд здесь в момент убийств.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Balcony1.yarn-Check_Events_Balcony1-160\",\n  \"keywords\": []\n}"
   },
@@ -1143,7 +1143,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-218",
     "original": "Remus: But I knew he couldn't tell lies.[p/] And the information he had was too important to ignore.",
-    "translation": "Remus: Но я знал, что он не способен лгать.[p/] И его информация были слишком важной, чтобы пропускать её мимо ушей.",
+    "translation": "Remus: Но я знал, что он не способен лгать.[p/] И его информация была слишком важной, чтобы пропускать её мимо ушей.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-218\",\n  \"keywords\": []\n}"
   },
@@ -1269,21 +1269,21 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-236",
     "original": "Whoever orchestrated this also used a [b]Force Cage[/b] to trap Aster...",
-    "translation": "Кем бы не был кукловод, они также поставили [b]Силовую Клетку[/b], дабы поймать Астера в ловушку...",
+    "translation": "Кем бы не был кукловод, он также поставил [b]Силовую Клетку[/b], дабы поймать Астера в ловушку...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-236\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-237",
     "original": "Were they trying to distract the forces in the Cathedral?",
-    "translation": "Они пытались отвлечь силы от собора?",
+    "translation": "Они пытались отвлечь силы в соборе?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-237\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-238",
     "original": "Or were they trying to keep certain people out of the crossfire?",
-    "translation": "Или они пытались держать некоторых людей подальше от перекрёстного огня?",
+    "translation": "Или он пытался держать некоторых людей подальше от перекрёстного огня?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-238\",\n  \"keywords\": []\n}"
   },
@@ -1297,7 +1297,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-241",
     "original": "Tyrion: Your Highness.[p/] We heard the prosecutor cast a spell on you when you saw the fire in the Common Room.",
-    "translation": "Tyrion: Ваше Высочество.[p/] Мы слышали, что прокурор применил заклинание на вас, когда вы увидел огонь в общей комнате.",
+    "translation": "Tyrion: Ваше Высочество.[p/] Мы слышали, что Стилвинд применила заклинание на вас, когда вы увидели огонь в общей комнате.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-241\",\n  \"keywords\": []\n}"
   },
@@ -1339,7 +1339,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-247",
     "original": "Tyrion: We don't even know if it was [i]actually[/i] her.",
-    "translation": "Tyrion: Мы даже не знаем, были ли это [i]на самом деле[/i] она.",
+    "translation": "Tyrion: Мы даже не знаем, была ли это [i]на самом деле[/i] она.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-247\",\n  \"keywords\": []\n}"
   },
@@ -1493,7 +1493,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-269",
     "original": "Alaric: My vision was also partially blurred.[p/] It was as if my mind was in some sort of fog.",
-    "translation": "Alaric: Моё зрении частично притупилось.[p/] Словно моё разум был в тумане.",
+    "translation": "Alaric: Моё зрении частично притупилось.[p/] Словно в моём разум был в тумане.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-269\",\n  \"keywords\": []\n}"
   },
@@ -1626,7 +1626,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-289",
     "original": "Tyrion: Anyways,[p/] was anyone else around when Steelwind cast that [b]transmutation[/b] spell on you?",
-    "translation": "Tyrion: Так или иначе.[p/] были ли кто-то рядом, когда Стилвинд использовала заклятие [b]трансмутации[/b] на вас?",
+    "translation": "Tyrion: Так или иначе.[p/] был ли кто-то рядом, когда Стилвинд использовала заклятие [b]трансмутации[/b] на вас?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Talk_Cathedral1-289\",\n  \"keywords\": []\n}"
   },
@@ -2039,14 +2039,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-358",
     "original": "Alaric: You stand before Sir Remus Virgilae:[p/] Archduke and Royal Visor to the Wyverngarde Throne.",
-    "translation": "Alaric: Перед вами стоит сэр Ремус Вирджил:[p/] Эрцгерцог и Королевский Советник трона Вивернгарда. ",
+    "translation": "Alaric: Перед вами стоит сэр Ремус Вирджил:[p/] Эрцгерцог и Королевский Совятник трона Вивернгарда. ",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-358\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-359",
     "original": "Remus: *sigh*[p/] I believe he means [i]ad[/i]visor.",
-    "translation": "Remus: *вздох*[p/] Полагаю, он имел ввиду советник.",
+    "translation": "Remus: *вздох*[p/] Полагаю, он имел ввиду сов[i]е[/i]тник.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Cathedral1.yarn-Check_Events_Cathedral1-359\",\n  \"keywords\": []\n}"
   },
@@ -6379,7 +6379,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-1036",
     "original": "You think you've found everything you can relating to von Sanctus's murder.",
-    "translation": "Думаю, я изучат всё касательно убийства фон Санктуса.",
+    "translation": "Думаю, я изучил всё касательно убийства фон Санктуса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/CommonRoom1.yarn-Check_Events_CommonRoom1-1036\",\n  \"keywords\": []\n}"
   },
@@ -31411,7 +31411,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4785",
     "original": "Remus: ...But you're assuming that arcane spells are the only type of magic that exists.",
-    "translation": "Remus: ...Но вы предполагает, что заклятия Арканы - единственные существующий вид магии.",
+    "translation": "Remus: ...Но вы предполагает, что заклятия Арканы - единственно существующий вид магии.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4785\",\n  \"keywords\": []\n}"
   },
@@ -31488,7 +31488,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4796",
     "original": "Remus: If I learn that Lumina had [i]anything[/i] to do with this-",
-    "translation": "Remus: Если я знаю, что Люмина имеет к этому [i]хоть какое-то[/i] отношение-",
+    "translation": "Remus: Если я узнаю, что Люмина имеет к этому [i]хоть какое-то[/i] отношение-",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4796\",\n  \"keywords\": []\n}"
   },
@@ -31593,7 +31593,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4812",
     "original": "Aria: ...For the past few months,[p/] the Inquisition and I have been investigating a string of seemingly unrelated murders.",
-    "translation": "Aria: В течении последних нескольких месяцев,[p/] Инквизиция и я расследовали на первый взгляд не связанных между собой убийств.",
+    "translation": "Aria: В течении последних нескольких месяцев,[p/] Инквизиция и я расследовали на первый взгляд не связанные между собой убийств.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Talk_Dungeon1-4812\",\n  \"keywords\": []\n}"
   },
@@ -32279,7 +32279,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4924",
     "original": "You arrive at the dungeon and see the prosecutor sitting in a holding cell.",
-    "translation": "Ты прибываешь в темнице и видишь Арию, сидящую на полу камеры.",
+    "translation": "Ты прибываешь в темницу и видишь Арию, сидящую на полу камеры.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Check_Events_Dungeon1-4924\",\n  \"keywords\": []\n}"
   },
@@ -32293,7 +32293,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4926",
     "original": "Aria: ...!",
-    "translation": "Aria: ...",
+    "translation": "Aria: ...!",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Check_Events_Dungeon1-4926\",\n  \"keywords\": []\n}"
   },
@@ -32335,7 +32335,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4932",
     "original": "Tyrion: We're trying to investigate everything that happened.",
-    "translation": "Tyrion: Мы пытается расследовать всё, что случилось.",
+    "translation": "Tyrion: Мы пытаемся расследовать всё, что случилось.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Check_Events_Dungeon1-4932\",\n  \"keywords\": []\n}"
   },
@@ -32349,7 +32349,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-4934",
     "original": "Tyrion: ...I was wondering if you could answer some of our questions.",
-    "translation": "Tyrion: ...Я хотел бы узнать, могу ли я вам задать несколько вопрсов.",
+    "translation": "Tyrion: ...Я хотел бы узнать, могу ли я задать вам несколько вопросов.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Dungeon1.yarn-Check_Events_Dungeon1-4934\",\n  \"keywords\": []\n}"
   },
@@ -41127,7 +41127,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6235",
     "original": "Aster: Several House leaders died today.",
-    "translation": "Aster: Несколько лидеров Домо умерло сегодня.",
+    "translation": "Aster: Несколько лидеров Домов умерло сегодня.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6235\",\n  \"keywords\": []\n}"
   },
@@ -41316,7 +41316,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6263",
     "original": "Aster: My father has been ill for quite some time.[p/] So we were prepared for this.",
-    "translation": "Aster: Моей отец был болен уже долгое время.[p/] Так что мы были к этому готовы.",
+    "translation": "Aster: Мой отец был болен уже долгое время.[p/] Так что мы были к этому готовы.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6263\",\n  \"keywords\": []\n}"
   },
@@ -41337,7 +41337,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6266",
     "original": "Aster: But it's still all a little hard to take in.",
-    "translation": "Aster: Всё это всё равно сложно принять.",
+    "translation": "Aster: Всё это не так просто принять.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6266\",\n  \"keywords\": []\n}"
   },
@@ -41421,7 +41421,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6279",
     "original": "Tyrion: I think [i]she[/i] may have been the one that killed Garrick Pierce.",
-    "translation": "Tyrion: Я думаю, что она [i]могла[/i] быть тем, кто убила Гаррика Пирса.",
+    "translation": "Tyrion: Я думаю, что она [i]могла[/i] быть тем, кто убил Гаррика Пирса.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6279\",\n  \"keywords\": []\n}"
   },
@@ -41463,7 +41463,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6285",
     "original": "Aster: ...But what possible reason would she have to be involved in something like this?",
-    "translation": "Aster: ...Но по какой вообще причине она могла может быть вовлечена во всё это?",
+    "translation": "Aster: ...Но по какой вообще причине она может быть вовлечена во всё это?",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6285\",\n  \"keywords\": []\n}"
   },
@@ -41484,14 +41484,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6289",
     "original": "Tyrion: I remember you left with Steelwind when Celeste and I arrived at the Cathedral.",
-    "translation": "Tyrion: Я помню, как вы ушли вместе со Стилвинд, когда мы с Селест прибыли в собор.",
+    "translation": "Tyrion: Я помню, как вы ушли вместе с Стилвинд, когда мы с Селест прибыли в собор.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6289\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6290",
     "original": "Aster: Ah, yes.[p/] Steelwind and I left to speak with High Speaker Archeus in his quarters.",
-    "translation": "Aster: Ах, верно.[p/] Мы со Стилвинд ушли для разговора с епископом Археусом в его комнате.",
+    "translation": "Aster: Ах, верно.[p/] Мы с Стилвинд ушли для разговора с Епископом Археусом в его комнате.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6290\",\n  \"keywords\": []\n}"
   },
@@ -41603,7 +41603,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6306",
     "original": "Tyrion: There's no way she was affected by Mageblight...",
-    "translation": "Tyrion: Это точно не может быть результат Чаромрака...",
+    "translation": "Tyrion: Это точно не может быть результом Чаромрака...",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6306\",\n  \"keywords\": []\n}"
   },
@@ -41638,7 +41638,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6311",
     "original": "It's possible that the \"Steelwind\" the witnesses saw wasn't actually real.",
-    "translation": "Возможно, что \"Стилвинд\", которую видели свидетели, была не настоящей.",
+    "translation": "Возможно, что \"Стилвинд\", которую видели свидетели, была ненастоящей.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6311\",\n  \"keywords\": []\n}"
   },
@@ -41715,14 +41715,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6323",
     "original": "Celeste: It's like a trap you can set.[p/] And you can infuse [i]any[/i] spell into it.",
-    "translation": "Celeste: Это подобно ловушки.[p/] И ты можешь влить туда [i]любое[/i] заклинание.",
+    "translation": "Celeste: Это подобно ловушке.[p/] И ты можешь влить туда [i]любое[/i] заклинание.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6323\",\n  \"keywords\": []\n}"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6324",
     "original": "Tyrion: But it requires a second,[p/] \"contingent\" spell to [i]place[/i] that trap.",
-    "translation": "Tyrion: Но для этого нужно второе,[p/] \"резервное\" заклинание для [i]установки[/i] ловушки.",
+    "translation": "Tyrion: Но для этого нужно второе,[p/] \"резервное\" заклинание, для [i]установки[/i] ловушки.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Talk_Garden1-6324\",\n  \"keywords\": []\n}"
   },
@@ -42170,7 +42170,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-143-6397",
     "original": "Tyrion: We're trying to investigate what happened.",
-    "translation": "Tyrion: Мы пытается расследовать то, что случилось.",
+    "translation": "Tyrion: Мы пытаемся расследовать то, что случилось.",
     "stage": 1,
     "context": "{\n  \"id\": \"line:Assets/Case Scripts/Case 5/Garden1.yarn-Check_Events_Garden1-6397\",\n  \"keywords\": []\n}"
   },
