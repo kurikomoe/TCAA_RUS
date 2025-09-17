@@ -9,8 +9,8 @@
   {
     "key": "SpellLibrary-17-Force Cage-description",
     "original": "For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\r\\n\r\\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\r",
-    "translation": "Во время действия заклинания, колдун создаёт магический куб в 10 фт3 вокруг цели на расстоянии 30 фт. Грани этого куба непроницаемые и не могут быть уничтожены чем-либо. Рассеять его невозможно даже иным колдовством. Более того, попытки телепортироваться внутрь или из куба будут провальные.\\n\\nЕсли в зоне действия более одного существа, они будут оттолкнуты от центра куба.",
-    "stage": 5,
+    "translation": "Во время действия заклинания, колдун создаёт магический куб в 10 кубических футов вокруг цели на расстоянии 30 фт. Грани этого куба непроницаемые и не могут быть уничтожены чем-либо. Рассеять его невозможно даже иным колдовством. Более того, попытки телепортироваться внутрь или из куба будут провальные.\\n\\nЕсли в зоне действия более одного существа, они будут оттолкнуты от центра куба.",
+    "stage": 1,
     "context": "{\n  \"Name\": \"Force Cage\",\n  \"Idx\": 17,\n  \"Attr\": \"description\"\n}"
   },
   {
