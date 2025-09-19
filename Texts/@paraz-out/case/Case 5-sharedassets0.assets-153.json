@@ -107,7 +107,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-3-0",
     "original": "Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.",
-    "translation": "Ни\\u200B Императрица\\u200B Раздора,\\u200B ни\\u200B Ария\\u200B Стилвинд,\\u200B ни\\u200B Беатрис\\u200B Фрега\\u200B не убивали Гаррика Пирса.",
+    "translation": "Ни\\u200B Императрица\\u200B Раздора,\\u200B ни\\u200B Ария\\u200B Стилвинд,\\u200B ни\\u200B Беатрис\\u200B Фрега\\u200B не\\u200B убивали\\u200B Гаррика\\u200B Пирса.",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered17\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -128,7 +128,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-19-0",
     "original": "The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.",
-    "translation": "Императрица\\u200B Раздора,\\u200B Селест МакКой,\\u200B Тирион Катбет,\\u200B Беатрис\\u200B Фрега\\u200B и\\u200B Ария\\u200B Стилвинд\\u200B были\\u200B единственными\\u200B людьми\\u200B в\\u200B молельной\\u200B комнате\\u200B с\\u200B Гарриком\\u200B Пирсом,\\u200B когда\\u200B он\\u200B умер.",
+    "translation": "Императрица\\u200B Раздора,\\u200B Селест МакКой,\\u200B Тирион Катберт,\\u200B Беатрис\\u200B Фрега\\u200B и\\u200B Ария\\u200B Стилвинд\\u200B были\\u200B единственными\\u200B людьми\\u200B в\\u200B молельной\\u200B комнате\\u200B с\\u200B Гарриком\\u200B Пирсом,\\u200B когда\\u200B он\\u200B умер.",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered17\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\"\n  ],\n  \"keywords\": []\n}"
   },
@@ -338,7 +338,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-24-0",
     "original": "the Blood Contract,the crimes,the Force Cage,the victims",
-    "translation": "Кровавый Контраакт,преступления,Силовую Клетку,жертв",
+    "translation": "Кровавый Контракт,преступления,Силовую Клетку,жертв",
     "stage": 1,
     "context": "{\n  \"node_name\": \"CelFinObj8\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the Blood Contract,the crimes,the Force Cage,the victims\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
   },
@@ -772,7 +772,7 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered14-12-0",
     "original": "Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.",
-    "translation": "Беатрис\\u200B Фрега\\u200B применила\\u200B [b]Симуляцию Смерти[/b]\\u200B на\\u200B Тирионе\\u200B Катберте.",
+    "translation": "Беатрис\\u200B Фрега\\u200B применила\\u200B [b]Симуляцию[/b]\\u200B [b]Смерти[/b]\\u200B на\\u200B Тирионе\\u200B Катберте.",
     "stage": 1,
     "context": "{\n  \"node_name\": \"EmpressCornered14\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\"\n  ],\n  \"keywords\": []\n}"
   },
