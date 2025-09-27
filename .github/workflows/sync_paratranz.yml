@@ -1,10 +1,10 @@
 name: SyncParatranz
 on:
-  push:
-    branches:
-      - 'main'
-  schedule:
-    - cron: "0 */1 * * *"   # Every 1h
+  # push:
+  #   branches:
+  #     - 'main'
+  # schedule:
+  #   - cron: "0 */1 * * *"   # Every 1h
   workflow_dispatch:
     inputs:
       logLevel:
